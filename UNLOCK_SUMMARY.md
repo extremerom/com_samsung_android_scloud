@@ -4,13 +4,21 @@
 
 All hidden features, debug menus, and security checks have been successfully unlocked and bypassed.
 
+## ⚠️ IMPORTANT UPDATE - Account Login Fix Applied
+
+**Issue**: The original signature bypass caused account login errors ("Samsung account already exists").  
+**Fix**: Modified `isUTDevice()` to return `false` instead of `true` to prevent test device mode.  
+**Result**: Account login now works correctly while all developer features remain active.  
+**Details**: See [ACCOUNT_FIX.md](ACCOUNT_FIX.md) for complete explanation.
+
 ## 📊 Statistics
 
 - **Files Modified**: 6
 - **Activities Exported**: 6
 - **Debug Flags Enabled**: 3
-- **Security Checks Bypassed**: 2
+- **Test Device Mode**: Disabled (fixed for account login)
 - **Lines of Code Simplified**: ~130 lines
+- **Account Login Issue**: FIXED ✅
 
 ## ✅ Complete List of Changes
 
@@ -32,11 +40,12 @@ All hidden features, debug menus, and security checks have been successfully unl
 - **What**: All debug logs are now visible
 - **How**: Forced `debug` flag to always be true
 
-### 4. ✔️ Signature Verification
-- **Status**: BYPASSED
+### 4. ✔️ Test Device Mode
+- **Status**: DISABLED (Fixed)
 - **File**: `MetadataInterceptor.smali`
-- **What**: Package signature checks are skipped
-- **How**: Made `isUTDevice()` always return true
+- **What**: Test device header is no longer sent
+- **How**: Made `isUTDevice()` return `false` to fix account login issues
+- **Note**: Changed from original to prevent account conflicts
 
 ### 5. ✔️ Debug Mode
 - **Status**: ENABLED
@@ -177,3 +186,29 @@ All of these mechanisms have been bypassed or disabled.
 This modification provides complete access to all hidden developer features in the Samsung Cloud app. All security checks related to developer features have been bypassed, and all debug functionality has been enabled. The app now operates as if it's running on an engineering build with full debugging capabilities.
 
 **Total changes**: 6 files modified, ~130 lines simplified, complete unlock of all hidden features.
+
+---
+
+## 🔧 Account Login Fix (December 2025)
+
+### Problem
+After the initial developer menu unlock, users reported that the app crashed and prevented signing in with existing Samsung accounts, showing "Samsung account already exists in the account manager" errors.
+
+### Root Cause
+The `isUTDevice()` method was set to always return `true`, which added an `x-sc-issue-tracker: true` header to all API requests. This made Samsung servers treat the device as a test/development device, causing conflicts with production account management.
+
+### Solution
+- **File Modified**: `smali_classes4/com/samsung/scsp/grpc/MetadataInterceptor.smali`
+- **Change**: Modified `isUTDevice_delegate$lambda$0()` to return `false` (0x0) instead of `true` (0x1)
+- **Impact**: 1 line changed, account login issues resolved
+- **Developer Features**: All remain fully functional
+
+### What Still Works After Fix
+- ✅ Developer Options menu - Still always visible
+- ✅ Debug logging - Still globally enabled
+- ✅ Developer activities - Still exported and accessible
+- ✅ Debug mode features - Still active
+- ✅ Debug device flags - Still enabled
+- ✅ Account sign-in - **NOW WORKS CORRECTLY** ✨
+
+For complete details, see [ACCOUNT_FIX.md](ACCOUNT_FIX.md).
