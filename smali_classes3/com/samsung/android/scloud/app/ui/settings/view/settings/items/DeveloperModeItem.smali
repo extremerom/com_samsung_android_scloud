@@ -114,13 +114,7 @@
 .method public final isVisible()Z
     .locals 2
 
-    const-string v0, "developer_mode_enabled"
-
-    const/4 v1, 0x0
-
-    invoke-static {v0, v1}, LL5/a;->getBoolean(Ljava/lang/String;Z)Z
-
-    move-result v0
+    const/4 v0, 0x1
 
     return v0
 .end method
