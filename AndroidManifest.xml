@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest android:sharedUserId="android.uid.samsungcloud" android:versionCode="560916000" android:versionName="5.6.09.16" android:sharedUserLabel="@string/application_name" android:compileSdkVersion="36" android:compileSdkVersionCodename="16" package="com.samsung.android.scloud" platformBuildVersionCode="36" platformBuildVersionName="16"
+<manifest android:versionCode="560916000" android:versionName="5.6.09.16" android:compileSdkVersion="36" android:compileSdkVersionCodename="16" package="com.samsung.android.scloud" platformBuildVersionCode="36" platformBuildVersionName="16"
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
     <uses-sdk android:minSdkVersion="28" android:targetSdkVersion="36" />
     <permission android:label="@string/application_name" android:name="com.samsung.android.scloud.app.ui" android:protectionLevel="signatureOrSystem" />
