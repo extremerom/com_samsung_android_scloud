@@ -253,7 +253,7 @@
 .method private static final isUTDevice_delegate$lambda$0()Z
     .locals 5
 
-    const/4 v2, 0x1
+    const/4 v2, 0x0
 
     return v2
 .end method
