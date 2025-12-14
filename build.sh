@@ -2,6 +2,12 @@
 
 # Samsung Cloud - Developer Unlocked Edition Build Script
 # This script automates the build and signing process
+#
+# ⚠️  SECURITY WARNING: This script uses hardcoded credentials for the debug keystore.
+#     This is intentional for testing purposes but should NEVER be used for production builds.
+#     The keystore password "android" is publicly known and provides no real security.
+#     
+#     For production builds, generate a secure keystore and store credentials securely.
 
 # Configuration
 PROJECT_DIR="."
@@ -9,7 +15,7 @@ OUTPUT_APK="samsung_cloud_unlocked.apk"
 SIGNED_APK="samsung_cloud_unlocked_signed.apk"
 KEYSTORE="samsung-debug.jks"
 KEY_ALIAS="samsung-key"
-KEYSTORE_PASSWORD="android"
+KEYSTORE_PASSWORD="android"  # WARNING: Hardcoded for convenience - NOT SECURE!
 
 # Colors for output
 RED='\033[0;31m'

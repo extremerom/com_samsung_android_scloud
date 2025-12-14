@@ -1,5 +1,7 @@
 # Samsung Cloud (com.samsung.android.scloud) - Developer Unlocked Edition
 
+⚠️ **SECURITY WARNING**: This is a modified version with intentionally exposed developer features. These features were hidden in the original app for security reasons. Use only in isolated testing environments. Do NOT use with production credentials or on primary devices.
+
 This is a modified version of Samsung Cloud with all hidden developer and debug features unlocked.
 
 ## Overview
@@ -7,6 +9,46 @@ This is a modified version of Samsung Cloud with all hidden developer and debug 
 **Original APK**: Samsung Cloud v5.6.09.16 (560916000)
 **Package Name**: com.samsung.android.scloud
 **Modifications**: Developer/Debug menus and test features unlocked
+
+## Security Warning
+
+⚠️ **CRITICAL: USE AT YOUR OWN RISK**
+
+This modification intentionally exposes developer and debugging features that were hidden for security and stability reasons. The code review identified several security concerns that are **intentional** aspects of this modification:
+
+### Security Implications:
+
+1. **Exposed Developer Activities**: All developer/test activities are now publicly accessible via launcher icons and intent filters. This allows any user or app to access internal debugging tools.
+
+2. **Exposed Test Provider**: The SyncTestProvider is now publicly accessible (exported=true), which could potentially allow other apps to access or manipulate sync testing data.
+
+3. **Hardcoded Credentials**: The build script uses a hardcoded password ("android") for the debug keystore. This is intentional for ease of use in testing environments but should NEVER be used for production builds.
+
+### Safe Usage Guidelines:
+
+✅ **DO**:
+- Use only on isolated test devices
+- Use with test Samsung accounts only
+- Keep the modified APK in controlled environments
+- Review the code before building
+- Understand what each developer feature does
+
+❌ **DO NOT**:
+- Install on your primary device
+- Use with production Samsung account credentials
+- Distribute to end users
+- Use on devices with sensitive data
+- Connect to production Samsung Cloud services
+
+### Legal Notice:
+
+This modification is for **educational and research purposes only**. By using this modified app, you acknowledge:
+- These features were intentionally hidden by Samsung
+- Exposing them may violate Samsung's terms of service
+- You assume all responsibility for any consequences
+- This is not authorized or supported by Samsung
+
+---
 
 ## What's Been Unlocked?
 
