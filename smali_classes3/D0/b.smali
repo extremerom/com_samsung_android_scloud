@@ -11,50 +11,8 @@
 .method static constructor <clinit>()V
     .locals 2
 
-    sget-object v0, Landroid/os/Build;->TYPE:Ljava/lang/String;
-
-    const-string v1, "TYPE"
-
-    invoke-static {v0, v1}, Lkotlin/jvm/internal/Intrinsics;->checkNotNullExpressionValue(Ljava/lang/Object;Ljava/lang/String;)V
-
-    sget-object v1, Ljava/util/Locale;->ROOT:Ljava/util/Locale;
-
-    invoke-virtual {v0, v1}, Ljava/lang/String;->toLowerCase(Ljava/util/Locale;)Ljava/lang/String;
-
-    move-result-object v0
-
-    const-string v1, "this as java.lang.String).toLowerCase(Locale.ROOT)"
-
-    invoke-static {v0, v1}, Lkotlin/jvm/internal/Intrinsics;->checkNotNullExpressionValue(Ljava/lang/Object;Ljava/lang/String;)V
-
-    const-string v1, "eng"
-
-    invoke-static {v0, v1}, Lkotlin/jvm/internal/Intrinsics;->areEqual(Ljava/lang/Object;Ljava/lang/Object;)Z
-
-    move-result v1
-
-    if-nez v1, :cond_1
-
-    const-string v1, "userdebug"
-
-    invoke-static {v0, v1}, Lkotlin/jvm/internal/Intrinsics;->areEqual(Ljava/lang/Object;Ljava/lang/Object;)Z
-
-    move-result v0
-
-    if-eqz v0, :cond_0
-
-    goto :goto_0
-
-    :cond_0
-    const/4 v0, 0x0
-
-    goto :goto_1
-
-    :cond_1
-    :goto_0
     const/4 v0, 0x1
 
-    :goto_1
     sput-boolean v0, LD0/b;->a:Z
 
     return-void
