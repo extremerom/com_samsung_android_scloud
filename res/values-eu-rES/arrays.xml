@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Telefonoa kargatzen ari da.</item>
+        <item>Telefonoa Wi-Fi sare batera konektatuta dago.</item>
+        <item>Pantaila itzalita dago.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tableta kargatzen ari da.</item>
+        <item>Tableta Wi-Fi sare batera konektatuta dago.</item>
+        <item>Pantaila itzalita dago.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Babeskopiak egiteko hauta daitezkeen datuak desberdinak izan daitezke telefonoaren edo sistema eragilearen arabera.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Babeskopiak egiteko hauta daitezkeen datuak desberdinak izan daitezke tabletaren edo sistema eragilearen arabera.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontaktuak: sinkronizatutako kontuetako kontaktuak</item>
+        <item>Egutegia: sinkronizatutako kontuetako gertaerak eta atazak</item>
+        <item>Galaxy Themes: gaiak eta horma paper lehenetsia</item>
+        <item>Aplikazioak: bateraezinak diren instalazio fitxategiak eta Samsung-enak ez diren aplikazioetako datuak</item>
+        <item>Karpeta segurua: aplikazioak eta datuak</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kontaktuak: sinkronizatutako kontuetako kontaktuak</item>
+        <item>Egutegia: sinkronizatutako kontuetako gertaerak eta atazak</item>
+        <item>Galaxy Themes: gaiak eta horma paper lehenetsia</item>
+        <item>Aplikazioak: onartzen ez diren instalazio fitxategiak</item>
+        <item>Karpeta segurua: aplikazioak eta datuak</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefonoa: deien eta mezuen historia</item>
+        <item>Mezuak: mezu hobetuak, multimedia mezuak eta testu mezuak</item>
+        <item>Kontaktuak: gailuan gordetako kontaktuak, helbide elektronikoak eta enpresa txartelak</item>
+        <item>Egutegia: gailuan gordetako gertaerak eta atazak</item>
+        <item>Erlojua: alarmak, munduko erlojuak eta atzerako kontaketak</item>
+        <item>Ezarpenak: erabilerraztasun ezarpenak, dei tonuak, Samsung Teklatuaren aukerak, wifi ezarpenak, parekatutako Bluetooth bidezko gailuak, aurpegi bidezko hautematearen ezarpenak, hatz aztarnen ezarpenak eta Always On Display-ren ezarpenak (ez da egingo dei tonu lehenetsiaren babeskopiarik)</item>
+        <item>Pantaila nagusia: diseinua, horma paperak eta Samsung DeX-en ezarpenak</item>
+        <item>Aplikazioak: instalazio fitxategiak eta aplikazio ezarpenak</item>
+        <item>Ahots grabagailua: grabaketak</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Musika: MP3, FLAC, WAV, M4A, OGG eta beste musika fitxategi batzuk</item>
+        <item>Dokumentuak: PDF, Word, Excel, PowerPoint eta beste dokumentu batzuk</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: txat historia</item>
+        <item>%s: blokeatutako oharrak</item>
+        <item>%s: pasahitzez babestutako datuak</item>
+        <item>%s: aplikazioak eta aplikazio datuak</item>
+        <item>%s: sinkronizatutako kontuetako gertaerak</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Gako pribatua eta berreskuratzeko esaldia</item>
+        <item>Aplikazioaren politikak direla eta transferitu ezin diren datuak</item>
+        <item>Aplikazioak ezin dira transferitu, segurtasun edo bateragarritasun arazoak daudelako: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Irakurtzeko soilik diren kontaktuak</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Horma paper lehenetsia</item>
+        <item>Galaxy Themes-eko horma paperak</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Larrialdi alerten mezuak</item>
+        <item>Zirriborroak eta huts egindako mezuak</item>
+        <item>iMessage efektuak dituzten mezuak</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Eduki blokeatua</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefonoa: deien eta mezuen historia</item>
+        <item>Mezuak: mezu hobetuak, multimedia mezuak eta testu mezuak</item>
+        <item>Erlojua: alarmak, munduko erlojuak eta atzerako kontaketak</item>
+        <item>Ezarpenak: erabilerraztasun ezarpenak, dei tonuak, Samsung Teklatuaren aukerak, wifi ezarpenak, parekatutako Bluetooth bidezko gailuak eta Always On Display ezarpenak (ez da enkriptatuko dei tonu lehenetsia)</item>
+        <item>Aplikazioak: aplikazio ezarpenak</item>
+        <item>Pantaila nagusia: diseinua, horma paperak eta Samsung DeX-en ezarpenak</item>
+        <item>Ahots grabagailua: grabaketak</item>
+    </string-array>
+</resources>

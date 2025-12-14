@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package samsung.scsp.media.attribute;
+
+option java_multiple_files = true;
+
+message ImageSensitiveAttribute {
+ 
+ optional string goto_url = 1; 
+ optional string goto_vendor = 2; 
+ 
+}
+

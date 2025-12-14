@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Simu yako inachaji.</item>
+        <item>Simu yako imeunganishwa kwenye mtandao wa Wi-Fi.</item>
+        <item>Skrini imezimwa.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tableti inachaji.</item>
+        <item>Tableti yako imeunganishwa kwenye mtandao wa Wi-Fi.</item>
+        <item>Skrini imezimwa.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Data unayoweza kuhifadhi nakala huenda ikatofautiana kulingana na simu au mfumo wako wa uendeshaji.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Data unayoweza kuhifadhi nakala huenda ikatofautiana kulingana na tableti au mfumo wako wa uendeshaji.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Anwani: anwani kutoka kwa akaunti zilizosawazishwa</item>
+        <item>Kalenda: matukio na shughuli kutoka kwa akaunti zilizosawazishwa</item>
+        <item>Galaxy Themes: mandhari na picha ya mandhari ya chaguomsingi</item>
+        <item>Programu: faili zisizooana za usakinishaji na data kutoka kwa programu zisizo za Samsung</item>
+        <item>Folda Salama: programu na data</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Anwani: anwani kutoka kwa akaunti zilizosawazishwa</item>
+        <item>Kalenda: matukio na shughuli kutoka kwa akaunti zilizosawazishwa</item>
+        <item>Galaxy Themes: mandhari na picha ya mandhari ya chaguomsingi</item>
+        <item>Programu: faili za usakinishaji zisizotumika</item>
+        <item>Folda Salama: programu na data</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Simu: historia ya simu na ujumbe</item>
+        <item>Ujumbe: ujumbe ulioimarishwa, ujumbe wa medianuwai, na ujumbe wa maandishi</item>
+        <item>Anwani: anwani, anwani za barua pepe na kadi za biashara zilizohifadhiwa kwenye kifaa chako</item>
+        <item>Kalenda: matukio na shughuli zilizohifadhiwa kwenye kifaa chako</item>
+        <item>"Saa: ving'ora, saa za dunia na vipima muda"</item>
+        <item>Mipangilio: mipangilio ya ufikivu, milio za simu, chaguo za Kibodi ya Samsung, mipangilio ya Wi-Fi, vifaa vya Bluetooth vilivyounganishwa, mipangilio ya utambuzi wa uso, mipangilio ya alama za vidole, na mipangilio ya Always On Display (mlio wa simu wa chaguo-msingi hutahifadhiwi nakala)</item>
+        <item>Skrini ya kwanza: muundo, picha za mandhari na mipangilio ya Samsung DeX</item>
+        <item>Programu: faili za uwekaji na mipangilio ya programu</item>
+        <item>Kinasa Sauti: rekodi</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Muziki: MP3, FLAC, WAV, M4A, OGG, na faili zingine za muziki</item>
+        <item>Hati: PDF, Word, Excel, PowerPoint, na hati zingine</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: kumbukumbu ya gumzo</item>
+        <item>%s: hati zilizofungwa</item>
+        <item>%s: data inayolindwa na nenosiri</item>
+        <item>%s: programu na data ya programu</item>
+        <item>%s: Matukio kutoka kwenye akaunti zilizosawazishwa</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Ufunguo wa kibinafsi na kishazi cha urejeshaji</item>
+        <item>Data ambayo haiwezi kuhamishwa kutokana na sera za programu</item>
+        <item>Programu ambazo haziwezi kuhamishwa kwa sababu ya matatizo ya usalama au uoanifu: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Anwani za kusoma pekee</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Mandhari chaguomsingi</item>
+        <item>Mandharinyuma ya Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Ujumbe wa arifa za dharura</item>
+        <item>Rasimu na ujumbe ambao umeshindwa kurejeshwa</item>
+        <item>Ujumbe wenye madoido ya iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Maudhui yaliyofungwa</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Simu: historia ya simu na ujumbe</item>
+        <item>Ujumbe: ujumbe ulioimarishwa, ujumbe wa medianuwai, na ujumbe wa maandishi</item>
+        <item>"Saa: ving'ora, saa za dunia na vipima muda"</item>
+        <item>Mipangilio: mipangilio ya ufikivu, milio ya simu, chaguo za Kibodi ya Samsung, mipangilio ya Wi-Fi, vifaa vya Bluetooth vilivyounganishwa, na mipangilio ya Always On Display (mlio chaguomsingi wa simu haujasimbwa kwa njia fiche)</item>
+        <item>Programu: mipangilio ya programu</item>
+        <item>Skrini ya kwanza: muundo, picha za mandhari na mipangilio ya Samsung DeX</item>
+        <item>Kinasa Sauti: rekodi</item>
+    </string-array>
+</resources>

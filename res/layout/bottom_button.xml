@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:tag="layout/bottom_button_0" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/single_layout" android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/single_button_layout" />
+    <include android:id="@id/two_button_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/vertical_button_layout" />
+    <include android:id="@id/two_button_horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/vertical_button_layout" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 bilde og %1$d video (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 bilde og %1$d videoer (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d app ble ikke installert</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d apper ble ikke installert</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Meldinger: nødvarsler, overførte filer, multimediemeldinger større enn %d MB, utkast og mislykkede meldinger</item>
+        <item quantity="one">Meldinger: nødvarsler, overførte filer, multimediemeldinger større enn %d MB, utkast og mislykkede meldinger</item>
+        <item quantity="two">Meldinger: nødvarsler, overførte filer, multimediemeldinger større enn %d MB, utkast og mislykkede meldinger</item>
+        <item quantity="few">Meldinger: nødvarsler, overførte filer, multimediemeldinger større enn %d MB, utkast og mislykkede meldinger</item>
+        <item quantity="many">Meldinger: nødvarsler, overførte filer, multimediemeldinger større enn %d MB, utkast og mislykkede meldinger</item>
+        <item quantity="other">Meldinger: nødvarsler, overførte filer, multimediemeldinger større enn %d MB, utkast og mislykkede meldinger</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sikkerhetskopidata for %d enhet utløper snart. Velg enheten nedenfor for å sjekke utløpsdatoen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sikkerhetskopidata for %d enheter utløper snart. Velg en enhet nedenfor for å sjekke utløpsdatoen.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sikkerhetskopidata for %d enhet utløper snart.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sikkerhetskopidata for %d enheter utløper snart.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d sikkerhetskopiert element kunne ikke oppdateres, og den forrige sikkerhetskopien av dette elementet ble derfor gjenopprettet på den nye telefonen (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d sikkerhetskopierte elementer kunne ikke oppdateres, og de forrige sikkerhetskopiene av disse elementene ble derfor gjenopprettet på den nye telefonen (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d sikkerhetskopiert element kunne ikke oppdateres, og den forrige sikkerhetskopien av dette elementet gjort den %2$s, blir derfor gjenopprettet på den nye telefonen (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d sikkerhetskopierte elementer kunne ikke oppdateres, og de forrige sikkerhetskopiene av disse elementene gjort den %2$s, blir derfor gjenopprettet på den nye telefonen (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d sikkerhetskopiert element kunne ikke oppdateres, og den forrige sikkerhetskopien av dette elementet ble derfor gjenopprettet på det nye nettbrettet (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d sikkerhetskopierte elementer kunne ikke oppdateres, og de forrige sikkerhetskopiene av disse elementene ble derfor gjenopprettet på det nye nettbrettet (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d sikkerhetskopiert element kunne ikke oppdateres, og den forrige sikkerhetskopien av dette elementet gjort den %2$s, blir derfor gjenopprettet på det nye nettbrettet (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d sikkerhetskopierte elementer kunne ikke oppdateres, og de forrige sikkerhetskopiene av disse elementene gjort den %2$s, blir derfor gjenopprettet på det nye nettbrettet (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Data blir slettet om %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Data blir slettet om %d dager.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Utløper om %d dag</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Utløper om %d dager</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">De fleste av dataene er gjenopprettet, men %d app ble ikke installert.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">De fleste av dataene er gjenopprettet, men %d apper ble ikke installert.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nytt varsel</item>
+        <item quantity="other">%d nye varsler</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nytt album er tilgjengelig</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d nye album er tilgjengelige</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d album er valgt</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d album er valgt</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 avatar og %d egenutviklet element</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 avatar og %d egenutviklede elementer</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 time og %d minutt igjen</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 time og %d minutter igjen</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 bilde og %d video synkr.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 bilde og %d videoer synkron.</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d element er valgt (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d elementer er valgt (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d bilde og 1 video (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d bilder og 1 video (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d bilde (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d bilder (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d valgt (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d valgte (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d video (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d videoer (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d fil</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d filer</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d time og 1 minutt igjen</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d timer og 1 minutt igjen</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d bilde er lastet ned fra nettskyen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d bilder er lastet ned fra nettskyen.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d element er lastet ned fra nettskyen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d elementer er lastet ned fra nettskyen.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d minutt</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d minutter</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d minutt gjenstår</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d minutter gjenstår</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d bilde og 1 video synkr.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d bilder og 1 video synkronis.</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d bilde er synkronisert</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d bilder er synkronisert</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d bilde eller video</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d bilder og videoer</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ble valgt</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ble valgt</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d video er lastet ned fra nettskyen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d videoer er lastet ned fra nettskyen.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d video er synkronisert</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d videoer er synkronisert</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Lite batteri. Lad batteriet til minst %d %% for å sikkerhetskopiere telefonen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Lite batteri. Lad batteriet til minst %d %% for å sikkerhetskopiere telefonen.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Den midlertidige sikkerhetskopien utløper om %d dag. Gjenopprett den nå, eller utsett utløpsdatoen hvis du trenger mer tid.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Den midlertidige sikkerhetskopien utløper om %d dager. Gjenopprett den snart, eller utsett utløpsdatoen hvis du trenger mer tid.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Utsett %d dag</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Utsett %d dager</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d avatarer</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar og 1 egenutviklet element</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d avatarer og 1 egenutviklet element</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d egenutviklet element</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d egenutviklede elementer</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d element gjenstår</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d elementer gjenstår</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sammenkoblet Samsung-enhet</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sammenkoblede Samsung-enheter</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d påminnelse</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d påminnelser</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Abonnementet ble avsluttet den %1$s. Dataene blir slettet om %2$d dag. Aktiver abonnementet igjen for å beholde dataene.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Abonnementet ble avsluttet den %1$s. Dataene blir slettet om %2$d dager. Aktiver abonnementet igjen for å beholde dataene.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Lite batteri. Lad batteriet til minst %d %% for å sikkerhetskopiere nettbrettet.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Lite batteri. Lad batteriet til minst %d %% for å sikkerhetskopiere nettbrettet.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sikkerhetskopier ubegrensede data til %1$s i opptil %2$d dag, eller gjenopprett data du har sikkerhetskopiert.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sikkerhetskopier ubegrensede data til %1$s i opptil %2$d dager, eller gjenopprett data du har sikkerhetskopiert.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Denne sikkerhetskopien slettes om %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Denne sikkerhetskopien slettes om %d dager.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Prøv igjen om %d time</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Prøv igjen om %d timer</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Prøv igjen om %d time og 1 minutt</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Prøv igjen om %d timer og 1 minutt</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Prøv igjen om %d minutt</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Prøv igjen om %d minutter</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Prøv igjen om 1 time og %d minutt</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Prøv igjen om 1 time og %d minutter</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sikkerhetskopien er trygg på %1$s. Du har %2$d dag på deg til å gjenopprette den.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sikkerhetskopien er trygg på %1$s. Du har %2$d dager på deg til å gjenopprette den.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Den midlertidige sikkerhetskopien slettes om %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Den midlertidige sikkerhetskopien slettes om %d dager.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dataene ble ikke gjenopprettet på telefonen. Du har %d dag igjen til å gjenopprette dem.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dataene ble ikke gjenopprettet på telefonen. Du har %d dager igjen til å gjenopprette dem.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dataene ble ikke gjenopprettet på nettbrettet. Du har %d dag igjen til å gjenopprette dem.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dataene ble ikke gjenopprettet på nettbrettet. Du har %d dager igjen til å gjenopprette dem.</item>
+    </plurals>
+</resources>

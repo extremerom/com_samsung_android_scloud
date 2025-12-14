@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/fragment_help_template_0" android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.scloud.app.core.component.RoundCorneredScrollView android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true" android:overScrollMode="always">
+        <LinearLayout android:orientation="vertical" android:id="@id/container" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <FrameLayout android:orientation="vertical" android:id="@id/video_container" android:layout_width="match_parent" android:layout_height="@dimen/media_height" />
+            <LinearLayout android:orientation="vertical" android:id="@id/para_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_16dp" />
+        </LinearLayout>
+    </com.samsung.android.scloud.app.core.component.RoundCorneredScrollView>
+</LinearLayout>

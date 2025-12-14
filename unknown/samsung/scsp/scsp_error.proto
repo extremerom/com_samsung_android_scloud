@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package samsung.scsp;
+
+message ScspError {
+  optional int32 rcode = 1; // required
+  optional string rmsg = 2; // required
+  map<string, string> extras = 3;  //   serverName, path, timestamp, traceId required
+}

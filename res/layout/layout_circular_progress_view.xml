@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@color/ctb_circular_progress_bar_track" android:layout_width="@dimen/ctb_circular_progress_bar_width" android:layout_height="@dimen/ctb_circular_progress_bar_width"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.progressindicator.CircularProgressIndicator android:id="@id/circular_progress_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:rotation="-127.0" android:importantForAccessibility="no" app:indicatorColor="@color/ctb_circular_progress_bar_indicator" app:indicatorInset="0.0dp" app:indicatorSize="@dimen/ctb_circular_progress_bar_width" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:trackCornerRadius="@dimen/ctb_circular_progress_bar_thickness" app:trackThickness="@dimen/ctb_circular_progress_bar_thickness" />
+    <com.samsung.android.scloud.ctb.ui.customviews.CtbCircularProgressBar android:id="@id/progress_bar" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="no" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/text_area" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textAppearance="@style/TextCtbProgress" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:textAppearance="@style/TextCtbProgressPercent" android:layout_gravity="bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/percent" android:layout_marginStart="@dimen/ctb_circular_progress_percent_margin_left" />
+        </LinearLayout>
+        <TextView android:id="@id/textview_description" android:layout_width="@dimen/ctb_circular_progress_time_text_width" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="@id/progress" app:layout_constraintStart_toStartOf="@id/progress" app:layout_constraintTop_toBottomOf="@id/text_area" style="@style/TextCtbProgressTime" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

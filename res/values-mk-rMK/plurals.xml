@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 слика и %1$d видео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 слика и %1$d видеа (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d апликација не е инсталирана</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d апликации не се инсталирани</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Пораки: известувања за итни случаи, префрлени датотеки, мултимедијални пораки поголеми од %d MB, нацрти и неуспешни пораки</item>
+        <item quantity="one">Пораки: известувања за итни случаи, префрлени датотеки, мултимедијални пораки поголеми од %d MB, нацрти и неуспешни пораки</item>
+        <item quantity="two">Пораки: известувања за итни случаи, префрлени датотеки, мултимедијални пораки поголеми од %d MB, нацрти и неуспешни пораки</item>
+        <item quantity="few">Пораки: известувања за итни случаи, префрлени датотеки, мултимедијални пораки поголеми од %d MB, нацрти и неуспешни пораки</item>
+        <item quantity="many">Пораки: известувања за итни случаи, префрлени датотеки, мултимедијални пораки поголеми од %d MB, нацрти и неуспешни пораки</item>
+        <item quantity="other">Пораки: известувања за итни случаи, префрлени датотеки, мултимедијални пораки поголеми од %d MB, нацрти и неуспешни пораки</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Архивирањето податоци за %d уред ќе истече наскоро. Изберете го уредот подолу за да го проверите датумот на истекување.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Архивирањето податоци за %d уреди ќе истече наскоро. Изберете го уредот подолу за да го проверите датумот на истекување.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Архивирањето податоци за %d уред ќе истече наскоро.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Архивирањето податоци за %d уреди ќе истече наскоро.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ставка за архивирање не можеше да се ажурира, па претходното архивирање на оваа ставка ќе се врати на Вашиот нов телефон (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ставки за архивирање не можеше да се ажурираат, па претходните ажурирања на овие ставки ќе се вратат на Вашиот нов телефон (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ставка за архивирање не можеше да се ажурира, па архивирањето на оваа ставка направено на %2$s ќе се врати на Вашиот нов телефон (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ставки за архивирање не можеше да се ажурираат, па претходните ажурирања на овие ставки направени на %2$s ќе се вратат на Вашиот нов телефон (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ставка за архивирање не можеше да се ажурира, па претходното архивирање на оваа ставка ќе се врати на Вашиот нов таблет (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ставки за архивирање не можеше да се ажурираат, па претходните ажурирања на овие ставки ќе се вратат на Вашиот нов таблет (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ставка за архивирање не можеше да се ажурира, па архивирањето на оваа ставка направено на %2$s ќе се врати на Вашиот нов таблет (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ставки за архивирање не можеше да се ажурираат, па претходните ажурирања на овие ставки направени на %2$s ќе се вратат на Вашиот нов таблет (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Податоците ќе се избришат за %d ден.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Податоците ќе се избришат за %d дена.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Истекува за %d ден</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Истекува за %d дена</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Најголем дел од Вашите податоци се вратени, но апликацијата %d не е инсталирана.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Најголем дел од Вашите податоци се вратени, но апликациите %d не се инсталирани.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d нов албум е достапен</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d нови албуми се достапни</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d албум е избран</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d албуми се избрани</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 аватар и %d ставка со прилагоден дизајн</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 аватар и %d ставки со прилагоден дизајн</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Уште 1 час и %d минута</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Уште 1 час и %d минути</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 фотог. и %d видео се синхрон.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 фотог. и %d видеа се синхрон.</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d запис е избран (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d записи се избрани (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d слика и 1 видео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d слики и 1 видео (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d слика (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d слики (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d избрана (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d избрани (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d видео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d видеа (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d датотека</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d датотеки</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Уште %d час и 1 минута</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Уште %d часа и 1 минута</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d слика е преземена од облакот.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d слики се преземени од облакот.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ставка е преземена од облакот.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ставки се преземени од облакот.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d минута</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d минути</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Преостанува %d минута</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Преостануваат %d минути</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d фотог. и 1 видео се синхрон.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d фотог. и 1 видео се синхриз.</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d фотографија е синхронизирана</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d фотографии се синхронизирани</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d слика или видео</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d слики и видеа</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d избран</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d избрани</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d видео е преземено од облакот.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d видеа се преземени од облакот.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d видео е синхронизирано</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d видеа се синхронизирани</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Батеријата е слаба. Наполнете најмалку до %d%% за да направите резервна копија од телефонот.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Батеријата е слаба. Наполнете најмалку до %d%% за да направите резервна копија од телефонот.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Вашето привремено архивирање истекува за %d ден. Вратете го сега или одложете го датумот на истекување ако Ви треба повеќе време.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Вашето привремено архивирање истекува за %d дена. Вратете го наскоро или одложете го датумот на истекување ако Ви треба повеќе време.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Одложи %d ден</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Одложи %d дена</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d аватар</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d аватари</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d аватар и 1 ставка со прилагоден дизајн</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d аватари и 1 ставка со прилагоден дизајн</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ставка со прилагоден дизајн</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ставки со прилагоден дизајн</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Преостанува %d ставка</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Преостануваат %d ставки</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d споен уред Samsung</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d споени уреди Samsung</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d потсетник</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d потсетници</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Вашата претплата заврши на %1$s. Вашите податоци ќе се избришат за %2$d ден. Преактивирајте ја Вашата претплата за да ги зачувате Вашите податоци.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Вашата претплата заврши на %1$s. Вашите податоци ќе се избришат за %2$d дена. Преактивирајте ја Вашата претплата за да ги зачувате Вашите податоци.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Батеријата е слаба. Наполнете најмалку до %d%% за да направите резервна копија од таблетот.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Батеријата е слаба. Наполнете најмалку до %d%% за да направите резервна копија од таблетот.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Архивирајте неограничени податоци на %1$s до %2$d ден или вратете ги податоците што сте ги архивирале.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Архивирајте неограничени податоци на %1$s до %2$d дена или вратете ги податоците што сте ги архивирале.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ова архивирање ќе се избрише за %d ден.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ова архивирање ќе се избрише за %d дена.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Обидете се повторно за %d час</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Обидете се повторно за %d часа</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Обидете се повторно за %d час и 1 минута</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Обидете се повторно за %d часа и 1 минута</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Обидете се повторно за %d минута</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Обидете се повторно за %d минути</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Обидете се повторно за 1 час и %d минута</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Обидете се повторно за 1 час и %d минути</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Вашето архивирање е безбедно на %1$s. Имате %2$d ден за да го вратите.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Вашето архивирање е безбедно на %1$s. Имате %2$d дена за да го вратите.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Вашето привремено архивирање ќе се избрише за %d ден.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Вашето привремено архивирање ќе се избрише за %d дена.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Вашите податоци не се вратени на Вашиот телефон. Ви останува %d ден за да ги вратите.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Вашите податоци не се вратени на Вашиот телефон. Ви остануваат %d дена за да ги вратите.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Вашите податоци не се вратени на Вашиот таблет. Ви останува %d ден за да ги вратите.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Вашите податоци не се вратени на Вашиот таблет. Ви остануваат %d дена за да ги вратите.</item>
+    </plurals>
+</resources>

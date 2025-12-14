@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.media.attribute;
+
+option java_multiple_files = true;
+
+message GroupAttribute {
+  optional int32 group_type = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional int32 group_id = 2  [(google.api.field_behavior) = REQUIRED];   
+  optional int32 best_media = 3; 
+}

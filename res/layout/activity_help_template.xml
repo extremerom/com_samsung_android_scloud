@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/content" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.viewpager2.widget.ViewPager2 android:orientation="horizontal" android:id="@id/viewpager" android:layout_width="match_parent" android:layout_height="0.0dp" android:layout_weight="1.0" />
+    </LinearLayout>
+    <androidx.appcompat.widget.SeslProgressBar android:layout_gravity="center" android:id="@id/progress" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.samsung.android.scloud.odm.view.help.template.component.ErrorScreenView android:id="@id/error_screen" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" />
+</FrameLayout>

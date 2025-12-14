@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 photo et %1$d vidéo (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 photo et %1$d vidéos (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d application non installée</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d applications non installées</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">"Messages : alertes d'urgence, fichiers transférés, messages multimédia d'une taille supérieure à %d Mo, brouillons, messages dont l'envoi a échoué"</item>
+        <item quantity="one">"Messages : alertes d'urgence, fichiers transférés, messages multimédia d'une taille supérieure à %d Mo, brouillons, messages dont l'envoi a échoué"</item>
+        <item quantity="two">"Messages : alertes d'urgence, fichiers transférés, messages multimédia d'une taille supérieure à %d Mo, brouillons, messages dont l'envoi a échoué"</item>
+        <item quantity="few">"Messages : alertes d'urgence, fichiers transférés, messages multimédia d'une taille supérieure à %d Mo, brouillons, messages dont l'envoi a échoué"</item>
+        <item quantity="many">"Messages : alertes d'urgence, fichiers transférés, messages multimédia d'une taille supérieure à %d Mo, brouillons, messages dont l'envoi a échoué"</item>
+        <item quantity="other">"Messages : alertes d'urgence, fichiers transférés, messages multimédia d'une taille supérieure à %d Mo, brouillons, messages dont l'envoi a échoué"</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Les données de sauvegarde de %d appareil expireront bientôt. Sélectionnez l'appareil ci-dessous pour vérifier la date d'expiration."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Les données de sauvegarde de %d appareils expireront bientôt. Sélectionnez un appareil ci-dessous pour vérifier la date d'expiration."</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Les données de sauvegarde de %d appareil expireront bientôt.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Les données de sauvegarde de %d appareils expireront bientôt.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"%1$d élément de sauvegarde n'a pas pu être mis à jour. La sauvegarde précédente de cet élément va donc être restaurée sur votre nouveau téléphone (%2$s)."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"%1$d éléments de sauvegarde n'ont pas pu être mis à jour. Les sauvegardes précédentes de ces éléments vont donc être restaurées sur votre nouveau téléphone (%2$s)."</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"%1$d élément de sauvegarde n'a pas pu être mis à jour. La sauvegarde de cet élément effectuée le %2$s va donc être restaurée sur votre nouveau téléphone (%3$s)."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"%1$d éléments de sauvegarde n'ont pas pu être mis à jour. Les sauvegardes de ces éléments effectuées le %2$s vont donc être restaurées sur votre nouveau téléphone (%3$s)."</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"%1$d élément de sauvegarde n'a pas pu être mis à jour. La sauvegarde précédente de cet élément va donc être restaurée sur votre nouvelle tablette (%2$s)."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"%1$d éléments de sauvegarde n'ont pas pu être mis à jour. Les sauvegardes précédentes de ces éléments vont donc être restaurées sur votre nouvelle tablette (%2$s)."</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"%1$d élément de sauvegarde n'a pas pu être mis à jour. La sauvegarde de cet élément effectuée le %2$s va donc être restaurée sur votre nouvelle tablette (%3$s)."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"%1$d éléments de sauvegarde n'ont pas pu être mis à jour. Les sauvegardes de ces éléments effectuées le %2$s vont donc être restaurées sur votre nouvelle tablette (%3$s)."</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Les données seront supprimées dans %d jour.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Les données seront supprimées dans %d jours.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Expiration dans %d jour</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Expiration dans %d jours</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"La plupart de vos données ont été restaurées, mais %d application n'a pas été installée."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"La plupart de vos données ont été restaurées, mais %d applications n'ont pas été installées."</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nouvelle notification</item>
+        <item quantity="other">%d nouvelles notifications</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nouvel album disponible</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d nouveaux albums disponibles</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d album sélectionné</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d albums sélectionnés</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 avatar et %d élément conçu de manière personnalisée</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 avatar et %d éléments conçus de manière personnalisée</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Il reste 1 heure %d minute</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Il reste 1 heure %d minutes</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 photo et %d vidéo synchronisées</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 photo et %d vidéos synchronis.</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d élément sélectionné (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d éléments sélectionnés (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d photo et 1 vidéo (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d photos et 1 vidéo (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d photo (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d photos (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d sélectionné(s) (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d sélectionné(s) (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d vidéo (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d vidéos (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d fichier</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d fichiers</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Il reste %d heure 1 minute</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Il reste %d heures 1 minute</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d image a été téléchargée depuis le cloud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d images ont été téléchargées depuis le cloud.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d élément a été téléchargé depuis le cloud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d éléments ont été téléchargés depuis le cloud.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d minute</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Il reste %d minute</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Il reste %d minutes</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d photo et 1 vidéo synchronisées</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d photos et 1 vidéo synchronis.</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d photo synchronisée</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d photos synchronisées</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d photo ou vidéo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d photos et vidéos</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sélectionné</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sélectionnés</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d vidéo a été téléchargée depuis le cloud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d vidéos ont été téléchargées depuis le cloud.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d vidéo synchronisée</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d vidéos synchronisées</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">La batterie est faible. Rechargez-la à au moins %d %% pour sauvegarder votre téléphone.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">La batterie est faible. Rechargez-la à au moins %d %% pour sauvegarder votre téléphone.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Votre sauvegarde temporaire expire dans %d jour. Restaurez-la maintenant ou reportez la date d'expiration si vous avez besoin de plus de temps."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Votre sauvegarde temporaire expire dans %d jours. Restaurez-la sans tarder ou reportez la date d'expiration si vous avez besoin de plus de temps."</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Reporter de %d jour</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Reporter de %d jours</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d avatars</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar et 1 élément conçu de manière personnalisée</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d avatars et 1 élément conçu de manière personnalisée</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d élément conçu de manière personnalisée</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d éléments conçus de manière personnalisée</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d élément restant</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d éléments restants</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d appareil Samsung associé</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d appareils Samsung associés</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d rappel</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d rappels</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Votre abonnement a pris fin le %1$s. Vos données seront supprimées dans %2$d jour. Pour les conserver, réactivez votre abonnement.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Votre abonnement a pris fin le %1$s. Vos données seront supprimées dans %2$d jours. Pour les conserver, réactivez votre abonnement.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">La batterie est faible. Rechargez-la à au moins %d %% pour sauvegarder votre tablette.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">La batterie est faible. Rechargez-la à au moins %d %% pour sauvegarder votre tablette.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sauvegardez des données illimitées dans %1$s pendant %2$d jour ou restaurez les données que vous avez sauvegardées.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sauvegardez des données illimitées dans %1$s pendant %2$d jours ou restaurez les données que vous avez sauvegardées.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Cette sauvegarde sera supprimée dans %d jour.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Cette sauvegarde sera supprimée dans %d jours.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Réessayez dans %d heure</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Réessayez dans %d heures</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Réessayez dans %d heure 1 minute</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Réessayez dans %d heures 1 minute</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Réessayez dans %d minute</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Réessayez dans %d minutes</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Réessayez dans 1 heure %d minute</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Réessayez dans 1 heure %d minutes</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Votre sauvegarde est à l'abri dans %1$s. Il vous reste %2$d jour pour la restaurer."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Votre sauvegarde est à l'abri dans %1$s. Il vous reste %2$d jours pour la restaurer."</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Votre sauvegarde temporaire sera supprimée dans %d jour.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Votre sauvegarde temporaire sera supprimée dans %d jours.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Vos données n'ont pas été restaurées sur votre téléphone. Il vous reste %d jour pour les restaurer."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Vos données n'ont pas été restaurées sur votre téléphone. Il vous reste %d jours pour les restaurer."</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Vos données n'ont pas été restaurées sur votre tablette. Il vous reste %d jour pour les restaurer."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Vos données n'ont pas été restaurées sur votre tablette. Il vous reste %d jours pour les restaurer."</item>
+    </plurals>
+</resources>

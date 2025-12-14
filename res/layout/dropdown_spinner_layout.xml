@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:tag="layout/dropdown_spinner_layout_0" android:background="?android:selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/two_line_list_text_area" android:paddingBottom="@dimen/two_line_list_view_padding_updown" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/RecoilEffect">
+        <Spinner android:textColor="@drawable/list_summary_text_color" android:id="@id/spinner_view" android:background="@android:color/transparent" android:clickable="false" android:layout_width="@dimen/gallery_spiner_height_width" android:layout_height="@dimen/gallery_spiner_height_width" android:breakStrategy="simple" />
+        <TextView android:textAppearance="@style/TextListTitle" android:id="@id/title_textview" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/view_start_and_end_margin" android:layout_marginTop="@dimen/two_line_list_view_padding_updown" android:layout_marginRight="@dimen/view_start_and_end_margin" />
+        <TextView android:textSize="@dimen/two_line_list_view_summary_text_size" android:textColor="@color/color_primary_dark" android:id="@id/sync_using" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/view_start_and_end_margin" android:layout_marginRight="@dimen/view_start_and_end_margin" />
+    </LinearLayout>
+</LinearLayout>

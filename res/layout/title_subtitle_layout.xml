@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/two_line_list_text_area" android:tag="layout/title_subtitle_layout_0" android:background="?android:listChoiceBackgroundIndicator" android:paddingTop="@dimen/margin_14dp" android:paddingBottom="@dimen/margin_14dp" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/margin_18dp" android:paddingEnd="@dimen/margin_18dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/RecoilEffect">
+        <TextView android:textAppearance="@style/TextListTitle" android:id="@id/title" android:layout_width="match_parent" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="@style/TextListSummary" android:id="@id/subtitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:breakStrategy="simple" />
+    </LinearLayout>
+</LinearLayout>

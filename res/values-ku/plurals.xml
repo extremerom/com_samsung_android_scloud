@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">١ وێنە و %1$d ڤیدیۆ (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">١ وێنە و %1$d ڤیدیۆ (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ئەپ دانەمەزراوە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ئەپ دانەمەزراون</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">نامەکان: ئاگادارکردنەوەی فریاگوزاری، فایلە گواستراوەکان، نامەکانی مالتیمیدیای گەورەتر لە %d MB، ڕەشنووسەکان و نامە شکستخواردووەکان</item>
+        <item quantity="one">نامەکان: ئاگادارکردنەوەی فریاگوزاری، فایلە گواستراوەکان، نامەکانی مالتیمیدیای گەورەتر لە %d MB، ڕەشنووسەکان و نامە شکستخواردووەکان</item>
+        <item quantity="two">نامەکان: ئاگادارکردنەوەی فریاگوزاری، فایلە گواستراوەکان، نامەکانی مالتیمیدیای گەورەتر لە %d MB، ڕەشنووسەکان و نامە شکستخواردووەکان</item>
+        <item quantity="few">نامەکان: ئاگادارکردنەوەی فریاگوزاری، فایلە گواستراوەکان، نامەکانی مالتیمیدیای گەورەتر لە %d MB، ڕەشنووسەکان و نامە شکستخواردووەکان</item>
+        <item quantity="many">نامەکان: ئاگادارکردنەوەی فریاگوزاری، فایلە گواستراوەکان، نامەکانی مالتیمیدیای گەورەتر لە %d MB، ڕەشنووسەکان و نامە شکستخواردووەکان</item>
+        <item quantity="other">نامەکان: ئاگادارکردنەوەی فریاگوزاری، فایلە گواستراوەکان، نامەکانی مالتیمیدیای گەورەتر لە %d MB، ڕەشنووسەکان و نامە شکستخواردووەکان</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">داتای پاشەکەوت بۆ ئامێری %d بەم زووانە بەسەر دەچێت. بۆ پشکنینی ڕێکەوتی بەسەرچوون ئامێرەکەی خوارەوە دەسنیشان بکە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">داتای یەدەگی %d ئامێر بەمزووانە بەسەردەچێت. ئامێرێک لە خوارەوە دەسنیشان بکە بۆ سەیرکردنی ڕێکەوتی بەسەرچوون.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">داتای پاشەکەوت بۆ ئامێری %d بەم زووانە بەسەر دەچێت.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">داتای یەدەگی %d ئامێر بەمزووانە بەسەردەچێت.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d بابەتی پاشەکەوتی یەدەگ نەتوانرا نوێ بکرێتەوە، بۆیەش پاشەکەوتی یەدەگی پێشووی ئەم بابەتە بۆ ناو تەلەفۆنەکە نوێیەکەت (%2$s) دەگەڕێندرێتەوە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d بابەتی پاشەکەوتی یەدەگ نەتوانرا نوێ بکرێنەوە، بۆیەش پاشەکەوتی یەدەگی پێشووی ئەم بابەتانە بۆ ناو تەلەفۆنەکە نوێیەکەت (%2$s) دەگەڕێندرێنەوە.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d بابەتی پاشەکەوتی یەدەگ نەتوانرا نوێ بکرێتەوە، بۆیە پاشەکەوتی یەدەگی ئەم بابەتە کە لەسەر %2$s هەڵگیراوە بۆ مۆبایلە نوێیەکەت دەهێنرێتەوە (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d بابەتی پاشەکەوتی یەدەگ نەتوانرا نوێ بکرێتەوە، بۆیە پاشەکەوتی یەدەگی ئەم بابەتانە کە لەسەر %2$s هەڵگیراون بۆ مۆبایلە نوێیەکەت دەهێنرێنەوە (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d بابەتی پاشەکەوتی یەدەگ نەتوانرا نوێ بکرێتەوە بۆیەش پاشەکەوتی یەدەگی پێشووی ئەم بابەتە بۆ ناو تابلێتە نوێیەکەت (%2$s) دەگەڕێندرێتەوە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d بابەتی پاشەکەوتی یەدەگ نەتوانرا نوێ بکرێنەوە، بۆیەش پاشەکەوتی یەدەگی پێشووی ئەم بابەتانە بۆ ناو تابلێتە نوێیەکەت (%2$s) دەگەڕێندرێنەوە.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d بابەتی پاشەکەوتی یەدەگ نەتوانرا نوێ بکرێتەوە، بۆیە پاشەکەوتی یەدەگی ئەم بابەتە کە لەسەر %2$s هەڵگیراوە بۆ تابلێتە نوێیەکەت دەهێنرێتەوە (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d بابەتی پاشەکەوتی یەدەگ نەتوانرا نوێ بکرێتەوە، بۆیە پاشەکەوتی یەدەگی ئەم بابەتانە کە لەسەر %2$s هەڵگیراون بۆ تابلێتە نوێیەکەت دەهێنرێنەوە (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">داتا لە %d ڕۆژدا دەسڕدرێتەوە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">داتا لە %d ڕۆژدا دەسڕدرێتەوە.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">لە %d ڕۆژ تردا بەسەردەچێت</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">لە %d ڕۆژ تردا بەسەردەچێت</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">زۆربەی داتایەکەت گەڕێندراوەتەوە، بەڵام %d ئەپ دانەمەزراون.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">زۆربەی داتایەکەت گەڕێندراوەتەوە، بەڵام %d ئەپ دانەمەزراون.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ئەلبوومی نوێ بەردەستە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ئەلبوومی نوێ بەردەستە</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ئەلبووم دەستنیشانکراوە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ئەلبووم دەستنیشانکرا</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">١ ئاڤاتار و %d بابەتی بەتایبەت دیزاینکراو</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">١ ئاڤاتار و %d بابەتی بەتایبەت دیزاینکراو</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 کاتژمێر و %d خولەک ماوە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 کاتژمێر و %d خولەک ماوە</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 وێنە و %d هاوکات کرا</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 وێنە و %d ڤیدیۆ هاوکات کرا</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d بڕگە دەسنیشانکراوە (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d بڕگە دەسنیشانکراوە (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d وێنە و ١ ڤیدیۆ (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d وێنە و ١ ڤیدیۆ (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d وێنە (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d وێنە (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d دەستنیشانکرا (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d دەستنیشانکرا (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ڤیدیۆ (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ڤیدیۆ (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d فایل</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d فایل</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d کاتژمێر و 1 خولەک ماوە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d کاتژمێر و 1 خولەک ماوە</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d وێنە لە کڵاود دابەزێنراوە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d وێنە لە کڵاود داگیراوندابەزێنراون.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d بڕگە لە کڵاود دابەزێنراوە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d بڕگە لە کڵاود دابەزێنراون.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d خولەک</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d خولەک</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d خولەک ماوە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d خولەک ماوە</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d وێنە و 1 ڤیدیۆ هاوکات کرا</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d وێنە و 1 ڤیدیۆ هاوکات کرا</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d وێنە هاوکات کراوە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d وێنە هاوکات کراوە</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d وێنە یان ڤیدیۆ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d وێنە و ڤیدیۆ</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d دەسنیشانکرا</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d دەسنیشانکرا</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ڤیدیۆ لە کڵاود دابەزێنراوە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ڤیدیۆ لە کڵاود دابەزێنراون.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ڤیدیۆ هاوکات کرا</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ڤیدیۆ هاوکات کرا</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ئاستی پاتری نزمە. لانیکەم بۆ %d%% بارگاوی بکەوە بۆ ئەوەی بتوانیت تەلەفۆنەکە پاشەکەوت بکەیت.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ئاستی پاتری نزمە. لانیکەم بۆ %d%% بارگاوی بکەوە بۆ ئەوەی بتوانیت تەلەفۆنەکە پاشەکەوت بکەیت.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">پاشەکەوتی یەدەگی کاتیت لە %d ڕۆژدا بەسەر دەچێت. ئەگەر کاتی زیاتر پێویستە ئێستا بیگەڕێنەوە یان بەرواری بەسەرچوونەکەی دوابخە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">پاشەکەوتی یەدەگی کاتیت لە %d ڕۆژدا بەسەر دەچێت. ئەگەر کاتی زیاتر پێویستە زووتر بیگەڕێنەوە یان بەرواری بەسەرچوونەکەی دوابخە.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">دواخستنی %d ڕۆژ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">دواخستنی %d ڕۆژ</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ئاڤاتار</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ئاڤاتار</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ئاڤاتار و ١ بابەتی بەتایبەت دیزاینکراو</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ئاڤاتار و ١ بابەتی بەتایبەت دیزاینکراو</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d بابەتی بەتایبەت دیزاینکراو</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d بابەتی دیزاینکراوی تایبەتمەند</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d بڕگە ماوە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d بڕگە ماوە</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ئامێری جووتکراوی Samsung</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ئامێری جووتکراوی Samsung</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d بیرخەرەوە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d بیرخەرەوە</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">Your subscription ended on %1$s. Your data will be deleted in %2$d days. Reactivate your subscription to keep your data.</item>
+        <item quantity="one">Your subscription ended on %1$s. Your data will be deleted in %2$d day. Reactivate your subscription to keep your data.</item>
+        <item quantity="two">Your subscription ended on %1$s. Your data will be deleted in %2$d days. Reactivate your subscription to keep your data.</item>
+        <item quantity="few">Your subscription ended on %1$s. Your data will be deleted in %2$d days. Reactivate your subscription to keep your data.</item>
+        <item quantity="many">Your subscription ended on %1$s. Your data will be deleted in %2$d days. Reactivate your subscription to keep your data.</item>
+        <item quantity="other">Your subscription ended on %1$s. Your data will be deleted in %2$d days. Reactivate your subscription to keep your data.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ئاستی پاتری نزمە. لانیکەم %d%% بارگاوی بکەوە بۆ پاشەکەوتکردنی یەدەگی تابلێتەکەت.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ئاستی پاتری نزمە. لانیکەم %d%% بارگاوی بکەوە بۆ پاشەکەوتکردنی یەدەگی تابلێتەکەت.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">داتای بێسنوور بۆ %1$s پاشەکەوتی یەدەگ بکە بۆ ماوەیەک تاکو %2$d ڕۆژ یان ئەو داتایەی کە پاشەکەوتی یەدەگت کردووە بیگەڕێنەوە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">داتای بێسنوور بۆ %1$s پاشەکەوتی یەدەگ بکە بۆ ماوەیەک تاکو %2$d ڕۆژ یان ئەو داتایەی کە پاشەکەوتی یەدەگت کردووە بیگەڕێنەوە.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ئەم پاشەکەوتی یەدەگە لە %d ڕۆژ تردا دەسڕدرێتەوە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ئەم پاشەکەوتی یەدەگە لە %d ڕۆژ تردا دەسڕدرێتەوە.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">لە %d کاتژمێری تر دووبارە هەوڵدەوە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">لە %d کاتژمێری تر دووبارە هەوڵدەوە</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">لە %d کاتژمێر و ١ خولەکی تر دووبارە هەوڵدەوە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">لە %d کاتژمێر و ١ خولەکی تر دووبارە هەوڵدەوە</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">لە %d خولەکی تر ھەوڵدەوە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">لە %d خولەکی تر هەوڵدەوە</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">لە ١ کاتژمێر %d خولەکی تر دووبارە هەوڵدەوە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">لە ١ کاتژمێر %d خولەکی تر دووبارە هەوڵدەوە</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">پاشەکەوتە یەدەگەکەت ئێستا لەسەر %1$s سەلامەتە. %2$d ڕۆژت بۆ گەڕاندنەوەی ماوە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">پاشەکەوتە یەدەگەکەت ئێستا لەسەر %1$s سەلامەتە. تۆ %2$d ڕۆژت بۆ گەڕاندنەوەی ماوە.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">پاشەکەوتی یەدەگی کاتیی تۆ لە %d ڕۆژ تردا دەسڕدرێتەوە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">پاشەکەوتی یەدەگی کاتیی تۆ لە %d ڕۆژ تردا دەسڕدرێتەوە.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">داتای تۆ نەگەڕێندراوەتەوە سەر تەلەفۆنەکەت. تۆ %d ڕۆژت ماوە تا بیگەڕێنیتەوە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">داتای تۆ نەگەڕێندراوەتەوە سەر تەلەفۆنەکەت. تۆ %d ڕۆژت ماوە تا بیگەڕێنیتەوە.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">داتای تۆ نەگەڕێندراوەتەوە سەر تابلێتەکەت. تۆ %d ڕۆژت ماوە تا بیگەڕێنیتەوە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">داتای تۆ نەگەڕێندراوەتەوە سەر تابلێتەکەت. تۆ %d ڕۆژت ماوە تا بیگەڕێنیتەوە.</item>
+    </plurals>
+</resources>

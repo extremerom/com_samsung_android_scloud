@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:tag="layout/ctb_watch_restore_activity_layout_0" android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.core.widget.NestedScrollView android:orientation="vertical" android:focusable="false" android:descendantFocusability="beforeDescendants" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:layout_above="@id/button_view" android:overScrollMode="ifContentScrolls" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <TextView android:textAppearance="@style/TextTemporaryBackupScreenTitle" android:layout_gravity="center" android:id="@id/ctb_watch_restore_page_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_127dp" android:layout_marginBottom="@dimen/margin_36dp" android:text="@string/downloading_backup_from_samsung_cloud" android:textAlignment="center" android:layout_marginStart="@dimen/margin_24dp" android:layout_marginEnd="@dimen/margin_24dp" />
+            <TextView android:textAppearance="@style/TextCtbWatchRestoreScreenError" android:id="@id/error_message" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_16dp" android:text="@string/watch_couldnt_connect_to_samsung_cloud" android:layout_marginStart="@dimen/margin_24dp" android:layout_marginEnd="@dimen/margin_24dp" />
+            <LinearLayout android:orientation="vertical" android:id="@id/app_root_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+                <ScrollView android:id="@id/root_scroll_view" android:layout_width="match_parent" android:layout_height="0.0dp" android:fillViewport="true" android:layout_weight="1.0">
+                    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout android:orientation="vertical" android:tag="binding_1" android:background="@drawable/gray_round_button" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <include android:id="@id/watch_item" android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/ctb_watch_restore_activity_item" />
+                        </com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout>
+                    </LinearLayout>
+                </ScrollView>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+    <LinearLayout android:gravity="bottom" android:orientation="vertical" android:id="@id/button_view" android:tag="binding_2" android:background="@color/window_background_color" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent">
+        <include android:id="@id/bottom_button_layout" layout="@layout/horizontal_two_button_layout_view" />
+    </LinearLayout>
+</RelativeLayout>

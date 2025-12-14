@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.scloud.app.core.component.RoundCorneredScrollView android:orientation="vertical" android:focusable="false" android:scrollbars="vertical" android:descendantFocusability="beforeDescendants" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:overScrollMode="ifContentScrolls">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:background="@color/window_background_color" android:paddingLeft="@dimen/view_start_and_end_margin" android:paddingTop="@dimen/margin_13dp" android:paddingRight="@dimen/view_start_and_end_margin" android:paddingBottom="@dimen/margin_16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/margin_36dp">
+                <TextView android:textSize="@dimen/text_size_14sp" android:textColor="@color/header_title_text_color" android:id="@id/secure_setting_header" android:layout_width="match_parent" android:layout_height="wrap_content" android:accessibilityHeading="true" />
+            </LinearLayout>
+            <com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout android:orientation="vertical" android:id="@id/two_line_list" android:layout_width="match_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </com.samsung.android.scloud.app.core.component.RoundCorneredScrollView>
+</LinearLayout>

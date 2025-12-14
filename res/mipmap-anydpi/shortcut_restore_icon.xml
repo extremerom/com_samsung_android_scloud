@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/ic_quick_bg" />
+    <foreground>
+        <inset android:drawable="@drawable/ic_quick_restore" android:insetLeft="25.0%" android:insetRight="25.0%" android:insetTop="25.0%" android:insetBottom="25.0%" />
+    </foreground>
+</adaptive-icon>

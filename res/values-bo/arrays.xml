@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>ཁྱེད་ཀྱི་ཁ་པར་གློག་གསོག་བཞིན་འདུག</item>
+        <item>ཁྱེད་རང་གི་ཁ་པར་དེ་ Wi-Fi འབྲེལ་ལམ་དུ་འཇུག་པ།</item>
+        <item>བརྙན་ཡོལ་ཁ་རྒྱག་ཟིན།</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་གློག་སྣོན་བཞིན་ཡོད།</item>
+        <item>ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་Wi-Fiདྲ་བ་དང་འབྲེལ་ཟིན།</item>
+        <item>བརྙན་ཡོལ་ཁ་རྒྱག་ཟིན།</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>ཁྱེད་ཀྱི་ཁ་པར་ཡང་ན་བཀོལ་སྤྱོད་བརྒྱུད་ཁོངས་ལ་གཞི་བཞག་ཐོག་ཁྱེད་ཀྱིས་གཞི་གྲངས་གང་གྲབས་ཉར་བྱེད་ཐུབ་མིན་ལ་ཁྱད་པར་ཡོང་སྲིད།</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>ཁྱེད་ནས་གྲབས་ཉར་བྱས་པའི་གཞི་གྲངས་ངོས་པང་གློག་ཀླད་དམ་བཀོལ་སྤྱོད་མ་ལག་ལྟར་ཁྱད་བར་ཡོང་སྲིད།</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>联系人：来自已同步帐户的联系人</item>
+        <item>日历：来自已同步帐户的事件和任务</item>
+        <item>主题商店：主题和默认壁纸</item>
+        <item>应用程序：来自非三星应用程序的不兼容安装文件和数据</item>
+        <item>安全文件夹：应用程序和数据</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ཁ་པར། ཁ་པར་བཏང་བ་དང་བརྡ་འཕྲིན་གྱི་ལོ་རྒྱུས།</item>
+        <item>ཆ་འཕྲིན།མཐོར་བསྐྱེད་ཆ་འཕྲིན་དང་ཚོན་འཕྲིན།འཕྲིན་ཐུང་</item>
+        <item>འབྲེལ་གཏུག་སྟེ་སྒྲིག་ཆས་སྟེང་དུ་ཉར་བའི་འབྲེལ་གཏུག་དང་གློག་རྡུལ་སྦྲག་ཡིག་གནས་ས་དང་མིང་བྱང་།</item>
+        <item>ཚེས་ཐོ་སྟེ།སྒྲིག་ཆས་སྟེང་དུ་ཉར་བའི་དོན་རྐྱེན་དང་ལས་འགན།</item>
+        <item>ཆུ་ཚོད་འཁོར་ལོ་ བརྡ་བསྐུལ་ རྒྱལ་སྤྱི་ཆུ་ཚོད་ དེ་ལས་ དུས་ཡུན་བསྟན་པ་ཚོ</item>
+        <item>设置：辅助功能设置、铃声、三星键盘选项、Wi-Fi 设置、已配对的蓝牙设备、面部识别设置、指纹设置和息屏提醒设置 (不会备份您的默认铃声)</item>
+        <item>主屏幕：布局、壁纸和 Samsung DeX 设置</item>
+        <item>ཉེར་སྤྱོད་དེ།སྒྲིག་འཇུག་ཡིག་ཆ་དང་ཉེར་སྤྱོད་སྒྲིག་འགོད།</item>
+        <item>སྒྲ་འཛིན་ཆས། སྒྲ་འཛིན་བྱས་པ་ཁག</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s་སྟེ།གླེང་མོལ་ཟིན་ཐོ།</item>
+        <item>%s་སྟེ།བསྒྲོགས་ཟིན་པའི་ཟིན་བྲིས།</item>
+        <item>%s་སྟེ།མཉམ་བསྲེས་གསང་ཨང་གིས་སྲུང་བའི་དན་གྲངས།</item>
+        <item>%s་སྟེ།ཉེར་སྤྱོད་དང་ཉེར་སྤྱོད་དན་གྲངས།</item>
+        <item>%s་སྟེ།འགྲོས་བསྟུན་བྱས་པའི་རྩིས་གཞིའི་ནང་གི་དོན་རྐྱེན།</item>
+        <item>三星区块链密钥库</item>
+        <item>私人密钥和恢复短语</item>
+        <item>ཉེར་སྤྱོད་ཀྱི་སྲིད་ཇུས་ལྟར་བརྒྱུད་གཏོང་བྱེད་མི་ཐུབ་པའི་གཞི་གྲངས།</item>
+        <item>བདེ་འཇགས་རང་བཞིན་ནམ་འཆམ་མཐུན་རང་བཞིན་གྱི་གནད་དོན་སྟབས་ཀྱིས་ཉེར་སྤྱོད་སྐྱེལ་འདྲེན་བྱེད་མི་ཐུབ་སྟེ།%s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>只读联系人</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>རང་ལེན་རྩིག་ཤོག</item>
+        <item>Galaxy་བརྗོད་གཞིའི་ཚོང་ཁང་རྩིག་ཤོག</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>ཉེན་བརྡ་བྲེལ་མོའི་ཆ་འཕྲིན།</item>
+        <item>མ་ཡིག་དང་མ་འགྲུབ་པའི་ཆ་འཕྲིན།</item>
+        <item>iMessage་ནུས་འབྲས་ལྡན་པའི་ཆ་འཕྲིན།</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>已锁定的内容</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ཁ་པར། ཁ་པར་བཏང་བ་དང་བརྡ་འཕྲིན་གྱི་ལོ་རྒྱུས།</item>
+        <item>ཆ་འཕྲིན།མཐོར་བསྐྱེད་ཆ་འཕྲིན་དང་ཚོན་འཕྲིན།འཕྲིན་ཐུང་</item>
+        <item>ཆུ་ཚོད་འཁོར་ལོ་ བརྡ་བསྐུལ་ རྒྱལ་སྤྱི་ཆུ་ཚོད་ དེ་ལས་ དུས་ཡུན་བསྟན་པ་ཚོ</item>
+        <item>设置：辅助功能设置、铃声、三星键盘选项、Wi-Fi 设置、已配对的蓝牙设备和息屏提醒设置 (默认铃声未加密)</item>
+        <item>应用程序：应用程序设置</item>
+        <item>主屏幕：布局、壁纸和 Samsung DeX 设置</item>
+        <item>སྒྲ་འཛིན་ཆས། སྒྲ་འཛིན་བྱས་པ་ཁག</item>
+    </string-array>
+</resources>

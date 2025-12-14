@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Telefon yüklənir.</item>
+        <item>Telefonunuz Wi-Fi şəbəkəsinə qoşulub.</item>
+        <item>Ekran sönülüdür.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tablet yüklənir.</item>
+        <item>Tabletiniz Wi-Fi şəbəkəsinə qoşulub.</item>
+        <item>Ekran sönülüdür.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Nüsxələyə bildiyiniz məlumat telefon və ya əməliyyat sistemindən asılı olaraq fərqli ola bilər.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Nüsxələyə bildiyiniz məlumat tablet və ya əməliyyat sistemindən asılı olaraq fərqli ola bilər.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontaktlar: sinxronlaşdırılmış hesabların kontaktları</item>
+        <item>Təqvim: sinxronlaşdırılmış hesabların tədbir və tapşırıqları</item>
+        <item>Galaxy Themes: mövzular və standart divar kağızı</item>
+        <item>Proqramlar: uyğun olmayan quraşdırma faylları və Samsung olmayan proqramlardan əldə edilən verilənlər</item>
+        <item>Təhlükəsiz Qovluq: proqramlar və verilənlər</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kontaktlar: sinxronlaşdırılmış hesabların kontaktları</item>
+        <item>Təqvim: sinxronlaşdırılmış hesabların tədbir və tapşırıqları</item>
+        <item>Galaxy Themes: mövzular və standart divar kağızı</item>
+        <item>Proqramlar: dəstəklənməyən quraşdırma faylları</item>
+        <item>Təhlükəsiz Qovluq: proqramlar və verilənlər</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: zəng və mesaj tarixçəsi</item>
+        <item>Mesajlar: geniş mesajlar, multimedia mesajları və mətn mesajları</item>
+        <item>Kontaklar: kontaktlar, e-poçt ünvanları və biznes kartlar cihazda saxlandı</item>
+        <item>Təqvim: cihazda saxlanan tədbir və tapşırıqlar</item>
+        <item>Saat: siqnal, dünya saatları və taymerlər</item>
+        <item>Parametrlər: xüsusi imkanlar parametrləri, melodiya zəngləri, Samsung Klaviaturası seçimləri, Wi-Fi parametrləri, əlaqələndirilmiş Bluetooth cihazları, üz tanıması parametrləri, barmaq izi parametrləri və Always On Display parametrləri (standart melodiya zənginizin ehtiyat nüsxəsi çıxarılmayacaq)</item>
+        <item>Əsas ekran: düzüm, divar kağızları və Samsung DeX parametrləri</item>
+        <item>Proqramlar: quraşdırma faylları və proqram parametrləri</item>
+        <item>Səs Yazıcı: yazılar</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Musiqi: MP3, FLAC, WAV, M4A, OGG və digər musiqi faylları</item>
+        <item>Sənədlər: PDF, Word, Excel, PowerPoint və digər sənədlər</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: söhbət tarixçəsi</item>
+        <item>%s: kilidlənmiş qeydlər</item>
+        <item>%s: parolla qorunan məlumat</item>
+        <item>%s: proqramlar və proqram məlumatı</item>
+        <item>%s: Sinxronlaşmış hesabların tədbirləri</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Fərdi açar və bərpa ifadəsi</item>
+        <item>Proqram siyasətləri səbəbindən köçürülə bilməyən məlumat</item>
+        <item>Təhlükəsizlik və ya uyğunluq problemi səbəbindən köçürülə bilməyən proqramlar: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Yalnız oxunan kontaktlar</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Standart divar kağızı</item>
+        <item>Galaxy Themes divar kağızları</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Föqvəladə siqnal mesajları</item>
+        <item>Qaralama və xətalı mesajlar</item>
+        <item>iMessage effektləri ilə mesajlar</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Kilidli məzmun</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: zəng və mesaj tarixçəsi</item>
+        <item>Mesajlar: geniş mesajlar, multimedia mesajları və mətn mesajları</item>
+        <item>Saat: siqnal, dünya saatları və taymerlər</item>
+        <item>Parametrlər: xüsusi imkanlar üzrə parametrlər, zəng melodiyaları, Samsung Klaviaturası seçimləri, Wi-Fi parametrləri, əlaqələndirilmiş Bluetooth cihazları və Always On Display parametrləri (standart zəng melodiyası şifrlənmir)</item>
+        <item>Proqramlar: proqram parametrləri</item>
+        <item>Əsas ekran: düzüm, divar kağızları və Samsung DeX parametrləri</item>
+        <item>Səs Yazıcı: yazılar</item>
+    </string-array>
+</resources>

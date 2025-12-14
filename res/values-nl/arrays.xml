@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Uw telefoon wordt opgeladen.</item>
+        <item>Uw telefoon is verbonden met een Wi-Fi-netwerk.</item>
+        <item>Het scherm is uit.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Uw tablet wordt opgeladen.</item>
+        <item>Uw tablet is verbonden met een Wi-Fi-netwerk.</item>
+        <item>Het scherm is uit.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>De gegevens voor back-up kunnen verschillen op basis van uw telefoon of besturingssysteem.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>De gegevens voor back-up kunnen verschillen op basis van uw tablet of besturingssysteem.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Contacten: contacten van gesynchroniseerde accounts</item>
+        <item>Agenda: gebeurtenissen en taken van gesynchroniseerde accounts</item>
+        <item>"Galaxy Themes: thema's en standaardachtergrond"</item>
+        <item>Apps: niet-compatibele installatiebestanden en gegevens van niet-Samsung-apps</item>
+        <item>Veilige map: apps en gegevens</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Contacten: contacten van gesynchroniseerde accounts</item>
+        <item>Agenda: gebeurtenissen en taken van gesynchroniseerde accounts</item>
+        <item>"Galaxy Themes: thema's en standaardachtergrond"</item>
+        <item>Apps: niet-ondersteunde installatiebestanden</item>
+        <item>Veilige map: apps en gegevens</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefoon: oproep- en berichthistorie</item>
+        <item>Berichten: verbeterde berichten, mms- en sms-berichten</item>
+        <item>Contacten: contacten, e-mailadressen en visitekaartjes opgeslagen op uw apparaat</item>
+        <item>Agenda: gebeurtenissen en taken opgeslagen op uw apparaat</item>
+        <item>Klok: alarmen, wereldklokken en timers</item>
+        <item>Instellingen: toegankelijkheidsinstellingen, beltonen, Samsung Toetsenbord-opties, Wi-Fi-instellingen, gekoppelde Bluetooth-apparaten en instellingen voor gezichtsherkenning, vingerafdrukken en Always On Display (er wordt geen back-up gemaakt van de standaardbeltoon)</item>
+        <item>Startscherm: lay-out, achtergronden en Samsung DeX-instellingen</item>
+        <item>Apps: installatiebestanden en app-instellingen</item>
+        <item>Spraakrecorder: opnames</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Muziek: MP3, FLAC, WAV, M4A, OGG en andere muziekbestanden</item>
+        <item>Documenten: PDF, Word, Excel, PowerPoint en andere documenten</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: chathistorie</item>
+        <item>%s: vergrendelde notities</item>
+        <item>%s: met wachtwoord beveiligde gegevens</item>
+        <item>%s: apps en app-gegevens</item>
+        <item>%s: gebeurtenissen van gesynchroniseerde accounts</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Persoonlijke sleutel en herstelzin</item>
+        <item>Gegevens die niet kunnen worden overgezet vanwege het beleid van de app</item>
+        <item>Apps die niet kunnen worden overgezet vanwege beveiligings- of compatibiliteitsproblemen: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Alleen-lezen contacten</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Standaardachtergrond</item>
+        <item>Achtergronden Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Noodwaarschuwingen</item>
+        <item>Concepten en mislukte berichten</item>
+        <item>Berichten met iMessage-effecten</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Vergrendelde inhoud</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefoon: oproep- en berichthistorie</item>
+        <item>Berichten: verbeterde berichten, mms- en sms-berichten</item>
+        <item>Klok: alarmen, wereldklokken en timers</item>
+        <item>Instellingen: toegankelijkheidsinstellingen, beltonen, Samsung Toetsenbord-opties, Wi-Fi-instellingen, gekoppelde Bluetooth-apparaten en instellingen voor Always On Display (standaard beltoon wordt niet gecodeerd)</item>
+        <item>Apps: app-instellingen</item>
+        <item>Startscherm: lay-out, achtergronden en Samsung DeX-instellingen</item>
+        <item>Spraakrecorder: opnames</item>
+    </string-array>
+</resources>

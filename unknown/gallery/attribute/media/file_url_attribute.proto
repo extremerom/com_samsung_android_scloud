@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.media.attribute;
+
+option java_multiple_files = true;
+
+message FileUrlAttribute {
+
+  oneof original_file_url {
+    RegularFileUrl regular_url = 1;  
+    NdeFileUrl nde_url = 2; 
+  }
+
+  optional RegularFileUrl thumbnail_url = 3 [(google.api.field_behavior) = REQUIRED]; 
+  optional RegularFileUrl low_quality_video_url = 4; 
+
+
+  message RegularFileUrl {
+    string url = 1 [(google.api.field_behavior) = REQUIRED]; 
+  }
+  
+  message NdeFileUrl {
+    string nde_edited_url = 1 [(google.api.field_behavior) = REQUIRED]; 
+    string nde_raw_url = 2 [(google.api.field_behavior) = REQUIRED];
+  }
+
+}

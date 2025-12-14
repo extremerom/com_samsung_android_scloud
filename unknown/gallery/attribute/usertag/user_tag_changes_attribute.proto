@@ -1,0 +1,18 @@
+syntax = "proto3";
+package samsung.scsp.usertag.attribute;
+
+import "gallery/attribute/usertag/user_tag_attribute.proto";
+import "google/api/field_behavior.proto";
+
+message UserTagChange {
+  UserTag user_tag = 1 [(google.api.field_behavior) = REQUIRED]; 
+  ChangeType change_type = 2 [(google.api.field_behavior) = REQUIRED]; 
+  optional int64 server_timestamp = 3 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+enum ChangeType {
+  
+  CHANGE_TYPE_UNSPECIFIED = 0;
+  ADDED = 1;
+  DELETED = 2;
+}

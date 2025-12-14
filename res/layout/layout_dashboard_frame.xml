@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/layout_dashboard_frame_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:bind="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/enabler_group" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.samsung.android.scloud.app.common.template.card.shape.DividerCardShape android:id="@id/enabler" android:layout_width="match_parent" android:layout_height="wrap_content" bind:lower_divider_visibility="visible" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/sync_not_agreed_group" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.samsung.android.scloud.app.common.template.card.shape.DividerCardShape android:id="@id/sync_not_agreed" android:layout_width="match_parent" android:layout_height="wrap_content" bind:lower_divider_visibility="visible" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/sync_group" android:tag="binding_1" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include android:id="@id/sync_group_title" layout="@layout/dashboard_group_title" />
+        <com.samsung.android.scloud.app.common.template.card.shape.DividerCardShape android:id="@id/gallery" android:layout_width="match_parent" android:layout_height="wrap_content" bind:lower_divider_visibility="visible" />
+        <com.samsung.android.scloud.app.common.template.card.shape.DividerCardShape android:id="@id/sync" android:tag="binding_2" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/baidu_group" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.samsung.android.scloud.app.common.template.card.shape.DividerCardShape android:id="@id/baidu" android:layout_width="match_parent" android:layout_height="wrap_content" bind:lower_divider_visibility="visible" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/tencent_group" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.samsung.android.scloud.app.common.template.card.shape.DividerCardShape android:id="@id/tencent" android:layout_width="match_parent" android:layout_height="wrap_content" bind:lower_divider_visibility="visible" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/bnr_group" android:tag="binding_3" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include android:id="@id/bnr_group_title" layout="@layout/dashboard_group_title" />
+        <com.samsung.android.scloud.app.common.template.card.shape.DividerCardShape android:id="@id/bnr" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

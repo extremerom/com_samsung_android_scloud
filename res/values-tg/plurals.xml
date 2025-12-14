@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 сурат ва %1$d видео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 сурат ва %1$d видео (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d барнома насб карда нашуд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d барнома насб карда нашуд</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Паёмҳо: ҳушдорҳои фавқулодда, файлҳои интиқолшуда, паёмҳои мултимедиаи калонтар аз %d МБ, сиёҳнависҳо ва паёмҳои бебарор</item>
+        <item quantity="one">Паёмҳо: ҳушдорҳои фавқулодда, файлҳои интиқолшуда, паёмҳои мултимедиаи калонтар аз %d МБ, сиёҳнависҳо ва паёмҳои бебарор</item>
+        <item quantity="two">Паёмҳо: ҳушдорҳои фавқулодда, файлҳои интиқолшуда, паёмҳои мултимедиаи калонтар аз %d МБ, сиёҳнависҳо ва паёмҳои бебарор</item>
+        <item quantity="few">Паёмҳо: ҳушдорҳои фавқулодда, файлҳои интиқолшуда, паёмҳои мултимедиаи калонтар аз %d МБ, сиёҳнависҳо ва паёмҳои бебарор</item>
+        <item quantity="many">Паёмҳо: ҳушдорҳои фавқулодда, файлҳои интиқолшуда, паёмҳои мултимедиаи калонтар аз %d МБ, сиёҳнависҳо ва паёмҳои бебарор</item>
+        <item quantity="other">Паёмҳо: ҳушдорҳои фавқулодда, файлҳои интиқолшуда, паёмҳои мултимедиаи калонтар аз %d МБ, сиёҳнависҳо ва паёмҳои бебарор</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Муҳлати иттилооти эҳтиётӣ барои %d дастгоҳ ба наздикӣ мегузарад. Барои санаи ниҳоиро дидан, дастгоҳро дар поён интихоб кунед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Муҳлати иттилооти эҳтиётӣ барои %d дастгоҳ ба наздикӣ мегузарад. Барои санаи ниҳоиро дидан, дастгоҳеро дар поён интихоб кунед.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Муҳлати иттилооти эҳтиётӣ барои %d дастгоҳ ба наздикӣ мегузарад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Муҳлати иттилооти эҳтиётӣ барои %d дастгоҳ ба наздикӣ мегузарад.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Азбаски навсозии %1$d ҷузъи нусхаи эҳтиётӣ барор наёфт, ба телефони нави шумо (%2$s) нусхаи эҳтиётии қаблии ин ҷузъ барқарор карда мешавад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Азбаски навсозии %1$d ҷузъи нусхаи эҳтиётӣ барор наёфт, ба телефони нави шумо (%2$s) нусхаҳои эҳтиётии қаблии ин ҷузъҳо барқарор карда мешаванд.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Азбаски навсозии %1$d ҷузъи нусхаи эҳтиётӣ барор наёфт, ба телефони нави шумо (%3$s) нусхаи эҳтиётии рӯзи %2$s эҷодшудаи ин ҷузъ барқарор карда мешавад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Азбаски навсозии %1$d ҷузъи нусхаҳои эҳтиётӣ барор наёфт, ба телефони нави шумо (%3$s) нусхаҳои эҳтиётии рӯзи %2$s эҷодшудаи ин ҷузъҳо барқарор карда мешаванд.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Азбаски навсозии %1$d ҷузъи нусхаи эҳтиётӣ барор наёфт, ба планшети нави шумо (%2$s) нусхаи эҳтиётии қаблии ин ҷузъ барқарор карда мешавад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Азбаски навсозии %1$d ҷузъи нусхаи эҳтиётӣ барор наёфт, ба планшети нави шумо (%2$s) нусхаҳои эҳтиётии қаблии ин ҷузъҳо барқарор карда мешаванд.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Азбаски навсозии %1$d ҷузъи нусхаи эҳтиётӣ барор наёфт, ба планшети нави шумо (%3$s) нусхаи эҳтиётии рӯзи %2$s эҷодшудаи ин ҷузъ барқарор карда мешавад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Азбаски навсозии %1$d ҷузъи нусхаҳои эҳтиётӣ барор наёфт, ба планшети нави шумо (%3$s) нусхаҳои эҳтиётии рӯзи %2$s эҷодшудаи ин ҷузъҳо барқарор карда мешаванд.</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Иттилоот баъди %d рӯз нест карда мешавад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Иттилоот баъди %d рӯз нест карда мешавад.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Муҳлат баъди %d рӯз ба охир мерасад</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Муҳлат баъди %d рӯз ба охир мерасад</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Аксарияти иттилооти шумо барқарор карда шуд, аммо %d барнома насб карда нашуд.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Аксарияти иттилооти шумо барқарор карда шуд, аммо %d барнома насб карда нашуд.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d албоми нав дастрас аст</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d албоми нав дастрас аст</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d албом интихоб карда шуд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d албом интихоб карда шуд</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 аватар ва %d ашёи фармоишӣ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 аватар ва %d ашёи фармоишӣ</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 соат %d дақиқа монд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 соат %d дақиқа монд</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 сурат ва %d видео ҳмҳнг шуд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 сурат ва %d видео ҳмҳнг шуд</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ҷузъ интихоб шудааст (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ҷузъ интихоб шудааст (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d сурат ва 1 видео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d сурат ва 1 видео (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d сурат (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d сурат (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d интихоб шуд (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d интихоб шуд (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d видео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d видео (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d файл</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d файл</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d соат 1 дақиқа монд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d соат 1 дақиқа монд</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d тасвир аз абр боргирӣ карда шуд.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d тасвир аз абр боргирӣ карда шуд.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ҷузъ аз абр боргирӣ карда шуд.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ҷузъ аз абр боргирӣ карда шуд.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d дақиқа</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d дақиқа</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d дақиқа монд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d дақиқа монд</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d сурат ва 1 видео ҳмҳнг шуд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d сурат ва 1 видео ҳмҳнг шуд</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d сурат ҳамоҳанг карда шуд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d сурат ҳамоҳанг карда шуд</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d сурат ё видео</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d сурат ва видео</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d интихоб карда шуд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d интихоб карда шуд</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d видео аз абр боргирӣ карда шуд.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d видео аз абр боргирӣ карда шуд.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d видео ҳамоҳанг карда шуд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d видео ҳамоҳанг карда шуд</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Барқи батарея кам аст. Барои телефони худро нусхаи эҳтиётӣ гирифтан, ақаллан то %d%% барқ диҳед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Барқи батарея кам аст. Барои телефони худро нусхаи эҳтиётӣ гирифтан, ақаллан то %d%% барқ диҳед.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Муҳлати нусхаи эҳтиётии муваққатӣ баъди %d рӯз мегузарад. Онро ҳозир барқарор кунед ё агар вақти бештар лозим бошад, санаи анҷоми муҳлатро мононед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Муҳлати нусхаи эҳтиётии муваққатӣ баъди %d рӯз мегузарад. Онро ба зудӣ барқарор кунед ё агар вақти бештар лозим бошад, санаи анҷоми муҳлатро мононед.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d рӯз монондан</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d рӯз монондан</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d аватар</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d аватар</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d аватар ва 1 ашёи фармоишӣ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d аватар ва 1 ашёи фармоишӣ</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ашёи фармоишӣ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ашёи фармоишӣ</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ҷузъ монд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ҷузъ монд</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d дастгоҳи ҷуфтшудаи Samsung</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d дастгоҳи ҷуфтшудаи Samsung</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ёдрас</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ёдрас</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Муҳлати обуна рӯзи %1$s ба поён расид. Иттилоот баъди %2$d рӯз нест карда мешавад. Барои иттилооти худро нигоҳ доштан, обунаи худро дубора фаъол кунед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Муҳлати обуна рӯзи %1$s ба поён расид. Иттилоот баъди %2$d рӯз нест карда мешавад. Барои иттилооти худро нигоҳ доштан, обунаи худро дубора фаъол кунед.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Барқи батарея кам аст. Барои планшети худро нусхаи эҳтиётӣ гирифтан, ақаллан то %d%% барқ диҳед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Барқи батарея кам аст. Барои планшети худро нусхаи эҳтиётӣ гирифтан, ақаллан то %d%% барқ диҳед.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Миқдори номаҳдуди иттилоотро ба %1$s бо муҳлати то %2$d рӯз нусхаи эҳтиётӣ гиред ё иттилооти нусхаи эҳтиётӣ гирифтаатонро барқарор кунед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Миқдори номаҳдуди иттилоотро ба %1$s бо муҳлати то %2$d рӯз нусхаи эҳтиётӣ гиред ё иттилооти нусхаи эҳтиётӣ гирифтаатонро барқарор кунед.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ин нусхаи эҳтиётӣ баъди %d рӯз нест карда мешавад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ин нусхаи эҳтиётӣ баъди %d рӯз нест карда мешавад.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Кӯшишро баъди %d соат такрор кунед</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Кӯшишро баъди %d соат такрор кунед</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Кӯшишро баъди %d соат 1 дақиқа такрор кунед</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Кӯшишро баъди %d соат 1 дақиқа такрор кунед</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Кӯшишро баъди %d дақиқа такрор кунед</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Кӯшишро баъди %d дақиқа такрор кунед</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Кӯшишро баъди 1 соат %d дақиқа такрор кунед</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Кӯшишро баъди 1 соат %d дақиқа такрор кунед</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Нусхаи эҳтиётии шумо ба таври эмин дар %1$s нигоҳ дошта мешавад. Барои онро барқарор кардан %2$d рӯз доред.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Нусхаи эҳтиётии шумо ба таври эмин дар %1$s нигоҳ дошта мешавад. Барои онро барқарор кардан %2$d рӯз доред.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Нусхаи эҳтиётии муваққатӣ баъди %d рӯз нест карда мешавад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Нусхаи эҳтиётии муваққатӣ баъди %d рӯз нест карда мешавад.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Иттилооти шумо ба телефон барқарор карда нашуд. Барои онро барқарор кардан %d рӯз мондааст.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Иттилооти шумо ба телефон барқарор карда нашуд. Барои онро барқарор кардан %d рӯз мондааст.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Иттилооти шумо ба планшет барқарор карда нашуд. Барои онро барқарор кардан %d рӯз мондааст.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Иттилооти шумо ба планшет барқарор карда нашуд. Барои онро барқарор кардан %d рӯз мондааст.</item>
+    </plurals>
+</resources>

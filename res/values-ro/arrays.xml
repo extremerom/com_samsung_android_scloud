@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Telefonul se încarcă.</item>
+        <item>Telefonul este conectat la o rețea Wi-Fi.</item>
+        <item>Ecranul este oprit.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tableta se încarcă.</item>
+        <item>Tableta este conectată la o rețea Wi-Fi.</item>
+        <item>Ecranul este oprit.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Datele cărora li se poate face backup pot diferi în funcție de telefon sau de sistemul de operare.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Datele cărora li se poate face backup pot diferi în funcție de tabletă sau de sistemul de operare.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Contacte: contacte din conturile sincronizate</item>
+        <item>Calendar: evenimente și activități din conturile sincronizate</item>
+        <item>Galaxy Themes: teme și fundal implicit</item>
+        <item>Aplicații: fișiere de instalare incompatibile și date de la aplicații care nu aparțin Samsung</item>
+        <item>Folder securizat: aplicații și date</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Contacte: contacte din conturile sincronizate</item>
+        <item>Calendar: evenimente și activități din conturile sincronizate</item>
+        <item>Galaxy Themes: teme și fundal implicit</item>
+        <item>Aplicații: fișiere de instalare neacceptate</item>
+        <item>Folder securizat: aplicații și date</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: istoric apeluri și mesaje</item>
+        <item>Mesaje: mesaje îmbunătățite, mesaje multimedia și mesaje de text</item>
+        <item>Contacte: contacte, adrese de e-mail și cărți de vizită salvate pe dispozitivul dvs.</item>
+        <item>Calendar: evenimente și activități salvate pe dispozitivul dvs.</item>
+        <item>Ceas: alarme, ore pe glob și temporizatoare</item>
+        <item>Setări: setări accesibilitate, tonuri de apel, opțiuni Tastatură Samsung, setări Wi-Fi, dispozitive Bluetooth asociate, setări recunoaștere facială, setări amprente și setări Always On Display (tonului de apel implicit nu i se va face backup)</item>
+        <item>Ecranul Acasă: aspect, fundaluri și setări pentru Samsung DeX</item>
+        <item>Aplicații: fișiere de instalare și setări aplicație</item>
+        <item>Înregistrare voce: înregistrări</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Muzică: MP3, FLAC, WAV, M4A, OGG și alte fișiere muzicale</item>
+        <item>Documente: PDF, Word, Excel, PowerPoint și alte documente</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: istoric chat</item>
+        <item>%s: note blocate</item>
+        <item>%s: date protejate prin parolă</item>
+        <item>%s: aplicații și date aplicații</item>
+        <item>%s: evenimente din conturile sincronizate</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Cheie privată și expresie de recuperare</item>
+        <item>Date care nu pot fi transferate din cauza politicilor aplicației</item>
+        <item>Aplicații care nu pot fi transferate din cauza problemelor de securitate sau de compatibilitate: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Contacte doar în citire</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Fundal implicit</item>
+        <item>Fundaluri Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Mesaje avertizare de urgență</item>
+        <item>Schițe și mesaje nereușite</item>
+        <item>Mesaje cu efecte iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Conținut blocat</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: istoric apeluri și mesaje</item>
+        <item>Mesaje: mesaje îmbunătățite, mesaje multimedia și mesaje de text</item>
+        <item>Ceas: alarme, ore pe glob și temporizatoare</item>
+        <item>Setări: setări accesibilitate, tonuri de apel, opțiuni Tastatură Samsung, setări Wi-Fi, dispozitive Bluetooth asociate și setări Always On Display (ton de apel implicit necriptat)</item>
+        <item>Aplicații: setări aplicații</item>
+        <item>Ecranul Acasă: aspect, fundaluri și setări pentru Samsung DeX</item>
+        <item>Înregistrare voce: înregistrări</item>
+    </string-array>
+</resources>

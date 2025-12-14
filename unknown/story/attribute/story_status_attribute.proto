@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package samsung.scsp.story.attribute;
+
+enum StoryStatus {
+  
+  STORY_STATUS_UNSPECIFIED = 0;
+  CREATED = 1;
+  UPDATED = 2;
+  DELETED = 3;
+}

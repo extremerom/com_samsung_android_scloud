@@ -1,0 +1,46 @@
+
+syntax = "proto3";
+
+package samsung.scsp.gallery.admin.v1;
+
+option java_multiple_files = true;
+
+service AdminService {
+  
+  rpc Clear(ClearMediaRequest) returns (ClearMediaResponse) {}
+  
+  
+  rpc GetInfo(GetMediaInfoRequest) returns (GetMediaInfoResponse) {}
+  
+  
+  rpc DelayFor(DelayRequest) returns (DelayResponse) {}
+}
+
+
+message ClearMediaRequest {
+  
+}
+
+message ClearMediaResponse {
+  
+}
+
+
+message GetMediaInfoRequest {
+  
+}
+
+message GetMediaInfoResponse {
+  optional int32 total_count = 1; 
+  optional int32 image_count = 2; 
+  optional int32 video_count = 3; 
+}
+
+
+message DelayRequest {
+  int64 millis = 1; 
+}
+
+message DelayResponse {
+  
+} 

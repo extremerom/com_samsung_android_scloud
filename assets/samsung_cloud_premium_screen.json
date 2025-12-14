@@ -1,0 +1,291 @@
+{
+  "top": {
+    "type": "Column",
+    "style": {
+      "paddingTop": 32,
+      "paddingStart": 35,
+      "paddingEnd": 35,
+      "horizontalAlignment": "CenterHorizontally"
+    },
+    "children": [
+      {
+        "type": "Image",
+        "name": "premium_cloud_ic",
+        "style": {
+          "paddingTop": 76,
+          "paddingBottom": 36,
+          "width": {
+            "sizeType": "Fixed",
+            "size": 146
+          },
+          "height": {
+            "sizeType": "Fixed",
+            "size": 59
+          }
+        }
+      },
+      {
+        "type": "Text",
+        "text": "Keep your Galaxy data safe and accessible with Samsung Cloud Premium.\\n\\n",
+        "style": {
+          "fontWeight": "Bold",
+          "fontColor": "GRAY_TEXT_L2",
+          "textAlign": "Center",
+          "fontSize": 16
+        }
+      },
+      {
+        "type": "Text",
+        "text": "Sync your photos and videos across your devices. Back up music, app data, and documents for total security. Access your gallery from the web. No matter what happens, your digital life will stay protected and within reach.\\n\\n",
+        "style": {
+          "fontWeight": "Regular",
+          "fontColor": "GRAY_TEXT_L3",
+          "textAlign": "Center",
+          "fontSize": 16
+        }
+      },
+      {
+        "type": "Text",
+        "text": "<<See what you can store>>",
+        "style": {
+          "fontWeight": "Regular",
+          "fontColor": "GRAY_TEXT_L3",
+          "textAlign": "Center",
+          "fontSize": 16,
+          "underline": true
+        },
+        "action": {
+          "actionType": "ClickText",
+          "textId": "See what you can store"
+        }
+      }
+    ]
+  },
+  "center": {
+    "type": "Column",
+    "style": {
+      "paddingTop": 24,
+      "paddingStart": 20,
+      "paddingEnd": 20,
+      "paddingBottom": 24,
+      "width": {
+        "sizeType": "Fill"
+      },
+      "verticalArrangement": {
+        "arrangementType": "SpacedBy",
+        "space": 12
+      },
+      "horizontalAlignment": "CenterHorizontally"
+    },
+    "children": [
+      {
+        "type": "Box",
+        "id": "Plan 1",
+        "style": {
+          "borderWidth": 2,
+          "borderColorUnselected": "GRAYSCALE_L5",
+          "borderColorSelected": "Primary_Blue",
+          "background": "GRAYSCALE_L5",
+          "paddingTop": 16,
+          "paddingStart": 16,
+          "paddingEnd": 16,
+          "paddingBottom": 16,
+          "shape": {
+            "shapeType": "RoundCorner",
+            "cornerRadius": 26
+          },
+          "width": {
+            "sizeType": "Fill"
+          }
+        },
+        "children": [
+          {
+            "type": "Column",
+            "style": {
+              "horizontalAlignment": "CenterHorizontally",
+              "width": {
+                "sizeType": "Fill"
+              }
+            },
+            "children": [
+              {
+                "type": "Text",
+                "text": "50GB",
+                "style": {
+                  "fontWeight": "Bold",
+                  "textAlign": "Center",
+                  "fontSize": 32,
+                  "fontColor": "GRAY_TEXT_L2"
+                }
+              },
+              {
+                "type": "Text",
+                "text": "$0.99/month",
+                "style": {
+                  "fontWeight": "Regular",
+                  "textAlign": "Center",
+                  "fontSize": 16,
+                  "fontColor": "Primary_Blue"
+                }
+              }
+            ]
+          }
+        ],
+        "action": {
+          "actionType": "SelectBox",
+          "boxId": "Plan 1"
+        }
+      },
+      {
+        "type": "Box",
+        "id": "Plan 2",
+        "style": {
+          "borderWidth": 2,
+          "borderColorUnselected": "GRAYSCALE_L5",
+          "borderColorSelected": "Primary_Blue",
+          "background": "GRAYSCALE_L5",
+          "paddingTop": 16,
+          "paddingStart": 16,
+          "paddingEnd": 16,
+          "paddingBottom": 16,
+          "shape": {
+            "shapeType": "RoundCorner",
+            "cornerRadius": 26
+          },
+          "width": {
+            "sizeType": "Fill"
+          }
+        },
+        "children": [
+          {
+            "type": "Column",
+            "style": {
+              "horizontalAlignment": "CenterHorizontally",
+              "width": {
+                "sizeType": "Fill"
+              }
+            },
+            "children": [
+              {
+                "type": "Text",
+                "text": "200GB",
+                "style": {
+                  "fontWeight": "Bold",
+                  "textAlign": "Center",
+                  "fontSize": 32,
+                  "fontColor": "GRAY_TEXT_L2"
+                }
+              },
+              {
+                "type": "Text",
+                "text": "$2.99/month",
+                "style": {
+                  "fontWeight": "Regular",
+                  "textAlign": "Center",
+                  "fontSize": 16,
+                  "fontColor": "Primary_Blue"
+                }
+              }
+            ]
+          }
+        ],
+        "action": {
+          "actionType": "SelectBox",
+          "boxId": "Plan 2"
+        }
+      },
+      {
+        "type": "Box",
+        "id": "Plan 3",
+        "style": {
+          "borderWidth": 2,
+          "borderColorUnselected": "GRAYSCALE_L5",
+          "borderColorSelected": "Primary_Blue",
+          "background": "GRAYSCALE_L5",
+          "paddingTop": 16,
+          "paddingStart": 16,
+          "paddingEnd": 16,
+          "paddingBottom": 16,
+          "shape": {
+            "shapeType": "RoundCorner",
+            "cornerRadius": 26
+          },
+          "width": {
+            "sizeType": "Fill"
+          }
+        },
+        "children": [
+          {
+            "type": "Column",
+            "style": {
+              "horizontalAlignment": "CenterHorizontally",
+              "width": {
+                "sizeType": "Fill"
+              }
+            },
+            "children": [
+              {
+                "type": "Text",
+                "text": "2TB",
+                "style": {
+                  "fontWeight": "Bold",
+                  "textAlign": "Center",
+                  "fontSize": 32,
+                  "fontColor": "GRAY_TEXT_L2"
+                }
+              },
+              {
+                "type": "Text",
+                "text": "$9.99 per month",
+                "style": {
+                  "fontWeight": "Regular",
+                  "textAlign": "Center",
+                  "fontSize": 16,
+                  "fontColor": "Primary_Blue"
+                }
+              }
+            ]
+          }
+        ],
+        "action": {
+          "actionType": "SelectBox",
+          "boxId": "Plan 3"
+        }
+      }
+    ]
+  },
+  "bottom": {
+    "type": "Column",
+    "style": {
+      "paddingBottom": 20,
+      "horizontalAlignment": "CenterHorizontally"
+    },
+    "children": [
+      {
+        "type": "Button",
+        "textSingle": "Upgrade to Premium",
+        "layoutType": "SINGLE",
+        "singleButtonType": "SINGLE_MAIN",
+        "singleAction": {
+          "actionType": "ClickButton",
+          "buttonId": "Single"
+        }
+      },
+      {
+        "type": "Text",
+        "text": "<<Not now>>",
+        "style": {
+          "fontWeight": "Regular",
+          "fontColor": "GRAYSCALE_D10",
+          "textAlign": "Center",
+          "fontSize": 14,
+          "underline": true
+        },
+        "action": {
+          "actionType": "ClickText",
+          "textId": "Not now"
+        }
+      }
+    ]
+  }
+}

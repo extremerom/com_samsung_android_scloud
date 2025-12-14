@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/layout_card_view_0" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.scloud.app.common.custom.ChangingPositionRightControlLinearLayout android:orientation="vertical" android:id="@id/main_card_container" android:tag="binding_1" android:background="?listChoiceBackgroundIndicator" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.constraintlayout.widget.ConstraintLayout android:gravity="center_vertical" android:orientation="horizontal" android:tag="binding_2" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/cardview_padding_start" style="@style/RecoilEffect">
+            <CheckBox android:id="@id/checkbox" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/icon_container" app:layout_constraintHorizontal_chainStyle="packed" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+            <RelativeLayout android:id="@id/icon_container" android:tag="binding_4" android:layout_width="@dimen/cardview_icon_size" android:layout_height="@dimen/cardview_icon_size" android:layout_marginStart="@dimen/cardview_icon_margin_start" android:layout_marginEnd="@dimen/cardview_icon_margin_end" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/text_region" app:layout_constraintStart_toEndOf="@id/checkbox" app:layout_constraintTop_toTopOf="parent">
+                <ImageView android:id="@id/icon_left" android:tag="binding_5" android:layout_width="@dimen/cardview_icon_size" android:layout_height="@dimen/cardview_icon_size" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toTopOf="parent" />
+                <ImageView android:id="@id/encrypted_image" android:tag="binding_6" android:layout_width="@dimen/cardview_encrypted_icon_size" android:layout_height="@dimen/cardview_encrypted_icon_size" android:layout_marginTop="@dimen/margin_18dp" android:src="@drawable/e2ee_badge" android:layout_alignBottom="@id/icon_left" android:layout_marginStart="@dimen/margin_18dp" android:layout_alignEnd="@id/icon_left" />
+            </RelativeLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/text_region" android:tag="binding_7" android:layout_width="0.0dp" android:layout_height="wrap_content" android:paddingEnd="10.0dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/right_control_small" app:layout_constraintHorizontal_weight="1.0" app:layout_constraintStart_toEndOf="@id/icon_container" app:layout_constraintTop_toTopOf="parent">
+                <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:id="@id/title" android:tag="binding_8" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:id="@id/new_badge" android:tag="binding_9" android:focusable="false" android:clickable="false" android:duplicateParentState="true" android:layout_width="@dimen/new_badge_size" android:layout_height="@dimen/new_badge_size" android:contentDescription="@string/new_content_available" android:layout_marginStart="@dimen/new_badge_margin_start" />
+                </LinearLayout>
+                <TextView android:textAppearance="@style/TextCardViewSubTitle" android:id="@id/subtitle" android:tag="binding_10" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <include android:id="@id/right_control_small" android:layout_width="wrap_content" android:layout_height="0.0dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHeight_min="wrap" app:layout_constraintStart_toEndOf="@id/text_region" app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_weight="1.0" layout="@layout/layout_card_view_right_control" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <FrameLayout android:id="@id/right_control_big" android:tag="binding_11" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/cardview_padding_start" android:paddingEnd="0.0dp">
+            <include android:layout_gravity="end" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/layout_card_view_right_control" />
+        </FrameLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/cardview_padding_start" android:paddingEnd="@dimen/cardview_padding_end">
+            <CheckBox android:tag="binding_12" android:layout_width="wrap_content" android:layout_height="1.0dp" android:alpha="0.0" />
+            <View android:tag="binding_13" android:layout_width="@dimen/cardview_icon_size" android:layout_height="1.0dp" android:alpha="0.0" android:layout_marginStart="@dimen/cardview_icon_margin_start" android:layout_marginEnd="@dimen/cardview_icon_margin_end" />
+            <FrameLayout android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <ImageView android:id="@id/divider" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="?android:listDivider" android:scaleX="1.5" />
+            </FrameLayout>
+        </LinearLayout>
+    </com.samsung.android.scloud.app.common.custom.ChangingPositionRightControlLinearLayout>
+</FrameLayout>

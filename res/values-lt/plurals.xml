@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 nuotrauka ir %1$d vaizdo įrašas (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">1 nuotrauka ir %1$d vaizdo įrašai (%2$s)</item>
+        <item quantity="many">1 nuotrauka ir %1$d vaizdo įrašų (%2$s)</item>
+        <item quantity="other">1 nuotrauka ir %1$d vaizdo įrašų (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d programa neįdiegta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d programos neįdiegtos</item>
+        <item quantity="many">%d programų neįdiegta</item>
+        <item quantity="other">%d programų neįdiegta</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Žinutės: pavojaus įspėjimai, perkelti failai, multimedijos žinutės, didesnės nei %d MB, juodraščiai ir nepavykusios išsiųsti žinutės</item>
+        <item quantity="one">Žinutės: pavojaus įspėjimai, perkelti failai, multimedijos žinutės, didesnės nei %d MB, juodraščiai ir nepavykusios išsiųsti žinutės</item>
+        <item quantity="two">Žinutės: pavojaus įspėjimai, perkelti failai, multimedijos žinutės, didesnės nei %d MB, juodraščiai ir nepavykusios išsiųsti žinutės</item>
+        <item quantity="few">Žinutės: pavojaus įspėjimai, perkelti failai, multimedijos žinutės, didesnės nei %d MB, juodraščiai ir nepavykusios išsiųsti žinutės</item>
+        <item quantity="many">Žinutės: pavojaus įspėjimai, perkelti failai, multimedijos žinutės, didesnės nei %d MB, juodraščiai ir nepavykusios išsiųsti žinutės</item>
+        <item quantity="other">Žinutės: pavojaus įspėjimai, perkelti failai, multimedijos žinutės, didesnės nei %d MB, juodraščiai ir nepavykusios išsiųsti žinutės</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Atsarginis duomenų kopijavimas %d įrenginiui netrukus baigs galioti. Toliau pasirinkite įrenginį ir patikrinkite galiojimo datą.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Atsarginis duomenų kopijavimas %d įrenginiams netrukus baigs galioti. Toliau pasirinkite įrenginį ir patikrinkite galiojimo datą.</item>
+        <item quantity="many">Atsarginis duomenų kopijavimas %d įrenginio netrukus baigs galioti. Toliau pasirinkite įrenginį ir patikrinkite galiojimo datą.</item>
+        <item quantity="other">Atsarginis duomenų kopijavimas %d įrenginių netrukus baigs galioti. Toliau pasirinkite įrenginį ir patikrinkite galiojimo datą.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Atsarginis duomenų kopijavimas %d įrenginiui netrukus baigs galioti.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Atsarginis duomenų kopijavimas %d įrenginiams netrukus baigs galioti.</item>
+        <item quantity="many">Atsarginis duomenų kopijavimas %d įrenginio netrukus baigs galioti.</item>
+        <item quantity="other">Atsarginis duomenų kopijavimas %d įrenginių netrukus baigs galioti.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d atsarginės kopijos elemento nepavyko atnaujinti, todėl naujajame telefone (%2$s) bus atkurta ankstesnė atsarginė šio elemento kopija.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d atsarginės kopijos elementų nepavyko atnaujinti, todėl naujajame telefone (%2$s) bus atkurtos ankstesnės atsarginės šių elementų kopijos.</item>
+        <item quantity="many">%1$d atsarginės kopijos elementų nepavyko atnaujinti, todėl naujajame telefone (%2$s) bus atkurtos ankstesnės atsarginės šių elementų kopijos.</item>
+        <item quantity="other">%1$d atsarginės kopijos elementų nepavyko atnaujinti, todėl naujajame telefone (%2$s) bus atkurtos ankstesnės atsarginės šių elementų kopijos.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d atsarginės kopijos elemento nepavyko atnaujinti, todėl jūsų naujajame telefone (%3$s) bus atkurta %2$s sukurta šio elemento atsarginė kopija.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d atsarginės kopijos elementų nepavyko atnaujinti, todėl jūsų naujajame telefone (%3$s) bus atkurtos %2$s sukurtos šių elementų atsarginės kopijos.</item>
+        <item quantity="many">%1$d atsarginės kopijos elementų nepavyko atnaujinti, todėl jūsų naujajame telefone (%3$s) bus atkurtos %2$s sukurtos šių elementų atsarginės kopijos.</item>
+        <item quantity="other">%1$d atsarginės kopijos elementų nepavyko atnaujinti, todėl jūsų naujajame telefone (%3$s) bus atkurtos %2$s sukurtos šių elementų atsarginės kopijos.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d atsarginės kopijos elemento nepavyko atnaujinti, todėl naujajame planšetiniame kompiuteryje (%2$s) bus atkurta ankstesnė atsarginė šio elemento kopija.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d atsarginės kopijos elementų nepavyko atnaujinti, todėl naujajame planšetiniame kompiuteryje (%2$s) bus atkurtos ankstesnės atsarginės šių elementų kopijos.</item>
+        <item quantity="many">%1$d atsarginės kopijos elementų nepavyko atnaujinti, todėl naujajame planšetiniame kompiuteryje (%2$s) bus atkurtos ankstesnės atsarginės šių elementų kopijos.</item>
+        <item quantity="other">%1$d atsarginės kopijos elementų nepavyko atnaujinti, todėl naujajame planšetiniame kompiuteryje (%2$s) bus atkurtos ankstesnės atsarginės šių elementų kopijos.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d atsarginės kopijos elemento nepavyko atnaujinti, todėl jūsų naujajame planšetiniame kompiuteryje (%3$s) bus atkurta %2$s sukurta šio elemento atsarginė kopija.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d atsarginės kopijos elementų nepavyko atnaujinti, todėl jūsų naujajame planšetiniame kompiuteryje (%3$s) bus atkurtos %2$s sukurtos šių elementų atsarginės kopijos.</item>
+        <item quantity="many">%1$d atsarginės kopijos elementų nepavyko atnaujinti, todėl jūsų naujajame planšetiniame kompiuteryje (%3$s) bus atkurtos %2$s sukurtos šių elementų atsarginės kopijos.</item>
+        <item quantity="other">%1$d atsarginės kopijos elementų nepavyko atnaujinti, todėl jūsų naujajame planšetiniame kompiuteryje (%3$s) bus atkurtos %2$s sukurtos šių elementų atsarginės kopijos.</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Duomenys bus ištrinti po %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Duomenys bus ištrinti po %d d.</item>
+        <item quantity="many">Duomenys bus ištrinti po %d d.</item>
+        <item quantity="other">Duomenys bus ištrinti po %d d.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Baigia galioti po %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Baigia galioti po %d d.</item>
+        <item quantity="many">Baigia galioti po %d d.</item>
+        <item quantity="other">Baigia galioti po %d d.</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Daugelis jūsų duomenų buvo atkurti, bet %d programa nebuvo įdiegta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Daugelis jūsų duomenų buvo atkurti, bet %d programos nebuvo įdiegtos.</item>
+        <item quantity="many">Daugelis jūsų duomenų buvo atkurti, bet %d programų nebuvo įdiegta.</item>
+        <item quantity="other">Daugelis jūsų duomenų buvo atkurti, bet %d programų nebuvo įdiegta.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+        <item quantity="other">%d naujų pranešimų</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pasiekiamas %d naujas albumas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pasiekiami %d nauji albumai</item>
+        <item quantity="many">Pasiekiama %d naujo albumo</item>
+        <item quantity="other">Pasiekiama %d naujų albumų</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pasirinktas %d albumas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pasirinkta albumų: %d</item>
+        <item quantity="many">Pasirinkta albumų: %d</item>
+        <item quantity="other">Pasirinkta albumų: %d</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 pseudoportretas ir %d pačių sukurtas elementas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">1 pseudoportretas ir %d pačių sukurti elementai</item>
+        <item quantity="many">1 pseudoportretas ir %d pačių sukurtų elementų</item>
+        <item quantity="other">1 pseudoportretas ir %d pačių sukurtų elementų</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Liko 1 val. %d min.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Liko 1 val. %d min.</item>
+        <item quantity="many">Liko 1 val. %d min.</item>
+        <item quantity="other">Liko 1 val. %d min.</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sinchr. 1 nuot. ir %d vzd. įr.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Sinchr. 1 nuot. ir %d vzd. įr.</item>
+        <item quantity="many">Sinchr. 1 nuot. ir %d vzd. įr.</item>
+        <item quantity="other">Sinchr. 1 nuot. ir %d vzd. įr.</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pasirinktas %1$d elementas (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pasirinkti %1$d elementai (%2$s)</item>
+        <item quantity="many">Pasirinkta %1$d elementų (%2$s)</item>
+        <item quantity="other">Pasirinkta %1$d elementų (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d nuotrauka ir 1 vaizdo įrašas (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d nuotraukos ir 1 vaizdo įrašas (%2$s)</item>
+        <item quantity="many">%1$d nuotraukų ir 1 vaizdo įrašas (%2$s)</item>
+        <item quantity="other">%1$d nuotraukų ir 1 vaizdo įrašas (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d nuotrauka (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d nuotraukos (%2$s)</item>
+        <item quantity="many">%1$d nuotraukų (%2$s)</item>
+        <item quantity="other">%1$d nuotraukų (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pasirinktas %1$d (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pasirinkti %1$d (%2$s %3$s)</item>
+        <item quantity="many">Pasirinkta %1$d (%2$s %3$s)</item>
+        <item quantity="other">Pasirinkta %1$d (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d vaizdo įrašas (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d vaizdo įrašai (%2$s)</item>
+        <item quantity="many">%1$d vaizdo įrašų (%2$s)</item>
+        <item quantity="other">%1$d vaizdo įrašų (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d failas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d failai</item>
+        <item quantity="many">%d failo</item>
+        <item quantity="other">%d failų</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Liko %d val. 1 min.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Liko %d val. 1 min.</item>
+        <item quantity="many">Liko %d val. 1 min.</item>
+        <item quantity="other">Liko %d val. 1 min.</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Iš debesies atsisiųstas %d vaizdas.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Iš debesies atsisiųsti %d vaizdai.</item>
+        <item quantity="many">Iš debesies atsisiųsta %d vaizdų.</item>
+        <item quantity="other">Iš debesies atsisiųsta %d vaizdų.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Iš debesies atsisiųstas %d elementas.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Iš debesies atsisiųsti %d elementai.</item>
+        <item quantity="many">Iš debesies atsisiųsta %d elementų.</item>
+        <item quantity="other">Iš debesies atsisiųsta %d elementų.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Liko %d min.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Liko %d min.</item>
+        <item quantity="many">Liko %d min.</item>
+        <item quantity="other">Liko %d min.</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sinchr. %d nuot. ir 1 vzd. įr.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Sinchr. %d nuot. ir 1 vzd. įr.</item>
+        <item quantity="many">Sinchr. %d nuot. ir 1 vzd. įr.</item>
+        <item quantity="other">Sinchr. %d nuot. ir 1 vzd. įr.</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sinchronizuota %d nuotrauka</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Sinchronizuotos %d nuotraukos</item>
+        <item quantity="many">Sinchronizuota %d nuotraukų</item>
+        <item quantity="other">Sinchronizuota %d nuotraukų</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nuotrauka arba vaizdo įrašas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d nuotraukos ir vaizdo įrašai</item>
+        <item quantity="many">%d nuotraukos ir vaizdo įrašo</item>
+        <item quantity="other">%d nuotraukų ir vaizdo įrašų</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Parinkta: %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Parinkta: %d</item>
+        <item quantity="many">Parinkta: %d</item>
+        <item quantity="other">Parinkta: %d</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Iš debesies atsisiųstas %d vaizdo įrašas.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Iš debesies atsisiųsti %d vaizdo įrašai.</item>
+        <item quantity="many">Iš debesies atsisiųsta %d vaizdo įrašų.</item>
+        <item quantity="other">Iš debesies atsisiųsta %d vaizdo įrašų.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sinchronizuotas %d vaizdo įraš.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Sinchronizuoti %d vaizdo įrašai</item>
+        <item quantity="many">Sinchronizuota %d vaizdo įrašų</item>
+        <item quantity="other">Sinchronizuota %d vaizdo įrašų</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Akumuliatorius senka. Jei norite sukurti atsarginę telefono duomenų kopiją, įkraukite bent %d %%.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Akumuliatorius senka. Jei norite sukurti atsarginę telefono duomenų kopiją, įkraukite bent %d %%.</item>
+        <item quantity="many">Akumuliatorius senka. Jei norite sukurti atsarginę telefono duomenų kopiją, įkraukite bent %d %%.</item>
+        <item quantity="other">Akumuliatorius senka. Jei norite sukurti atsarginę telefono duomenų kopiją, įkraukite bent %d %%.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Laikina atsarginė kopija baigs galioti po %d d. Atkurkite ją dabar arba atidėkite galiojimo pabaigos dieną, jei reikia daugiau laiko.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Laikina atsarginė kopija baigs galioti po %d d. Atkurkite ją greičiau arba atidėkite galiojimo pabaigos dieną, jei reikia daugiau laiko.</item>
+        <item quantity="many">Laikina atsarginė kopija baigs galioti po %d d. Atkurkite ją greičiau arba atidėkite galiojimo pabaigos dieną, jei reikia daugiau laiko.</item>
+        <item quantity="other">Laikina atsarginė kopija baigs galioti po %d d. Atkurkite ją greičiau arba atidėkite galiojimo pabaigos dieną, jei reikia daugiau laiko.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Atidėti %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Atidėti %d d.</item>
+        <item quantity="many">Atidėti %d d.</item>
+        <item quantity="other">Atidėti %d d.</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d pseudoportretas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d pseudoportretai</item>
+        <item quantity="many">%d pseudoportretų</item>
+        <item quantity="other">%d pseudoportretų</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d pseudoportretas ir 1 pačių sukurtas elementas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d pseudoportretai ir 1 pačių sukurtas elementas</item>
+        <item quantity="many">%d pseudoportretų ir 1 pačių sukurtas elementas</item>
+        <item quantity="other">%d pseudoportretų ir 1 pačių sukurtas elementas</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d pačių sukurtas elementas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d pačių sukurti elementai</item>
+        <item quantity="many">%d pačių sukurtų elementų</item>
+        <item quantity="other">%d pačių sukurtų elementų</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Liko %d elementas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Liko %d elementai</item>
+        <item quantity="many">Liko %d elementų</item>
+        <item quantity="other">Liko %d elementų</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d susietas „Samsung“ įrenginys</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d susieti „Samsung“ įrenginiai</item>
+        <item quantity="many">%d susietų „Samsung“ įrenginių</item>
+        <item quantity="other">%d susietų „Samsung“ įrenginių</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d priminimas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d priminimai</item>
+        <item quantity="many">%d priminimų</item>
+        <item quantity="other">%d priminimų</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jūsų prenumerata baigėsi %1$s. Jūsų duomenys bus ištrinti po %2$d d. Jei norite išsaugoti savo duomenis, suaktyvinkite prenumeratą vėl.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Jūsų prenumerata baigėsi %1$s. Jūsų duomenys bus ištrinti po %2$d d. Jei norite išsaugoti savo duomenis, suaktyvinkite prenumeratą vėl.</item>
+        <item quantity="many">Jūsų prenumerata baigėsi %1$s. Jūsų duomenys bus ištrinti po %2$d d. Jei norite išsaugoti savo duomenis, suaktyvinkite prenumeratą vėl.</item>
+        <item quantity="other">Jūsų prenumerata baigėsi %1$s. Jūsų duomenys bus ištrinti po %2$d d. Jei norite išsaugoti savo duomenis, suaktyvinkite prenumeratą vėl.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Akumuliatorius senka. Jei norite sukurti atsarginę planšetinio kompiuterio duomenų kopiją, įkraukite bent %d %%.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Akumuliatorius senka. Jei norite sukurti atsarginę planšetinio kompiuterio duomenų kopiją, įkraukite bent %d %%.</item>
+        <item quantity="many">Akumuliatorius senka. Jei norite sukurti atsarginę planšetinio kompiuterio duomenų kopiją, įkraukite bent %d %%.</item>
+        <item quantity="other">Akumuliatorius senka. Jei norite sukurti atsarginę planšetinio kompiuterio duomenų kopiją, įkraukite bent %d %%.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kurkite neriboto duomenų kiekio atsargines kopijas %1$s iki %2$d d. arba atkurkite duomenis iš jau skurtų kopijų.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Kurkite neriboto duomenų kiekio atsargines kopijas %1$s iki %2$d d. arba atkurkite duomenis iš jau skurtų kopijų.</item>
+        <item quantity="many">Kurkite neriboto duomenų kiekio atsargines kopijas %1$s iki %2$d d. arba atkurkite duomenis iš jau skurtų kopijų.</item>
+        <item quantity="other">Kurkite neriboto duomenų kiekio atsargines kopijas %1$s iki %2$d d. arba atkurkite duomenis iš jau skurtų kopijų.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ši atsarginė kopija bus ištrinta po %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ši atsarginė kopija bus ištrinta po %d d.</item>
+        <item quantity="many">Ši atsarginė kopija bus ištrinta po %d d.</item>
+        <item quantity="other">Ši atsarginė kopija bus ištrinta po %d d.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bandykite dar kartą po %d val.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Bandykite dar kartą po %d val.</item>
+        <item quantity="many">Bandykite dar kartą po %d val.</item>
+        <item quantity="other">Bandykite dar kartą po %d val.</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bandykite dar kartą po %d val. 1 min.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Bandykite dar kartą po %d val. 1 min.</item>
+        <item quantity="many">Bandykite dar kartą po %d val. 1 min.</item>
+        <item quantity="other">Bandykite dar kartą po %d val. 1 min.</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bandykite dar kartą po %d min.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Bandykite dar kartą po %d min.</item>
+        <item quantity="many">Bandykite dar kartą po %d min.</item>
+        <item quantity="other">Bandykite dar kartą po %d min.</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bandykite dar kartą po 1 val. %d min.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Bandykite dar kartą po 1 val. %d min.</item>
+        <item quantity="many">Bandykite dar kartą po 1 val. %d min.</item>
+        <item quantity="other">Bandykite dar kartą po 1 val. %d min.</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jūsų atsarginė kopija saugiai laikoma %1$s. Jai atkurti jums liko %2$d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Jūsų atsarginė kopija saugiai laikoma %1$s. Jai atkurti jums liko %2$d d.</item>
+        <item quantity="many">Jūsų atsarginė kopija saugiai laikoma %1$s. Jai atkurti jums liko %2$d d.</item>
+        <item quantity="other">Jūsų atsarginė kopija saugiai laikoma %1$s. Jai atkurti jums liko %2$d d.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jūsų laikina atsarginė kopija bus ištrinta po %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Jūsų laikina atsarginė kopija bus ištrinta po %d d.</item>
+        <item quantity="many">Jūsų laikina atsarginė kopija bus ištrinta po %d d.</item>
+        <item quantity="other">Jūsų laikina atsarginė kopija bus ištrinta po %d d.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jūsų duomenys nebuvo atkurti telefone. Jiems atkurti jums liko %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Jūsų duomenys nebuvo atkurti telefone. Jiems atkurti jums liko %d d.</item>
+        <item quantity="many">Jūsų duomenys nebuvo atkurti telefone. Jiems atkurti jums liko %d d.</item>
+        <item quantity="other">Jūsų duomenys nebuvo atkurti telefone. Jiems atkurti jums liko %d d.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jūsų duomenys nebuvo atkurti planšetiniame kompiuteryje. Jiems atkurti jums liko %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Jūsų duomenys nebuvo atkurti planšetiniame kompiuteryje. Jiems atkurti jums liko %d d.</item>
+        <item quantity="many">Jūsų duomenys nebuvo atkurti planšetiniame kompiuteryje. Jiems atkurti jums liko %d d.</item>
+        <item quantity="other">Jūsų duomenys nebuvo atkurti planšetiniame kompiuteryje. Jiems atkurti jums liko %d d.</item>
+    </plurals>
+</resources>

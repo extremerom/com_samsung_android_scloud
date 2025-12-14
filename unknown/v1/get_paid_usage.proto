@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+package samsung.scsp.usage.v1;
+
+option java_multiple_files = true;
+option java_outer_classname = "GetUsageServiceProto";
+
+service GetPaidUsageService {
+  rpc GetPaidUsage(GetPaidUsageRequest) returns (GetPaidUsageResponse) {}
+}
+
+message GetPaidUsageRequest {
+  string cid = 1;
+}
+
+message GetPaidUsageResponse {
+  int64 quota = 1;
+  int64 totalSize = 2;
+  ContentsUsageGrpc contentsUsage = 3; // key: cid
+}
+
+message SubUsageGrpc {
+  int64 size = 1;
+  int64 count = 2;
+}
+
+message ContentUsageGrpc {
+  int64 size = 1;
+  int64 count = 2;
+  map<string, SubUsageGrpc> subUsages = 3; // key: content type
+}
+
+message ContentsUsageGrpc {
+  map<string, ContentUsageGrpc> contentsUsages = 1; // key: cid
+}

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Picha 1 na video %1$d (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Picha 1 na video %1$d (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Programu %d haijasakinishwa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Programu %d hazijasakinishwa</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Ujumbe: arifa za dharura, faili zilizohamishwa, ujumbe wa midianuawai mkubwa kuliko MB %d, rasimu na ujumbe ambao haukufanikiwa kutumwa</item>
+        <item quantity="one">Ujumbe: arifa za dharura, faili zilizohamishwa, ujumbe wa midianuawai mkubwa kuliko MB %d, rasimu na ujumbe ambao haukufanikiwa kutumwa</item>
+        <item quantity="two">Ujumbe: arifa za dharura, faili zilizohamishwa, ujumbe wa midianuawai mkubwa kuliko MB %d, rasimu na ujumbe ambao haukufanikiwa kutumwa</item>
+        <item quantity="few">Ujumbe: arifa za dharura, faili zilizohamishwa, ujumbe wa midianuawai mkubwa kuliko MB %d, rasimu na ujumbe ambao haukufanikiwa kutumwa</item>
+        <item quantity="many">Ujumbe: arifa za dharura, faili zilizohamishwa, ujumbe wa midianuawai mkubwa kuliko MB %d, rasimu na ujumbe ambao haukufanikiwa kutumwa</item>
+        <item quantity="other">Ujumbe: arifa za dharura, faili zilizohamishwa, ujumbe wa midianuawai mkubwa kuliko MB %d, rasimu na ujumbe ambao haukufanikiwa kutumwa</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Data ya chelezo ya kifaa %d kitaishiwa muda hivi karibuni. Chagua kifaa hapa chini ili kuangalia tarehe ya mwisho wa matumizi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Data ya chelezo ya vifaa %d vitaishiwa muda hivi karibuni. Chagua kifaa chochote hapa chini ili kuangalia tarehe ya mwisho wa matumizi yake.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Data ya chelezo ya kifaa %d kitaishiwa muda hivi karibuni.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Data ya chelezo ya vifaa %d vitaishiwa muda hivi karibuni.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kipengee %1$d cha chelezo hakikuweza kusasishwa, hivyo chelezo ya awali ya kipengee hiki itarejeshwa kwenye simu yako mpya (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vipengee %1$d vya chelezo hakikuweza kusasishwa, hivyo chelezo za awali za vipengee hivi zitarejeshwa kwenye simu yako mpya (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kipengee %1$d cha chelezo hakikuweza kusasishwa, kwa hivyo chelezo ya kipengee hiki iliyofanywa tarehe %2$s itarejeshwa kwenye simu yako mpya (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vipengee %1$d vya chelezo havikuweza kusasishwa, kwa hivyo chelezo za vipengee hivi zilizofanywa tarehe %2$s zitarejeshwa kwenye simu yako mpya (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kipengee %1$d cha chelezo hakikuweza kusasishwa, hivyo chelezo ya awali ya kipengee hiki itarejeshwa kwenye kishikwambi chako kipya (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vipengee %1$d vya chelezo hakikuweza kusasishwa, hivyo chelezo za awali za vipengee hivi zitarejeshwa kwenye kishiwambi chako kipya (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kipengee %1$d cha chelezo hakikuweza kusasishwa, kwa hivyo chelezo ya kipengee hiki iliyofanywa tarehe %2$s itarejeshwa kwenye tableti yako mpya (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vipengee %1$d vya chelezo havikuweza kusasishwa, kwa hivyo chelezo za vipengee hivi zilizofanywa tarehe %2$s zitarejeshwa kwenye tableti yako mpya (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Data itafutwa baada ya siku %d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Data itafutwa baada ya siku %d.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Inaishiwa muda baada ya siku %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Inaishiwa muda baada ya siku %d</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Data yako nyingi imerejeshwa, lakini programu %d haikusakinishwa.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Data yako nyingi imerejeshwa, lakini programu %d hazikusakinishwa.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">Arifa %d mpya</item>
+        <item quantity="other">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Albamu %d mpya inapatikana</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Albamu %d mpya zinapatikana</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Albamu %d imechaguliwa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Albamu %d zimechaguliwa</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Avatari 1 na kipengee %d kilichoundwa maalum</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Avatari 1 na vipengee %d vilivyoundwa maalum</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Imesalia saa 1 dakika %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Imesalia saa 1 dakika %d</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Picha 1 na video %d zimesawazishwa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Picha 1 na video %d zimesawazishwa</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kipengee %1$d kimechaguliwa (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vipengee %1$d vimechaguliwa (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Picha %1$d na video 1 (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Picha %1$d na video 1 (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Picha %1$d (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Picha %1$d (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d imechaguliwa (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d zimechaguliwa (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Video %1$d (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Video %1$d (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Faili %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Faili %d</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Imesalia saa %d dakika 1</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Zimesalia saa %d dakika 1</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Picha %d imepakuliwa kutoka kwenye wingu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Picha %d zimepakuliwa kutoka kwenye wingu.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kipengee %d kimepakuliwa kutoka kwenye wingu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vipengee %d vimepakuliwa kutoka kwenye wingu.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dakika %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dakika %d</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Imesalia dakika %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Zimesalia dakika %d</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Picha %d na video 1 zimesawazishwa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Picha %d na video 1 zimesawazishwa</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Picha %d imesawazishwa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Picha %d zimesawazishwa</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Picha au video %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Picha na video %d</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d imechaguliwa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d imechaguliwa</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Video %d imepakuliwa kutoka kwenye wingu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Video %d zimepakuliwa kutoka kwenye wingu.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Video %d imesawazishwa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Video %d zimesawazishwa</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Betri iko chini. Chaji hadi angalau %d%% ili kucheleza simu yako.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Betri iko chini. Chaji hadi angalau %d%% ili kucheleza simu yako.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Muda wa chelezo yako ya muda utaisha baada ya siku %d. Irejeshe sasa au uahirishe tarehe ya kumalizika muda ikiwa unahitaji muda zaidi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Muda wa chelezo yako ya muda utaisha baada ya siku %d. Irejeshe haraka iwezekanavyo au uahirishe tarehe ya kumalizika muda ikiwa unahitaji muda zaidi.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ahirisha siku %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ahirisha siku %d</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Avatari %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Avatari %d</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Avatari %d na kipengee 1 kilichoundwa maalum</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Avatari %d na kipengee 1 kilichoundwa maalum</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kipengee %d kilichoundwa maalum</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vipengee %d vilivyoundwa maalum</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kipengee %d kimebakishwa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vipengee %d vimebakishwa</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kifaa %d cha Samsung kilichosawazishwa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vifaa %d vya Samsung vilivyosawazishwa</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kikumbusho %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vikumbusho %d</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Usajili wako uliisha mnamo %1$s. Data yako itafutwa ndani ya siku %2$d. Washa upya usajili wako ili uweke data yako.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Usajili wako uliisha mnamo %1$s. Data yako itafutwa ndani ya siku %2$d. Washa upya usajili wako ili uweke data yako.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Betri iko chini. Chaji hadi angalau %d%% ili kucheleza kishikwambi chako.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Betri iko chini. Chaji hadi angalau %d%% ili kucheleza kishikwambi chako.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Cheleza data isiyo na kikomo kwenye %1$s kwa hadi siku %2$d au urejeshe data ambayo umecheleza.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Cheleza data isiyo na kikomo kwenye %1$s kwa hadi siku %2$d au urejeshe data ambayo umecheleza.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Chelezo hii itafutwa baada ya siku %d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Chelezo hii itafutwa baada ya siku %d.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jaribu tena baada ya saa %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Jaribu tena baada ya saa %d</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jaribu tena baada ya saa %d dakika 1</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Jaribu tena baada ya saa %d dakika 1</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jaribu tena baada ya dakika %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Jaribu tena baada ya dakika %d</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jaribu tena baada ya saa 1 dakika %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Jaribu tena baada ya saa 1 dakika %d</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Chelezo yako iko salama kwenye %1$s. Una siku %2$d ya kuirejesha.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Chelezo yako iko salama kwenye %1$s. Una siku %2$d ya kuirejesha.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Chelezo yako ya muda itafutwa baada ya siku %d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Chelezo yako ya muda itafutwa baada ya siku %d.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Data yako haikurejeshwa kwenye simu yako. Umebakisha siku %d ya kuirejesha.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Data yako haikurejeshwa kwenye simu yako. Umebakisha siku %d ya kuirejesha.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Data yako haikurejeshwa kwenye kishikwambi chako. Umebakisha siku %d ya kuirejesha.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Data yako haikurejeshwa kwenye kishikwambi chako. Umebakisha siku %d ya kuirejesha.</item>
+    </plurals>
+</resources>

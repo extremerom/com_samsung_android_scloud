@@ -1,0 +1,82 @@
+
+syntax = "proto3";
+
+import "story/attribute/story_attribute.proto";
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.story.v1;
+
+option java_multiple_files = true;
+
+service StorySyncService {
+  
+  rpc Create(CreateStoryRequest) returns (CreateStoryResponse) {}
+  
+  
+  rpc InitializeWithFullSync(StoryFullSyncRequest) returns (StoryFullSyncResponse) {}
+  
+  
+  rpc Update(UpdateStoryRequest) returns (UpdateStoryResponse) {}
+  
+  
+  rpc Delete(DeleteStoryRequest) returns (DeleteStoryResponse) {}
+  
+  
+  rpc GetChanges(GetChangesRequest) returns (GetChangesResponse) {}
+}
+
+
+message CreateStoryRequest {
+  attribute.Story.SensitiveMeta sensitive_meta = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional int64 client_timestamp = 2 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message CreateStoryResponse {
+  optional string story_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+
+message StoryFullSyncRequest {
+  optional int32 size = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string page_token = 2; 
+}
+
+message StoryFullSyncResponse {
+  repeated attribute.Story story = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string next_page_token = 2; 
+  optional bool has_next = 3 [(google.api.field_behavior) = REQUIRED]; 
+  optional string next_change_point = 4; 
+}
+
+
+message UpdateStoryRequest {
+  optional string story_id = 1 [(google.api.field_behavior) = REQUIRED];  
+  optional int64 client_timestamp = 2 [(google.api.field_behavior) = REQUIRED]; 
+  attribute.Story.SensitiveMeta sensitive_meta = 3  [(google.api.field_behavior) = REQUIRED];   
+}
+
+message UpdateStoryResponse {
+  
+}
+
+
+message DeleteStoryRequest {
+  optional string story_id = 1 [(google.api.field_behavior) = REQUIRED];  
+  optional int64 client_timestamp = 2 [(google.api.field_behavior) = REQUIRED];  
+}
+
+message DeleteStoryResponse {
+  
+}
+
+
+message GetChangesRequest {
+  optional int32 size = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string change_point = 2 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message GetChangesResponse {
+  repeated attribute.Story story = 1; 
+  optional string next_change_point = 2 [(google.api.field_behavior) = REQUIRED]; 
+  optional bool has_next = 3 [(google.api.field_behavior) = REQUIRED]; 
+} 

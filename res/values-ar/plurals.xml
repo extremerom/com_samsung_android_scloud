@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">صورة واحدة و%1$d مقطع فيديو (%2$s)</item>
+        <item quantity="one">صورة واحدة ومقطع فيديو واحد (%2$s)</item>
+        <item quantity="two">صورة واحدة ومقطعا فيديو (%2$s)</item>
+        <item quantity="few">صورة واحدة و%1$d مقاطع فيديو (%2$s)</item>
+        <item quantity="many">صورة واحدة و%1$d مقطع فيديو (%2$s)</item>
+        <item quantity="other">صورة واحدة و%1$d مقطع فيديو (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">%d تطبيق غير مثبت</item>
+        <item quantity="one">تطبيق واحد غير مثبت</item>
+        <item quantity="two">تطبيقان غير مثبتَين</item>
+        <item quantity="few">%d تطبيقات غير مثبتة</item>
+        <item quantity="many">%d تطبيقاَ غير مثبت</item>
+        <item quantity="other">%d تطبيق غير مثبت</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">الرسائل: رسائل التحذيرات الطارئة والملفات المنقولة، ورسائل الوسائط المتعددة الأكبر من %d ميجابايت والمسودات والرسائل التي فشل إرسالها</item>
+        <item quantity="one">الرسائل: رسائل التحذيرات الطارئة والملفات المنقولة، ورسائل الوسائط المتعددة الأكبر من %d ميجابايت والمسودات والرسائل التي فشل إرسالها</item>
+        <item quantity="two">الرسائل: رسائل التحذيرات الطارئة والملفات المنقولة، ورسائل الوسائط المتعددة الأكبر من %d ميجابايت والمسودات والرسائل التي فشل إرسالها</item>
+        <item quantity="few">الرسائل: رسائل التحذيرات الطارئة والملفات المنقولة، ورسائل الوسائط المتعددة الأكبر من %d ميجابايت والمسودات والرسائل التي فشل إرسالها</item>
+        <item quantity="many">الرسائل: رسائل التحذيرات الطارئة والملفات المنقولة، ورسائل الوسائط المتعددة الأكبر من %d ميجابايت والمسودات والرسائل التي فشل إرسالها</item>
+        <item quantity="other">الرسائل: رسائل التحذيرات الطارئة والملفات المنقولة، ورسائل الوسائط المتعددة الأكبر من %d ميجابايت والمسودات والرسائل التي فشل إرسالها</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">ستنتهي صلاحية بيانات النسخ الاحتياطي لـ %d جهاز قريباً. حدد جهازاً أدناه للتحقق من تاريخ انتهاء الصلاحية.</item>
+        <item quantity="one">ستنتهي صلاحية بيانات النسخ الاحتياطي لجهاز واحد قريباً. حدد الجهاز أدناه للتحقق من تاريخ انتهاء الصلاحية.</item>
+        <item quantity="two">ستنتهي صلاحية بيانات النسخ الاحتياطي لجهازَين قريباً. حدد جهازاً أدناه للتحقق من تاريخ انتهاء الصلاحية.</item>
+        <item quantity="few">ستنتهي صلاحية بيانات النسخ الاحتياطي لـ %d أجهزة قريباً. حدد جهازاً أدناه للتحقق من تاريخ انتهاء الصلاحية.</item>
+        <item quantity="many">ستنتهي صلاحية بيانات النسخ الاحتياطي لـ %d جهازاً قريباً. حدد جهازاً أدناه للتحقق من تاريخ انتهاء الصلاحية.</item>
+        <item quantity="other">ستنتهي صلاحية بيانات النسخ الاحتياطي لـ %d جهاز قريباً. حدد جهازاً أدناه للتحقق من تاريخ انتهاء الصلاحية.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">ستنتهي صلاحية بيانات النسخ الاحتياطي لـ %d جهاز قريباً.</item>
+        <item quantity="one">ستنتهي صلاحية بيانات النسخ الاحتياطي لجهاز واحد قريباً.</item>
+        <item quantity="two">ستنتهي صلاحية بيانات النسخ الاحتياطي لجهازَين قريباً.</item>
+        <item quantity="few">ستنتهي صلاحية بيانات النسخ الاحتياطي لـ %d أجهزة قريباً.</item>
+        <item quantity="many">ستنتهي صلاحية بيانات النسخ الاحتياطي لـ %d جهازاً قريباً.</item>
+        <item quantity="other">ستنتهي صلاحية بيانات النسخ الاحتياطي لـ %d جهاز قريباً.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">تعذر تحديث %1$d عنصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية السابقة لهذه العناصر إلى هاتفك الجديد (%2$s).</item>
+        <item quantity="one">تعذر تحديث عنصر نسخ احتياطي واحد، لذا ستتم استعادة النسخة الاحتياطية السابقة لهذا العنصر إلى هاتفك الجديد (%2$s).</item>
+        <item quantity="two">تعذر تحديث عنصري نسخ احتياطي، لذا ستتم استعادة النسختين الاحتياطيتين السابقتين لهذين العنصرين إلى هاتفك الجديد (%2$s).</item>
+        <item quantity="few">تعذر تحديث %1$d عناصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية السابقة لهذه العناصر إلى هاتفك الجديد (%2$s).</item>
+        <item quantity="many">تعذر تحديث %1$d عنصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية السابقة لهذه العناصر إلى هاتفك الجديد (%2$s).</item>
+        <item quantity="other">تعذر تحديث %1$d عنصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية السابقة لهذه العناصر إلى هاتفك الجديد (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">تعذر تحديث %1$d عنصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية لهذه العناصر التي تمت بتاريخ %2$s إلى هاتفك الجديد (%3$s).</item>
+        <item quantity="one">تعذر تحديث عنصر نسخ احتياطي واحد، لذا ستتم استعادة النسخ الاحتياطية لهذا العنصر التي تمت بتاريخ %2$s إلى هاتفك الجديد (%3$s).</item>
+        <item quantity="two">تعذر تحديث عنصري نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية لهذين العنصرين التي تمت بتاريخ %2$s إلى هاتفك الجديد (%3$s).</item>
+        <item quantity="few">تعذر تحديث %1$d عناصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية لهذه العناصر التي تمت بتاريخ %2$s إلى هاتفك الجديد (%3$s).</item>
+        <item quantity="many">تعذر تحديث %1$d عنصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية لهذه العناصر التي تمت بتاريخ %2$s إلى هاتفك الجديد (%3$s).</item>
+        <item quantity="other">تعذر تحديث %1$d عنصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية لهذه العناصر التي تمت بتاريخ %2$s إلى هاتفك الجديد (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">تعذر تحديث %1$d عنصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية السابقة لهذه العناصر إلى جهازك اللوحي الجديد (%2$s).</item>
+        <item quantity="one">تعذر تحديث عنصر نسخ احتياطي واحد، لذا ستتم استعادة النسخة الاحتياطية السابقة لهذا العنصر إلى جهازك اللوحي الجديد (%2$s).</item>
+        <item quantity="two">تعذر تحديث عنصري نسخ احتياطي، لذا ستتم استعادة النسختين الاحتياطيتين السابقتين لهذين العنصرين إلى جهازك اللوحي الجديد (‏‎%2$s‎‏‎).</item>
+        <item quantity="few">تعذر تحديث ‏‎%1$d عناصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية السابقة لهذه العناصر إلى جهازك اللوحي الجديد (%2$s).</item>
+        <item quantity="many">تعذر تحديث ‏‎%1$d عنصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية السابقة لهذه العناصر إلى جهازك اللوحي الجديد (%2$s).</item>
+        <item quantity="other">تعذر تحديث %1$d عنصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية السابقة لهذه العناصر إلى جهازك اللوحي الجديد (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">تعذر تحديث %1$d عنصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية لهذه العناصر التي تمت بتاريخ %2$s إلى جهازك اللوحي الجديد (%3$s).</item>
+        <item quantity="one">تعذر تحديث عنصر نسخ احتياطي واحد، لذا ستتم استعادة النسخ الاحتياطية لهذا العنصر التي تمت بتاريخ %2$s إلى جهازك اللوحي الجديد (%3$s).</item>
+        <item quantity="two">تعذر تحديث عنصرين نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية لهذين العنصرين التي تمت بتاريخ %2$s إلى جهازك اللوحي الجديد (%3$s).</item>
+        <item quantity="few">تعذر تحديث %1$d عناصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية لهذه العناصر التي تمت بتاريخ %2$s إلى جهازك اللوحي الجديد (%3$s).</item>
+        <item quantity="many">تعذر تحديث %1$d عنصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية لهذه العناصر التي تمت بتاريخ %2$s إلى جهازك اللوحي الجديد (%3$s).</item>
+        <item quantity="other">تعذر تحديث %1$d عنصر نسخ احتياطي، لذا ستتم استعادة النسخ الاحتياطية لهذه العناصر التي تمت بتاريخ %2$s إلى جهازك اللوحي الجديد (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">سيتم حذف البيانات خلال %d يوم.</item>
+        <item quantity="one">سيتم حذف البيانات خلال يوم واحد.</item>
+        <item quantity="two">سيتم حذف البيانات خلال يومين.</item>
+        <item quantity="few">سيتم حذف البيانات خلال %d أيام.</item>
+        <item quantity="many">سيتم حذف البيانات خلال %d يوماً.</item>
+        <item quantity="other">سيتم حذف البيانات خلال %d يوم.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">ستنتهي الصلاحية في غضون %d يوم</item>
+        <item quantity="one">ستنتهي الصلاحية في غضون يوم واحد</item>
+        <item quantity="two">ستنتهي الصلاحية في غضون يومَين</item>
+        <item quantity="few">ستنتهي الصلاحية في غضون %d أيام</item>
+        <item quantity="many">ستنتهي الصلاحية في غضون %d يوماً</item>
+        <item quantity="other">ستنتهي الصلاحية في غضون %d يوم</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">تمت استعادة معظم بياناتك، لكن %d تطبيق لم يكن مثبتاً.</item>
+        <item quantity="one">تمت استعادة معظم بياناتك، لكن تطبيقاً واحداً لم يكن مثبتاً.</item>
+        <item quantity="two">تمت استعادة معظم بياناتك، لكن تطبيقَين لم يكونا مثبتَين.</item>
+        <item quantity="few">تمت استعادة معظم بياناتك، لكن %d تطبيقات لم تكن مثبتة.</item>
+        <item quantity="many">تمت استعادة معظم بياناتك، لكن %d تطبيقاً لم يكن مثبتاً.</item>
+        <item quantity="other">تمت استعادة معظم بياناتك، لكن %d تطبيق لم يكن مثبتاً.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+        <item quantity="other">%d إشعار جديد</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">يتوفَّر %d ألبوم جديد</item>
+        <item quantity="one">يتوفَّر ألبوم واحد جديد</item>
+        <item quantity="two">يتوفَّر ألبومان جديدان</item>
+        <item quantity="few">يتوفَّر %d ألبومات جديدة</item>
+        <item quantity="many">يتوفَّر %d ألبوماً جديداً</item>
+        <item quantity="other">يتوفَّر %d ألبوم جديد</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">تم تحديد %d ألبوم</item>
+        <item quantity="one">تم تحديد ألبوم واحد</item>
+        <item quantity="two">تم تحديد ألبومين</item>
+        <item quantity="few">تم تحديد %d ألبومات</item>
+        <item quantity="many">تم تحديد %d ألبوماً</item>
+        <item quantity="other">تم تحديد %d ألبوم</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">صورة تجسيدية‬ واحدة و%d عنصر بتصميم خاص</item>
+        <item quantity="one">صورة تجسيدية‬ واحدة وعنصر واحد بتصميم خاص</item>
+        <item quantity="two">صورة تجسيدية‬ واحدة وعنصران بتصميم خاص</item>
+        <item quantity="few">صورة تجسيدية‬ واحدة و%d عناصر بتصميم خاص</item>
+        <item quantity="many">صورة تجسيدية‬ واحدة و%d عنصراً بتصميم خاص</item>
+        <item quantity="other">صورة تجسيدية‬ واحدة و%d عنصر بتصميم خاص</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">يتبقى ساعة واحدة و%d دقيقة</item>
+        <item quantity="one">يتبقى ساعة واحدة ودقيقة واحدة</item>
+        <item quantity="two">يتبقى ساعة واحدة ودقيقتين</item>
+        <item quantity="few">يتبقى ساعة واحدة و%d دقائق</item>
+        <item quantity="many">يتبقى ساعة واحدة و%d دقيقةً</item>
+        <item quantity="other">يتبقى ساعة واحدة و%d دقيقة</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">تمت مزامنة صورة واحدة و%d مقطع فيديو</item>
+        <item quantity="one">تمت مزامنة صورة واحدة ومقطع فيديو واحد</item>
+        <item quantity="two">تمت مزامنة صورة واحدة ومقطعَي فيديو</item>
+        <item quantity="few">تمت مزامنة صورة واحدة و%d مقاطع فيديو</item>
+        <item quantity="many">تمت مزامنة صورة واحدة و%d مقطع فيديو</item>
+        <item quantity="other">تمت مزامنة صورة واحدة و%d مقطع فيديو</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">تم تحديد %1$d عنصر (%2$s)</item>
+        <item quantity="one">تم تحديد عنصر واحد (%2$s)</item>
+        <item quantity="two">تم تحديد عنصرَين (%2$s)</item>
+        <item quantity="few">تم تحديد %1$d عناصر (%2$s)</item>
+        <item quantity="many">تم تحديد %1$d عنصراً (%2$s)</item>
+        <item quantity="other">تم تحديد %1$d عنصر (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">%1$d صورة ومقطع فيديو واحد (%2$s)</item>
+        <item quantity="one">صورة واحدة ومقطع فيديو واحد (%2$s)</item>
+        <item quantity="two">صورتان ومقطع فيديو واحد (%2$s)</item>
+        <item quantity="few">%1$d صور ومقطع فيديو واحد (%2$s)</item>
+        <item quantity="many">%1$d صورةً ومقطع فيديو واحد (%2$s)</item>
+        <item quantity="other">%1$d صورة ومقطع فيديو واحد (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">%1$d صورة (%2$s)</item>
+        <item quantity="one">صورة واحدة (%2$s)</item>
+        <item quantity="two">صورتان (%2$s)</item>
+        <item quantity="few">%1$d صور (%2$s)</item>
+        <item quantity="many">%1$d صورةً (%2$s)</item>
+        <item quantity="other">%1$d صورة (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">تم تحديد %1$d عنصر (%2$s %3$s)</item>
+        <item quantity="one">تم تحديد عنصر واحد (%2$s %3$s)</item>
+        <item quantity="two">تم تحديد عنصرين (%2$s %3$s)</item>
+        <item quantity="few">تم تحديد %1$d عناصر (%2$s %3$s)</item>
+        <item quantity="many">تم تحديد %1$d عنصراً (%2$s %3$s)</item>
+        <item quantity="other">تم تحديد %1$d عنصر (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">%1$d مقطع فيديو (%2$s)</item>
+        <item quantity="one">مقطع فيديو واحد (%2$s)</item>
+        <item quantity="two">مقطعا فيديو (%2$s)</item>
+        <item quantity="few">%1$d مقاطع فيديو (%2$s)</item>
+        <item quantity="many">%1$d مقطع فيديو (%2$s)</item>
+        <item quantity="other">%1$d مقطع فيديو (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">%d ملف</item>
+        <item quantity="one">ملف واحد</item>
+        <item quantity="two">ملفان</item>
+        <item quantity="few">%d ملفات</item>
+        <item quantity="many">%d ملفاً</item>
+        <item quantity="other">%d ملف</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">يتبقى %d ساعة ودقيقة واحدة</item>
+        <item quantity="one">يتبقى ساعة واحدة ودقيقة واحدة</item>
+        <item quantity="two">يتبقى ساعتين ودقيقة واحدة</item>
+        <item quantity="few">يتبقى %d ساعات ودقيقة واحدة</item>
+        <item quantity="many">يتبقى %d ساعةً ودقيقة واحدة</item>
+        <item quantity="other">يتبقى %d ساعة ودقيقة واحدة</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">تم تنزيل %d صورة من السحابة.</item>
+        <item quantity="one">تم تنزيل صورة واحدة من السحابة.</item>
+        <item quantity="two">تم تنزيل صورتَين من السحابة.</item>
+        <item quantity="few">تم تنزيل %d صور من السحابة.</item>
+        <item quantity="many">تم تنزيل %d صورة من السحابة.</item>
+        <item quantity="other">تم تنزيل %d صورة من السحابة.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">تم تنزيل %d عنصر من السحابة.</item>
+        <item quantity="one">تم تنزيل عنصر واحد من السحابة.</item>
+        <item quantity="two">تم تنزيل عنصرَين من السحابة.</item>
+        <item quantity="few">تم تنزيل %d عناصر من السحابة.</item>
+        <item quantity="many">تم تنزيل %d عنصراً من السحابة.</item>
+        <item quantity="other">تم تنزيل %d عنصر من السحابة.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+        <item quantity="other">%d دقيقة</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">تتبقى %d دقيقة</item>
+        <item quantity="one">تتبقى دقيقة واحدة</item>
+        <item quantity="two">تتبقى دقيقتان</item>
+        <item quantity="few">تتبقى %d دقائق</item>
+        <item quantity="many">تتبقى %d دقيقة</item>
+        <item quantity="other">تتبقى %d دقيقة</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">تمت مزامنة %d صورة ومقطع فيديو واحد</item>
+        <item quantity="one">تمت مزامنة صورة واحدة ومقطع فيديو واحد</item>
+        <item quantity="two">تمت مزامنة صورتَين ومقطع فيديو واحد</item>
+        <item quantity="few">تمت مزامنة %d صور ومقطع فيديو واحد</item>
+        <item quantity="many">تمت مزامنة %d صورة ومقطع فيديو واحد</item>
+        <item quantity="other">تمت مزامنة %d صورة ومقطع فيديو واحد</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">تمت مزامنة %d صورة</item>
+        <item quantity="one">تمت مزامنة صورة واحدة</item>
+        <item quantity="two">تمت مزامنة صورتَين</item>
+        <item quantity="few">تمت مزامنة %d صور</item>
+        <item quantity="many">تمت مزامنة %d صورة</item>
+        <item quantity="other">تمت مزامنة %d صورة</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">%d صورة ومقطع فيديو</item>
+        <item quantity="one">صورة أو مقطع فيديو واحد</item>
+        <item quantity="two">اثنان من الصور ومقاطع الفيديو</item>
+        <item quantity="few">%d صور ومقاطع فيديو</item>
+        <item quantity="many">%d صورةً ومقطع فيديو</item>
+        <item quantity="other">%d صورة ومقطع فيديو</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">تم تحديد %d</item>
+        <item quantity="one">تم تحديد %d</item>
+        <item quantity="two">تم تحديد %d</item>
+        <item quantity="few">تم تحديد %d</item>
+        <item quantity="many">تم تحديد %d</item>
+        <item quantity="other">تم تحديد %d</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">تم تنزيل %d مقطع فيديو من السحابة.</item>
+        <item quantity="one">تم تنزيل فيديو واحد من السحابة.</item>
+        <item quantity="two">تم تنزيل مقطعَي فيديو من السحابة.</item>
+        <item quantity="few">تم تنزيل %d مقاطع فيديو من السحابة.</item>
+        <item quantity="many">تم تنزيل %d مقطع فيديو من السحابة.</item>
+        <item quantity="other">تم تنزيل %d مقطع فيديو من السحابة.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">تمت مزامنة %d مقطع فيديو</item>
+        <item quantity="one">تمت مزامنة مقطع فيديو واحد</item>
+        <item quantity="two">تمت مزامنة مقطعَي فيديو</item>
+        <item quantity="few">تمت مزامنة %d مقاطع فيديو</item>
+        <item quantity="many">تمت مزامنة %d مقطع فيديو</item>
+        <item quantity="other">تمت مزامنة %d مقطع فيديو</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">طاقة البطارية منخفضة.‬ اشحن إلى %d%% على الأقل لنسخ محتويات هاتفك احتياطياً.‬</item>
+        <item quantity="one">طاقة البطارية منخفضة.‬ اشحن إلى %d%% على الأقل لنسخ محتويات هاتفك احتياطياً.‬</item>
+        <item quantity="two">طاقة البطارية منخفضة.‬ اشحن إلى %d%% على الأقل لنسخ محتويات هاتفك احتياطياً.‬</item>
+        <item quantity="few">طاقة البطارية منخفضة.‬ اشحن إلى %d%% على الأقل لنسخ محتويات هاتفك احتياطياً.‬</item>
+        <item quantity="many">طاقة البطارية منخفضة.‬ اشحن إلى %d%% على الأقل لنسخ محتويات هاتفك احتياطياً.‬</item>
+        <item quantity="other">طاقة البطارية منخفضة.‬ اشحن إلى %d%% على الأقل لنسخ محتويات هاتفك احتياطياً.‬</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">تنتهي صلاحية النسخة الاحتياطية المؤقتة لديك خلال %d يوم. قم باستعادتها قريباً أو تأجيل تاريخ انتهاء الصلاحية إذا كنت بحاجة إلى مزيد من الوقت.</item>
+        <item quantity="one">تنتهي صلاحية النسخة الاحتياطية المؤقتة لديك خلال يوم واحد. قم باستعادتها الآن أو تأجيل تاريخ انتهاء الصلاحية إذا كنت بحاجة إلى مزيد من الوقت.</item>
+        <item quantity="two">تنتهي صلاحية النسخة الاحتياطية المؤقتة لديك خلال يومين. قم باستعادتها قريباً أو تأجيل تاريخ انتهاء الصلاحية إذا كنت بحاجة إلى مزيد من الوقت.</item>
+        <item quantity="few">تنتهي صلاحية النسخة الاحتياطية المؤقتة لديك خلال %d أيام. قم باستعادتها قريباً أو تأجيل تاريخ انتهاء الصلاحية إذا كنت بحاجة إلى مزيد من الوقت.</item>
+        <item quantity="many">تنتهي صلاحية النسخة الاحتياطية المؤقتة لديك خلال %d يوماً. قم باستعادتها قريباً أو تأجيل تاريخ انتهاء الصلاحية إذا كنت بحاجة إلى مزيد من الوقت.</item>
+        <item quantity="other">تنتهي صلاحية النسخة الاحتياطية المؤقتة لديك خلال %d يوم. قم باستعادتها قريباً أو تأجيل تاريخ انتهاء الصلاحية إذا كنت بحاجة إلى مزيد من الوقت.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">التأجيل %d يوم</item>
+        <item quantity="one">التأجيل يوم واحد</item>
+        <item quantity="two">التأجيل يومان</item>
+        <item quantity="few">التأجيل %d أيام</item>
+        <item quantity="many">التأجيل %d يوماً</item>
+        <item quantity="other">التأجيل %d يوم</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">%d صورة تجسيدية</item>
+        <item quantity="one">صورة تجسيدية واحدة</item>
+        <item quantity="two">صورتان تجسيديتان</item>
+        <item quantity="few">%d صور تجسيدية</item>
+        <item quantity="many">%d صورةً تجسيديةً</item>
+        <item quantity="other">%d صورة تجسيدية</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">%d صورة تجسيدية وعنصر واحد بتصميم خاص</item>
+        <item quantity="one">صورة تجسيدية‬ واحدة وعنصر واحد بتصميم خاص</item>
+        <item quantity="two">صورتان تجسيديتان وعنصر واحد بتصميم خاص</item>
+        <item quantity="few">%d صور تجسيدية وعنصر واحد بتصميم خاص</item>
+        <item quantity="many">%d صورةً تجسيديةً وعنصر واحد بتصميم خاص</item>
+        <item quantity="other">%d صورة تجسيدية وعنصر واحد بتصميم خاص</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">%d عنصر بتصميم خاص</item>
+        <item quantity="one">عنصر واحد بتصميم خاص</item>
+        <item quantity="two">عنصران بتصميم خاص</item>
+        <item quantity="few">%d عناصر بتصميم خاص</item>
+        <item quantity="many">%d عنصراً بتصميم خاص</item>
+        <item quantity="other">%d عنصر بتصميم خاص</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">يتبقى %d عنصر</item>
+        <item quantity="one">يتبقى عنصر واحد</item>
+        <item quantity="two">يتبقى عنصران</item>
+        <item quantity="few">يتبقى %d عناصر</item>
+        <item quantity="many">يتبقى %d عنصراً</item>
+        <item quantity="other">يتبقى %d عنصر</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">%d جهاز Samsung مقترن</item>
+        <item quantity="one">جهاز Samsung واحد مقترن</item>
+        <item quantity="two">جهازا Samsung مقترنان</item>
+        <item quantity="few">%d أجهزة Samsung مقترنة</item>
+        <item quantity="many">%d جهاز Samsung مقترناً</item>
+        <item quantity="other">%d جهاز Samsung مقترن</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">%d تذكير</item>
+        <item quantity="one">تذكير واحد</item>
+        <item quantity="two">تذكيران</item>
+        <item quantity="few">%d تذكيرات</item>
+        <item quantity="many">%d تذكيراً</item>
+        <item quantity="other">%d تذكير</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">انتهى اشتراكك في %1$s. سيتم حذف بياناتك في غضون %2$d يوم. أعد تفعيل اشتراكك للاحتفاظ ببياناتك.</item>
+        <item quantity="one">انتهى اشتراكك في %1$s. سيتم حذف بياناتك في غضون يوم واحد. أعد تفعيل اشتراكك للاحتفاظ ببياناتك.</item>
+        <item quantity="two">انتهى اشتراكك في %1$s. سيتم حذف بياناتك في غضون يومين. أعد تفعيل اشتراكك للاحتفاظ ببياناتك.</item>
+        <item quantity="few">انتهى اشتراكك في %1$s. سيتم حذف بياناتك في غضون %2$d أيام. أعد تفعيل اشتراكك للاحتفاظ ببياناتك.</item>
+        <item quantity="many">انتهى اشتراكك في %1$s. سيتم حذف بياناتك في غضون %2$d يوماً. أعد تفعيل اشتراكك للاحتفاظ ببياناتك.</item>
+        <item quantity="other">انتهى اشتراكك في %1$s. سيتم حذف بياناتك في غضون %2$d يوم. أعد تفعيل اشتراكك للاحتفاظ ببياناتك.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">طاقة البطارية منخفضة.‬ اشحن إلى %d%% على الأقل لنسخ محتويات جهازك اللوحي احتياطياً.‬</item>
+        <item quantity="one">طاقة البطارية منخفضة.‬ اشحن إلى %d%% على الأقل لنسخ محتويات جهازك اللوحي احتياطياً.‬</item>
+        <item quantity="two">طاقة البطارية منخفضة.‬ اشحن إلى %d%% على الأقل لنسخ محتويات جهازك اللوحي احتياطياً.‬</item>
+        <item quantity="few">طاقة البطارية منخفضة.‬ اشحن إلى %d%% على الأقل لنسخ محتويات جهازك اللوحي احتياطياً.‬</item>
+        <item quantity="many">طاقة البطارية منخفضة.‬ اشحن إلى %d%% على الأقل لنسخ محتويات جهازك اللوحي احتياطياً.‬</item>
+        <item quantity="other">طاقة البطارية منخفضة.‬ اشحن إلى %d%% على الأقل لنسخ محتويات جهازك اللوحي احتياطياً.‬</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">يمكنك نسخ البيانات غير المحدودة احتياطياً إلى %1$s لمدة تصل إلى %2$d يوم أو استعادة البيانات التي قمت بنسخها احتياطياً.</item>
+        <item quantity="one">يمكنك نسخ البيانات غير المحدودة احتياطياً إلى %1$s لمدة تصل إلى يوم واحد أو استعادة البيانات التي قمت بنسخها احتياطياً.</item>
+        <item quantity="two">يمكنك نسخ البيانات غير المحدودة احتياطياً إلى %1$s لمدة تصل إلى يومين أو استعادة البيانات التي قمت بنسخها احتياطياً.</item>
+        <item quantity="few">يمكنك نسخ البيانات غير المحدودة احتياطياً إلى %1$s لمدة تصل إلى %2$d أيام أو استعادة البيانات التي قمت بنسخها احتياطياً.</item>
+        <item quantity="many">يمكنك نسخ البيانات غير المحدودة احتياطياً إلى %1$s لمدة تصل إلى %2$d يوماً أو استعادة البيانات التي قمت بنسخها احتياطياً.</item>
+        <item quantity="other">يمكنك نسخ البيانات غير المحدودة احتياطياً إلى %1$s لمدة تصل إلى %2$d يوم أو استعادة البيانات التي قمت بنسخها احتياطياً.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">سيتم حذف هذا النسخ الاحتياطي خلال %d يوم.</item>
+        <item quantity="one">سيتم حذف هذا النسخ الاحتياطي خلال يوم واحد.</item>
+        <item quantity="two">سيتم حذف هذا النسخ الاحتياطي خلال يومين.</item>
+        <item quantity="few">سيتم حذف هذا النسخ الاحتياطي خلال %d أيام.</item>
+        <item quantity="many">سيتم حذف هذا النسخ الاحتياطي خلال %d يوماً.</item>
+        <item quantity="other">سيتم حذف هذا النسخ الاحتياطي خلال %d يوم.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">حاول مرة أخرى خلال %d ساعة</item>
+        <item quantity="one">حاول مرة أخرى خلال ساعة واحدة</item>
+        <item quantity="two">حاول مرة أخرى خلال ساعتين</item>
+        <item quantity="few">حاول مرة أخرى خلال %d ساعات</item>
+        <item quantity="many">حاول مرة أخرى خلال %d ساعةً</item>
+        <item quantity="other">حاول مرة أخرى خلال %d ساعة</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">حاول مرة أخرى خلال %d ساعة ودقيقة واحدة</item>
+        <item quantity="one">حاول مرة أخرى خلال ساعة واحدة ودقيقة واحدة</item>
+        <item quantity="two">حاول مرة أخرى خلال ساعتين ودقيقة واحدة</item>
+        <item quantity="few">حاول مرة أخرى خلال %d ساعات ودقيقة واحدة</item>
+        <item quantity="many">حاول مرة أخرى خلال %d ساعةً ودقيقة واحدة</item>
+        <item quantity="other">حاول مرة أخرى خلال %d ساعة ودقيقة واحدة</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">حاول مرة أخرى خلال %d دقيقة</item>
+        <item quantity="one">حاول مرة أخرى خلال دقيقة واحدة</item>
+        <item quantity="two">حاول مرة أخرى خلال دقيقتين</item>
+        <item quantity="few">حاول مرة أخرى خلال %d دقائق</item>
+        <item quantity="many">حاول مرة أخرى خلال %d دقيقةً</item>
+        <item quantity="other">حاول مرة أخرى خلال %d دقيقة</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">حاول مرة أخرى خلال ساعة واحدة و%d دقيقة</item>
+        <item quantity="one">حاول مرة أخرى خلال ساعة واحدة ودقيقة واحدة</item>
+        <item quantity="two">حاول مرة أخرى خلال ساعة واحدة ودقيقتين</item>
+        <item quantity="few">حاول مرة أخرى خلال ساعة واحدة و%d دقائق</item>
+        <item quantity="many">حاول مرة أخرى خلال ساعة واحدة و%d دقيقةً</item>
+        <item quantity="other">حاول مرة أخرى خلال ساعة واحدة و%d دقيقة</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">النسخ الاحتياطي الخاص بك آمن على %1$s. لديك %2$d يوم لاستعادته.</item>
+        <item quantity="one">النسخ الاحتياطي الخاص بك آمن على %1$s. لديك يوم واحد لاستعادته.</item>
+        <item quantity="two">النسخ الاحتياطي الخاص بك آمن على %1$s. لديك يومان لاستعادته.</item>
+        <item quantity="few">النسخ الاحتياطي الخاص بك آمن على %1$s. لديك %2$d أيام لاستعادته.</item>
+        <item quantity="many">النسخ الاحتياطي الخاص بك آمن على %1$s. لديك %2$d يوماً لاستعادته.</item>
+        <item quantity="other">النسخ الاحتياطي الخاص بك آمن على %1$s. لديك %2$d يوم لاستعادته.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">سيتم حذف النسخ الاحتياطي المؤقت الخاص بك خلال %d يوم.</item>
+        <item quantity="one">سيتم حذف النسخ الاحتياطي المؤقت الخاص بك خلال يوم واحد.</item>
+        <item quantity="two">سيتم حذف النسخ الاحتياطي المؤقت الخاص بك خلال يومين.</item>
+        <item quantity="few">سيتم حذف النسخ الاحتياطي المؤقت الخاص بك خلال %d أيام.</item>
+        <item quantity="many">سيتم حذف النسخ الاحتياطي المؤقت الخاص بك خلال %d يوماً.</item>
+        <item quantity="other">سيتم حذف النسخ الاحتياطي المؤقت الخاص بك خلال %d يوم.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">لم تتم استعادة بياناتك إلى هاتفك. يتبقى لديك %d يوم لاستعادتها.</item>
+        <item quantity="one">لم تتم استعادة بياناتك إلى هاتفك. يتبقى لديك يوم واحد لاستعادتها.</item>
+        <item quantity="two">لم تتم استعادة بياناتك إلى هاتفك. يتبقى لديك يومين لاستعادتها.</item>
+        <item quantity="few">لم تتم استعادة بياناتك إلى هاتفك. يتبقى لديك %d أيام لاستعادتها.</item>
+        <item quantity="many">لم تتم استعادة بياناتك إلى هاتفك. يتبقى لديك %d يوماً لاستعادتها.</item>
+        <item quantity="other">لم تتم استعادة بياناتك إلى هاتفك. يتبقى لديك %d يوم لاستعادتها.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">لم تتم استعادة بياناتك إلى جهازك اللوحي. يتبقى لديك %d يوم لاستعادتها.</item>
+        <item quantity="one">لم تتم استعادة بياناتك إلى جهازك اللوحي. يتبقى لديك يوم واحد لاستعادتها.</item>
+        <item quantity="two">لم تتم استعادة بياناتك إلى جهازك اللوحي. يتبقى لديك يومين لاستعادتها.</item>
+        <item quantity="few">لم تتم استعادة بياناتك إلى جهازك اللوحي. يتبقى لديك %d أيام لاستعادتها.</item>
+        <item quantity="many">لم تتم استعادة بياناتك إلى جهازك اللوحي. يتبقى لديك %d يوماً لاستعادتها.</item>
+        <item quantity="other">لم تتم استعادة بياناتك إلى جهازك اللوحي. يتبقى لديك %d يوم لاستعادتها.</item>
+    </plurals>
+</resources>

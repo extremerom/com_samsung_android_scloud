@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Ekwentị gị na-achaji.</item>
+        <item>Ejikọrọ ekwentị gị na netwọk Wi-Fi.</item>
+        <item>Agbanyụrụ ihuenyo ahụ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tabletị gị na-achaji.</item>
+        <item>Ejikọtara tabletị gị na netwọk Wi-Fi.</item>
+        <item>Agbanyụrụ ihuenyo ahụ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Data ị nwere ike mekọrịta nwere ike ịdị iche dabere na ekwentị gị ma ọ bụ ọrụ sistemụ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Data ị nwere ike mekọrịta nwere ike ịdị iche dabere na tabletị gị ma ọ bụ ọrụ sistemụ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Ndịnzìrịtaozī: Ndịnzìrịtaozī sitere na akaụntụ emekọrịtara</item>
+        <item>Ngụafọ: mmemme na ọrụ ndị sitere na akaụntụ emekọrịtara</item>
+        <item>Galaxy Themes: Themes na akwụkwọ ahụaja ndabara</item>
+        <item>Ngwa ndị: faịlụ nwụnye ekwekọghị na data sitere na ngwa na-abụghị Samsung</item>
+        <item>Folda dị Nchekwa: ngwa na data</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Ndịnzìrịtaozī: Ndịnzìrịtaozī sitere na akaụntụ emekọrịtara</item>
+        <item>Ngụafọ: mmemme na ọrụ ndị sitere na akaụntụ emekọrịtara</item>
+        <item>Galaxy Themes: Themes na akwụkwọ ahụaja ndabara</item>
+        <item>Ngwa: faịlụ nwụnye anaghị akwado</item>
+        <item>Folda dị Nchekwa: ngwa na data</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Ekwentị: oku na agụgụala ozi</item>
+        <item>Ozi: ozi emelitere, ozi mgbasa ozi na ozi ederede</item>
+        <item>Ndịnzìrịtaozī: Ndịnzìrịtaozī, adreesị ozi-e na kaadị azụmahịa echekwara na njiarụ gị</item>
+        <item>Ngụafọ: mmemme na ọrụ echekwara na njiarụ gị</item>
+        <item>Elekere: Mkpu, elekere ụwa, na ngụ oge</item>
+        <item>Mwube: nnwetaoghere mwube, ụda nkụ ekwentị̀, nhọrọ Ahụigodo Samsung, mwube Wi-Fi, Bluetooth njiarụ ndị ejikọtara, mwube njirimara ihu, mwube akara mkpịsị aka, na mwube Always On Display (a gaghị eme ụda nkụ ekwentị̀ ndabara gị nke abụọ)</item>
+        <item>Ihuenyo bé: okirikiri nhọrọ ukwuu, akwụkwọ ahụaja, na mwube Samsung DeX</item>
+        <item>Ngwa: faịlụ nnwụnye na ntọala ngwa</item>
+        <item>Ihe ndekọ olu: ndekọ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Egwu: MP3, FLAC, WAV, M4A, OGG, na faịlụ egwu ndị ọzọ</item>
+        <item>Dọkụmentị: PDF, Word, Excel, PowerPoint, na dọkụmentị ndị ọzọ</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: akụkọ mkparịta</item>
+        <item>%s: ihe ndetu akpọchiri</item>
+        <item>%s: data paswọdụ chedoro</item>
+        <item>%s: ngwa na ngwa data</item>
+        <item>%s: Mmemme sitere na akaụntụ emekọrịtara</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Igodo nkeonwe na akpaokwu mgbake</item>
+        <item>"Data enweghị ike inyefe n'ihi amụma ngwa ahụ"</item>
+        <item>"Ngwa enweghị ike ibufe n'ihi nsogbu nchekwa ma ọ bụ ndakọrịta: %s"</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Ndịnzìrịtaozī Naanị-gụọ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Fotoaja ndabere</item>
+        <item>Akwụkwọ ahụaja Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Ozi mkpu ihe mberede</item>
+        <item>Ederede na ozi agaghị</item>
+        <item>Ozi nwere mmetụta iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Ndịna akpọchiri</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Ekwentị: oku na agụgụala ozi</item>
+        <item>Ozi: ozi emelitere, ozi mgbasa ozi na ozi ederede</item>
+        <item>Elekere: Mkpu, elekere ụwa, na ngụ oge</item>
+        <item>Mwube: Nnwetaohere mwube, Ụda nkụ ekwentị̀, nhọrọ ahụigodo Samsung, mwube Wi-Fi, njiarụ Bluetooth ejikọtara, na mwube Always On Display (Ezonyeghi ndabara ụda)</item>
+        <item>Ngwa: mwube ngwa</item>
+        <item>Ihuenyo bé: okirikiri nhọrọ ukwuu, akwụkwọ ahụaja, na mwube Samsung DeX</item>
+        <item>Ihe ndekọ olu: ndekọ</item>
+    </string-array>
+</resources>

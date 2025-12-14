@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package samsung.scsp.gallery.v1;
+
+option java_multiple_files = true;
+
+
+service TestUserCleanupService {
+  rpc Execute(TestUserCleanupRequest) returns (TestUserCleanupResponse) {}
+}
+
+message TestUserCleanupRequest {
+}
+
+message TestUserCleanupResponse {
+}

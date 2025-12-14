@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Jūsų telefonas įkraunamas.</item>
+        <item>Jūsų telefonas yra prijungtas prie „Wi-Fi“ tinklo.</item>
+        <item>Ekranas išjungtas.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Planšetinis kompiuteris įkraunamas.</item>
+        <item>Jūsų planšetinis kompiuteris yra prijungtas prie „Wi-Fi“ tinklo.</item>
+        <item>Ekranas išjungtas.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Duomenys, kurių atsarginę kopiją galite sukurti, gali skirtis ir priklauso nuo telefono ar operacinės sistemos.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Duomenys, kurių atsarginę kopiją galite sukurti, gali skirtis ir priklauso nuo planšetinio kompiuterio ar operacinės sistemos.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Adresatai: adresatai iš sinchronizuojamų paskyrų</item>
+        <item>Kalendorius: įvykiai ir užduotys iš sinchronizuojamų paskyrų</item>
+        <item>Galaxy Themes: temos ir numatytasis ekrano fonas</item>
+        <item>Programos: nesuderinami diegimo failai ir duomenys iš ne „Samsung“ programų</item>
+        <item>Saugusis aplankas: programos ir duomenys</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Adresatai: adresatai iš sinchronizuojamų paskyrų</item>
+        <item>Kalendorius: įvykiai ir užduotys iš sinchronizuojamų paskyrų</item>
+        <item>Galaxy Themes: temos ir numatytasis ekrano fonas</item>
+        <item>Programos: nepalaikomi diegimo failai</item>
+        <item>Saugusis aplankas: programos ir duomenys</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon.: skambučių ir žinučių istorija</item>
+        <item>Žinutės: patobulintosios, multimedijos ir teksto žinutės</item>
+        <item>Adresatai: adresatai, el. pašto adresai ir vizitinės kortelės išsaugotos jūsų įrenginyje</item>
+        <item>Kalendorius: įvykiai ir užduotys išsaugoti jūsų įrenginyje</item>
+        <item>Laikrodis: signalai, pasaulio laikrodžiai ir laikmačiai</item>
+        <item>Nustatymai: pritaikymo neįgaliesiems nustatymai, skambėjimo tonai, „Samsung“ klaviatūros parinktys, „Wi-Fi“ nustatymai, susieti „Bluetooth“ įrenginiai, veido atpažinimo nustatymai, pirštų atspaudų nustatymai ir „Always On Display“ nustatymai (numatytojo skambėjimo tono atsarginė kopija nebus kuriama)</item>
+        <item>Pradžios ekranas: išdėstymas, ekrano fonai ir „Samsung DeX“ nustatymai</item>
+        <item>Programos: diegimo failai ir programų nustatymai</item>
+        <item>Diktofonas: įrašai</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Muzika: MP3, FLAC, WAV, M4A, OGG ir kiti muzikos failai</item>
+        <item>Dokumentai: PDF, „Word“, „Excel“, „PowerPoint“ ir kiti dokumentai</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: pokalbių istorija</item>
+        <item>%s: užrakintos pastabos</item>
+        <item>%s: slaptažodžiu apsaugoti duomenys</item>
+        <item>%s: programos ir programų duomenys</item>
+        <item>%s: Įvykiai iš sinchronizuojamų paskyrų</item>
+        <item>„Samsung Blockchain Keystore“</item>
+        <item>Privatusis raktas ir atkūrimo frazė</item>
+        <item>Duomenys, kurių negalima perkelti dėl programos politikos</item>
+        <item>Programos, kurių negalima perkelti dėl saugumo arba suderinamumo problemų: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Tik skaitomi adresatai</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Numatytasis ekrano fonas</item>
+        <item>„Galaxy Themes“ ekrano fonai</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Pagalbos įspėjimo žinutės</item>
+        <item>Juodraščiai ir nepavykusios žinutės</item>
+        <item>Žinutės su „iMessage“ efektais</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Užrakintas turinys</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon.: skambučių ir žinučių istorija</item>
+        <item>Žinutės: patobulintosios, multimedijos ir teksto žinutės</item>
+        <item>Laikrodis: signalai, pasaulio laikrodžiai ir laikmačiai</item>
+        <item>Nustatymai: pritaikymo neįgaliesiems nustatymai, skambėjimo tonai, „Samsung“ klaviatūros parinktys, „Wi-Fi“ nustatymai, susieti „Bluetooth“ įrenginiai ir „Always On Display“ nustatymai (numatytasis skambėjimo tonas neužšifruojamas)</item>
+        <item>Programos: programų nustatymai</item>
+        <item>Pradžios ekranas: išdėstymas, ekrano fonai ir „Samsung DeX“ nustatymai</item>
+        <item>Diktofonas: įrašai</item>
+    </string-array>
+</resources>

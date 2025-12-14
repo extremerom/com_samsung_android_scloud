@@ -1,0 +1,96 @@
+syntax = "proto3";
+
+package samsung.scsp.plan.v1;
+
+option java_multiple_files = true;
+
+//```json
+// // sample data format for subscription response
+// // if subscription is downgrading or unsubscribing, response could be changed.
+//  {
+//    "subscribed": true,
+//    "subscriptionStatus": "SUBSCRIBED",
+//    "subscribedAt": "1695110400000",
+//    "plan": {
+//      "itemId": "plan49GB", // the plan item id could be unreadable value
+//      "itemName": "UT_PLAN49GB", // it will be fixed with PM
+//      "quota: "49GB"
+//    },
+//    "paymentInfo": {
+//      "fee": 2000,
+//      "currencyCode": "KRW",
+//      "currencyUnit": "₩"
+//    },
+//    "renews": 1697788800000
+//  }
+//```
+message SubscriptionMessage {
+  // Subscribed or not
+  bool subscribed = 1;
+  // Status of subscription
+  SubscriptionStatus subscriptionStatus = 2;
+  // The time user started subscribing<br/>
+  // It only exists if user are subscribing.
+  optional int64 subscribedAt = 3;
+  optional Plan plan = 4;
+  // Subscription paymentInfo
+  optional PaymentInfo paymentInfo = 5;
+  // Subscription will be renewed at<br/>
+  // It only exists if user are subscribing.
+  optional int64 renews = 6;
+  // It only exist if subscription unsubscribed but data not yet removed
+  optional UnsubscribedInfo unsubscribedInfo = 7;
+  // It only exist if subscription is downgrading requested but not yet processed
+  optional DowngradingInfo downgradingInfo = 8;
+}
+
+message PaymentInfo {
+  // Subscription fee<br/>
+  // It only exists if user are subscribing.
+  optional int32 fee = 1;
+  // Currency code (3 characters) of the purchaser's local currency.<br/>
+  // (for example, EUR, GBP, USD)
+  optional string currencyCode = 2;
+  // Symbol of the purchaser's local currency <br/>
+  // (for example, €, £, or $)
+  optional string currencyUnit = 3;
+}
+
+// Status of subscription
+enum SubscriptionStatus {
+  // Default / Invalid (should not be used in business logic)
+  SUBSCRIPTION_STATUS_UNSPECIFIED = 0;
+  // Active
+  SUBSCRIBED = 1;
+  // Inactive
+  UNSUBSCRIBED = 2;
+  // Active
+  UNSUBSCRIBING = 3;
+  // Active
+  DOWNGRADING = 4;
+  // Inactive
+  REFUNDING = 5;
+}
+
+message UnsubscribedInfo {
+  // Paid service data will be deleted at
+  int64 dataDeletedAt = 1;
+  // subscription ended at
+  int64 unsubscribedAt = 2;
+}
+
+message DowngradingInfo {
+  // at next renew, subscription will be downgraded to targetPlan
+  Plan targetPlan = 1;
+}
+
+message Plan {
+  // Subscription plan itemId<br/>
+  // It only exists if user are subscribing.
+  string itemId = 1;
+  // Item name which user subscribed.<br/>
+  // The name could be changed.<br/>
+  // e.g. PREMIUM 200GB
+  string planName = 2;
+  string quota = 3;
+}

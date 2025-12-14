@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 படம் %1$d நிகழ்படம் (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 படம் %1$d நிகழ்படங்கள் (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d பயன்பாடு நிறுவப்படவில்லை</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d பயன்பாடுகள் நிறுவப்படவில்லை</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">தகவல்கள்: அவசர நிலை விழிப்பூட்டல்கள், இடமாற்றப்பட்ட கோப்புகள், %d MB-ஐ விட அதிகமான பல்லூடக தகவல்கள், வரைவுகள், மற்றும் தோல்வியடைந்த தகவல்கள்</item>
+        <item quantity="one">தகவல்கள்: அவசர நிலை விழிப்பூட்டல்கள், இடமாற்றப்பட்ட கோப்புகள், %d MB-ஐ விட அதிகமான பல்லூடக தகவல்கள், வரைவுகள், மற்றும் தோல்வியடைந்த தகவல்கள்</item>
+        <item quantity="two">தகவல்கள்: அவசர நிலை விழிப்பூட்டல்கள், இடமாற்றப்பட்ட கோப்புகள், %d MB-ஐ விட அதிகமான பல்லூடக தகவல்கள், வரைவுகள், மற்றும் தோல்வியடைந்த தகவல்கள்</item>
+        <item quantity="few">தகவல்கள்: அவசர நிலை விழிப்பூட்டல்கள், இடமாற்றப்பட்ட கோப்புகள், %d MB-ஐ விட அதிகமான பல்லூடக தகவல்கள், வரைவுகள், மற்றும் தோல்வியடைந்த தகவல்கள்</item>
+        <item quantity="many">தகவல்கள்: அவசர நிலை விழிப்பூட்டல்கள், இடமாற்றப்பட்ட கோப்புகள், %d MB-ஐ விட அதிகமான பல்லூடக தகவல்கள், வரைவுகள், மற்றும் தோல்வியடைந்த தகவல்கள்</item>
+        <item quantity="other">தகவல்கள்: அவசர நிலை விழிப்பூட்டல்கள், இடமாற்றப்பட்ட கோப்புகள், %d MB-ஐ விட அதிகமான பல்லூடக தகவல்கள், வரைவுகள், மற்றும் தோல்வியடைந்த தகவல்கள்</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d சாதனத்திற்கான பின்சேமிப்பு தரவு விரைவில் காலாவதியாகும். காலாவதி தேதியை சரிபார்க்க, கீழே சாதனத்தைத் தேர்வு செய்யவும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d சாதனங்களுக்கான பின்சேமிப்பு தரவு விரைவில் காலாவதியாகும். காலாவதி தேதியை சரிபார்க்க, கீழே சாதனத்தைத் தேர்வு செய்யவும்.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d சாதனத்திற்கான பின்சேமிப்பு தரவு விரைவில் காலாவதியாகும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d சாதனங்களுக்கான பின்சேமிப்பு தரவு விரைவில் காலாவதியாகும்.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d பின்சேமிப்பு உருப்படியை புதுப்பிக்க இயலவில்லை, எனவே இந்த உருப்படியின் முந்தைய பின்சேமிப்பு உங்கள் புதிய ஃபோனில் (%2$s) மீள்சேமிக்கப்படும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d பின்சேமிப்பு உருப்படிகளை புதுப்பிக்க இயலவில்லை, எனவே இந்த உருப்படிகளின் முந்தைய பின்சேமிப்புகள் உங்கள் புதிய ஃபோனில் (%2$s) மீள்சேமிக்கப்படும்.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d பின்சேமிப்பு உருப்படியை புதுப்பிக்க இயலவில்லை, எனவே %2$s அன்று பின்சேமிக்கப்பட்ட இந்த உருப்படி உங்கள் புதிய ஃபோனில் (%3$s) மீள்சேமிக்கப்படும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d பின்சேமிப்பு உருப்படிகளை புதுப்பிக்க இயலவில்லை, எனவே %2$s அன்று பின்சேமிக்கப்பட்ட இந்த உருப்படிகள் உங்கள் புதிய ஃபோனில் (%3$s) மீள்சேமிக்கப்படும்.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d பின்சேமிப்பு உருப்படியை புதுப்பிக்க இயலவில்லை, எனவே இந்த உருப்படியின் முந்தைய பின்சேமிப்பு உங்கள் புதிய டேப்லெட்டில் (%2$s) மீள்சேமிக்கப்படும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d பின்சேமிப்பு உருப்படிகளை புதுப்பிக்க இயலவில்லை, எனவே இந்த உருப்படிகளின் முந்தைய பின்சேமிப்புகள் உங்கள் புதிய டேப்லெட்டில் (%2$s) மீள்சேமிக்கப்படும்.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d பின்சேமிப்பு உருப்படியை புதுப்பிக்க இயலவில்லை, எனவே %2$s அன்று பின்சேமிக்கப்பட்ட இந்த உருப்படி உங்கள் புதிய டேப்லெட்டில் (%3$s) மீள்சேமிக்கப்படும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d பின்சேமிப்பு உருப்படிகளை புதுப்பிக்க இயலவில்லை, எனவே %2$s அன்று பின்சேமிக்கப்பட்ட இந்த உருப்படிகள் உங்கள் புதிய டேப்லெட்டில் (%3$s) மீள்சேமிக்கப்படும்.</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">தரவு %d நாளில் நீக்கப்படும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">தரவு %d நாட்களில் நீக்கப்படும்.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d நாளில் காலாவதியாகும்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d நாட்களில் காலாவதியாகும்</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">உங்கள் பெரும்பாலான தரவு மீள்சேமிக்கப்பட்டுள்ளது, ஆனால் %d பயன்பாடு நிறுவப்படவில்லை.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">உங்கள் பெரும்பாலான தரவு மீள்சேமிக்கப்பட்டுள்ளது, ஆனால் %d பயன்பாடுகள் நிறுவப்படவில்லை.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d புதிய தொகுப்பு உள்ளது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d புதிய தொகுப்புகள் உள்ளன</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d தொகுப்பு தேர்வுசெய்யப்பட்டுள்ளது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d தொகுப்புகள் தேர்வுசெய்யப்பட்டுள்ளன</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 அவதார் மற்றும் பிரத்யேகமாக வடிவமைக்கப்பட்ட %d உருப்படி</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 அவதார் மற்றும் பிரத்யேகமாக வடிவமைக்கப்பட்ட %d உருப்படிகள்</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 மணிநேரம் %d நிமிடம் மீதமுள்ளது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 மணிநேரம் %d நிமிடங்கள் மீதமுள்ளன</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 புகைப்படம் மற்றும் %d நிகழ்படம் ஒத்திசைக்கப்ட்டது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 புகைப்படம் மற்றும் %d நிகழ்படங்கள் ஒத்திசைக்கப்பட்டன</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d உருப்படி தேர்வு செய்யப்பட்டுள்ளது (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d உருப்படிகள் தேர்வு செய்யப்பட்டுள்ளன (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d படம் மற்றும் 1 நிகழ்படம் (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d படங்கள் மற்றும் 1 நிகழ்படம் (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d படம் (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d படங்கள் (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d தேர்வுசெய்யப்பட்டது (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d தேர்வுசெய்யப்பட்டன (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d நிகழ்படம் (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d நிகழ்படங்கள் (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d கோப்பு</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d கோப்புகள்</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d மணிநேரம் 1 நிமிடம் மீதமுள்ளது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d மணிநேரங்கள் 1 நிமிடம் மீதமுள்ளன</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d படிமம் கிளௌடிலிருந்து பதிவிறக்கப்பட்டுள்ளது.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d படிமங்கள் கிளௌடிலிருந்து பதிவிறக்கப்பட்டுள்ளன.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d உருப்படி கிளௌடிலிருந்து பதிவிறக்கப்பட்டுள்ளது.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d உருப்படிகள் கிளௌடிலிருந்து பதிவிறக்கப்பட்டுள்ளன.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d நிமிடம்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d நிமிடங்கள்</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d நிமிடம் மீதமுள்ளது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d நிமிடங்கள் மீதமுள்ளன</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d புகைப்படம் மற்றும் 1 நிகழ்படம் ஒத்திசைக்கப்பட்டது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d புகைப்படங்கள் மற்றும் 1 நிகழ்படம் ஒத்திசைக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d புகைப்படம் ஒத்திசைக்கப்பட்டது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d புகைப்படங்கள் ஒத்திசைக்கப்பட்டன</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d படம் அல்லது நிகழ்படம்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d படங்கள் மற்றும் நிகழ்படங்கள்</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d தேர்வுசெய்யப்பட்டுள்ளது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d தேர்வுசெய்யப்பட்டுள்ளது</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d நிகழ்படம் கிளௌடிலிருந்து பதிவிறக்கப்பட்டுள்ளது.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d நிகழ்படங்கள் கிளௌடிலிருந்து பதிவிறக்கப்பட்டுள்ளன.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d நிகழ்படம் ஒத்திசைக்கப்பட்டது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d நிகழ்படங்கள் ஒத்திசைக்கப்பட்டன</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">குறைந்த மின்கலம். உங்கள் ஃபோனை பின்சேமிப்பு செய்ய குறைந்தது %d%% சார்ஜ் செய்யவும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">குறைந்த மின்கலம். உங்கள் ஃபோனை பின்சேமிப்பு செய்ய குறைந்தது %d%% சார்ஜ் செய்யவும்.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">உங்கள் தற்காலிக பின்சேமிப்பு %d நாளில் காலாவதியாகிவிடும். இப்போதே அதை மீள்சேமிக்கவும் அல்லது உங்களுக்கு மேலும் நேரம் தேவைப்பட்டால் காலாவதி தேதியை ஒத்திவைக்கவும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">உங்கள் தற்காலிக பின்சேமிப்பு %d நாட்களில் காலாவதியாகிவிடும். இப்போதே அதை மீள்சேமிக்கவும் அல்லது உங்களுக்கு மேலும் நேரம் தேவைப்பட்டால் காலாவதி தேதியை ஒத்திவைக்கவும்.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d நாள் ஒத்திவைக்கவும்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d நாட்கள் ஒத்திவைக்கவும்</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d அவதார்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d அவதார்கள்</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d அவதார் மற்றும் பிரத்யேகமாக வடிவமைக்கப்பட்ட 1 உருப்படி</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d அவதார்கள் மற்றும் பிரத்யேகமாக வடிவமைக்கப்பட்ட 1 உருப்படி</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">பிரத்யேகமாக வடிவமைக்கப்பட்ட %d உருப்படி</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">பிரத்யேகமாக வடிவமைக்கப்பட்ட %d உருப்படிகள்</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d உருப்படி மீதமுள்ளது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d உருப்படிகள் மீதமுள்ளன</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d இணைக்கப்பட்டுள்ள சாம்சங் சாதனம்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d இணைக்கப்பட்டுள்ள சாம்சங் சாதனங்கள்</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d நினைவூட்டல்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d நினைவூட்டல்கள்</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">உங்கள் சந்தா %1$s அன்று நிறைவடைகிறது. உங்கள் தரவு %2$d நாளில் நீக்கப்படும். உங்கள் தரவை தக்கவைக்க உங்கள் சந்தாவை செயல்படுத்தவும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">உங்கள் சந்தா %1$s அன்று நிறைவடைகிறது. உங்கள் தரவு %2$d நாட்களில் நீக்கப்படும். உங்கள் தரவை தக்கவைக்க உங்கள் சந்தாவை செயல்படுத்தவும்.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">குறைந்த மின்கலம். உங்கள் டேப்லெட்டை பின்சேமிப்பு செய்ய குறைந்தது %d%% சார்ஜ் செய்யவும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">குறைந்த மின்கலம். உங்கள் டேப்லெட்டை பின்சேமிப்பு செய்ய குறைந்தது %d%% சார்ஜ் செய்யவும்.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s-இல் %2$d நாள் வரை வரம்பற்ற தரவை பின்சேமிக்கலாம் அல்லது நீங்கள் பின்சேமித்த தரவை மீள்சேமிக்கலாம்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$s-இல் %2$d நாட்கள் வரை வரம்பற்ற தரவை பின்சேமிக்கலாம் அல்லது நீங்கள் பின்சேமித்த தரவை மீள்சேமிக்கலாம்.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">இந்த பின்சேமிப்பு %d நாளில் நீக்கப்படும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">இந்த பின்சேமிப்பு %d நாட்களில் நீக்கப்படும்.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d மணிநேரத்தில் மீண்டும் முயலவும்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d மணிநேரங்களில் மீண்டும் முயலவும்</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d மணிநேரம் 1 நிமிடத்தில் மீண்டும் முயலவும்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d மணிநேரங்கள் 1 நிமிடத்தில் மீண்டும் முயலவும்</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d நிமிடத்தில் மீண்டும் முயலவும்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d நிமிடங்களில் மீண்டும் முயலவும்</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 மணிநேரம் %d நிமிடத்தில் மீண்டும் முயலவும்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 மணிநேரம் %d நிமிடங்களில் மீண்டும் முயலவும்</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s-இல் உங்கள் பின்சேமிப்பு பாதுகாப்பாக உள்ளது. அதை மீள்சேமிக்க %2$d நாள் உள்ளது.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$s-இல் உங்கள் பின்சேமிப்பு பாதுகாப்பாக உள்ளது. அதை மீள்சேமிக்க %2$d நாட்கள் உள்ளன.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">உங்கள் தற்காலிக பின்சேமிப்பு %d நாளில் நீக்கப்படும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">உங்கள் தற்காலிக பின்சேமிப்பு %d நாட்களில் நீக்கப்படும்.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">உங்கள் ஃபோனில் உங்கள் தரவு மீள்சேமிக்கப்படவில்லை. அதை மீள்சேமிக்க %d நாள் உள்ளது.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">உங்கள் ஃபோனில் உங்கள் தரவு மீள்சேமிக்கப்படவில்லை. அதை மீள்சேமிக்க %d நாட்கள் உள்ளன.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">உங்கள் டேப்லெட்டில் உங்கள் தரவு மீள்சேமிக்கப்படவில்லை. அதை மீள்சேமிக்க உங்களிடம் %d நாள் உள்ளது.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">உங்கள் டேப்லெட்டில் உங்கள் தரவு மீள்சேமிக்கப்படவில்லை. உங்கள் தரவை மீள்சேமிக்க உங்களிடம் %d நாட்கள் உள்ளன.</item>
+    </plurals>
+</resources>

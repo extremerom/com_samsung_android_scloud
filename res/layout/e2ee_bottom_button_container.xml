@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:tag="layout/e2ee_bottom_button_container_0" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.scloud.app.common.component.AlphaStateButton android:textAppearance="@style/TextAppearanceBottomButton" android:id="@id/bottom_button" android:tag="binding_1" android:background="@drawable/round_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/e2ee_bottom_button_vertical_margin" android:layout_marginBottom="@dimen/e2ee_bottom_button_vertical_margin" android:minWidth="@dimen/bottom_button_width" android:minHeight="@dimen/button_min_height" android:paddingStart="16.0dp" android:paddingEnd="16.0dp" android:layout_marginStart="@dimen/margin_45dp" android:layout_marginEnd="@dimen/margin_45dp" />
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/title_layout" android:tag="layout/tnc_pp_item_function_text_view_0" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextPrivacyPolicyDescription" android:id="@id/text_view" android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/privacy_notice_agreement_dialog_description_bottom_margin" android:layout_marginStart="@dimen/privacy_policy_app_text_margin_side" android:layout_marginEnd="@dimen/privacy_policy_app_text_margin_side" />
+</LinearLayout>

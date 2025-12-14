@@ -1,0 +1,21 @@
+syntax = "proto3";
+import "gallery/attribute/media/media_meta_attribute.proto";
+import "gallery/attribute/media/media_status_attribute.proto";
+import "gallery/attribute/media/file_url_attribute.proto";
+import "gallery/attribute/media/file_meta_attribute.proto";
+
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.media.attribute;
+
+option java_multiple_files = true;
+
+
+message Media {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+  MediaMeta media_meta = 2 [(google.api.field_behavior) = REQUIRED]; 
+  optional MediaStatus status = 3 [(google.api.field_behavior) = REQUIRED]; 
+  optional int64 server_timestamp = 4 [(google.api.field_behavior) = REQUIRED]; 
+  FileMetaAttribute file_meta = 5 [(google.api.field_behavior) = REQUIRED]; 
+  FileUrlAttribute file_url = 6 [(google.api.field_behavior) = REQUIRED]; 
+}

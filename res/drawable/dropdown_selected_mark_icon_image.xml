@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center" android:height="@dimen/spinner_checked_image_icon_size" android:width="@dimen/spinner_checked_image_icon_size">
+        <bitmap android:src="@drawable/ic_check" android:tint="@color/color_primary_dark" />
+    </item>
+</layer-list>

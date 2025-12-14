@@ -1,0 +1,19 @@
+{
+  "methodConfig": [
+    {
+      "name": [{}],
+      "timeout": "60s",
+      "retryPolicy": {
+        "maxAttempts": 2,
+        "initialBackoff": "1s",
+        "maxBackoff": "5s",
+        "backoffMultiplier": 2,
+        "retryableStatusCodes": [
+          "UNAVAILABLE",
+          "RESOURCE_EXHAUSTED",
+          "DEADLINE_EXCEEDED"
+        ]
+      }
+    }
+  ]
+}

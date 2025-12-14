@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.scloud.app.core.component.RoundCorneredScrollView android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:overScrollMode="always">
+        <LinearLayout android:orientation="vertical" android:id="@id/info_slot_view" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    </com.samsung.android.scloud.app.core.component.RoundCorneredScrollView>
+</LinearLayout>

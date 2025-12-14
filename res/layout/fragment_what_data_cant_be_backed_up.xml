@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/fragment_new" android:paddingBottom="@dimen/margin_16dp" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/divider_top" android:layout_width="match_parent" android:layout_height="@dimen/margin_1dp" android:layout_marginTop="@dimen/margin_12dp" android:src="?android:listDivider" android:importantForAccessibility="no" />
+    <androidx.fragment.app.FragmentContainerView android:id="@id/summary_fragment" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_17dp" />
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="bottom" android:id="@id/divider_bottom" android:layout_width="match_parent" android:layout_height="@dimen/margin_1dp" android:src="?android:listDivider" android:layout_alignParentBottom="true" android:importantForAccessibility="no" />
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,148 @@
+syntax = "proto3";
+
+import "plan/v1/common/subscription_message.proto";
+
+package samsung.scsp.plan.v1;
+
+option java_multiple_files = true;
+option java_outer_classname = "SubscriptionServiceProto";
+
+// Services used by the client for subscription.<br/>
+// TODO: The interface payloads have not been confirmed.
+service SubscriptionService {
+  // Check subscription availability
+  rpc CheckSubscriptionAvailable(SubscriptionAvailableRequest) returns (SubscriptionAvailableResponse);
+  // Get subscription information
+  rpc GetSubscription(SubscriptionRequest) returns (SubscriptionResponse);
+  // query subscription history
+  rpc GetSubscriptionHistory(SubscriptionHistoryRequest) returns (SubscriptionHistoryResponse);
+  // Subscribe cloud plan<br>
+  // Subscribe must be called after IAP purchase
+  rpc Subscribe(SubscribeRequest) returns (SubscribeResponse);
+  // Upgrade cloud plan<br>
+  // Upgrade must be called after IAP upgrade
+  rpc Upgrade(UpgradeRequest) returns (UpgradeResponse);
+  // Downgrade cloud plan<br>
+  // Downgrade must be called after IAP downgrade
+  rpc Downgrade(DowngradeRequest) returns (DowngradeResponse);
+  // Request refund<br>
+  rpc Refund(RefundRequest) returns (RefundResponse);
+  // Cancel subscription
+  rpc Cancel(CancelRequest) returns (CancelResponse);
+  // Revoke cancel subscription
+  rpc RevokeCancellation(RevokeCancellationRequest) returns (RevokeCancellationResponse);
+  // Revoke downgrade
+  rpc RevokeDowngrade(RevokeDowngradeRequest) returns (RevokeDowngradeResponse);
+}
+
+message SubscriptionAvailableRequest {
+  // Sim mcc from device
+  string simMcc = 1;
+  // Current samsung account country code
+  string samsungAccountCc = 2;
+}
+
+message SubscriptionAvailableResponse {
+  // Subscription available or not
+  bool available = 1;
+  // Obfuscated AccountId
+  string obfuscatedAccountId = 2;
+}
+
+message SubscriptionRequest {
+}
+
+//```json
+// // sample data format for subscription response
+// // if subscription is downgrading or unsubscribing, response could be changed.
+//  {
+//    "subscriptionMessage": {
+//      "subscribed": true,
+//      "subscriptionStatus": "SUBSCRIBED",
+//      "subscribedAt": "1695110400000",
+//      "plan": {
+//        "itemId": "plan49GB", // the plan item id could be unreadable value
+//        "itemName": "UT_PLAN49GB", // it will be fixed with PM
+//        "quota: "49GB"
+//      },
+//      "paymentInfo": {
+//        "fee": 2000,
+//        "currencyCode": "KRW",
+//        "currencyUnit": "₩"
+//      },
+//      "renews": 1697788800000
+//    }
+//  }
+//```
+message SubscriptionResponse {
+  SubscriptionMessage subscriptionMessage = 1;
+}
+
+// TODO : Interface not defined
+message SubscriptionHistoryRequest {
+  string purchaseId = 1;
+}
+
+// TODO : Interface not defined
+message SubscriptionHistoryResponse {
+}
+
+message SubscribeRequest {
+  // Plan itemId to subscribe. ItemId could get from IAP.
+  string itemId = 1;
+  // PurchaseId from IAP. PurchaseId is issued after purchase.
+  string purchaseId = 2;
+}
+
+message SubscribeResponse {
+}
+
+message UpgradeRequest {
+  // This value is in the IAP changePlan response
+  string oldItemId = 1;
+  // This value is in the IAP changePlan response
+  string newItemId = 2;
+  // This value is in the IAP changePlan response
+  string newPurchaseId = 3;
+}
+
+message UpgradeResponse {
+}
+
+message DowngradeRequest {
+  // This value is in the IAP changePlan response
+  string oldItemId = 1;
+  // This value is in the IAP changePlan response
+  string newItemId = 2;
+  // This value is in the IAP changePlan response
+  string newPurchaseId = 3;
+}
+
+message DowngradeResponse {
+}
+
+message RefundRequest {
+}
+
+message RefundResponse {
+}
+
+message CancelRequest {
+
+}
+
+message CancelResponse {
+}
+
+message RevokeCancellationRequest {
+}
+
+message RevokeCancellationResponse {
+}
+
+message RevokeDowngradeRequest {
+}
+
+message RevokeDowngradeResponse {
+
+}

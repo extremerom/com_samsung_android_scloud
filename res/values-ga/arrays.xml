@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>"Tá d'fhón á luchtú."</item>
+        <item>"Tá d'fhón nasctha le líonra Wi-Fi."</item>
+        <item>Tá an scáileán casta as.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tá do tháibléad á luchtú.</item>
+        <item>Tá do tháibléad nasctha le líonra Wi-Fi.</item>
+        <item>Tá an scáileán casta as.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>"Is féidir go mbeidh na sonraí is féidir leat a chúltacú difriúil bunaithe ar d'fhón nó ar do chóras oibriúcháin."</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Is féidir go mbeidh na sonraí is féidir leat a chúltacú difriúil bunaithe ar do tháibléad nó ar do chóras oibriúcháin.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Teagmhálaithe: teagmhálaithe ó chuntais shioncronaithe</item>
+        <item>Féilire: imeachtaí agus tascanna ó chuntais shioncronaithe</item>
+        <item>Galaxy Themes: téamaí agus cúlbhrat réamhshocraithe</item>
+        <item>Feidhmchláir: comhaid suiteála agus sonraí neamh-chomhoiriúnacha ó fheidhmchláir nach feidhmchláir Samsung iad</item>
+        <item>Fillteán Slán: feidhmchláir agus sonraí</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Teagmhálaithe: teagmhálaithe ó chuntais shioncronaithe</item>
+        <item>Féilire: imeachtaí agus tascanna ó chuntais shioncronaithe</item>
+        <item>Galaxy Themes: téamaí agus cúlbhrat réamhshocraithe</item>
+        <item>Feidhmchláir: comhaid suiteála nach bhfuil tacú ann dóibh</item>
+        <item>Fillteán Slán: feidhmchláir agus sonraí</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Fón: stair glaonna agus teachtaireachtaí</item>
+        <item>Teachtaireachtaí: teachtaireachtaí feabhsaithe, teachtaireachtaí ilmheán, agus teachtaireachtaí téacs</item>
+        <item>Teagmhálaithe: teagmhálaithe, seoltaí r-phoist, agus cártaí gnó atá sábháilte ar do ghléas</item>
+        <item>Féilire: imeachtaí agus tascanna atá sábháilte ar do ghléas</item>
+        <item>Clog: aláraim, cloig dhomhanda, agus uaineadóirí</item>
+        <item>Socruithe: socruithe inrochtaineachta, clingthoin, roghanna Méarchlár Samsung, socruithe Wi-Fi, gléasanna Bluetooth péireáilte, socruithe aitheanta aghaidhe, socruithe méarlorg, agus socruithe Always On Display (ní chúltacófar do chlingthon réamhshocraithe)</item>
+        <item>Scáileán baile: leagan amach, cúlbhrait, agus socruithe Samsung DeX</item>
+        <item>Feidhmchláir: comhaid suiteála agus socruithe feidhmchláir</item>
+        <item>Guth-Thaifeadán: taifeadtaí</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Ceol: MP3, FLAC, WAV, M4A, OGG, agus comhaid cheoil eile</item>
+        <item>Doiciméid: PDF, Word, Excel, PowerPoint agus doiciméid eile</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: stair comhráite</item>
+        <item>%s: nótaí glasáilte</item>
+        <item>%s: sonraí atá faoi chosaint ag pasfhocal</item>
+        <item>%s: feidhmchláir agus sonraí feidhmchláir</item>
+        <item>%s: Imeachtaí ó chuntais shioncronaithe</item>
+        <item>Stór Eochracha Bhlocshlabhra Samsung</item>
+        <item>Eochair phríobháideach agus frása aisghabhála</item>
+        <item>Sonraí nach féidir a aistriú de dheasca bheartais an fheidhmchláir</item>
+        <item>Feidhmchláir nach féidir a aistriú de dheasca fadhbanna slándála nó comhoiriúnachta: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Teagmhálaithe inléite amháin</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Cúlbhrat réamhshocraithe</item>
+        <item>Cúlbhrait Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Teachtaireachtaí foláirimh éigeandála</item>
+        <item>Dréachtaí agus teachtaireachtaí teipthe</item>
+        <item>Teachtaireachtaí a bhfuil maisíochtaí iMessage iontu</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Inneachar glasáilte</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Fón: stair glaonna agus teachtaireachtaí</item>
+        <item>Teachtaireachtaí: teachtaireachtaí feabhsaithe, teachtaireachtaí ilmheán, agus teachtaireachtaí téacs</item>
+        <item>Clog: aláraim, cloig dhomhanda, agus uaineadóirí</item>
+        <item>Socruithe: socruithe inrochtaineachta, clingthoin, roghanna Méarchlár Samsung, socruithe Wi-Fi, gléasanna Bluetooth péireáilte, agus socruithe Always On Display (ní chriptítear clingthon réamhshocraithe)</item>
+        <item>Feidhmchláir: socruithe feidhmchlár</item>
+        <item>Scáileán baile: leagan amach, cúlbhrait, agus socruithe Samsung DeX</item>
+        <item>Guth-Thaifeadán: taifeadtaí</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/navigational_bottom_layout" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/fill_line_divider" />
+    <RelativeLayout android:gravity="end|center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/prev_button_layout" android:background="@drawable/flat_next_prev_button_ripple" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="@dimen/setup_wizard_bottom_view_height" android:layout_marginStart="@dimen/setup_wizard_bottom_view_margin" android:layout_alignParentStart="true" style="@style/RecoilEffect">
+            <ImageView android:id="@id/prev_button_imageview" android:visibility="gone" android:layout_width="@dimen/setup_wizard_bottom_view_button_size" android:layout_height="@dimen/setup_wizard_bottom_view_button_size" android:src="@drawable/flat_next_prev_button_arrow_left" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/next_button_layout" android:background="@drawable/flat_next_prev_button_ripple" android:focusable="true" android:layout_width="wrap_content" android:layout_height="@dimen/setup_wizard_bottom_view_height" android:layout_marginEnd="@dimen/setup_wizard_bottom_view_margin" android:layout_alignParentEnd="true" style="@style/RecoilEffect">
+            <TextView android:enabled="false" android:textAppearance="@style/TextNavigationalBottom" android:id="@id/next_button_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/next" android:layout_marginStart="@dimen/setup_wizard_button_text_margin" android:layout_marginEnd="@dimen/setup_wizard_button_text_margin" />
+            <ImageView android:id="@id/next_button_imageview" android:layout_width="@dimen/setup_wizard_bottom_view_button_size" android:layout_height="@dimen/setup_wizard_bottom_view_button_size" android:src="@drawable/flat_next_prev_button_arrow_right_auto_mirrored" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

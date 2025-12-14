@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+package samsung.scsp.story.attribute;
+import "google/api/field_behavior.proto";
+
+
+
+message PlainSensitiveMeta {
+  optional string ugci = 1 [(google.api.field_behavior) = REQUIRED];                 
+  optional string title = 2 [(google.api.field_behavior) = REQUIRED];                
+  optional int64 created_time = 3 [(google.api.field_behavior) = REQUIRED];          
+  optional int32 is_visible = 4 [(google.api.field_behavior) = REQUIRED];            
+  optional int32 type = 5 [(google.api.field_behavior) = REQUIRED];                  
+  optional int32 notify_status = 6 [(google.api.field_behavior) = REQUIRED];         
+  repeated string items = 7 [(google.api.field_behavior) = REQUIRED];                
+  optional CoverInfo cover_info = 8;                                             
+  repeated string user_curation_items = 9;                                       
+  optional int32 story_favorite = 10 [(google.api.field_behavior) = REQUIRED];       
+  optional int32 oneui_version = 11 [(google.api.field_behavior) = REQUIRED];        
+  optional string story_theme = 12 [(google.api.field_behavior) = REQUIRED];         
+  optional string story_filter = 13 [(google.api.field_behavior) = REQUIRED];        
+  optional string story_bgm = 14 [(google.api.field_behavior) = REQUIRED];           
+  optional int32 sa_type = 15 [(google.api.field_behavior) = REQUIRED];              
+}
+
+message CoverInfo {
+  optional string cover = 1 [(google.api.field_behavior) = REQUIRED];                 
+  repeated double cover_rect = 2 [(google.api.field_behavior) = REQUIRED];            
+}
+
+

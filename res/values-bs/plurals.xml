@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jedna slika i %1$d videozapis (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Jedna slika i %1$d videozapisa (%2$s)</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Jedna slika i %1$d videozapisa (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikacija nije instalirana</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplikacije nisu instalirane</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d aplikacija nije instalirano</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Upozorenja: hitni slučajevi, prenesene datoteke, multimedijalne poruke veće od %d MB, nacrti i neuspješne poruke</item>
+        <item quantity="one">Upozorenja: hitni slučajevi, prenesene datoteke, multimedijalne poruke veće od %d MB, nacrti i neuspješne poruke</item>
+        <item quantity="two">Upozorenja: hitni slučajevi, prenesene datoteke, multimedijalne poruke veće od %d MB, nacrti i neuspješne poruke</item>
+        <item quantity="few">Upozorenja: hitni slučajevi, prenesene datoteke, multimedijalne poruke veće od %d MB, nacrti i neuspješne poruke</item>
+        <item quantity="many">Upozorenja: hitni slučajevi, prenesene datoteke, multimedijalne poruke veće od %d MB, nacrti i neuspješne poruke</item>
+        <item quantity="other">Upozorenja: hitni slučajevi, prenesene datoteke, multimedijalne poruke veće od %d MB, nacrti i neuspješne poruke</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Podaci sigurnosne kopije za %d uređaj će uskoro isteći. Izaberite uređaj ispod da provjerite datum isteka.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Podaci sigurnosne kopije za %d uređaja će uskoro isteći. Izaberite uređaj ispod da provjerite datum isteka.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Podaci sigurnosne kopije za %d uređaja će uskoro isteći. Izaberite uređaj ispod da provjerite datum isteka.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Podaci sigurnosne kopije za %d uređaj će uskoro isteći.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Podaci sigurnosne kopije za %d uređaja će uskoro isteći.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Podaci sigurnosne kopije za %d uređaja će uskoro isteći.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d sigurnosno kopirana stavka se nije mogla ažurirati, stoga će se prethodna sigurnosna kopija ove stavke obnoviti na novi telefon (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d sigurnosno kopirane stavke se nisu mogle ažurirati, stoga će se prethodne sigurnosne kopije ove stavke obnoviti na novi telefon (%2$s).</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d sigurnosno kopiranih stavki se nisu mogle ažurirati, stoga će se prethodne sigurnosne kopije ove stavke obnoviti na novi telefon (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d sigurnosno kopirana stavka se nije mogla ažurirati, stoga će se sigurnosna kopija ove stavke napravljena %2$s obnoviti na novi telefon (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d sigurnosno kopirane stavke se nisu mogle ažurirati, stoga će se sigurnosne kopije ovih stavki napravljene %2$s obnoviti na novi telefon (%3$s).</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d sigurnosno kopiranih stavki se nije moglo ažurirati, stoga će se sigurnosne kopije ovih stavki napravljene %2$s obnoviti na novi telefon (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d sigurnosno kopirana stavka se nije mogla ažurirati, stoga će se prethodna sigurnosna kopija ove stavke obnoviti na novi tablet (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d sigurnosno kopirane stavke se nisu mogle ažurirati, stoga će se prethodne sigurnosne kopije ove stavke obnoviti na novi tablet (%2$s).</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d sigurnosno kopiranih stavki se nisu mogle ažurirati, stoga će se prethodne sigurnosne kopije ove stavke obnoviti na novi tablet (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d sigurnosno kopirana stavka se nije mogla ažurirati, stoga će se sigurnosna kopija ove stavke napravljena %2$s obnoviti na novi tablet (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d sigurnosno kopirane stavke se nisu mogle ažurirati, stoga će se sigurnosne kopije ovih stavki napravljene %2$s obnoviti na novi tablet (%3$s).</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d sigurnosno kopiranih stavki se nije moglo ažurirati, stoga će se sigurnosne kopije ovih stavki napravljene %2$s obnoviti na novi tablet (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Podaci će biti izbrisani za %d dan.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Podaci će biti izbrisani za %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Podaci će biti izbrisani za %d dana.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ističe za %d dan</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ističe za %d dana</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ističe za %d dana</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Većina vaših podataka je obnovljena, ali %d aplikacija nije instalirana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Većina vaših podataka je obnovljena, ali %d aplikacije nisu instalirane.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Većina vaših podataka je obnovljena, ali %d aplikacija nije instalirano.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d novo obavještenje</item>
+        <item quantity="few">%d nova obavještenja</item>
+        <item quantity="other">%d novih obavještenja</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dostupan je %d novi album</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Dostupna su %d nova albuma</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dostupno je %d novih albuma</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Izabran je %d album</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Izabrana su %d albuma</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Izabrano je %d albuma</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 avatar i %d stavka prilagođenog dizajna</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">1 avatar i %d stavke prilagođenog dizajna</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 avatar i %d stavki prilagođenog dizajna</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Preostalo: 1 sat %d minuta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Preostalo: 1 sat %d minute</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Preostalo: 1 sat %d minuta</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 fotogr. i %d videoz. sinhr.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">1 fotogr. i %d videoz. sinhr.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 fotogr. i %d videoz. sinhr.</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Izabrana je %1$d stavka (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Izabrane su %1$d stavke (%2$s)</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Izabrano je %1$d stavki (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d slika i jedan videozapis (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d slike i jedan videozapis (%2$s)</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d slika i jedan videozapis (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d slika (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d slike (%2$s)</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d slika (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Izabrana je %1$d stavka (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Izabrane su %1$d stavke (%2$s %3$s)</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Izabrano je %1$d stavki (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d videozapis (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d videozapisa (%2$s)</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d videozapisa (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d datoteka</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d datoteke</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d datoteka</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Preostalo: %d sat 1 minut</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Preostalo: %d sata 1 minut</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Preostalo: %d sati 1 minut</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Preuzeta je %d slika s oblaka.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Preuzete su %d slike s oblaka.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Preuzeto je %d slika s oblaka.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Preuzeta je %d stavka s oblaka.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Preuzete su %d slike s oblaka.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Preuzeto je %d slika s oblaka.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d minute</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d minuta</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Preostao %d minut</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Preostala %d minuta</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Preostalo %d minuta</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d fotogr. i 1 videoz. sinhr.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d fotogr. i 1 videoz. sinhr.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d fotogr. i 1 videoz. sinhr.</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d fotografija sinhronizovana</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d fotografije sinhronizovane</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d fotografija sinhronizovano</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d slika ili videozapis</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d slike i videozapisa</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d slika i videozapisa</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Izabrano: %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Izabrano: %d</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Izabrano: %d</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Preuzet je %d videozapis s oblaka.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Preuzeta su %d videozapisa s oblaka.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Preuzeto je %d videozapisa s oblaka.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d videozapis sinhronizovan</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d videozapisa sinhronizovana</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d videozapisa sinhronizovano</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Baterija je slaba. Napunite bateriju najmanje %d%% da napravite sigurnosnu kopiju telefona.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Baterija je slaba. Napunite bateriju najmanje %d%% da napravite sigurnosnu kopiju telefona.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Baterija je slaba. Napunite bateriju najmanje %d%% da napravite sigurnosnu kopiju telefona.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Vaša privremena sigurnosna kopija ističe za %d dan. Vratite je odmah ili odgodite datum isteka ako vam treba više vremena.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Vaša privremena sigurnosna kopija ističe za %d dana. Vratite je odmah ili odgodite datum isteka ako vam treba više vremena.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vaša privremena sigurnosna kopija ističe za %d dana. Vratite je odmah ili odgodite datum isteka ako vam treba više vremena.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Odgodi %d dan</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Odgodi %d dana</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Odgodi %d dana</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d avatara</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d avatara</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar i 1 stavka prilagođenog dizajna</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d avatara i 1 stavka prilagođenog dizajna</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d avatara i 1 stavka prilagođenog dizajna</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d stavka prilagođenog dizajna</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d stavke prilagođenog dizajna</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d stavki prilagođenog dizajna</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Preostala je %d stavka</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Preostale su %d stavke</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Preostalo je %d stavki</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d spareni Samsung uređaj</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d sparena Samsung uređaja</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sparenih Samsung uređaja</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d podsjetnik</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d podsjetnika</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d podsjetnika</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Vaša pretplata je istekla dana %1$s. Vaši podaci će biti izbrisani za %2$d dan. Ponovo aktivirajte pretplatu da biste sačuvali svoje podatke.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Vaša pretplata je istekla dana %1$s. Vaši podaci će biti izbrisani za %2$d dana. Ponovo aktivirajte pretplatu da biste sačuvali svoje podatke.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vaša pretplata je istekla dana %1$s. Vaši podaci će biti izbrisani za %2$d dana. Ponovo aktivirajte pretplatu da biste sačuvali svoje podatke.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Baterija je slaba. Napunite bateriju najmanje %d%% da napravite sigurnosnu kopiju tableta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Baterija je slaba. Napunite bateriju najmanje %d%% da napravite sigurnosnu kopiju tableta.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Baterija je slaba. Napunite bateriju najmanje %d%% da napravite sigurnosnu kopiju tableta.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kreirajte sigurnosnu kopiju neograničenih podataka na usluzi %1$s do %2$d dan ili obnovite podatke koje ste sigurnosno kopirali.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Kreirajte sigurnosnu kopiju neograničenih podataka na usluzi %1$s do %2$d dana ili obnovite podatke koje ste sigurnosno kopirali.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kreirajte sigurnosnu kopiju neograničenih podataka na usluzi %1$s do %2$d dana ili obnovite podatke koje ste sigurnosno kopirali.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ova sigurnosna kopija će se izbrisati za %d dan.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ova sigurnosna kopija će se izbrisati za %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ova sigurnosna kopija će se izbrisati za %d dana.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pokušajte ponovo za %d sat</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pokušajte ponovo za %d sata</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Pokušajte ponovo za %d sati</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pokušajte ponovo za %d sat i 1 minutu</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pokušajte ponovo za %d sata i 1 minutu</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Pokušajte ponovo za %d sati i 1 minutu</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pokušajte ponovo za %d minutu</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pokušajte ponovo za %d minute</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Pokušajte ponovo za %d minuta</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pokušajte ponovo za 1 sat i %d minutu</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pokušajte ponovo za 1 sat i %d minute</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Pokušajte ponovo za 1 sat i %d minuta</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sigurnosna kopija je sačuvana u aplikaciji %1$s. Imate %2$d dan da je obnovite.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Sigurnosna kopija je sačuvana u aplikaciji %1$s. Imate %2$d dana da je obnovite.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sigurnosna kopija je sačuvana u aplikaciji %1$s. Imate %2$d dana da je obnovite.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Vaša privremena sigurnosna kopija će se izbrisati za %d dan.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Vaša privremena sigurnosna kopija će se izbrisati za %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vaša privremena sigurnosna kopija će se izbrisati za %d dana.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Vaši podaci nisu obnovljeni na telefon. Imate %d dan da ih obnovite.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Vaši podaci nisu obnovljeni na telefon. Imate %d dana da ih obnovite.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vaši podaci nisu obnovljeni na telefon. Imate %d dana da ih obnovite.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Vaši podaci nisu obnovljeni na tablet. Imate %d dan da ih obnovite.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Vaši podaci nisu obnovljeni na tablet. Imate %d dana da ih obnovite.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vaši podaci nisu obnovljeni na tablet. Imate %d dana da ih obnovite.</item>
+    </plurals>
+</resources>

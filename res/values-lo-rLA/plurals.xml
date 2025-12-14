@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 ຮູບ ແລະ %1$d ວິດີໂອ (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ບໍ່ໄດ້ຕິດຕັ້ງ %d ແອັບ</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">ຂໍ້​ຄວາມ: ການເຕືອນສຸກເສີນ, ໄຟລ໌ທີ່ໂອນແລ້ວ, ຂໍ້​ຄວາມມັ​ລ​ຕິມີເດຍໃຫຍ່ກວ່າ %d MB, ຮ່າງ ແລະ ຂໍ້​ຄວາມທີ່ບໍ່ສຳເລັດ</item>
+        <item quantity="one">ຂໍ້​ຄວາມ: ການເຕືອນສຸກເສີນ, ໄຟລ໌ທີ່ໂອນແລ້ວ, ຂໍ້​ຄວາມມັ​ລ​ຕິມີເດຍໃຫຍ່ກວ່າ %d MB, ຮ່າງ ແລະ ຂໍ້​ຄວາມທີ່ບໍ່ສຳເລັດ</item>
+        <item quantity="two">ຂໍ້​ຄວາມ: ການເຕືອນສຸກເສີນ, ໄຟລ໌ທີ່ໂອນແລ້ວ, ຂໍ້​ຄວາມມັ​ລ​ຕິມີເດຍໃຫຍ່ກວ່າ %d MB, ຮ່າງ ແລະ ຂໍ້​ຄວາມທີ່ບໍ່ສຳເລັດ</item>
+        <item quantity="few">ຂໍ້​ຄວາມ: ການເຕືອນສຸກເສີນ, ໄຟລ໌ທີ່ໂອນແລ້ວ, ຂໍ້​ຄວາມມັ​ລ​ຕິມີເດຍໃຫຍ່ກວ່າ %d MB, ຮ່າງ ແລະ ຂໍ້​ຄວາມທີ່ບໍ່ສຳເລັດ</item>
+        <item quantity="many">ຂໍ້​ຄວາມ: ການເຕືອນສຸກເສີນ, ໄຟລ໌ທີ່ໂອນແລ້ວ, ຂໍ້​ຄວາມມັ​ລ​ຕິມີເດຍໃຫຍ່ກວ່າ %d MB, ຮ່າງ ແລະ ຂໍ້​ຄວາມທີ່ບໍ່ສຳເລັດ</item>
+        <item quantity="other">ຂໍ້​ຄວາມ: ການເຕືອນສຸກເສີນ, ໄຟລ໌ທີ່ໂອນແລ້ວ, ຂໍ້​ຄວາມມັ​ລ​ຕິມີເດຍໃຫຍ່ກວ່າ %d MB, ຮ່າງ ແລະ ຂໍ້​ຄວາມທີ່ບໍ່ສຳເລັດ</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ແບັກອັບຂໍ້ມູນສຳລັບອຸປະກອນ %d ເຄື່ອງຈະໝົດອາຍຸໃນໄວໆນີ້. ເລືອກອຸປະກອນລຸ່ມນີ້ເພື່ອກວດເບິ່ງວັນທີໝົດອາຍຸ.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ແບັກອັບຂໍ້ມູນສຳລັບອຸປະກອນ %d ເຄື່ອງຈະໝົດອາຍຸໃນໄວໆນີ້.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ບໍ່ສາມາດອັບເດດ %1$d ລາຍການແບັກອັບໄດ້, ດັ່ງນັ້ນ ການແບັກອັບກ່ອນໜ້າຂອງລາຍການເຫຼົ່ານີ້ຈະຖືກຣີສະຕໍໃສ່ໂທລະສັບໃໝ່ຂອງທ່ານ (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ບໍ່ສາມາດອັບເດດ %1$d ລາຍການແບັກອັບໄດ້, ດັ່ງນັ້ນ ການແບັກອັບລາຍການເຫຼົ່ານີ້ທີ່​ເຮັດ​ໃນ %2$s ຈະຖືກຣີສະຕໍໃສ່ໂທລະສັບໃໝ່ຂອງທ່ານ (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ບໍ່ສາມາດອັບເດດ %1$d ລາຍການແບັກອັບໄດ້, ດັ່ງນັ້ນ ການແບັກອັບກ່ອນໜ້າຂອງລາຍການເຫຼົ່ານີ້ຈະຖືກຣີສະຕໍໃສ່ແທັບເລັດໃໝ່ຂອງທ່ານ (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ບໍ່ສາມາດອັບເດດ %1$d ລາຍການແບັກອັບໄດ້, ດັ່ງນັ້ນ ການແບັກອັບລາຍການເຫຼົ່ານີ້ທີ່​ເຮັດ​ໃນ %2$s ຈະຖືກຣີສະຕໍໃສ່ແທັບເລັດໃໝ່ຂອງທ່ານ (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຂໍ້ມູນຈະຖືກລຶບໃນ %d ວັນ.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ໝົດອາຍຸໃນ %d ວັນ</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຂໍ້ມູນຂອງທ່ານສ່ວນໃຫຍ່ໄດ້ຖືກຣີສະຕໍແລ້ວ, ແຕ່ %d ແອັບບໍ່ຖືກຕິດຕັ້ງ.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ອາລະບຳໃໝ່ມີຢູ່</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ເລືອກ %d ອາລະບໍາແລ້ວ</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 ຮູບປະຈຳຕົວ ແລະ %d ລາຍການທີ່ອອກແບບເອງ</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ເຫຼືອ 1 ຊົ່ວໂມງ %d ນາທີ</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຊິງຄ໌ 1 ຮູບຖ່າຍ ແລະ %d ວິດີໂອແລ້ວ</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ເລືອກ %1$d ລາຍການແລ້ວ (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ຮູບ ແລະ 1 ວິດີໂອ (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ຮູບ (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ເລືອກ %1$d ແລ້ວ (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ວິດີໂອ (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ໄຟລ໌</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ເຫຼືອ %d ຊົ່ວໂມງ 1 ນາທີ</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ດາວໂຫຼດ %d ຮູບຈາກຄລາວແລ້ວ.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ດາວໂຫຼດ %d ລາຍການຈາກຄລາວແລ້ວ.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ນາທີ</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຍັງເຫຼືອ %d ນາທີ</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຊິງຄ໌ %d ຮູບຖ່າຍ ແລະ 1 ວິດີໂອແລ້ວ</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຊິງຄ໌ %d ຮູບຖ່າຍແລ້ວ</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ຮູບ ແລະ ວິດີໂອ</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ເລືອກ %d ແລ້ວ</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ດາວໂຫຼດ %d ວິດີໂອຈາກຄລາວແລ້ວ.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຊິງຄ໌ %d ວິດີໂອແລ້ວ</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ແບັດເຕີຣີອ່ອນ. ສາກໃຫ້ໄດ້ຢ່າງໜ້ອຍ %d%% ເພື່ອແບັກອັບໂທລະສັບຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ການແບັກອັບຊົ່ວຄາວຂອງທ່ານຈະໝົດອາຍຸໃນ %d ວັນ. ຣີສະຕໍມັນໄວໆ ຫຼື ເລື່ອນວັນໝົດອາຍຸອອກໄປ ຖ້າທ່ານຕ້ອງການເວລາເພີ່ມເຕີມ.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ເລື່ອນອອກໄປ %d ວັນ</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ຮູບປະຈຳຕົວ</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ຮູບປະຈຳຕົວ ແລະ 1 ລາຍການທີ່ອອກແບບເອງ</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ລາຍການທີ່ອອກແບບເອງ</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ເຫຼືອ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ອຸປະກອນຊຳຊຸງທີ່ຖືກຈັບຄູ່ %d</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ການເຕືອນ</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ການສະໝັກຂອງທ່ານສິ້ນສຸດໃນວັນທີ %1$s. ຂໍ້ມູນຂອງທ່ານຈະຖືກລຶບໃນ %2$d ວັນ. ເປີດໃຊ້ງານການສະໝັກຂອງທ່ານຄືນໃໝ່ເພື່ອຮັກສາຂໍ້ມູນຂອງທ່ານໄວ້.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ແບັດເຕີຣີອ່ອນ. ສາກໃຫ້ໄດ້ຢ່າງໜ້ອຍ %d%% ເພື່ອແບັກອັບແທັບເລັດຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ແບັກອັບຂໍ້ມູນແບບບໍ່ຈຳກັດໃສ່ %1$s ເປັນເວລາ %2$d ວັນ ຫຼື ຣີສະຕໍຂໍ້ມູນທີ່ທ່ານໄດ້ແບັກອັບ.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ການແບັກອັບນີ້ຈະຖືກລຶບໃນ %d ວັນ.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ລອງໃໝ່ອີກໃນ %d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ລອງໃໝ່ອີກໃນ %d ຊົ່ວໂມງ 1 ນາທີ</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ລອງໃໝ່ອີກໃນ %d ນາທີ</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ລອງໃໝ່ອີກໃນ 1 ຊົ່ວໂມງ %d ນາທີ</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ການແບັກອັບຂອງທ່ານປອດໄພໃນ %1$s. ທ່ານມີເວລາ %2$d ວັນທີ່ຈະຣີສະຕໍມັນ.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ການແບັກອັບຊົ່ວຄາວຂອງທ່ານຈະຖືກລຶບໃນ %d ວັນ.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຂໍ້ມູນຂອງທ່ານບໍ່ຖືກຣີສະຕໍໃສ່ໂທລະສັບຂອງທ່ານ. ທ່ານເຫຼືອເວລາຣີສະຕໍມັນ %d ວັນ.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຂໍ້ມູນຂອງທ່ານບໍ່ຖືກຣີສະຕໍໃສ່ແທັບເລັດຂອງທ່ານ. ທ່ານເຫຼືອເວລາຣີສະຕໍມັນ %d ວັນ.</item>
+    </plurals>
+</resources>

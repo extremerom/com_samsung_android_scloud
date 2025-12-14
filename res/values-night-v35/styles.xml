@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Compat.Base.SCloudTheme" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionModeWithoutCloseButton</item>
+        <item name="android:dialogTheme">@style/DialogTheme</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">always</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+        <item name="shapeLayoutCornerBackground">@color/round_corner_background</item>
+    </style>
+</resources>

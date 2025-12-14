@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>הטלפון בטעינה.</item>
+        <item>הטלפון שלך מחובר לרשת Wi-Fi.</item>
+        <item>המסך כבוי.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>הטאבלט שלך נטען.</item>
+        <item>הטאבלט שלך מחובר לרשת Wi-Fi.</item>
+        <item>המסך כבוי.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>הנתונים שתוכל לגבות תלויים בדגם הטלפון שברשותך או במערכת ההפעלה המותקנת בו.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>הנתונים שתוכל לגבות תלויים בדגם הטאבלט שברשותך או במערכת ההפעלה המותקנת בו.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>אנשי קשר: אנשי קשר מחשבונות מסונכרנים</item>
+        <item>לוח שנה: אירועים ומשימות מחשבונות מסוכנרנים</item>
+        <item>‏Galaxy Themes: ערכות נושא וטפט המוגדר כברירת מחדל</item>
+        <item>יישומים: קובצי התקנה לא תואמים ונתונים מיישומים שאינם Samsung</item>
+        <item>תיקייה מאובטחת: יישומים ונתונים</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>אנשי קשר: אנשי קשר מחשבונות מסונכרנים</item>
+        <item>לוח שנה: אירועים ומשימות מחשבונות מסוכנרנים</item>
+        <item>‏Galaxy Themes: ערכות נושא וטפט המוגדר כברירת מחדל</item>
+        <item>יישומים: קובצי התקנה שאינם נתמכים</item>
+        <item>תיקייה מאובטחת: יישומים ונתונים</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>טלפון: היסטוריית שיחות והודעות</item>
+        <item>הודעות: הודעות משופרות, הודעות מולטימדיה והודעות טקסט</item>
+        <item>אנשי קשר: אנשי קשר, כתובות דוא״ל וכרטיסי ביקור שנשמרו במכשיר</item>
+        <item>לוח שנה: אירועים ומשימות שנשמרו במכשיר</item>
+        <item>שעון: התראות, שעונים עולמיים וטיימרים</item>
+        <item>"הגדרות: הגדרות נגישות, צלצולים, אפשרויות 'מקלדת Samsung', הגדרות Wi-Fi, מכשירי Bluetooth משויכים, הגדרות זיהוי פנים, הגדרות טביעות אצבע והגדרות Always On Display (הצלצול שהגדרת כברירת מחדל לא ייכלל בגיבוי)"</item>
+        <item>מסך הבית: פריסה, טפטים והגדרות Samsung DeX</item>
+        <item>יישומים: קובצי התקנה והגדרות יישומים</item>
+        <item>רשמקול: הקלטות</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>מוזיקה: MP3, FLAC, WAV, M4A, OGG וקובצי מוזיקה אחרים</item>
+        <item>מסמכים: PDF, Word, Excel, PowerPoint ומסמכים אחרים</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>"%s: היסטוריית צ'אטים"</item>
+        <item>%s: פתקים נעולים</item>
+        <item>%s: נתונים מוגנים בסיסמה</item>
+        <item>%s: יישומים ונתוני יישומים</item>
+        <item>%s: אירועים מחשבונות מסונכרנים</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>מפתח פרטי וביטוי לשחזור</item>
+        <item>נתונים שלא ניתן להעביר בגלל הנחיות המדיניות של היישום</item>
+        <item>יישומים שלא ניתן להעביר אותם בגלל בעיות אבטחה או תאימות: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>אנשי קשר לקריאה בלבד</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>טפט ברירת מחדל</item>
+        <item>טפטים של Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>הודעות על התראות חירום</item>
+        <item>טיוטות והודעות שנכשלו</item>
+        <item>הודעות עם אפקטים של iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>תוכן נעול</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>טלפון: היסטוריית שיחות והודעות</item>
+        <item>הודעות: הודעות משופרות, הודעות מולטימדיה והודעות טקסט</item>
+        <item>שעון: התראות, שעונים עולמיים וטיימרים</item>
+        <item>הגדרות: הגדרות נגישות, רינגטונים, אפשרויות מקלדת Samsung, הגדרות Wi-Fi, מכשירי Bluetooth משויכים והגדרות Always On Display (צלצול ברירת המחדל אינו מוצפן)</item>
+        <item>אפליקציות: הגדרות אפליקציה</item>
+        <item>מסך הבית: פריסה, טפטים והגדרות Samsung DeX</item>
+        <item>רשמקול: הקלטות</item>
+    </string-array>
+</resources>

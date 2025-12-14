@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/root" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_16dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/tip_parent_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.viewpager2.widget.ViewPager2 android:id="@id/view_pager" android:layout_width="match_parent" android:layout_height="wrap_content" />
+        <View android:id="@id/tip_divider_view_bottom_margin" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/tip_layout_margin_bottom" />
+        <com.samsung.android.scloud.ctb.ui.tip.indicator.CtbPageIndicator android:id="@id/page_indicator" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/tip_card_page_indicator_margin_top" android:layout_marginBottom="@dimen/tip_card_page_indicator_margin_bottom" />
+    </LinearLayout>
+</LinearLayout>

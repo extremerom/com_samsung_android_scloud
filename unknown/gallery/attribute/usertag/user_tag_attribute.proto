@@ -1,0 +1,21 @@
+syntax = "proto3";
+package samsung.scsp.usertag.attribute;
+
+import "google/api/field_behavior.proto";
+import "gallery/attribute/usertag/plain_sensitive_meta_attribute.proto";
+
+message UserTag {
+
+  SensitiveMeta sensitive_meta = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string hash = 2 [(google.api.field_behavior) = REQUIRED]; 
+  optional int64 client_timestamp = 3 [(google.api.field_behavior) = REQUIRED]; 
+
+
+  message SensitiveMeta {
+    oneof value {
+      PlainSensitiveMeta decrypted = 1; 
+      bytes encrypted = 2; 
+    }
+  }
+
+}

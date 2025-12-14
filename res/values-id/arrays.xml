@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Daya ponsel sedang diisi.</item>
+        <item>Ponsel tersambung ke jaringan Wi-Fi.</item>
+        <item>Layar mati.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Daya tablet sedang diisi.</item>
+        <item>Tablet tersambung ke jaringan Wi-Fi.</item>
+        <item>Layar mati.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Data yang dapat Anda cadangkan mungkin berbeda berdasarkan sistem operasi ponsel.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Data yang dapat Anda cadangkan mungkin berbeda bergantung pada sistem operasi tablet.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontak: kontak dari akun yang disinkronkan</item>
+        <item>Kalender: acara dan tugas dari akun yang disinkronkan</item>
+        <item>Galaxy Themes: tema dan wallpaper default</item>
+        <item>Aplikasi: file instalasi dan data yang tidak kompatibel dari aplikasi non-Samsung</item>
+        <item>Folder Aman: aplikasi dan data</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kontak: kontak dari akun yang disinkronkan</item>
+        <item>Kalender: acara dan tugas dari akun yang disinkronkan</item>
+        <item>Galaxy Themes: tema dan wallpaper default</item>
+        <item>Aplikasi: file instalasi tidak didukung</item>
+        <item>Folder Aman: aplikasi dan data</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telepon: riwayat pesan dan panggilan</item>
+        <item>Pesan: pesan ditingkatkan, pesan multimedia, dan pesan teks</item>
+        <item>Kontak: kontak, alamat email, dan kartu nama disimpan di perangkat Anda</item>
+        <item>Kalender: acara dan tugas disimpan di perangkat Anda</item>
+        <item>Jam: alarm, jam dunia, dan pewaktu</item>
+        <item>Pengaturan: pengaturan aksesibilitas, nada dering, opsi Keyboard Samsung, pengaturan Wi-Fi, perangkat Bluetooth yang dipasangkan, pengaturan pengenalan wajah, pengaturan sidik jari, dan pengaturan Always On Display (nada dering default tidak akan dicadangkan)</item>
+        <item>Layar depan: tata letak, wallpaper, dan pengaturan Samsung DeX</item>
+        <item>Aplikasi: file instalasi dan pengaturan aplikasi</item>
+        <item>Perekam Suara: rekaman</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Musik: MP3, FLAC, WAV, M4A, OGG, dan file musik lainnya</item>
+        <item>Dokumen: PDF, Word, Excel, PowerPoint, dan dokumen lainnya</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: riwayat obrolan</item>
+        <item>%s: catatan terkunci</item>
+        <item>%s: data yang dilindungi kata sandi</item>
+        <item>%s: aplikasi dan data aplikasi</item>
+        <item>%s: Acara dari akun yang disinkronisasi</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Kunci pribadi dan frasa pemulihan</item>
+        <item>Data yang tidak dapat ditransfer karena kebijakan aplikasi</item>
+        <item>Aplikasi yang tidak dapat ditransfer karena masalah keamanan atau kompatibilitas: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Kontak hanya baca</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Wallpaper default</item>
+        <item>Wallpaper Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Pesan peringatan darurat</item>
+        <item>Draf dan pesan gagal</item>
+        <item>Pesan dengan efek iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Konten terkunci</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telepon: riwayat pesan dan panggilan</item>
+        <item>Pesan: pesan ditingkatkan, pesan multimedia, dan pesan teks</item>
+        <item>Jam: alarm, jam dunia, dan pewaktu</item>
+        <item>Pengaturan: pengaturan aksesibilitas, nada dering, opsi Keyboard Samsung, pengaturan Wi-Fi, perangkat Bluetooth yang dipasangkan, dan pengaturan Always On Display (nada dering default tidak dienkripsi)</item>
+        <item>Aplikasi: pengaturan aplikasi</item>
+        <item>Layar depan: tata letak, wallpaper, dan pengaturan Samsung DeX</item>
+        <item>Perekam Suara: rekaman</item>
+    </string-array>
+</resources>

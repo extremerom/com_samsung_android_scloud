@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/setup_wizard_title_layout" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/setup_wizard_title_text_size" android:textStyle="bold" android:textColor="@color/o59_252525_no_theme" android:gravity="start" android:id="@id/setup_wizard_title_text_view" android:paddingLeft="@dimen/setup_wizard_layout_padding_side" android:paddingRight="@dimen/setup_wizard_layout_padding_side" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/setup_wizard_title_layout_margin_top" android:layout_marginBottom="@dimen/setup_wizard_title_layout_margin_bottom" android:maxLines="1" android:textAllCaps="true" android:fontFamily="sec-roboto-condensed" android:elevation="3.0dp" />
+    <View android:background="#ffd4d4d4" android:layout_width="match_parent" android:layout_height="2.0px" />
+</LinearLayout>

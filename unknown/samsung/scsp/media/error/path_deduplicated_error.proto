@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package samsung.scsp.media.error;
+
+message PathDeduplicatedError {
+  optional string existing_media_id = 1; // required
+}

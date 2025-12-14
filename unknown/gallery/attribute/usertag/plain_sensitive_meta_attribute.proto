@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package samsung.scsp.usertag.attribute;
+
+import "google/api/field_behavior.proto";
+
+message PlainSensitiveMeta {
+  optional string name = 1 [(google.api.field_behavior) = REQUIRED]; 
+}
+

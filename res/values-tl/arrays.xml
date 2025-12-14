@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Nagcha-charge ang telepono mo.</item>
+        <item>Nakakonekta ang telepono mo sa isang Wi-Fi network.</item>
+        <item>Naka-off ang screen.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Nagcha-charge ang tablet mo.</item>
+        <item>Nakakonekta ang tablet mo sa isang Wi-Fi network.</item>
+        <item>Naka-off ang screen.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Maaaring maging naiiba ang data na maaari mong i-back up batay sa telepono o operating system mo.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Maaaring maging naiiba ang data na maaari mong i-back up batay sa tablet o operating system mo.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Mga contact: mga contact mula sa mga naka-sync na account</item>
+        <item>Calendar: mga kaganapan at gawain mula sa mga naka-sync na account</item>
+        <item>Galaxy Themes: mga tema at default na wallpaper</item>
+        <item>Apps: mga hindi akmang installation file at data mula sa hindi Samsung apps</item>
+        <item>Secure Folder: mga app at data</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Mga contact: mga contact mula sa mga naka-sync na account</item>
+        <item>Calendar: mga kaganapan at gawain mula sa mga naka-sync na account</item>
+        <item>Galaxy Themes: mga tema at default na wallpaper</item>
+        <item>Mga app: mga hindi suportadong installation file</item>
+        <item>Secure Folder: mga app at data</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telepono: history ng mga tawag at mensahe</item>
+        <item>Messages: mga enhanced message, multimedia message at text message</item>
+        <item>Contacts: mga contact, Email address at business card na naka-save sa device mo</item>
+        <item>Calendar: mga kaganapan at gawain na naka-save sa device mo</item>
+        <item>Clock: mga alarma, mga world clock at mga timer</item>
+        <item>Mga Setting: mga setting ng accessibility, mga ringtone, mga opsiyon sa Samsung Keyboard, mga setting ng Wi-Fi, mga naka-pair na Bluetooth device, mga setting ng face recognition, mga setting ng fingerprint at mga setting ng Always On Display (hindi iba-backup ang default na ringtone mo)</item>
+        <item>Home screen: layout, mga wallpaper at mga setting ng Samsung DeX</item>
+        <item>Mga app: mga installation file at mga setting ng app</item>
+        <item>Voice Recorder: mga recording</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Musika: MP3, FLAC, WAV, M4A, OGG, at iba pang mga music file</item>
+        <item>Mga dokumento: PDF, Word, Excel, PowerPoint, at iba pang mga dokumento</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: history ng chat</item>
+        <item>%s: mga naka-lock na note</item>
+        <item>%s: data na protektado ng password</item>
+        <item>%s: mga app at data ng app</item>
+        <item>%s: Mga kaganapan mula sa mga naka-sync na account</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Private key at recovery phrase</item>
+        <item>Data na hindi mailipat dahil sa mga patakaran ng app</item>
+        <item>Mga app na hindi maililipat dahil sa problema sa pagkaakma: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Mga read-only na contact</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Default na wallpaper</item>
+        <item>Mga wallpaper ng Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Mga emergency alert na mensahe</item>
+        <item>Mga draft at mga bigong mensahe</item>
+        <item>Mga mensahe na may mga iMessage effect</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Naka-lock na nilalaman</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telepono: history ng mga tawag at mensahe</item>
+        <item>Messages: mga enhanced message, multimedia message at text message</item>
+        <item>Clock: mga alarma, mga world clock at mga timer</item>
+        <item>Mga setting: mga setting ng accessibility, ringtone, opsiyon sa Samsung Keyboard, setting ng Wi-Fi, naka-pair na Bluetooth device at setting ng Always On Display (hindi naka-encrypt ang default na ringtone)</item>
+        <item>Mga app: mga setting ng app</item>
+        <item>Home screen: layout, mga wallpaper at mga setting ng Samsung DeX</item>
+        <item>Voice Recorder: mga recording</item>
+    </string-array>
+</resources>

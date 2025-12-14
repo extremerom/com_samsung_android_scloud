@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 სურათი და %1$d ვიდეო (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 სურათი და %1$d ვიდეო (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d აპლიკაცია არ არის დაინსტალირებული</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d აპლიკაცია არ არის დაინსტალირებული</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">შეტყობინებები: საგანგებო სიგნალები, გადაცემული ფაილები, %d მბ-ზე დიდი მულტიმედიური შეტყობინებები, მონახაზები და გაუგზავნელი შეტყობინებები</item>
+        <item quantity="one">შეტყობინებები: საგანგებო სიგნალები, გადაცემული ფაილები, %d მბ-ზე დიდი მულტიმედიური შეტყობინებები, მონახაზები და გაუგზავნელი შეტყობინებები</item>
+        <item quantity="two">შეტყობინებები: საგანგებო სიგნალები, გადაცემული ფაილები, %d მბ-ზე დიდი მულტიმედიური შეტყობინებები, მონახაზები და გაუგზავნელი შეტყობინებები</item>
+        <item quantity="few">შეტყობინებები: საგანგებო სიგნალები, გადაცემული ფაილები, %d მბ-ზე დიდი მულტიმედიური შეტყობინებები, მონახაზები და გაუგზავნელი შეტყობინებები</item>
+        <item quantity="many">შეტყობინებები: საგანგებო სიგნალები, გადაცემული ფაილები, %d მბ-ზე დიდი მულტიმედიური შეტყობინებები, მონახაზები და გაუგზავნელი შეტყობინებები</item>
+        <item quantity="other">შეტყობინებები: საგანგებო სიგნალები, გადაცემული ფაილები, %d მბ-ზე დიდი მულტიმედიური შეტყობინებები, მონახაზები და გაუგზავნელი შეტყობინებები</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d მოწყობილობის სამარქაფო მონაცემებს მალე გაუვა ვადა. აირჩიეთ ქვემოთ მოცემული მოწყობილობა, რომ ნახო ვადა.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d მოწყობილობის სამარქაფო მონაცემებს მალე გაუვა ვადა. აირჩიეთ ქვემოთ მოცემული რომელიმე მოწყობილობა, რომ ნახო ვადა.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d მოწყობილობის სამარქაფო მონაცემებს მალე გაუვა ვადა.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d მოწყობილობის სამარქაფო მონაცემებს მალე გაუვა ვადა.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d სამარქაფო ელემენტი ვერ განახლდა და, ამიტომ, ამ სამარქაფო ელემენტის ადრინდელი ასლი აღდგება ახალ ტელეფონში (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d სამარქაფო ელემენტი ვერ განახლდა და, ამიტომ, ამ სამარქაფო ელემენტების ადრინდელი ასლები აღდგება ახალ ტელეფონში (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d სამარქაფო ელემენტი ვერ განახლდა და, ამიტომ, ახალ ტელეფონში აღდგება ამ ელემენტის სამარქაფო ასლი, რომლის შექმნის თარიღია %2$s (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d სამარქაფო ელემენტი ვერ განახლდა და, ამიტომ, ახალ ტელეფონში აღდგება ამ ელემენტების სამარქაფო ასლი, რომლის შექმნის თარიღია %2$s (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d სამარქაფო ელემენტი ვერ განახლდა და, ამიტომ, ამ სამარქაფო ელემენტის ადრინდელი ასლი აღდგება ახალ პლანშეტში (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d სამარქაფო ელემენტი ვერ განახლდა და, ამიტომ, ამ სამარქაფო ელემენტების ადრინდელი ასლები აღდგება ახალ პლანშეტში (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d სამარქაფო ელემენტი ვერ განახლდა და, ამიტომ, ახალ პლანშეტში აღდგება ამ სამარქაფო ელემენტის ასლი, რომლის შექმნის თარიღია %2$s (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d სამარქაფო ელემენტი ვერ განახლდა და, ამიტომ, ახალ პლანშეტში აღდგება ამ ელემენტების სამარქაფო ასლი, რომლის შექმნის თარიღია %2$s (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">მონაცემები %d დღეში წაიშლება.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">მონაცემები %d დღეში წაიშლება.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ვადა გასდის %d დღეში</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ვადა გასდის %d დღეში</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">მონაცემთა უმეტესობა აღდგენილია, მაგრამ %d აპლიკაცია არ არის დაინსტალირებული.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">მონაცემთა უმეტესობა აღდგენილია, მაგრამ %d აპლიკაცია არ არის დაინსტალირებული.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ხელმისაწვდომია %d ახალი ალბომი</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ხელმისაწვდომია %d ახალი ალბომი</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">არჩეულია %d ალბომი</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">არჩეულია %d ალბომი</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 ავატარი და პერსონალური დიზაინის მქონე %d რამ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 ავატარი და პერსონალური დიზაინის მქონე %d რამ</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">დარჩა 1 საათი და %d წუთი</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">დარჩა 1 საათი და %d წუთი</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">დასინქრონდა 1 ფოტო და %d ვიდეო</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">დასინქრონდა 1 ფოტო და %d ვიდეო</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">არჩეულია %1$d რამ (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">არჩეულია %1$d რამ (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d სურათი და 1 ვიდეო (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d სურათი და 1 ვიდეო (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d სურათი (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d სურათი (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">არჩეულია %1$d (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">არჩეულია %1$d (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ვიდეო (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ვიდეო (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ფაილი</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ფაილი</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">დარჩა %d საათი და 1 წუთი</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">დარჩა %d საათი და 1 წუთი</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d სურათი ჩამოიტვირთა ონლაინ-საცავიდან.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d სურათი ჩამოიტვირთა ონლაინ-საცავიდან.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d რამ ჩამოიტვირთა ონლაინ-საცავიდან.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d რამ ჩამოიტვირთა ონლაინ-საცავიდან.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d წუთი</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d წუთი</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">დარჩა %d წუთი</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">დარჩა %d წუთი</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">დასინქრონდა %d ფოტო და 1 ვიდეო</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">დასინქრონდა %d ფოტო და 1 ვიდეო</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">დასინქრონდა %d ფოტო</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">დასინქრონდა %d ფოტო</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d სურათი ან ვიდეო</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d სურათი და ვიდეო</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">არჩეულია %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">არჩეულია %d</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ვიდეო ჩამოიტვირთა ონლაინ-საცავიდან.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ვიდეო ჩამოიტვირთა ონლაინ-საცავიდან.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">დასინქრონდა %d ვიდეო</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">დასინქრონდა %d ვიდეო</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ენერგია იცლება. ტელეფონის დასამარქაფებლად ენერგია შეავსეთ მინიმუმ %d%%-მდე.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ენერგია იცლება. ტელეფონის დასამარქაფებლად ენერგია შეავსეთ მინიმუმ %d%%-მდე.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">დროებითი სამარქაფო ასლის ვადა %d დღეში გადის. აღადგინეთ ახლა, ან გაზარდეთ ვადა, თუ მეტი დრო გჭირდებათ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">დროებითი სამარქაფო ასლის ვადა %d დღეში გადის. მალე აღადგინეთ, ან გაზარდეთ ვადა, თუ მეტი დრო გჭირდებათ.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d დღით გადადება</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d დღით გადადება</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ავატარი</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ავატარი</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ავატარი და პერსონალური დიზაინის მქონე 1 რამ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ავატარი და პერსონალური დიზაინის მქონე 1 რამ</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">პერსონალური დიზაინის მქონე %d რამ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">პერსონალური დიზაინის მქონე %d რამ</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">დარჩა %d რამ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">დარჩა %d რამ</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d დაწყვილებული Samsung მოწყობილობა</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d დაწყვილებული Samsung მოწყობილობა</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d შეხსენება</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d შეხსენება</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">გამოწერის პერიოდის დასრულების თარიღია %1$s. თქვენი მონაცემები %2$d დღეში წაიშლება. ხელახლა გაააქტიურეთ გამოწერა, რომ შეინახოთ თქვენი მონაცემები.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">გამოწერის პერიოდის დასრულების თარიღია %1$s. თქვენი მონაცემები %2$d დღეში წაიშლება. ხელახლა გაააქტიურეთ გამოწერა, რომ შეინახოთ თქვენი მონაცემები.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ენერგია იცლება. პლანშეტის დასამარქაფებლად ენერგია შეავსეთ მინიმუმ %d%%-მდე.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ენერგია იცლება. პლანშეტის დასამარქაფებლად ენერგია შეავსეთ მინიმუმ %d%%-მდე.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">შეუზღუდავად დაამარქაფეთ მონაცემები %1$s-ზე მაქსიმუმ %2$d დღის განმავლობაში, ან აღადგინეთ დამარქაფებული მონაცემები.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">შეუზღუდავად დაამარქაფეთ მონაცემები %1$s-ზე მაქსიმუმ %2$d დღის განმავლობაში, ან აღადგინეთ დამარქაფებული მონაცემები.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ეს მარქაფი %d დღეში წაიშლება.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ეს მარქაფი %d დღეში წაიშლება.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ისევ სცადეთ %d საათში</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ისევ მოსინჯეთ %d საათში</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ისევ სცადეთ %d საათსა და 1 წუთში</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ისევ სცადეთ %d საათსა და 1 წუთში</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ისევ სცადეთ %d წუთში</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ისევ სცადეთ %d წუთში</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ისევ სცადეთ 1 საათსა და %d წუთში</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ისევ სცადეთ 1 საათსა და %d წუთში</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">თქვენი სარეზერვო ასლი უსაფრთხოა %1$s-ზე. მის აღსადგენად გაქვთ %2$d დღე.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">თქვენი სარეზერვო ასლი უსაფრთხოა %1$s-ზე. მის აღსადგენად გაქვთ %2$d დღე.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">დროებითი სამარქაფო ასლი %d დღეში წაიშლება.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">დროებითი სამარქაფო ასლი %d დღეში წაიშლება.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">თქვენი მონაცემები ვერ აღდგა ტელეფონში. მათ აღსადგენად დარჩენილი გაქვთ %d დღე.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">თქვენი მონაცემები ვერ აღდგა ტელეფონში. მათ აღსადგენად დარჩენილი გაქვთ %d დღე.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">თქვენი მონაცემები ვერ აღდგა პლანშეტში. მათ აღსადგენად დარჩენილი გაქვთ %d დღე.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">თქვენი მონაცემები ვერ აღდგა პლანშეტში. მათ აღსადგენად დარჩენილი გაქვთ %d დღე.</item>
+    </plurals>
+</resources>

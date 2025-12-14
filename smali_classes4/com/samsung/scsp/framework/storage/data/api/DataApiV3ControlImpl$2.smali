@@ -1,0 +1,42 @@
+.class Lcom/samsung/scsp/framework/storage/data/api/DataApiV3ControlImpl$2;
+.super Lcom/samsung/scsp/framework/core/api/AbstractApiControl$Request;
+.source "SourceFile"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/samsung/scsp/framework/storage/data/api/DataApiV3ControlImpl;-><init>()V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Lcom/samsung/scsp/framework/storage/data/api/DataApiV3ControlImpl;
+
+
+# direct methods
+.method public constructor <init>(Lcom/samsung/scsp/framework/storage/data/api/DataApiV3ControlImpl;Ljava/lang/String;)V
+    .locals 0
+
+    iput-object p1, p0, Lcom/samsung/scsp/framework/storage/data/api/DataApiV3ControlImpl$2;->this$0:Lcom/samsung/scsp/framework/storage/data/api/DataApiV3ControlImpl;
+
+    invoke-direct {p0, p2}, Lcom/samsung/scsp/framework/core/api/AbstractApiControl$Request;-><init>(Ljava/lang/String;)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public execute(Lcom/samsung/scsp/framework/core/api/ApiContext;Lcom/samsung/scsp/framework/core/listeners/Listeners;)V
+    .locals 1
+
+    iget-object v0, p0, Lcom/samsung/scsp/framework/storage/data/api/DataApiV3ControlImpl$2;->this$0:Lcom/samsung/scsp/framework/storage/data/api/DataApiV3ControlImpl;
+
+    invoke-static {v0, p1, p2}, Lcom/samsung/scsp/framework/storage/data/api/DataApiV3ControlImpl;->h(Lcom/samsung/scsp/framework/storage/data/api/DataApiV3ControlImpl;Lcom/samsung/scsp/framework/core/api/ApiContext;Lcom/samsung/scsp/framework/core/listeners/Listeners;)V
+
+    return-void
+.end method

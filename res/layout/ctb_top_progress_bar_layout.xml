@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center" android:tag="layout/ctb_top_progress_bar_layout_0" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/image_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@null" />
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:id="@id/top_three_progress_bar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <View android:id="@id/first_top_progress_bar_layout" android:background="@drawable/round_corner_no_progress" android:layout_width="@dimen/ctb_top_progress_bar_width" android:layout_height="@dimen/ctb_top_progress_bar_height" android:layout_marginTop="@dimen/margin_16dp" android:layout_marginBottom="@dimen/margin_17dp" android:layout_marginEnd="@dimen/margin_8dp" />
+        <View android:id="@id/second_top_progress_bar_layout" android:background="@drawable/round_corner_no_progress" android:layout_width="@dimen/ctb_top_progress_bar_width" android:layout_height="@dimen/ctb_top_progress_bar_height" android:layout_marginTop="@dimen/margin_16dp" android:layout_marginBottom="@dimen/margin_17dp" android:layout_marginEnd="@dimen/margin_8dp" />
+        <View android:id="@id/third_top_progress_bar_layout" android:background="@drawable/round_corner_no_progress" android:layout_width="@dimen/ctb_top_progress_bar_width" android:layout_height="@dimen/ctb_top_progress_bar_height" android:layout_marginTop="@dimen/margin_16dp" android:layout_marginBottom="@dimen/margin_17dp" />
+    </LinearLayout>
+</RelativeLayout>

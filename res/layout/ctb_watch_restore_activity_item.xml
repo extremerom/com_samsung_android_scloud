@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/slot_info_layout" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:id="@id/item_image" android:layout_width="@dimen/watch_icon_size" android:layout_height="@dimen/watch_icon_size" android:layout_marginTop="@dimen/margin_9.04dp" android:layout_marginBottom="@dimen/margin_9.04dp" android:layout_marginStart="@dimen/margin_20.54dp" android:layout_marginEnd="@dimen/margin_10.54dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/slot_list" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <LinearLayout android:orientation="vertical" android:id="@id/slot_list" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/margin_20dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/done_icon" app:layout_constraintStart_toEndOf="@id/item_image" app:layout_constraintTop_toTopOf="parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/title_info_layout" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/margin_18dp" android:layout_marginBottom="@dimen/margin_18dp">
+                <TextView android:textSize="@dimen/text_size_17sp" android:textColor="@color/text_color_primary" android:id="@id/model_name" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                <TextView android:textSize="@dimen/text_size_13sp" android:textColor="@color/text_color_secondary" android:id="@id/model_summary" android:layout_width="match_parent" android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+        <include android:layout_gravity="center" android:id="@id/done_icon" android:visibility="visible" android:layout_width="@dimen/circle_progress_length" android:layout_height="@dimen/circle_progress_length" android:layout_marginTop="@dimen/margin_26dp" android:layout_marginBottom="@dimen/margin_27dp" android:indeterminate="true" android:layout_marginEnd="@dimen/margin_24dp" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/slot_list" app:layout_constraintTop_toTopOf="parent" layout="@layout/layout_circle_progress_image_ivew" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

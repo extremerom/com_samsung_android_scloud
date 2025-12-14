@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:tag="layout/layout_page_control_view_0" android:background="@color/window_background_color" android:paddingTop="@dimen/pagecontrolview_margin_top" android:paddingBottom="@dimen/pagecontrolview_margin_bottom" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:tag="binding_1" android:background="?android:selectableItemBackground" android:layout_width="wrap_content" android:layout_height="28.0dp" android:src="@drawable/tips_detail_ic_next_rtl" android:tint="@color/text_color_secondary" android:contentDescription="@string/show_previous" android:rotationY="180.0" style="@style/RecoilEffect" />
+    <LinearLayout android:orientation="horizontal" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textAppearance="@style/TextPageControl" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+        <TextView android:textAppearance="@style/TextPageControl" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=" / " android:importantForAccessibility="no" />
+        <TextView android:textAppearance="@style/TextPageControl" android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+    </LinearLayout>
+    <ImageView android:tag="binding_5" android:background="?android:selectableItemBackground" android:layout_width="wrap_content" android:layout_height="28.0dp" android:src="@drawable/tips_detail_ic_next_rtl" android:tint="@color/text_color_secondary" android:contentDescription="@string/show_next" style="@style/RecoilEffect" />
+</LinearLayout>

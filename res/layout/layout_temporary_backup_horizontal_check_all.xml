@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/root_layout" android:tag="layout/layout_temporary_backup_horizontal_check_all_0" android:background="?android:selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight" android:paddingEnd="0.0dp" style="@style/RecoilEffect"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/checkbox_size" android:layout_marginStart="@dimen/multiple_selection_start" android:layout_marginEnd="@dimen/multiple_selection_checkbox_end">
+        <CheckBox android:id="@id/checkbox" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:soundEffectsEnabled="false" />
+        <TextView android:textSize="12.0sp" android:textColor="@color/text_color_primary" android:id="@id/all_text_below_checkbox" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-6.0dp" android:text="@string/all" android:textAlignment="center" android:layout_marginStart="@dimen/multiple_selection_checkbox_all_text_margin" android:layout_marginEnd="@dimen/multiple_selection_checkbox_all_text_margin" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:tag="binding_1" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="0.0dp" android:paddingEnd="@dimen/margin_24dp">
+            <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/list_item_top_padding" android:layout_marginBottom="@dimen/list_item_bottom_padding">
+                <TextView android:textColor="@color/text_color_primary" android:id="@id/text" android:focusable="false" android:fadingEdge="horizontal" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/select_all" android:paddingStart="0.0dp" android:paddingEnd="@dimen/margin_24dp" style="@style/TextCTBHorizontalCheckAll" />
+                <TextView android:textAppearance="?android:textAppearanceListItemSecondary" android:textColor="@color/text_color_secondary" android:id="@id/sub_text" android:focusable="false" android:visibility="gone" android:fadingEdge="horizontal" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/select_all" android:layout_below="@id/text" android:paddingStart="0.0dp" android:paddingEnd="@dimen/margin_24dp" />
+            </RelativeLayout>
+        </LinearLayout>
+        <include android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/end_margin_divider_margin_start" layout="@layout/list_divider" />
+    </LinearLayout>
+</LinearLayout>

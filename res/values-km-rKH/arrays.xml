@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>ទូរសព្ទ​របស់​អ្នកកំពុង​សាក​ថ្ម។</item>
+        <item>ទូរសព្ទ​របស់​អ្នក​បាន​ភ្ជាប់​ទៅ​បណ្ដាញ Wi-Fi។</item>
+        <item>បាន​បិទ​អេក្រង់។</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>ថេប្លិត​របស់​អ្នកកំពុង​សាក​ថ្ម។</item>
+        <item>ថេប្លិត​របស់​អ្នក​បាន​ភ្ជាប់​ទៅ​បណ្ដាញ Wi-Fi។</item>
+        <item>បាន​បិទ​អេក្រង់។</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>ទិន្នន័យ​ដែល​អ្នក​អាច​ចម្លងទុក អាច​ខុសគ្នា​អាស្រ័យ​លើ​ទូរសព្ទ​ឬ​ប្រព័ន្ធ​ប្រតិបត្តិការ​របស់​អ្នក។</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>ទិន្នន័យ​ដែល​អ្នក​អាច​ចម្លងទុក អាច​ខុសគ្នា​អាស្រ័យ​លើ​ថេប្លិត​ឬ​ប្រព័ន្ធ​ប្រតិបត្តិការ​របស់​អ្នក។</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>ទំនាក់ទំនង៖ ទំនាក់ទំនង​ពី​គណនី​ដែល​បាន​ធ្វើ​សមកាល</item>
+        <item>ប្រតិទិន៖ ព្រឹត្តិការណ៍​និង​កិច្ចការ​ពី​គណនី​ដែល​បាន​ធ្វើ​សមកាល</item>
+        <item>Galaxy Themes៖ រូបរាង​និង​រូបផ្ទៃអេក្រង់​លំនាំដើម</item>
+        <item>កម្មវិធី៖ ឯកសារ​ដំឡើង​មិន​ត្រូវគ្នា និង​ទិន្នន័យ​ពី​កម្មវិធី​មិនមែន Samsung</item>
+        <item>សឺមី​សន្តិសុខ៖ កម្មវិធី និង ទិន្នន័យ</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>ទំនាក់ទំនង៖ ទំនាក់ទំនង​ពី​គណនី​ដែល​បាន​ធ្វើ​សមកាល</item>
+        <item>ប្រតិទិន៖ ព្រឹត្តិការណ៍​និង​កិច្ចការ​ពី​គណនី​ដែល​បាន​ធ្វើ​សមកាល</item>
+        <item>Galaxy Themes៖ រូបរាង​និង​រូបផ្ទៃអេក្រង់​លំនាំដើម</item>
+        <item>កម្មវិធី៖ ឯកសារ​ដំឡើង​មិន​ទទួល​ការគាំទ្រ</item>
+        <item>សឺមី​សន្តិសុខ៖ កម្មវិធី និង ទិន្នន័យ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ទូរសព្ទ៖ ប្រវត្តិ​ការហៅ និង សារ</item>
+        <item>សារ៖ សារ​ទំនើប សារ​ពហុមេឌា និង​សារ​អត្ថបទ</item>
+        <item>ទំនាក់ទំនង៖ ទំនាក់ទំនង, អាសយដ្ឋាន​អ៊ីមែល និង នាមបណ្ណ ដែល​បាន​រក្សាទុក​លើ​ឧបករណ៍​របស់​អ្នក</item>
+        <item>ប្រតិទិន៖ ព្រឹត្តិការណ៍​និង​កិច្ចការ​ដែល​បាន​រក្សាទុក​លើ​ឧបករណ៍​របស់​អ្នក</item>
+        <item>នាឡិកា៖ ម៉ោងរោទ៍, នាឡិកា​ពិភពលោក និង រង្វាស់ពេល</item>
+        <item>ការកំណត់៖ ការកំណត់​ភាពស្រួលប្រើ, សូររោទ៍, ជម្រើស​ក្ដារចុច Samsung, ការកំណត់ Wi-Fi, ឧបករណ៍ Bluetooth ដែល​បាន​ផ្គូ និង​ការកំណត់​ការស្គាល់​ផ្ទៃមុខ, ការកំណត់​ខ្ចៅដៃ និង​ការកំណត់ Always On Display (សូររោទ៍​លំនាំដើម​របស់​អ្នក​នឹង​មិន​ត្រូវ​បាន​ចម្លងទុក​ឡើយ)</item>
+        <item>គេហអេក្រង់៖ ប្លង់ រូបផ្ទៃអេក្រង់ និង​ការកំណត់ Samsung DeX</item>
+        <item>កម្មវិធី៖ ឯកសារ​ការដំឡើង និង ការកំណត់​កម្មវិធី</item>
+        <item>កម្មវិធីថត​សំឡេង៖ ការថត</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>តន្ដ្រី៖ MP3, FLAC, WAV, M4A, OGG និង​ឯកសារ​តន្ដ្រី​ផ្សេងទៀត</item>
+        <item>ឯកសារ៖ PDF, Word, Excel, PowerPoint និង​ឯកសារ​ផ្សេងទៀត</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s៖ ប្រវត្តិ​ឆាត</item>
+        <item>%s៖ កំណត់សម្គាល់​ជាប់សោ</item>
+        <item>%s៖ ទិន្នន័យ​ការពារ​ដោយ​ពាក្យសម្ងាត់</item>
+        <item>%s៖ កម្មវិធី​និង​ទិន្នន័យ​កម្មវិធី</item>
+        <item>%s៖ ព្រឹត្តិការណ៍​ពី​គណនី​ដែល​បាន​ធ្វើ​សមកាល</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>សោ​ឯកជន​និង​ឃ្លា​សង្គ្រោះ</item>
+        <item>ទិន្នន័យ​ដែល​មិន​អាច​ផ្ទេរ ដោយសារ​គោលការណ៍​របស់​កម្មវិធី​នេះ</item>
+        <item>កម្មវិធី​ដែល​មិន​អាច​ផ្ទេរ​ដោយសារ​បញ្ហា​សន្តិសុខ​ឬ​ភាពត្រូវគ្នា៖ %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>ទំនាក់ទំនង​បាន​តែ​អាន​ប៉ុណ្ណោះ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>រូបផ្ទៃអេក្រង់​លំនាំដើម</item>
+        <item>រូបផ្ទៃអេក្រង់ Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>សារ​ប្រាប់ដំណឹង​អាសន្ន</item>
+        <item>សារព្រាង​និង​សារ​បរាជ័យ</item>
+        <item>សារ​ជាមួយ​បែបផែន iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>ខ្លឹមព័ត៌មាន​ជាប់សោ</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ទូរសព្ទ៖ ប្រវត្តិ​ការហៅ និង សារ</item>
+        <item>សារ៖ សារ​ទំនើប សារ​ពហុមេឌា និង​សារ​អត្ថបទ</item>
+        <item>នាឡិកា៖ ម៉ោងរោទ៍, នាឡិកា​ពិភពលោក និង រង្វាស់ពេល</item>
+        <item>ការកំណត់៖ ការកំណត់​ភាពស្រួលប្រើ, សូររោទ៍, ជម្រើស​ក្ដារចុច Samsung, ការកំណត់ Wi-Fi, ឧបករណ៍ Bluetooth ដែល​បាន​ផ្គូ និង​ការកំណត់ Always On Display (សូររោទ៍​លំនាំដើម​នឹង​មិន​ត្រូវ​បាន​អ៊ិនគ្រីប​ឡើយ)</item>
+        <item>កម្មវិធី៖ ការកំណត់​កម្មវិធី</item>
+        <item>គេហអេក្រង់៖ ប្លង់ រូបផ្ទៃអេក្រង់ និង​ការកំណត់ Samsung DeX</item>
+        <item>កម្មវិធីថត​សំឡេង៖ ការថត</item>
+    </string-array>
+</resources>

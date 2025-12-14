@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+import "story/attribute/plain_sensitive_meta_attribute.proto";
+import "story/attribute/story_status_attribute.proto";
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.story.attribute;
+
+message Story {
+  optional string story_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional StoryStatus status = 2 [(google.api.field_behavior) = REQUIRED]; 
+  optional int64 server_timestamp = 3 [(google.api.field_behavior) = REQUIRED]; 
+  optional int64 client_timestamp = 4 [(google.api.field_behavior) = REQUIRED]; 
+  optional SensitiveMeta sensitive_meta = 5; 
+
+  message SensitiveMeta {
+    oneof value {
+      PlainSensitiveMeta decrypted = 1; 
+      bytes encrypted = 2; 
+    }
+  }
+
+}
+

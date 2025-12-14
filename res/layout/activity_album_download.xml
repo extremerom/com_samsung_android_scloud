@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/activity_album_download_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textAppearance="@style/NewGalleryAlbumListNoItemTextStyle" android:gravity="center" android:id="@id/tv_no_items" android:background="@color/window_background_color" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/no_items" android:textAlignment="center" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <include android:id="@id/loading_view" android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/layout_loading" />
+    <RelativeLayout android:orientation="vertical" android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:id="@id/recycler_view_layout" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_22dp" android:layout_above="@id/button_layout" android:layout_alignParentTop="true">
+            <com.samsung.android.scloud.app.core.component.RoundCorneredRecyclerView android:id="@id/rv_album_download" android:paddingLeft="@dimen/margin_10dp" android:paddingRight="@dimen/margin_10dp" android:layout_width="match_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/button_layout" android:paddingBottom="@dimen/margin_20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <com.samsung.android.scloud.app.common.component.AlphaStateButton android:textAppearance="@style/TextAppearanceBottomButton" android:id="@id/btn_download" android:tag="binding_1" android:background="@drawable/bottom_button_background" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="400.0dp" android:minWidth="240.0dp" android:minHeight="52.0dp" android:textAlignment="center" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

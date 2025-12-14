@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 նկար և %1$d տեսանյութ (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 նկար և %1$d տեսանյութ (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ծրագիր չի տեղադրվել</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ծրագիր չի տեղադրվել</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Հաղորդագրություններ՝ արտակարգ իրավիճակի զգուշացումներ, փոխանցված ֆայլեր, %d ՄԲ-ից մեծ մուլտիմեդիա հաղորդագրություններ, սևագրեր և ձախողված հաղորդագրություններ</item>
+        <item quantity="one">Հաղորդագրություններ՝ արտակարգ իրավիճակի զգուշացումներ, փոխանցված ֆայլեր, %d ՄԲ-ից մեծ մուլտիմեդիա հաղորդագրություններ, սևագրեր և ձախողված հաղորդագրություններ</item>
+        <item quantity="two">Հաղորդագրություններ՝ արտակարգ իրավիճակի զգուշացումներ, փոխանցված ֆայլեր, %d ՄԲ-ից մեծ մուլտիմեդիա հաղորդագրություններ, սևագրեր և ձախողված հաղորդագրություններ</item>
+        <item quantity="few">Հաղորդագրություններ՝ արտակարգ իրավիճակի զգուշացումներ, փոխանցված ֆայլեր, %d ՄԲ-ից մեծ մուլտիմեդիա հաղորդագրություններ, սևագրեր և ձախողված հաղորդագրություններ</item>
+        <item quantity="many">Հաղորդագրություններ՝ արտակարգ իրավիճակի զգուշացումներ, փոխանցված ֆայլեր, %d ՄԲ-ից մեծ մուլտիմեդիա հաղորդագրություններ, սևագրեր և ձախողված հաղորդագրություններ</item>
+        <item quantity="other">Հաղորդագրություններ՝ արտակարգ իրավիճակի զգուշացումներ, փոխանցված ֆայլեր, %d ՄԲ-ից մեծ մուլտիմեդիա հաղորդագրություններ, սևագրեր և ձախողված հաղորդագրություններ</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d սարքի համար կրկնօրինակ տվյալների ժամկետը շուտով կավարտվի: Ստորև ընտրեք սարքը՝ ավարտի ժամկետը ստուգելու համար:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d սարքի համար կրկնօրինակ տվյալների ժամկետը շուտով կավարտվի: Ստորև ընտրեք սարք՝ ավարտի ժամկետը ստուգելու համար:</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d սարքի համար կրկնօրինակ տվյալների ժամկետը շուտով կավարտվի:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d սարքի համար կրկնօրինակ տվյալների ժամկետը շուտով կավարտվի:</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Չհաջողվեց թարմացնել %1$d կրկնօրինակ տարր, ուստի այս տարրի նախորդ կրկնօրինակը կվերականգնվի Ձեր նոր հեռախոսում (%2$s):</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Չհաջողվեց թարմացնել %1$d կրկնօրինակ տարր, ուստի այս տարրերի նախորդ կրկնօրինակները կվերականգնվեն Ձեր նոր հեռախոսում (%2$s):</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Չհաջողվեց թարմացնել %1$d կրկնօրինակ տարր, ուստի այս տարրի կրկնօրինակը, որը ստեղծվել էր %2$s-ին, կվերականգնվի Ձեր նոր հեռախոսում (%3$s):</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Չհաջողվեց թարմացնել %1$d կրկնօրինակ տարր, ուստի այս տարրերի կրկնօրինակները, որոնք ստեղծվել էին %2$s-ին, կվերականգնվեն Ձեր նոր հեռախոսում (%3$s):</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Չհաջողվեց թարմացնել %1$d կրկնօրինակ տարր, ուստի այս տարրի նախորդ կրկնօրինակը կվերականգնվի Ձեր նոր պլանշետում (%2$s):</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Չհաջողվեց թարմացնել %1$d կրկնօրինակ տարր, ուստի այս տարրերի նախորդ կրկնօրինակները կվերականգնվեն Ձեր նոր պլանշետում (%2$s):</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Չհաջողվեց թարմացնել %1$d կրկնօրինակ տարր, ուստի այս տարրի կրկնօրինակը, որը ստեղծվել էր %2$s-ին, կվերականգնվի Ձեր նոր պլանշետում (%3$s):</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Չհաջողվեց թարմացնել %1$d կրկնօրինակ տարր, ուստի այս տարրերի կրկնօրինակները, որոնք ստեղծվել էին %2$s-ին, կվերականգնվեն Ձեր նոր պլանշետում (%3$s):</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Տվյալները կվերացվեն %d օրից:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Տվյալները կվերացվեն %d օրից:</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ժամկետն ավարտվում է %d օրից</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ժամկետն ավարտվում է %d օրից</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ձեր տվյալների մեծ մասը վերականգնվել է, բայց %d ծրագիր չի տեղադրվել:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ձեր տվյալների մեծ մասը վերականգնվել է, բայց %d ծրագիր չի տեղադրվել:</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Մատչելի է %d նոր ալբոմ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Մատչելի է %d նոր ալբոմ</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ալբոմ է ընտրվել</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ալբոմ է ընտրվել</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 կերպարանք և %d հատուկ նախագծված տարր</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 կերպարանք և %d հատուկ նախագծված տարր</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 ժամ %d րոպե է մնացել</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 ժամ %d րոպե է մնացել</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հմժմցվել են 1 լսնկար և %d տսնյթ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հմժմցվել են 1 լսնկար և %d տսնյթ</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ընտրվել է %1$d տարր (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ընտրվել է %1$d տարր (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d նկար և 1 տեսանյութ (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d նկար և 1 տեսանյութ (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d նկար (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d նկար (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ընտրված (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ընտրված (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d տեսանյութ (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d տեսանյութ (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ֆայլ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ֆայլ</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ժամ 1 րոպե է մնացել</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ժամ 1 րոպե է մնացել</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d պատկեր ներբեռնվեց ամպային պահոցից:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d պատկեր ներբեռնվեց ամպային պահոցից:</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d տարր ներբեռնվեց ամպային պահոցից:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d տարր ներբեռնվեց ամպային պահոցից:</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d րոպե</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d րոպե</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d րոպե է մնացել</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d րոպե է մնացել</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հմժմցվել են %d լսնկար և 1 տսնյթ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հմժմցվել են %d լսնկար և 1 տսնյթ</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Համաժամացվել է %d լուսանկար</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Համաժամացվել է %d լուսանկար</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d նկար կամ տեսանյութ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d նկարներ և տեսանյութեր</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ընտրված</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ընտրված</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d տեսանյութ ներբեռնվեց ամպային պահոցից:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d տեսանյութ ներբեռնվեց ամպային պահոցից:</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Համաժամացվել է %d տեսանյութ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Համաժամացվել է %d տեսանյութ</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Մարտկոցը նստած է: Հեռախոսի տվյալները կրկնօրինակելու համար լիցքավորեք մինչև առնվազն %d%%:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Մարտկոցը նստած է: Հեռախոսի տվյալները կրկնօրինակելու համար լիցքավորեք մինչև առնվազն %d%%:</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ժամանակավոր կրկնօրինակի ժամկետը սպառվում է %d օրից։ Վերականգնեք այն հիմա, կամ հետաձգեք սպառման ժամկետը, եթե պահանջվում է ավելի շատ ժամանակ։</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ժամանակավոր կրկնօրինակի ժամկետը սպառվում է %d օրից։ Վերականգնեք այն հնարավորինս շուտ կամ հետաձգեք սպառման ժամկետը, եթե պահանջվում է ավելի շատ ժամանակ։</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հետաձգել %d օր</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հետաձգել %d օր</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d կերպարանք</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d կերպարանք</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d կերպարանք և 1 հատուկ նախագծված տարր</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d կերպարանք և 1 հատուկ նախագծված տարր</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d հատուկ նախագծված տարր</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d հատուկ նախագծված տարր</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d տարր է մնացել</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d տարր է մնացել</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d զուգտակված Samsung սարք</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d զուգտակված Samsung սարք</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d հիշեցում</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d հիշեցում</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ձեր բաժանորդագրությունն ավարտվել է %1$s-ին: Ձեր տվյալները կվերացվեն %2$d օրից: Ձեր տվյալները պահելու համար վերաակտիվացրեք բաժանորդագրությունը:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ձեր բաժանորդագրությունն ավարտվել է %1$s-ին: Ձեր տվյալները կվերացվեն %2$d օրից: Ձեր տվյալները պահելու համար վերաակտիվացրեք բաժանորդագրությունը:</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Մարտկոցը նստած է: Պլանշետի տվյալները կրկնօրինակելու համար լիցքավորեք մինչև առնվազն %d%%:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Մարտկոցը նստած է: Պլանշետի տվյալները կրկնօրինակելու համար լիցքավորեք մինչև առնվազն %d%%:</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Անսահմանափակ տվյալներ կրկնօրինակեք %1$s-ում մինչև %2$d օր ժամկետով կամ վերականգնեք կրկնօրինակված տվյալները:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Անսահմանափակ տվյալներ կրկնօրինակեք %1$s-ում մինչև %2$d օր ժամկետով կամ վերականգնեք կրկնօրինակված տվյալները:</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Այս կրկնօրինակը կվերացվի %d օրից:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Այս կրկնօրինակը կվերացվի %d օրից:</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Նորից փորձեք %d ժամից</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Նորից փորձեք %d ժամից</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Նորից փորձեք %d ժամ 1 րոպեից</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Նորից փորձեք %d ժամ 1 րոպեից</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Նորից փորձեք %d րոպեից</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Նորից փորձեք %d րոպեից</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Նորից փորձեք 1 ժամ %d րոպեից</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Նորից փորձեք 1 ժամ %d րոպեից</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Կրկնօրինակումն անվտանգ է %1$s-ում: Դուք %2$d օր ունեք վերականգնելու համար:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Կրկնօրինակումն անվտանգ է %1$s-ում: Դուք %2$d օր ունեք վերականգնելու համար:</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ժամանակավոր կրկնօրինակը կվերացվի %d օրից:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ժամանակավոր կրկնօրինակը կվերացվի %d օրից:</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ձեր տվյալները չվերականգնվեցին հեռախոսում: Դուք %d օր ունեք վերականգնելու համար:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ձեր տվյալները չվերականգնվեցին հեռախոսում: Դուք %d օր ունեք վերականգնելու համար:</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ձեր տվյալները չվերականգնվեցին պլանշետում: Դուք %d օր ունեք վերականգնելու համար:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ձեր տվյալները չվերականգնվեցին պլանշետում: Դուք %d օր ունեք վերականգնելու համար:</item>
+    </plurals>
+</resources>

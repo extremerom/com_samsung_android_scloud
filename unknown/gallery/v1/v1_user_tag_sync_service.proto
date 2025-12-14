@@ -1,0 +1,80 @@
+
+syntax = "proto3";
+
+import "gallery/attribute/usertag/user_tag_attribute.proto";
+import "gallery/attribute/usertag/user_tag_changes_attribute.proto";
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.gallery.v1;
+
+option java_multiple_files = true;
+
+service UserTagSyncService {
+  
+  rpc Put(UserTagPutRequest) returns (UserTagPutResponse) {}
+  
+  
+  rpc Delete(UserTagDeleteRequest) returns (UserTagDeleteResponse) {}
+
+  
+  rpc InitializeWithFullSync(UserTagFullSyncRequest) returns (UserTagFullSyncResponse) {}
+  
+  
+  rpc GetChanges(UserTagGetChangesRequest) returns (UserTagGetChangesResponse) {}
+}
+
+message UserTagPutRequest {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+  repeated usertag.attribute.UserTag user_tag = 2 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message UserTagPutResponse {
+
+}
+
+message UserTagDeleteRequest {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+  repeated DeleteUserTag user_tag = 2 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message UserTagDeleteResponse {
+
+}
+
+message UserTagFullSyncRequest {
+  optional int32 size = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string page_token = 2; 
+}
+
+message UserTagFullSyncResponse {
+  repeated UserTagGroup user_tag_group = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string next_page_token = 2; 
+  optional bool has_next = 3 [(google.api.field_behavior) = REQUIRED]; 
+  optional string next_change_point = 4; 
+}
+
+message UserTagGetChangesRequest {
+  optional int32 size = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string change_point = 2 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message UserTagGetChangesResponse {
+  repeated UserTagChangeGroup user_tag_change_group = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string next_change_point = 2 [(google.api.field_behavior) = REQUIRED]; 
+  optional bool has_next = 3 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message UserTagGroup {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+  repeated usertag.attribute.UserTag user_tag = 2 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message UserTagChangeGroup {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+  repeated usertag.attribute.UserTagChange user_tag_change = 2 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message DeleteUserTag {
+  optional string hash = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional int64 client_timestamp = 2 [(google.api.field_behavior) = REQUIRED]; 
+}

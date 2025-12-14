@@ -1,0 +1,177 @@
+{
+	"documentVersion": "0.0.1",
+	"categories": [{
+			"property": {
+				"id": "1"
+			},
+			"display": {
+				"title": "@string/show_samsung_cloud_on",
+				"type": "typeItem",
+				"searchKey": "second_level_add_samsung_cloud",
+				"saLogScreenId": "600",
+				"saLogEventId": "2003",
+				"saLogEventName": "Shortcut"
+			},
+			"action": {
+				"click": "@function/actionShortcut",
+				"switchValue": "@function/actionShortCutSwitchValue"
+			}
+		},
+		{
+			"property": {
+				"id": "2",
+				"filter": "@function/visibleE2ee"
+			},
+			"display": {
+				"title": "@string/security",
+				"type": "typeSpace"
+			}
+		},
+		{
+			"property": {
+				"id": "3",
+				"filter": "@function/visibleE2ee"
+			},
+			"display": {
+				"title": "@string/enhanced_data_protection",
+				"type": "typeItem"
+			},
+			"action": {
+				"click": "@function/edpClick"
+			}
+		},
+		{
+			"property": {
+				"id": "4"
+			},
+			"display": {
+				"title": "@string/privacy",
+				"type": "typeSpace"
+			}
+		},
+		{
+			"property": {
+				"id": "5"
+			},
+			"display": {
+				"title": "@string/privacy_notice",
+				"type": "typeItem",
+				"saLogScreenId": "600",
+				"saLogEventId": "0104",
+				"saLogEventName": "PrivacyNotice"
+			},
+			"action": {
+				"deeplink": "privacyNoticeUrl"
+			}
+		},
+		{
+			"property": {
+				"id": "6"
+			},
+			"display": {
+				"title": "@string/permissions",
+				"type": "typeItem",
+				"saLogScreenId": "600",
+				"saLogEventId": "0105",
+				"saLogEventName": "Permissions"
+			},
+			"action": {
+				"deeplink": "samsungcloud://com.samsung.android.scloud/permission/info"
+			}
+		},
+		{
+			"property": {
+				"id": "7"
+			},
+			"display": {
+				"title": "@string/download_personal_data",
+				"type": "typeItem",
+				"saLogScreenId": "600",
+				"saLogEventId": "0102",
+				"saLogEventName": "DownloadData"
+			},
+			"action": {
+				"deeplink": "samsungcloud://com.samsung.android.scloud/privacy/download"
+			}
+		},
+		{
+			"property": {
+				"id": "8"
+			},
+			"display": {
+				"title": "@string/erase_personal_data",
+				"type": "typeItem",
+				"saLogScreenId": "600",
+				"saLogEventId": "0103",
+				"saLogEventName": "EraseData"
+			},
+			"action": {
+				"deeplink": "samsungcloud://com.samsung.android.scloud/privacy/erase"
+			}
+		},
+		{
+			"property": {
+				"id": "9",
+				"filter": "@function/visibleChinaPN"
+			},
+			"display": {
+				"title": "@string/personal_information_agreement_header",
+				"type": "typeSpace"
+			}
+		},
+		{
+			"property": {
+				"id": "10",
+				"filter": "@function/visibleChinaPN"
+			},
+			"display": {
+				"title": "@string/personal_information_agreement_body",
+				"type": "typeItem"
+			},
+			"action": {
+				"click": "@function/actionPpClick",
+				"switchValue": "@function/actionPpSwitchValue"
+			}
+		},
+		{
+			"property": {
+				"id": "11"
+			},
+			"display": {
+				"title": "@string/information",
+				"type": "typeSpace"
+			}
+		},
+		{
+			"property": {
+				"id": "12"
+			},
+			"display": {
+				"title": "@string/about_samsung_cloud",
+				"type": "typeItem",
+				"searchKey": "second_level_about_samsung_cloud",
+				"saLogScreenId": "600",
+				"saLogEventId": "0101",
+				"saLogEventName": "About"
+			},
+			"action": {
+				"deeplink": "samsungcloud://com.samsung.android.scloud/about"
+			}
+		},
+		{
+			"property": {
+				"id": "13"
+			},
+			"display": {
+				"title": "@string/contact_us",
+				"type": "typeItem",
+				"saLogScreenId": "600",
+				"saLogEventId": "8483",
+				"saLogEventName": "Contact us"
+			},
+			"action": {
+				"deeplink": "samsungcloud://com.samsung.android.scloud/contactus"
+			}
+		}
+	]
+}

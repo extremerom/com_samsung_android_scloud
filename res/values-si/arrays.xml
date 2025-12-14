@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>ඔබේ දුරකථනය චාර්ජ් වේ.</item>
+        <item>ඔබේ දුරකථනය Wi-Fi ජාලයකට සම්බන්ධිතව ඇත.</item>
+        <item>තිරය ක්‍රියා විරහිතයි.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>ඔබේ ටැබ්ලටය චාර්ජ් වේ.</item>
+        <item>ඔබේ ටැබ්ලටය Wi-Fi ජාලයකට සම්බන්ධිතව ඇත.</item>
+        <item>තිරය ක්‍රියා විරහිතයි.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>ඔබට උපස්ථ කළ හැකි දත්ත ඔබේ දුරකථනය හෝ මෙහෙයුම් පද්ධතිය මත පදනම්ව වෙනස් විය හැක.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>ඔබ උපස්ථ කරන දත්ත ඔබේ ටැබ්ලටය හෝ මෙහෙයුම් පද්ධතිය මත පදනම්ව වෙනස් විය හැක.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>සබඳතා: සමමුහු කළ ගිණුම්වලින් සබඳතා</item>
+        <item>දින දසුන: සමමුහු කළ ගිණුම්වලින් සිද්ධි සහ කාර්යයන්</item>
+        <item>Galaxy Themes: තේමා සහ පෙරනිමි බිතුපත</item>
+        <item>යෙදුම්: නොගැළපෙන ස්ථාපන ගොනු සහ Samsung නොවන යෙදුම්වලින් දත්ත</item>
+        <item>සුරක්ෂිත ෆෝල්ඩරය: යෙදුම් සහ දත්ත</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>සබඳතා: සමමුහු කළ ගිණුම්වලින් සබඳතා</item>
+        <item>දින දසුන: සමමුහු කළ ගිණුම්වලින් සිද්ධි සහ කාර්යයන්</item>
+        <item>Galaxy Themes: තේමා සහ පෙරනිමි බිතුපත</item>
+        <item>යෙදුම්: සහාය නොදක්වන ස්ථාපන ගොනු</item>
+        <item>සුරක්ෂිත ෆෝල්ඩරය: යෙදුම් සහ දත්ත</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>දුරකථනය: ඇමතුම් සහ පණිවිඩ ඉතිහාසය</item>
+        <item>පණිවිඩ: ඉහළ නැංවූ පණිවිඩ, බහුමාධ්‍ය පණිවිඩ, සහ පෙළ පණිවිඩ</item>
+        <item>සබඳතා: ඔබේ උපාංගයෙහි සුරැකි සබඳතා, ඊමේල් ලිපින සහ ව්‍යාපාරික කාඩ්පත්</item>
+        <item>දින දසුන: ඔබේ උපාංගයෙහි සුරැකි සිද්ධි සහ කාර්ය</item>
+        <item>ඔරලෝසුව: එලාම්, ලෝක ඔරෙලෝසු, සහ කාල ගණකයන්</item>
+        <item>සැකසුම්: ප්‍රවේශ්‍යතා සැකසුම්, නාද රටා, Samsung යතුරු පුවරු විකල්ප, Wi-Fi සැකසුම්, යුගල කළ බ්ලූටූත් උපාංග, මුහුණු හැඳුනුම් සැකසුම්, ඇඟිලි සලකුණු සැකසුම්, සහ Always On Display සැකසුම් (ඔබේ පෙරනිමි නාද රටාව උපස්ථ නොවනු ඇත)</item>
+        <item>මුල් තිරය: පිරිසැලසුම, බිතුපත්, සහ Samsung DeX සැකසුම්</item>
+        <item>යෙදුම්: ස්ථාපන ගොනු සහ යෙදුම් සැකසුම්</item>
+        <item>හඬ රෙකෝඩරය: පටිගත කිරීම්</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>සංගීතය: MP3, FLAC, WAV, M4A, OGG, සහ අනෙකුත් සංගීත ගොනු</item>
+        <item>ලේඛන: PDF, Word, Excel, PowerPoint, සහ අනෙකුත් ලේඛන</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: කතාබස් ඉතිහාසය</item>
+        <item>%s: අගුළු දැමූ සටහන්</item>
+        <item>%s: මුරපදයෙන්-ආරක්ෂිත දත්ත</item>
+        <item>%s: යෙදුම් සහ යෙදුම් දත්ත</item>
+        <item>%s: සමමුහු කළ ගිණුම්වලින් සිද්ධි</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>පෞද්ගලික යතුර සහ ප්‍රතිසාධන වැකිය</item>
+        <item>යෙදුමේ ප්‍රතිපත්ති හේතුවෙන් දත්ත මාරු කළ නොහැක</item>
+        <item>ආරක්ෂක හෝ අනුකූලතා ගැටලු හේතුවෙන් මාරු කළ නොහැකි යෙදුම්: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>කියවීමට-පමණි සබඳතා</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>පෙරනිමි බිතුපත</item>
+        <item>Galaxy Themes බිතුපත්</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>හදිසි ඇඟවුම් පණිවිඩ</item>
+        <item>කෙටුම්පත් සහ අසමත් පණිවිඩ</item>
+        <item>iMessage ප්‍රයෝග සමග පණිවිඩ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>අගුළු දැමූ අන්තර්ගතය</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>දුරකථනය: ඇමතුම් සහ පණිවිඩ ඉතිහාසය</item>
+        <item>පණිවිඩ: ඉහළ නැංවූ පණිවිඩ, බහුමාධ්‍ය පණිවිඩ, සහ පෙළ පණිවිඩ</item>
+        <item>ඔරලෝසුව: එලාම්, ලෝක ඔරෙලෝසු, සහ කාල ගණකයන්</item>
+        <item>සැකසුම්: ප්‍රවේශ්‍යතා සැකසුම්, නාද රටා, Samsung යතුරු පුවරු විකල්ප, Wi-Fi සැකසුම්, යුගල කළ බ්ලූටූත් උපාංග, සහ Always On Display සැකසුම් (පෙරනිමි නාද රටාව සංකේතනය කර නැත)</item>
+        <item>යෙදුම්: යෙදුම් සැකසුම්</item>
+        <item>මුල් තිරය: පිරිසැලසුම, බිතුපත්, සහ Samsung DeX සැකසුම්</item>
+        <item>හඬ රෙකෝඩරය: පටිගත කිරීම්</item>
+    </string-array>
+</resources>

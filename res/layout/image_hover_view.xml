@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/hover_view_background" android:padding="@dimen/hover_image_layout_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/hover_image_layout_margin" android:minHeight="@dimen/hover_image_layout_min_height" android:elevation="@dimen/default_view_elevation"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/hover_image_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/hover_image_view_min_size" android:minHeight="@dimen/hover_image_view_min_size" android:layout_centerInParent="true" />
+</RelativeLayout>

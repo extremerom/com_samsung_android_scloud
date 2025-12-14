@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/slot_info_layout" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dp">
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/item_info_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/margin_18dp" android:layout_marginEnd="@dimen/margin_18dp" app:layout_constraintBottom_toTopOf="@id/slot_summary_view" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+            <TextView android:textAppearance="@style/MoreInfoTitle" android:id="@id/sync_info_card_title" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_6dp" app:layout_constraintBottom_toTopOf="@id/sub_title_text" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+            <TextView android:textAppearance="@style/MoreInfoSubTitle" android:id="@id/sub_title_text" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_6dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/sync_info_card_title" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/slot_summary_view" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/item_info_layout" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

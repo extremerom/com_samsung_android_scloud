@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 зображення та %1$d відео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">1 зображення та %1$d відео (%2$s)</item>
+        <item quantity="many">1 зображення та %1$d відео (%2$s)</item>
+        <item quantity="other">1 зображення та %1$d відео (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d програму не встановлено</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d програми не встановлено</item>
+        <item quantity="many">%d програм не встановлено</item>
+        <item quantity="other">%d програми не встановлено</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Повідомлення: екстрені оповіщення, передані файли, мультимедійні повідомлення розміром понад %d МБ, чернетки та повідомлення, що не були надіслані</item>
+        <item quantity="one">Повідомлення: екстрені оповіщення, передані файли, мультимедійні повідомлення розміром понад %d МБ, чернетки та повідомлення, що не були надіслані</item>
+        <item quantity="two">Повідомлення: екстрені оповіщення, передані файли, мультимедійні повідомлення розміром понад %d МБ, чернетки та повідомлення, що не були надіслані</item>
+        <item quantity="few">Повідомлення: екстрені оповіщення, передані файли, мультимедійні повідомлення розміром понад %d МБ, чернетки та повідомлення, що не були надіслані</item>
+        <item quantity="many">Повідомлення: екстрені оповіщення, передані файли, мультимедійні повідомлення розміром понад %d МБ, чернетки та повідомлення, що не були надіслані</item>
+        <item quantity="other">Повідомлення: екстрені оповіщення, передані файли, мультимедійні повідомлення розміром понад %d МБ, чернетки та повідомлення, що не були надіслані</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Скоро минає термін дії даних резервного копіювання для %d пристрою. Виберіть пристрій нижче, щоб переглянути дату закінчення терміну.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Скоро минає термін дії даних резервного копіювання для %d пристроїв. Виберіть пристрій нижче, щоб переглянути дату закінчення терміну.</item>
+        <item quantity="many">Скоро минає термін дії даних резервного копіювання для %d пристроїв. Виберіть пристрій нижче, щоб переглянути дату закінчення терміну.</item>
+        <item quantity="other">Скоро минає термін дії даних резервного копіювання для %d пристрою. Виберіть пристрій нижче, щоб переглянути дату закінчення терміну.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Скоро минає термін дії даних резервного копіювання для %d пристрою.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Скоро минає термін дії даних резервного копіювання для %d пристроїв.</item>
+        <item quantity="many">Скоро минає термін дії даних резервного копіювання для %d пристроїв.</item>
+        <item quantity="other">Скоро минає термін дії даних резервного копіювання для %d пристрою.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Не вдалося оновити %1$d об’єкт резервної копії, тому на новий телефон буде відновлено об’єкт із попередніх резервних копій (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Не вдалося оновити %1$d об’єкти резервної копії, тому на новий телефон будуть відновлені об’єкти з попередніх резервних копій (%2$s).</item>
+        <item quantity="many">Не вдалося оновити %1$d об’єктів резервної копії, тому на новий телефон будуть відновлені об’єкти з попередніх резервних копій (%2$s).</item>
+        <item quantity="other">Не вдалося оновити %1$d об’єкта резервної копії, тому на новий телефон будуть відновлені об’єкти з попередніх резервних копій (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Не вдалося оновити %1$d об’єкт резервної копії, тому на новий телефон (%3$s) буде відновлено об’єкт від %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Не вдалося оновити %1$d об’єкти резервної копії, тому на новий телефон (%3$s) будуть відновлені об’єкти від %2$s.</item>
+        <item quantity="many">Не вдалося оновити %1$d об’єктів резервної копії, тому на новий телефон (%3$s) будуть відновлені об’єкти від %2$s.</item>
+        <item quantity="other">Не вдалося оновити %1$d об’єкта резервної копії, тому на новий телефон (%3$s) будуть відновлені об’єкти від %2$s.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Не вдалося оновити %1$d об’єкт резервної копії, тому на новий планшет буде відновлено об’єкт із попередніх резервних копій (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Не вдалося оновити %1$d об’єкти резервної копії, тому на новий планшет будуть відновлені об’єкти з попередніх резервних копій (%2$s).</item>
+        <item quantity="many">Не вдалося оновити %1$d об’єктів резервної копії, тому на новий планшет будуть відновлені об’єкти з попередніх резервних копій (%2$s).</item>
+        <item quantity="other">Не вдалося оновити %1$d об’єкта резервної копії, тому на новий планшет будуть відновлені об’єкти з попередніх резервних копій (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Не вдалося оновити %1$d об’єкт резервної копії, тому на новий планшет (%3$s) буде відновлено об’єкти від %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Не вдалося оновити %1$d об’єкти резервної копії, тому на новий планшет (%3$s) будуть відновлені об’єкти від %2$s.</item>
+        <item quantity="many">Не вдалося оновити %1$d об’єктів резервної копії, тому на новий планшет (%3$s) будуть відновлені об’єкти від %2$s.</item>
+        <item quantity="other">Не вдалося оновити %1$d об’єкта резервної копії, тому на новий планшет (%3$s) будуть відновлені об’єкти від %2$s.</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дані буде видалено через %d день.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Дані буде видалено через %d дні.</item>
+        <item quantity="many">Дані буде видалено через %d днів.</item>
+        <item quantity="other">Дані буде видалено через %d дня.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Минає через %d день</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Минає через %d дні</item>
+        <item quantity="many">Минає через %d днів</item>
+        <item quantity="other">Минає через %d дня</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Більшу частину даних відновлено, але %d програму не встановлено.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Більшу частину даних відновлено, але %d програми не встановлено.</item>
+        <item quantity="many">Більшу частину даних відновлено, але %d програм не встановлено.</item>
+        <item quantity="other">Більшу частину даних відновлено, але %d програми не встановлено.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нові сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+        <item quantity="other">%d нового сповіщення</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Доступний %d новий альбом</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Доступні %d нових альбоми</item>
+        <item quantity="many">Доступно %d нових альбомів</item>
+        <item quantity="other">Доступно %d нового альбому</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Вибрано %d альбом</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Вибрано %d альбоми</item>
+        <item quantity="many">Вибрано %d альбомів</item>
+        <item quantity="other">Вибрано %d альбому</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 аватар і %d користувацький об’єкт</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">1 аватар і %d користувацькі об’єкти</item>
+        <item quantity="many">1 аватар і %d користувацьких об’єктів</item>
+        <item quantity="other">1 аватар і %d користувацького об’єкта</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Залишилося: 1 година %d хвилина</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Залишилося: 1 година %d хвилини</item>
+        <item quantity="many">Залишилося: 1 година %d хвилин</item>
+        <item quantity="other">Залишилося: 1 година %d хвилини</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Синхронізов. 1 фото та %d відео</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Синхронізов. 1 фото та %d відео</item>
+        <item quantity="many">Синхронізов. 1 фото та %d відео</item>
+        <item quantity="other">Синхронізов. 1 фото та %d відео</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Вибрано %1$d об’єкт (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Вибрано %1$d об’єкти (%2$s)</item>
+        <item quantity="many">Вибрано %1$d об’єктів (%2$s)</item>
+        <item quantity="other">Вибрано %1$d об’єкта (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d зображення та 1 відео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d зображення та 1 відео (%2$s)</item>
+        <item quantity="many">%1$d зображень та 1 відео (%2$s)</item>
+        <item quantity="other">%1$d зображення та 1 відео (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d зображення (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d зображення (%2$s)</item>
+        <item quantity="many">%1$d зображень (%2$s)</item>
+        <item quantity="other">%1$d зображення (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Вибрано: %1$d (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Вибрано: %1$d (%2$s %3$s)</item>
+        <item quantity="many">Вибрано: %1$d (%2$s %3$s)</item>
+        <item quantity="other">Вибрано: %1$d (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d відео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d відео (%2$s)</item>
+        <item quantity="many">%1$d відео (%2$s)</item>
+        <item quantity="other">%1$d відео (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d файл</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d файли</item>
+        <item quantity="many">%d файлів</item>
+        <item quantity="other">%d файлу</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Залишилося: %d година 1 хвилина</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Залишилося: %d години 1 хвилина</item>
+        <item quantity="many">Залишилося: %d годин 1 хвилина</item>
+        <item quantity="other">Залишилося: %d години 1 хвилина</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d зображення завантажено з хмари.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d зображення завантажено з хмари.</item>
+        <item quantity="many">%d зображень завантажено з хмари.</item>
+        <item quantity="other">%d зображення завантажено з хмари.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d об’єкт завантажено з хмари.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d об’єкти завантажено з хмари.</item>
+        <item quantity="many">%d об’єктів завантажено з хмари.</item>
+        <item quantity="other">%d об’єкта завантажено з хмари.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d хвилина</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d хвилини</item>
+        <item quantity="many">%d хвилин</item>
+        <item quantity="other">%d хвилини</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Залишилася %d хвилина</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Залишилося %d хвилини</item>
+        <item quantity="many">Залишилося %d хвилин</item>
+        <item quantity="other">Залишилося %d хвилини</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Синхронізов. %d фото та 1 відео</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Синхронізов. %d фото та 1 відео</item>
+        <item quantity="many">Синхронізов. %d фото та 1 відео</item>
+        <item quantity="other">Синхронізов. %d фото та 1 відео</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Синхронізовано %d фото</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Синхронізовано %d фото</item>
+        <item quantity="many">Синхронізовано %d фото</item>
+        <item quantity="other">Синхронізовано %d фото</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Зображень або відео: %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Зображень і відео: %d</item>
+        <item quantity="many">Зображень і відео: %d</item>
+        <item quantity="other">Зображень і відео: %d</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Вибрано: %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Вибрано: %d</item>
+        <item quantity="many">Вибрано: %d</item>
+        <item quantity="other">Вибрано: %d</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d відео завантажено з хмари.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d відео завантажено з хмари.</item>
+        <item quantity="many">%d відео завантажено з хмари.</item>
+        <item quantity="other">%d відео завантажено з хмари.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Синхронізовано %d відео</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Синхронізовано %d відео</item>
+        <item quantity="many">Синхронізовано %d відео</item>
+        <item quantity="other">Синхронізовано %d відео</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Батарею розряджено. Зарядіть її принаймні до %d%%, щоб створити резервну копію даних телефона.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Батарею розряджено. Зарядіть її принаймні до %d%%, щоб створити резервну копію даних телефона.</item>
+        <item quantity="many">Батарею розряджено. Зарядіть її принаймні до %d%%, щоб створити резервну копію даних телефона.</item>
+        <item quantity="other">Батарею розряджено. Зарядіть її принаймні до %d%%, щоб створити резервну копію даних телефона.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Термін дії тимчасової резервної копії минає через %d день. Відновіть її дані або відкладіть дату видалення резервної копії.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Термін дії тимчасової резервної копії минає через %d дні. Відновіть її дані або відкладіть дату видалення резервної копії.</item>
+        <item quantity="many">Термін дії тимчасової резервної копії минає через %d днів. Відновіть її дані або відкладіть дату видалення резервної копії.</item>
+        <item quantity="other">Термін дії тимчасової резервної копії минає через %d дня. Відновіть її дані або відкладіть дату видалення резервної копії.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Відкласти на %d день</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Відкласти на %d дні</item>
+        <item quantity="many">Відкласти на %d днів</item>
+        <item quantity="other">Відкласти на %d дня</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d аватар</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d аватари</item>
+        <item quantity="many">%d аватарів</item>
+        <item quantity="other">%d аватара</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d аватар і 1 користувацький об’єкт</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d аватари й 1 користувацький об’єкт</item>
+        <item quantity="many">%d аватарів і 1 користувацький об’єкт</item>
+        <item quantity="other">%d аватара й 1 користувацький об’єкт</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d користувацький об’єкт</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d користувацькі об’єкти</item>
+        <item quantity="many">%d користувацьких об’єктів</item>
+        <item quantity="other">%d користувацького об’єкта</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Залишився %d об’єкт</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Залишилося %d об’єкти</item>
+        <item quantity="many">Залишилося %d об’єктів</item>
+        <item quantity="other">Залишилося %d об’єкта</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d пристрій Samsung, з яким створено пару</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d пристрої Samsung, з якими створено пару</item>
+        <item quantity="many">%d пристроїв Samsung, з якими створено пару</item>
+        <item quantity="other">%d пристрою Samsung, з якими створено пару</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d нагадування</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d нагадування</item>
+        <item quantity="many">%d нагадувань</item>
+        <item quantity="other">%d нагадування</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Підписка стане недійсною %1$s. Ваші дані будуть видалені через %2$d день. Щоб не втратити їх, відновіть підписку.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Підписка стане недійсною %1$s. Ваші дані будуть видалені через %2$d дні. Щоб не втратити їх, відновіть підписку.</item>
+        <item quantity="many">Підписка стане недійсною %1$s. Ваші дані будуть видалені через %2$d днів. Щоб не втратити їх, відновіть підписку.</item>
+        <item quantity="other">Підписка стане недійсною %1$s. Ваші дані будуть видалені через %2$d дня. Щоб не втратити їх, відновіть підписку.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Батарею розряджено. Зарядіть її принаймні до %d%%, щоб створити резервну копію даних планшета.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Батарею розряджено. Зарядіть її принаймні до %d%%, щоб створити резервну копію даних планшета.</item>
+        <item quantity="many">Батарею розряджено. Зарядіть її принаймні до %d%%, щоб створити резервну копію даних планшета.</item>
+        <item quantity="other">Батарею розряджено. Зарядіть її принаймні до %d%%, щоб створити резервну копію даних планшета.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Створюйте резервні копії необмеженого обсягу даних у %1$s строком на %2$d день або відновлюйте вже наявні резервні копії.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Створюйте резервні копії необмеженого обсягу даних у %1$s строком на %2$d дні або відновлюйте вже наявні резервні копії.</item>
+        <item quantity="many">Створюйте резервні копії необмеженого обсягу даних у %1$s строком на %2$d днів або відновлюйте вже наявні резервні копії.</item>
+        <item quantity="other">Створюйте резервні копії необмеженого обсягу даних у %1$s строком на %2$d дня або відновлюйте вже наявні резервні копії.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Цю резервну копію буде видалено через %d день.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Цю резервну копію буде видалено через %d дні.</item>
+        <item quantity="many">Цю резервну копію буде видалено через %d днів.</item>
+        <item quantity="other">Цю резервну копію буде видалено через %d дня.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Спробуйте ще раз через %d годину</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Спробуйте ще раз через %d години</item>
+        <item quantity="many">Спробуйте ще раз через %d годин</item>
+        <item quantity="other">Спробуйте ще раз через %d години</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Спробуйте ще раз через %d годину 1 хвилину</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Спробуйте ще раз через %d години 1 хвилину</item>
+        <item quantity="many">Спробуйте ще раз через %d годин 1 хвилину</item>
+        <item quantity="other">Спробуйте ще раз через %d години 1 хвилину</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Спробуйте ще раз через %d хвилину</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Спробуйте ще раз через %d хвилини</item>
+        <item quantity="many">Спробуйте ще раз через %d хвилин</item>
+        <item quantity="other">Спробуйте ще раз через %d хвилини</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Спробуйте ще раз через 1 годину %d хвилину</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Спробуйте ще раз через 1 годину %d хвилини</item>
+        <item quantity="many">Спробуйте ще раз через 1 годину %d хвилин</item>
+        <item quantity="other">Спробуйте ще раз через 1 годину %d хвилини</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Резервну копію збережено в програмі «%1$s». Ви можете відновити її впродовж %2$d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Резервну копію збережено в програмі «%1$s». Ви можете відновити її впродовж %2$d днів.</item>
+        <item quantity="many">Резервну копію збережено в програмі «%1$s». Ви можете відновити її впродовж %2$d днів.</item>
+        <item quantity="other">Резервну копію збережено в програмі «%1$s». Ви можете відновити її впродовж %2$d дня.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Тимчасову резервну копію буде видалено через %d день.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Тимчасову резервну копію буде видалено через %d дні.</item>
+        <item quantity="many">Тимчасову резервну копію буде видалено через %d днів.</item>
+        <item quantity="other">Тимчасову резервну копію буде видалено через %d дня.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ваші дані не відновлено на вашому телефоні. Ви можете відновити їх протягом %d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ваші дані не відновлено на вашому телефоні. Ви можете відновити їх протягом %d днів.</item>
+        <item quantity="many">Ваші дані не відновлено на вашому телефоні. Ви можете відновити їх протягом %d днів.</item>
+        <item quantity="other">Ваші дані не відновлено на вашому телефоні. Ви можете відновити їх протягом %d дня.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ваші дані не відновлено на вашому планшеті. Ви можете відновити їх протягом %d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ваші дані не відновлено на вашому планшеті. Ви можете відновити їх протягом %d днів.</item>
+        <item quantity="many">Ваші дані не відновлено на вашому планшеті. Ви можете відновити їх протягом %d днів.</item>
+        <item quantity="other">Ваші дані не відновлено на вашому планшеті. Ви можете відновити їх протягом %d дня.</item>
+    </plurals>
+</resources>

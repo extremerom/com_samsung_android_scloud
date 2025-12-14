@@ -1,0 +1,52 @@
+.class public final LF5/e$a;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = LF5/e;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = "a"
+.end annotation
+
+
+# direct methods
+.method private constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+.method public synthetic constructor <init>(Lkotlin/jvm/internal/DefaultConstructorMarker;)V
+    .locals 0
+
+    invoke-direct {p0}, LF5/e$a;-><init>()V
+
+    return-void
+.end method
+
+.method private static synthetic getINSTANCE$annotations()V
+    .locals 0
+    .annotation runtime Lkotlin/jvm/JvmStatic;
+    .end annotation
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final getInstance()LF5/e;
+    .locals 1
+
+    invoke-static {}, LF5/e;->access$getINSTANCE$cp()LF5/e;
+
+    move-result-object v0
+
+    return-object v0
+.end method

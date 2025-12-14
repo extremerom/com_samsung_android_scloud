@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/shape_layout_root_view" android:tag="layout/shape_layout_for_list_0" android:background="@color/round_corner_background_color" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.scloud.app.common.component.RoundedCornerConstraintLayout android:orientation="vertical" android:id="@id/shape_layout" android:tag="binding_1" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <ImageView android:tag="binding_2" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="?android:listDivider" />
+    <LinearLayout android:orientation="vertical" android:id="@id/divider_layout" android:tag="binding_3" android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="@dimen/shape_content_layout_margin_bottom" android:layout_below="@id/shape_layout" android:layout_alignParentBottom="true" />
+</RelativeLayout>

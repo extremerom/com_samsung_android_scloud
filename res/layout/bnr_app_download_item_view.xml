@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/bnr_app_download_item_view_0" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/layout_background" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight" android:paddingStart="@dimen/multiple_selection_end" android:paddingEnd="@dimen/multiple_selection_end">
+        <ImageView android:gravity="center" android:id="@id/icon" android:tag="binding_1" android:layout_width="@dimen/bnr_icon_size" android:layout_height="@dimen/bnr_icon_size" android:layout_marginEnd="@dimen/multiple_selection_widget_end" />
+        <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/summary_layout" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginTop="@dimen/list_item_top_padding" android:layout_marginBottom="@dimen/list_item_bottom_padding" android:layout_weight="1.0">
+            <TextView android:textAppearance="?android:textAppearanceListItem" android:textColor="@color/text_color_primary" android:ellipsize="marquee" android:id="@id/title" android:tag="binding_2" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/additional_button" android:layout_width="wrap_content" android:layout_height="match_parent" android:paddingStart="@dimen/vertical_divider_margin_start" android:paddingEnd="@dimen/margin_20dp">
+            <ImageView android:layout_gravity="center" android:id="@id/additional_button_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_go_to_store" android:contentDescription="@null" />
+        </LinearLayout>
+    </LinearLayout>
+    <include android:id="@id/app_list_divider" layout="@layout/list_divider" />
+</LinearLayout>

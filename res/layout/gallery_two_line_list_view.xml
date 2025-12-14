@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:id="@id/gallery_dashboard_layout" android:tag="layout/gallery_two_line_list_view_0" android:paddingLeft="@dimen/view_start_and_end_margin" android:paddingTop="@dimen/margin_14dp" android:paddingRight="@dimen/view_start_and_end_margin" android:paddingBottom="@dimen/margin_14dp" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:id="@id/container_relative_layout" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/RecoilEffect">
+        <LinearLayout android:gravity="center_vertical" android:id="@id/two_line_list_switch_container" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignParentTop="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true">
+            <androidx.appcompat.widget.SwitchCompat android:textSize="0.0sp" android:id="@id/two_line_list_switch" android:visibility="gone" android:saveEnabled="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" android:layout_marginStart="@dimen/two_line_list_switch_margin_start" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/two_line_list_text_area" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toStartOf="@id/two_line_list_switch_container">
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textAppearance="@style/TextListTitle" android:id="@id/two_line_list_title_textview" android:paddingTop="@dimen/sync_while_roaming_padding" android:paddingBottom="@dimen/sync_while_roaming_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/new_badge" android:focusable="false" android:visibility="gone" android:clickable="false" android:duplicateParentState="true" android:layout_width="@dimen/new_badge_size" android:layout_height="@dimen/new_badge_size" android:layout_marginStart="@dimen/new_badge_margin_start" />
+            </LinearLayout>
+            <TextView android:textAppearance="@style/TextListSummary" android:id="@id/two_line_list_summary_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:breakStrategy="simple" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:gravity="center_vertical" android:layout_gravity="end" android:id="@id/two_line_list_switch_large_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@id/container_relative_layout">
+        <androidx.appcompat.widget.SwitchCompat android:textSize="0.0sp" android:gravity="center" android:id="@id/two_line_list_switch_large" android:paddingTop="@dimen/switch_padding_top" android:paddingBottom="@dimen/switch_padding_bottom" android:visibility="gone" android:saveEnabled="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</RelativeLayout>

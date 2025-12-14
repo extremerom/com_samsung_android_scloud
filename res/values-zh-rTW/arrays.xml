@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>您的手機正在充電。</item>
+        <item>您的手機已連接至 Wi-Fi 網路。</item>
+        <item>螢幕已關閉。</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>您的平板正在充電中。</item>
+        <item>您的平板已連接至 Wi-Fi 網路。</item>
+        <item>螢幕已關閉。</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>視您的手機或作業系統而定，可備份的資料可能不同。</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>視您的平板或作業系統而定，可備份的資料可能會不同。</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>聯絡人：同步帳號的聯絡人</item>
+        <item>日曆：同步帳號的活動與工作</item>
+        <item>Galaxy Themes：主題及預設桌布</item>
+        <item>應用程式：不相容的安裝檔案與非三星應用程式的資料</item>
+        <item>安全資料夾：應用程式與資料</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>聯絡人：同步帳號的聯絡人</item>
+        <item>日曆：同步帳號的活動與工作</item>
+        <item>Galaxy Themes：主題及預設桌布</item>
+        <item>應用程式：不支援的安裝檔案</item>
+        <item>安全資料夾：應用程式與資料</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>電話：通話與訊息記錄</item>
+        <item>訊息：增強版訊息、多媒體訊息與文字訊息</item>
+        <item>聯絡人：儲存在裝置上的聯絡人、電子郵件地址與名片</item>
+        <item>日曆：儲存在裝置上的活動與工作</item>
+        <item>時鐘：鬧鐘、世界時鐘與計時器</item>
+        <item>設定：協助工具設定、鈴聲、三星鍵盤選項、Wi-Fi 設定、配對藍牙裝置、臉部辨識設定、指紋設定與 Always On Display 設定 (將不會備份您的預設鈴聲)</item>
+        <item>主螢幕：版面配置、桌布與 Samsung DeX 設定</item>
+        <item>應用程式：安裝檔案與應用程式設定</item>
+        <item>錄音機：錄音</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>音樂：MP3、FLAC、WAV、M4A、OGG 及其他音樂檔案</item>
+        <item>文件：PDF、Word、Excel、PowerPoint 及其他文件</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s：聊天記錄</item>
+        <item>%s：鎖定筆記</item>
+        <item>%s：密碼保護資料</item>
+        <item>%s：應用程式與應用程式資料</item>
+        <item>%s：同步帳號的活動</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>私密金鑰與復原詞句</item>
+        <item>基於應用程式政策，無法傳輸資料</item>
+        <item>基於安全考量或相容性問題，無法傳輸的應用程式如下：%s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>唯讀聯絡人</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>預設桌布</item>
+        <item>Galaxy Themes 桌布</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>緊急警報訊息</item>
+        <item>草稿與失敗的訊息</item>
+        <item>附加 iMessage 特效的訊息</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>鎖定內容</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>電話：通話與訊息記錄</item>
+        <item>訊息：增強版訊息、多媒體訊息與文字訊息</item>
+        <item>時鐘：鬧鐘、世界時鐘與計時器</item>
+        <item>設定：協助工具設定、鈴聲、三星鍵盤選項、Wi-Fi 設定、配對藍牙裝置與 Always On Display 設定 (不會加密預設鈴聲)</item>
+        <item>應用程式：應用程式設定</item>
+        <item>主螢幕：版面配置、桌布與 Samsung DeX 設定</item>
+        <item>錄音機：錄音</item>
+    </string-array>
+</resources>

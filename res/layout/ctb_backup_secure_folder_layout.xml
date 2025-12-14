@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView android:orientation="vertical" android:id="@id/about_main_scrollview" android:background="@color/window_background_color" android:focusable="false" android:descendantFocusability="beforeDescendants" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:overScrollMode="ifContentScrolls"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/icon_and_title_layout" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+            <include android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/ctb_icon_margin_top" layout="@layout/ctb_icon_view" />
+            <TextView android:textAppearance="@style/TextTemporaryBackupScreenTitle" android:id="@id/page_title_secure_folder" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dp" android:textAlignment="center" android:layout_marginStart="@dimen/ctb_title_start_end_margin" android:layout_marginEnd="@dimen/ctb_title_start_end_margin" />
+            <TextView android:textAppearance="@style/TextTemporaryBackupSummaryTitle" android:layout_gravity="center" android:id="@id/page_description_secure_folder" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/ctb_result_account_email_top_margin" android:textAlignment="center" android:layout_marginStart="@dimen/ctb_title_start_end_margin" android:layout_marginEnd="@dimen/ctb_title_start_end_margin" />
+        </LinearLayout>
+        <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="@dimen/margin_24dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/icon_and_title_layout">
+            <include android:id="@id/bottom_button_layout" layout="@layout/horizontal_two_button_layout_view" />
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

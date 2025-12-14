@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>مۆبایلەکەت بارگاوی دەبێتەوە.</item>
+        <item>مۆبایلەکەت بەستراوەتەوە بە تۆڕێکی Wi-Fiەوە.</item>
+        <item>شاشەکە کوژاوەتەوە.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>تابلێتەکەت بارگاوی دەبێتەوە.</item>
+        <item>تابلێتەکەت بەستراوەتەوە بە تۆڕێکی Wi-Fiەوە.</item>
+        <item>شاشەکە کوژاوەتەوە.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>ئەو داتایەی کە دەتوانیت پاشەکەوتی یەدەگی بکەیت ڕەنگە بەپێی مۆبایل یان سیستەمی کارپێکردنەکەت جیاواز بێت.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>ئەو داتایەی کە دەتوانیت پاشەکەوتی یەدەگی بکەیت بەپێی تابلێت یان سیستەمی کارپێکردنەکەت دەگۆڕێت.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>پەیوەندییەکان: پەیوەندییەکان لە هەژمارە هاوکاتەکانەوە</item>
+        <item>ساڵنامە: ڕووداوەکان و ئەرکەکان لە هەژمارە هاوکاتەکانەوە</item>
+        <item>تەوەرەکانی Galaxy: تەوەرەکانی و کاغەزی دیفۆڵت</item>
+        <item>ئەپەکان: فایلەکانی دامەزراندن و داتای ناتەبای ئەپەکانی غەیرە Samsung</item>
+        <item>فۆڵدەری پارێزراو: ئەپەکان و داتاکان</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>پەیوەندییەکان: پەیوەندییەکان لە هەژمارە هاوکاتەکانەوە</item>
+        <item>ساڵنامە: ڕووداوەکان و ئەرکەکان لە هەژمارە هاوکاتەکانەوە</item>
+        <item>تەوەرەکانی Galaxy: تەوەرەکانی و کاغەزی دیفۆڵت</item>
+        <item>ئەپەکان: فایلە پشتگیری نەکراوەکانی دامەزراندن</item>
+        <item>فۆڵدەری پارێزراو: ئەپەکان و داتاکان</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>مێژووی پەیوەندی و نامە تەلەفۆنییەکان:</item>
+        <item>پەیامەکان: پەیامە بەھێزکراوەکان، پەیامی فرەمیدیایی، و دەقەنامەکان.</item>
+        <item>پەیوەندییەکان: پەیوەندییەکان، ناونیشانی ئیمەیلەکان، و کارتی بازرگانی کە لە ئامێرەکەتدا هەڵگیراون</item>
+        <item>ڕووداو و ئەرکەکانی ساڵنامە: لە ئامێرەکەتدا پاشەکەوت کراون</item>
+        <item>کاتژمێر: کاتژمێری زەنگ و کاتژمێری جیهانی و کاتژمێر</item>
+        <item>ڕێکخستنەکان: ڕێکخستنەکانی دەستڕاگەیشتن، زەنگی زەنگ، هەڵبژاردەکانی کیبۆردەکەی Samsung، ڕێکخستنەکانی Wi-Fi، ئامێرە جووتەکانی بلوتوز، ڕێکخستنەکانی ناسینەوەی دەموچاو، ڕێکخستنەکانی پەنجەمۆر و ڕێکخستنەکانی پیشاندانی هەمیشە داگیرساوە (زەنگی پێشوەختە تۆ پاشەکەوت ناکرێت)</item>
+        <item>شاشەی سەرەکی: شێوازی داڕشتن، کاغەزی دیوار و ڕێکخستنەکانی Samsung DeX</item>
+        <item>ئەپەکان: فایلەکانی دامەزراندن و ڕێکخستنەکانی ئەپەکان</item>
+        <item>تۆمارکردنی دەنگی: تۆمار کراوە</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>مۆسیقا: MP3، FLAC، WAV، M4A، OGG، و فایلەکانی تری مۆسیقا</item>
+        <item>بەڵگەنامەکان: PDF، Word، Excel، PowerPoint، و بەڵگەنامەکانی تر</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: مێژووی چات</item>
+        <item>%s: تێبینییە قۆفڵکراوەکان</item>
+        <item>%s: داتای پارێزراو بە وشەی نهێنی</item>
+        <item>%s: ئەپەکان و داتای ئەپ</item>
+        <item>%s: بۆنەکان لە هەژمارە هاودەمکراوەکانت</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>کلیلی تایبەت و دەستەواژەی گەڕاندنەوە</item>
+        <item>داتا ناکرێت بگوازرێتەوە بەهۆی سیاسەتەکانی ئەپەکە</item>
+        <item>ئەو ئەپانەی کە ناکرێت بەهۆی کێشەی ئاسایش یان گونجاویی بگوازرێنەوە: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>پەیوەندییە تەنها خوێندنەوەکان</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>وێنەی زەمینەی دۆخی بنەڕەتی</item>
+        <item>وێنەی زەمینەی تێمەكانی Galaxy</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>پەیامەکانی ھۆشداریی کتوپڕ</item>
+        <item>پەیامە ڕەشنووس و شكستخواردووەکان</item>
+        <item>ئەو پەیامانەی کاریگەرییەکانی iMessage ـیان هەیە</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>ناوەرۆکی قوفڵدراو</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>مێژووی پەیوەندی و نامە تەلەفۆنییەکان:</item>
+        <item>پەیامەکان: پەیامە بەھێزکراوەکان، پەیامی فرەمیدیایی، و دەقەنامەکان.</item>
+        <item>کاتژمێر: کاتژمێری زەنگ و کاتژمێری جیهانی و کاتژمێر</item>
+        <item>ڕێکخستنەکان: ڕێکخستنەکانی دەستڕاگەیشتن، زەنگەکان، هەڵبژاردەکانی تەختەکلیلی Samsung، ڕێکخستنەکانی Wi-Fi، ئامێرە جووتکراوەکانی بلوتوز و ڕێکخستنەکانی پیشاندانی هەمیشە داگیرساوە (دەنگی پێشوەختە کۆد نەکراوە)</item>
+        <item>ئەپەکان: ڕێکخستنەکانی ئەپ</item>
+        <item>شاشەی سەرەکی: شێوازی داڕشتن، کاغەزی دیوار و ڕێکخستنەکانی Samsung DeX</item>
+        <item>تۆمارکردنی دەنگی: تۆمار کراوە</item>
+    </string-array>
+</resources>

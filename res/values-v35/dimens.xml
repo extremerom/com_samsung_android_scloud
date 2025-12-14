@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_min_height">52.0dp</dimen>
+    <dimen name="button_min_width">240.0dp</dimen>
+    <dimen name="cardview_max_height_master_switch">56.0dp</dimen>
+    <dimen name="dashboard_group_padding_end">18.0dp</dimen>
+    <dimen name="dashboard_group_padding_start">18.0dp</dimen>
+    <dimen name="e2ee_bottom_button_vertical_margin">20.0dp</dimen>
+    <dimen name="e2ee_side_margin">18.0dp</dimen>
+    <dimen name="e2ee_title_container_margin">22.0dp</dimen>
+    <dimen name="margin_dot">0.0dp</dimen>
+    <dimen name="multiple_selection_end">18.0dp</dimen>
+    <dimen name="multiple_selection_icon_start">14.0dp</dimen>
+    <dimen name="sesl_dialog_width_with_large_screen">420.0dp</dimen>
+    <dimen name="sesl_dialog_width_with_small_screen">380.0dp</dimen>
+</resources>

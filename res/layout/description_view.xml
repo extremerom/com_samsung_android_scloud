@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/window_background_color" android:paddingLeft="@dimen/view_start_and_end_margin" android:paddingTop="@dimen/description_view_padding_up" android:paddingRight="@dimen/view_start_and_end_margin" android:paddingBottom="@dimen/description_view_padding_down" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextDescription" android:id="@id/description_textview" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:textAlignment="viewStart" />
+</RelativeLayout>

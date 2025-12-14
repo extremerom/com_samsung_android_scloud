@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 ምስል እና %1$d ቪዲዮ (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 ምስል እና %1$d ቪድዮዎች (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d መተግበሪያ አልተጫነም</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d መተግበሪያዎች አልተጫኑም</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">መልዕክቶች፦ የአደጋ ጊዜ ማንቂያዎች፣ የተላለፉ ፋይሎች፣ ከ %d ሜባ በላይ የሆኑ የመልቲሚዲያ መልዕክቶች፣ ረቂቆች እና ያልተሳኩ መልዕክቶች</item>
+        <item quantity="one">መልዕክቶች፦ የአደጋ ጊዜ ማንቂያዎች፣ የተላለፉ ፋይሎች፣ ከ %d ሜባ በላይ የሆኑ የመልቲሚዲያ መልዕክቶች፣ ረቂቆች እና ያልተሳኩ መልዕክቶች</item>
+        <item quantity="two">መልዕክቶች፦ የአደጋ ጊዜ ማንቂያዎች፣ የተላለፉ ፋይሎች፣ ከ %d ሜባ በላይ የሆኑ የመልቲሚዲያ መልዕክቶች፣ ረቂቆች እና ያልተሳኩ መልዕክቶች</item>
+        <item quantity="few">መልዕክቶች፦ የአደጋ ጊዜ ማንቂያዎች፣ የተላለፉ ፋይሎች፣ ከ %d ሜባ በላይ የሆኑ የመልቲሚዲያ መልዕክቶች፣ ረቂቆች እና ያልተሳኩ መልዕክቶች</item>
+        <item quantity="many">መልዕክቶች፦ የአደጋ ጊዜ ማንቂያዎች፣ የተላለፉ ፋይሎች፣ ከ %d ሜባ በላይ የሆኑ የመልቲሚዲያ መልዕክቶች፣ ረቂቆች እና ያልተሳኩ መልዕክቶች</item>
+        <item quantity="other">መልዕክቶች፦ የአደጋ ጊዜ ማንቂያዎች፣ የተላለፉ ፋይሎች፣ ከ %d ሜባ በላይ የሆኑ የመልቲሚዲያ መልዕክቶች፣ ረቂቆች እና ያልተሳኩ መልዕክቶች</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">የ%d መሣሪያ የመጠባበቂያ ውሂብ በቅርቡ ጊዜው ያልፍበታል። የማለቂያ ቀንን ለማረጋገጥ ከዚህ በታች ያለውን መሳሪያ ይምረጡ።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">የ%d መሣሪያዎች መጠባበቂያ ውሂብ በቅርቡ ጊዜው ያልፍበታል። የማለቂያ ቀንን ለማረጋገጥ ከታች አንድ መሳሪያ ይምረጡ።</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">የ%d መሣሪያ የመጠባበቂያ ውሂብ በቅርቡ ጊዜው ያልፍበታል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">የ%d መሣሪያዎች የመጠባበቂያ ውሂብ በቅርቡ ጊዜው ያልፍበታል።</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d የመጠባበቂያ ዝርዝር ነገር ማዘመን አልተቻለም፣ ስለዚህ የዚህ ዝርዝር ነገር ቀዳሚ መጠባበቂያ ወደ አዲሱ ስልክዎ (%2$s) ይመለሳል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d የመጠባበቂያ ዝርዝር ነገሮችን ማዘመን አልተቻለም፣ ስለዚህ የእነዚህ ዝርዝር ነገሮች ቀዳሚ መጠባበቂያ ወደ አዲሱ ስልክዎ (%2$s) ይመለሳሉ።</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">የ %1$d ምትኬ ዝርዝር ነገር ሊዘመን አልቻለም፣ ስለዚህ የዚህ ንጥል ነገር ምትኬ በ %2$s ወደ አዲሱ ስልክዎ %3$s ይመለሳል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">የ %1$d ምትኬ ዝርዝር ነገሮች ሊዘምኑ አልቻሉም፣ ስለዚህ የዚህ ንጥል ነገሮች ምትኬ በ %2$s ወደ አዲሱ ስልክዎ %3$s ይመለሳል።</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d የመጠባበቂያ ዝርዝር ነገር ማዘመን አልተቻለም፣ ስለዚህ የዚህ ዝርዝር ነገር ቀዳሚ መጠባበቂያ ወደ አዲሱ ታብሌትዎ (%2$s) ይመለሳል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d የመጠባበቂያ ዝርዝር ነገሮች ማዘመን አልተቻለም፣ ስለዚህ የዚህ ዝርዝር ነገር ቀዳሚ መጠባበቂያ ወደ አዲሱ ታብሌትዎ (%2$s) ይመለሳል።</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">የ %1$d ምትኬ ዝርዝር ነገር ሊዘመን አልቻለም፣ ስለዚህ የዚህ ንጥል ነገር ምትኬ በ %2$s ወደ አዲሱ ታብሌትዎ %3$s ይመለሳል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">የ %1$d ምትኬ ዝርዝር ነገሮች ሊዘምኑ አልቻሉም፣ ስለዚህ የዚህ ንጥል ነገሮች ምትኬ በ %2$s ወደ አዲሱ ታብሌትዎ %3$s ይመለሳል።</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ውሂብ በ %d ቀን ውስጥ ይሰረዛል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ውሂብ በ %d ቀናት ውስጥ ይሰረዛል።</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">በ%d ቀን ውስጥ ጊዜው ያበቃል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">በ%d ቀናት ውስጥ ጊዜው ያበቃል</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">አብዛኛው የእርስዎ ውሂብ ወደነበረበት ተመልሷል፣ ነገር ግን %d መተግበሪያ አልተጫነም።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">አብዛኛው የእርስዎ ውሂብ ወደነበረበት ተመልሷል፣ ነገር ግን %d መተግበሪያዎች አልተጫኑም።</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d አዲስ ማሳወቂያዎች</item>
+        <item quantity="other">%d አዲስ ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d አዲስ አልበም ይገኛል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d አዲስ አልበሞች ይገኛል</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d አልበም ተመርጧል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d አልበሞች ተመርጧል</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 አቫተር እና %d ብጁ-የተነደፈ ዝርዝር ነገር</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 አቫተር እና %d ብጁ-የተነደፉ ዝርዝር ነገሮች</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 ሰዓት ከ%d ደቂቃ ይቀራል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 ሰዓት ከ%d ደቂቃዎች ይቀራል</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 ፎቶ እና %d ቪድዮ ተመሳስለዋል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 ፎቶ እና %d ቪድዮዎች ተመሳስለዋል</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ዝርዝር ነገር ተመርጧል (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ዝርዝር ነገሮች ተመርጧል (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ምስል እና 1 ቪዲዮ (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ምስሎች እና 1 ቪድዮ (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ምስል (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ምስሎች (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ተመርጧል (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ተመርጧል (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ቪድዮ (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ቪድዮዎች (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ፋይል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ፋይሎች</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ሰዓት ከ1 ደቂቃ ይቀራል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ሰዓታት ከ1 ደቂቃ ይቀራል</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ምስል ከደመናው ወርዷል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ምስሎች ከደመናው ወርዷል።</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ዝርዝር ነገር ከደመናው ወርዷል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ዝርዝር ነገሮች ከደመናው ወርዷል።</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ደቂቃ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ደቂቃዎች</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ደቂቃ ይቀራል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ደቂቃዎች ይቀራል</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ፎቶ እና 1 ቪድዮ ተመሳስለዋል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ፎቶዎች እና 1 ቪድዮ ተመሳስለዋል</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ፎቶ ተመሳስሏል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ፎቶዎች ተመሳስሏል</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ምስል ወይም ቪድዮ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ምስሎች እና ቪድዮዎች</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ተመርጧል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ተመርጧል</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ቪድዮ ከደመናው ወርዷል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ቪድዮዎች ከደመናው ወርዷል።</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ቪድዮ ተመሳስሏል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ቪድዮዎች ተመሳስሏል</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ባትሪ ዝቅተኛ። የስልክዎን ምትኬ ለማስቀመጥ ቢያንስ %d%% ቻርጅ ያድርጉ።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ባትሪ ዝቅተኛ። የስልክዎን ምትኬ ለማስቀመጥ ቢያንስ %d%% ቻርጅ ያድርጉ።</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ጊዜያዊ ምትኬዎ በ %d ቀን ውስጥ ጊዜው ያልፍበታል። አሁኑኑ ወደነበረበት ይመልሱት ወይም ተጨማሪ ጊዜ ከፈለጉ ጊዜው የሚያበቃበትን ቀን ለሌላ ጊዜ ያስተላልፉ።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ጊዜያዊ ምትኬዎ በ %d ቀኖች ውስጥ ጊዜው ያልፍበታል። አሁኑኑ ወደነበረበት ይመልሱት ወይም ተጨማሪ ጊዜ ከፈለጉ ጊዜው የሚያበቃበትን ቀን ለሌላ ጊዜ ያስተላልፉ።</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ቀን ለሌላ ጊዜ ያስተላልፉ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ቀኖች ለሌላ ጊዜ ያስተላልፉ</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d አቫተር</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d አቫተሮች</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d አቫተር እና 1 ብጁ-የተነደፈ ዝርዝር ነገር</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d አምሳያዎች እና 1 ማስተካከያ ተደርጎቦት የተነደፈ ዝርዝር ነገር</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ብጁ-ንድፍ ዝርዝር ነገር</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ብጁ-ንድፍ ዝርዝር ነገሮች</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ዝርዝር ነገር ይቀራል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ዝርዝር ነገሮች ይቀራሉ</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d የተጣመረ የSamsung መሳሪያ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d የተጣመሩ የSamsung መሳሪያዎች</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ማስታወሻ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ማስታወሻዎች</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">የደንበኝነት ምዝገባዎ በ %1$s አብቅቷል። የእርስዎ ውሂብ በ %2$d ቀን ውስጥ ይሰረዛል። ውሂብዎን ለማቆየት የደንበኝነት ምዝገባዎን እንደገና ተግባራዊ ያድርጉ።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">የደንበኝነት ምዝገባዎ በ %1$s አብቅቷል። የእርስዎ ውሂብ በ %2$d ቀናት ውስጥ ይሰረዛል። ውሂብዎን ለማቆየት የደንበኝነት ምዝገባዎን እንደገና ተግባራዊ ያድርጉ።</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ባትሪ ዝቅተኛ። የታብሌትዎን ምትኬ ለማስቀመጥ ቢያንስ %d%% ቻርጅ ያድርጉ።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ባትሪ ዝቅተኛ። የታብሌትዎን ምትኬ ለማስቀመጥ ቢያንስ %d%% ቻርጅ ያድርጉ።</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ያልተገደበ ውሂብ ወደ %1$s እስከ %2$d ቀን መጠባበቂያ ያስቀምጡ ወይም መጠባበቂያ ያስቀመጡትን ውሂብ መልሰው ወደ ቦታው ያስመጡ።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ያልተገደበ ውሂብ ወደ %1$s እስከ %2$d ቀናት መጠባበቂያ ያስቀመጡ ወይም መጠባበቂያ ያስቀመጡትን ውሂብ መልሰው ወደ ቦታው ያስመጡ።</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ይህ መጠባበቂያ በ%d ቀን ውስጥ ይሰረዛል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ይህ መጠባበቂያ በ%d ቀናት ውስጥ ይሰረዛል።</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">በ%d ሰዓት ውስጥ እንደገና ይሞክሩ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">በ%d ሰዓታት ውስጥ እንደገና ይሞክሩ</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">በ%d ሰዓት 1 ደቂቃ ውስጥ እንደገና ይሞክሩ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">በ%d ሰዓታት 1 ደቂቃ ውስጥ እንደገና ይሞክሩ</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">በ%d ደቂቃ ውስጥ እንደገና ይሞክሩ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">በ%d ደቂቃዎች ውስጥ እንደገና ይሞክሩ</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">በ1 ሰዓት ከ%d ደቂቃ ውስጥ እንደገና ይሞክሩ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">በ1 ሰዓት ከ%d ደቂቃዎች ውስጥ እንደገና ይሞክሩ</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">የእርስዎ መጠባበቂያ በ%1$s ላይ ደህንነቱ የተጠበቀ ነው። ወደነበረበት ለመመለስ %2$d ቀን አለዎት።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">የእርስዎ መጠባበቂያ በ%1$s ላይ ደህንነቱ የተጠበቀ ነው። ወደነበረበት ለመመለስ %2$d ቀናት አለዎት።</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ጊዜያዊ ተጠባባቂዎ በ %d ቀን ውስጥ ይሰረዛል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ጊዜያዊ ተጠባባቂዎ በ %d ቀናት ውስጥ ይሰረዛል።</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ውሂብዎ ወደ ስልክዎ አልተመለሰም። እሱን ወደነበረበት ለመመለስ %d ቀን ይቀራል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ውሂብዎ ወደ ስልክዎ አልተመለሰም። እሱን ወደነበረበት ለመመለስ %d ቀናት ይቀራል።</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ውሂብዎ ወደ ታብሌትዎ አልተመለሰም። እሱን ወደነበረበት ለመመለስ %d ቀን ይቀራል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ውሂብዎ ወደ ታብሌትዎ አልተመለሰም። እሱን ወደነበረበት ለመመለስ %d ቀናት ይቀራል።</item>
+    </plurals>
+</resources>

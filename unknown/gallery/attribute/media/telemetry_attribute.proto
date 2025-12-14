@@ -1,0 +1,102 @@
+syntax = "proto3";
+
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.media.attribute;
+
+option java_multiple_files = true;
+
+message TelemetryAttribute {
+
+  enum TelemetryType {
+    
+    TELEMETRY_TYPE_UNSPECIFIED = 0;
+    GET_CHANGES = 1;
+    GET_ALL = 2;
+    UPLOAD = 3;
+  }
+
+  enum MediaType {
+    
+    MEDIA_TYPE_UNSPECIFIED = 0;
+    IMAGE = 1;
+    VIDEO = 2;
+  }
+
+  enum DownloadType {
+    
+    DOWNLOAD_TYPE_UNSPECIFIED = 0;
+    DOWNLOAD_ONLY_META = 1;
+    DOWNLOAD_META_AND_THUMBNAIL = 2;
+    DOWNLOAD_META_AND_THUMBNAIL_AND_ORIGINAL = 3;
+  }
+
+  enum UploadType {
+    
+    UPLOAD_TYPE_UNSPECIFIED = 0;
+    UPLOAD_ONLY_META = 1;
+    UPLOAD_META_AND_THUMBNAIL_AND_ORIGINAL = 2;
+  }
+
+  enum TriggerType {
+    
+    TRIGGER_TYPE_UNSPECIFIED = 0;
+    UNKNOWN = 1;
+    PUSH = 2;
+    USER = 3;
+  }
+
+  message UploadData {
+    repeated UploadStat upload_stat = 1 [(google.api.field_behavior) = REQUIRED]; 
+  }
+
+  message UploadStat {
+    optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+    optional MediaType media_type = 2 [(google.api.field_behavior) = REQUIRED]; 
+    optional int64 size = 3 [(google.api.field_behavior) = REQUIRED]; 
+    optional int64 content_modified_at = 4 [(google.api.field_behavior) = REQUIRED]; 
+    optional int64 cloud_app_detected_at = 5; 
+    optional int64 upload_started_at = 6 [(google.api.field_behavior) = REQUIRED]; 
+    optional int64 upload_completed_at = 7 [(google.api.field_behavior) = REQUIRED]; 
+    optional bool is_duplicated_binary = 8 [(google.api.field_behavior) = REQUIRED]; 
+    optional UploadType upload_type = 9 [(google.api.field_behavior) = REQUIRED]; 
+  }
+
+  message GetChangesData {
+    repeated GetChangesDownloadStat get_changes_download_stat = 1 [(google.api.field_behavior) = REQUIRED]; 
+  }
+
+  message GetChangesDownloadStat {
+    optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+    optional MediaType media_type = 2 [(google.api.field_behavior) = REQUIRED]; 
+    optional int64 size = 3 [(google.api.field_behavior) = REQUIRED]; 
+    optional int64 server_modified_at = 4 [(google.api.field_behavior) = REQUIRED]; 
+    optional int64 server_push_sent_at = 5 ; 
+    optional int64 client_push_received_at = 6; 
+    optional int64 download_started_at = 7 [(google.api.field_behavior) = REQUIRED]; 
+    optional int64 download_completed_at = 8 [(google.api.field_behavior) = REQUIRED]; 
+    optional DownloadType download_type = 9 [(google.api.field_behavior) = REQUIRED]; 
+    optional TriggerType triggered_by = 10 [(google.api.field_behavior) = REQUIRED]; 
+  }
+
+
+  message GetAllData {
+    optional GetAllResult result = 1 [(google.api.field_behavior) = REQUIRED]; 
+    optional int64 elapsed_time = 2 [(google.api.field_behavior) = REQUIRED]; 
+    optional int64 count = 3 [(google.api.field_behavior) = REQUIRED]; 
+    optional string fail_reason = 4; 
+    GetAllFirst1kStat first_1k_stat = 5; 
+  }
+
+  enum GetAllResult {
+    
+    GET_ALL_RESULT_UNSPECIFIED = 0;
+    SUCCESS = 1; 
+    FAIL = 2; 
+  }
+
+  
+  message GetAllFirst1kStat {
+    optional int64 elapsed_time = 1 [(google.api.field_behavior) = REQUIRED]; 
+  }
+}

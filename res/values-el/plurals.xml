@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 εικόνα και %1$d βίντεο (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 εικόνα και %1$d βίντεο (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d εφαρμογή δεν εγκαταστάθηκε</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d εφαρμογές εγκαταστάθηκαν</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Μηνύματα: ειδοποιήσεις έκτακτης ανάγκης, αρχεία που μεταφέρθηκαν, μηνύματα πολυμέσων μεγαλύτερα από %d MB, πρόχειρα και αποτυχημένα μηνύματα</item>
+        <item quantity="one">Μηνύματα: ειδοποιήσεις έκτακτης ανάγκης, αρχεία που μεταφέρθηκαν, μηνύματα πολυμέσων μεγαλύτερα από %d MB, πρόχειρα και αποτυχημένα μηνύματα</item>
+        <item quantity="two">Μηνύματα: ειδοποιήσεις έκτακτης ανάγκης, αρχεία που μεταφέρθηκαν, μηνύματα πολυμέσων μεγαλύτερα από %d MB, πρόχειρα και αποτυχημένα μηνύματα</item>
+        <item quantity="few">Μηνύματα: ειδοποιήσεις έκτακτης ανάγκης, αρχεία που μεταφέρθηκαν, μηνύματα πολυμέσων μεγαλύτερα από %d MB, πρόχειρα και αποτυχημένα μηνύματα</item>
+        <item quantity="many">Μηνύματα: ειδοποιήσεις έκτακτης ανάγκης, αρχεία που μεταφέρθηκαν, μηνύματα πολυμέσων μεγαλύτερα από %d MB, πρόχειρα και αποτυχημένα μηνύματα</item>
+        <item quantity="other">Μηνύματα: ειδοποιήσεις έκτακτης ανάγκης, αρχεία που μεταφέρθηκαν, μηνύματα πολυμέσων μεγαλύτερα από %d MB, πρόχειρα και αποτυχημένα μηνύματα</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Τα δεδομένα αντιγράφου ασφαλείας %d συσκευής θα λήξουν σύντομα. Επιλέξτε την παρακάτω συσκευή για να δείτε την ημερομηνία λήξης.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Τα δεδομένα αντιγράφου ασφαλείας %d συσκευών θα λήξουν σύντομα. Επιλέξτε μία από τις παρακάτω συσκευές για να δείτε την ημερομηνία λήξης.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Τα δεδομένα αντιγράφου ασφαλείας %d συσκευής θα λήξουν σύντομα.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Τα δεδομένα αντιγράφου ασφαλείας %d συσκευών θα λήξουν σύντομα.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δεν ήταν δυνατή η ενημέρωση %1$d στοιχείου του αντιγράφου ασφαλείας και για αυτόν τον λόγο θα γίνει επαναφορά του προηγούμενου αντιγράφου ασφαλείας αυτού του στοιχείου στο νέο τηλέφωνο (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Δεν ήταν δυνατή η ενημέρωση %1$d στοιχείων του αντιγράφου ασφαλείας και για αυτόν τον λόγο θα γίνει επαναφορά του προηγούμενου αντιγράφου ασφαλείας αυτών των στοιχείων στο νέο τηλέφωνο (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δεν ήταν δυνατή η ενημέρωση %1$d στοιχείου του αντιγράφου ασφαλείας και για αυτόν τον λόγο θα γίνει επαναφορά του αντιγράφου ασφαλείας αυτού του στοιχείου που δημιουργήθηκε στις %2$s στο νέο τηλέφωνο (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Δεν ήταν δυνατή η ενημέρωση %1$d στοιχείων του αντιγράφου ασφαλείας και για αυτόν τον λόγο θα γίνει επαναφορά του αντιγράφου ασφαλείας αυτών των στοιχείων που δημιουργήθηκε στις %2$s στο νέο τηλέφωνο (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δεν ήταν δυνατή η ενημέρωση %1$d στοιχείου του αντιγράφου ασφαλείας και για αυτόν τον λόγο θα γίνει επαναφορά του προηγούμενου αντιγράφου ασφαλείας αυτού του στοιχείου στο νέο tablet (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Δεν ήταν δυνατή η ενημέρωση %1$d στοιχείων του αντιγράφου ασφαλείας και για αυτόν τον λόγο θα γίνει επαναφορά του προηγούμενου αντιγράφου ασφαλείας αυτών των στοιχείων στο νέο tablet (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δεν ήταν δυνατή η ενημέρωση %1$d στοιχείου του αντιγράφου ασφαλείας και για αυτόν τον λόγο θα γίνει επαναφορά του αντιγράφου ασφαλείας αυτού του στοιχείου που δημιουργήθηκε στις %2$s στο νέο tablet (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Δεν ήταν δυνατή η ενημέρωση %1$d στοιχείων του αντιγράφου ασφαλείας και για αυτόν τον λόγο θα γίνει επαναφορά του αντιγράφου ασφαλείας αυτών των στοιχείων που δημιουργήθηκε στις %2$s στο νέο tablet (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Τα δεδομένα θα διαγραφούν σε %d ημέρα.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Τα δεδομένα θα διαγραφούν σε %d ημέρες.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Λήγει σε %d ημέρα</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Λήγει σε %d ημέρες</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Έγινε επαναφορά των περισσότερων δεδομένων, αλλά %d εφαρμογή δεν εγκαταστάθηκε.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Έγινε επαναφορά των περισσότερων δεδομένων, αλλά %d εφαρμογές δεν εγκαταστάθηκαν.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d νέα ειδοποίηση</item>
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Υπάρχει διαθέσιμο %d νέο άλμπουμ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Υπάρχει διαθέσιμα %d νέα άλμπουμ</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Επιλέχθηκε %d άλμπουμ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Επιλέχθηκαν %d άλμπουμ</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 avatar και %d στοιχείο προσαρμοσμένης σχεδίασης</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 avatar και %d στοιχεία προσαρμοσμένης σχεδίασης</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 ώρα %d λεπτό ακόμα</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 ώρα %d λεπτά ακόμα</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Συγχρ. 1 φωτογραφία, %d βίντεο</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Συγχρ. 1 φωτογραφία, %d βίντεο</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Επιλέχθηκε %1$d στοιχείο (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Επιλέχθηκαν %1$d στοιχεία (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d εικόνα και 1 βίντεο (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d εικόνες και 1 βίντεο (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d εικόνα (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d εικόνες (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Επιλέχθηκε %1$d (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Επιλέχθηκαν %1$d (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d βίντεο (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d βίντεο (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d αρχείο</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d αρχεία</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ώρα 1 λεπτό ακόμα</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ώρες 1 λεπτό ακόμα</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d φωτογραφία λήφθηκε από το cloud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d φωτογραφίες λήφθηκαν από το cloud.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d στοιχείο λήφθηκε από το cloud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d στοιχεία λήφθηκαν από το cloud.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d λεπτό</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d λεπτά</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Απομένει %d λεπτό</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Απομένουν %d λεπτά</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Συγχρ. %d φωτογραφία, 1 βίντεο</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Συγχρ. %d φωτογραφίες, 1 βίντεο</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Συγχρονίστηκε %d φωτογραφία</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Συγχρονίστηκαν %d φωτογραφίες</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d φωτογραφία ή βίντεο</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d φωτογραφίες και βίντεο</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Επιλέχθηκε %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Επιλέχθηκαν %d</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d βίντεο λήφθηκε από το cloud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d βίντεο λήφθηκαν από το cloud.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Συγχρονίστηκε %d βίντεο</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Συγχρονίστηκαν %d βίντεο</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Χαμηλή ισχύς μπαταρίας. Φορτίστε την τουλάχιστον έως το %d%% για τη δημιουργία αντιγράφου ασφαλείας για το τηλέφωνο.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Χαμηλή ισχύς μπαταρίας. Φορτίστε την τουλάχιστον έως το %d%% για τη δημιουργία αντιγράφου ασφαλείας για το τηλέφωνο.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Το προσωρινό αντίγραφο ασφαλείας λήγει σε %d ημέρα. Επαναφέρετέ το τώρα ή αναβάλετε την ημερομηνία λήξης αν χρειάζεστε περισσότερο χρόνο.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Το προσωρινό αντίγραφο ασφαλείας λήγει σε %d ημέρες. Επαναφέρετέ το σύντομα ή αναβάλετε την ημερομηνία λήξης αν χρειάζεστε περισσότερο χρόνο.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Αναβολή για %d ημέρα</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Αναβολή για %d ημέρες</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d avatar</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar και 1 στοιχείο προσαρμοσμένης σχεδίασης</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d avatar και 1 στοιχείο προσαρμοσμένης σχεδίασης</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d στοιχείο προσαρμοσμένης σχεδίασης</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d στοιχεία προσαρμοσμένης σχεδίασης</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Απομένει %d στοιχείο</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Απομένουν %d στοιχεία</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d αντιστοιχισμένη συσκευή Samsung</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d αντιστοιχισμένες συσκευές Samsung</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d υπενθύμιση</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d υπενθυμίσεις</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Η συνδρομή σας έληξε στις %1$s. Τα δεδομένα σας θα διαγραφούν σε %2$d ημέρα. Ενεργοποιήστε ξανά τη συνδρομή για να διατηρήσετε τα δεδομένα σας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Η συνδρομή σας έληξε στις %1$s. Τα δεδομένα σας θα διαγραφούν σε %2$d ημέρες. Ενεργοποιήστε ξανά τη συνδρομή για να διατηρήσετε τα δεδομένα σας.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Χαμηλή ισχύς μπαταρίας. Φορτίστε την τουλάχιστον έως το %d%% για τη δημιουργία αντιγράφου ασφαλείας για το tablet.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Χαμηλή ισχύς μπαταρίας. Φορτίστε την τουλάχιστον έως το %d%% για τη δημιουργία αντιγράφου ασφαλείας για το tablet.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δημιουργήστε αντίγραφο ασφαλείας για απεριόριστα δεδομένα στο %1$s για έως %2$d ημέρα ή επαναφέρετε τα δεδομένα για τα οποία είχατε δημιουργήσει αντίγραφο ασφαλείας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Δημιουργήστε αντίγραφο ασφαλείας για απεριόριστα δεδομένα στο %1$s για έως %2$d ημέρες ή επαναφέρετε τα δεδομένα για τα οποία είχατε δημιουργήσει αντίγραφο ασφαλείας.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Αυτό το αντίγραφο ασφαλείας θα διαγραφεί σε %d ημέρα.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Αυτό το αντίγραφο ασφαλείας θα διαγραφεί σε %d ημέρες.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δοκιμάστε ξανά σε %d ώρα</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Δοκιμάστε ξανά σε %d ώρες</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δοκιμάστε ξανά σε %d ώρα και 1 λεπτό</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Δοκιμάστε ξανά σε %d ώρες και 1 λεπτό</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δοκιμάστε ξανά σε %d λεπτό</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Δοκιμάστε ξανά σε %d λεπτά</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δοκιμάστε ξανά σε 1 ώρα και %d λεπτό</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Δοκιμάστε ξανά σε 1 ώρα και %d λεπτά</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Το αντίγραφο ασφαλείας είναι ασφαλές στην εφαρμογή %1$s. Έχετε %2$d ημέρα ακόμη για την επαναφορά του.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Το αντίγραφο ασφαλείας είναι ασφαλές στην εφαρμογή %1$s. Έχετε %2$d ημέρες ακόμη για την επαναφορά του.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Το προσωρινό αντίγραφο ασφαλείας θα διαγραφεί σε %d ημέρα.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Το προσωρινό αντίγραφο ασφαλείας θα διαγραφεί σε %d ημέρες.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δεν έγινε επαναφορά των δεδομένων σας στο τηλέφωνο. Έχετε %d ημέρα ακόμη για να τα επαναφέρετε.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Δεν έγινε επαναφορά των δεδομένων σας στο τηλέφωνο. Έχετε %d ημέρες ακόμη για να τα επαναφέρετε.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δεν έγινε επαναφορά των δεδομένων σας στο tablet. Έχετε %d ημέρα ακόμη για να τα επαναφέρετε.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Δεν έγινε επαναφορά των δεδομένων σας στο tablet. Έχετε %d ημέρες ακόμη για να τα επαναφέρετε.</item>
+    </plurals>
+</resources>

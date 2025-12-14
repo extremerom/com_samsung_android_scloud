@@ -1,0 +1,141 @@
+.class public interface abstract Lcom/samsung/android/motionphoto/utils/v2/XMPEdit;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lcom/samsung/android/motionphoto/utils/v2/XMPInfo;
+
+
+# virtual methods
+.method public abstract commit()V
+.end method
+
+.method public abstract commit(Lcom/samsung/android/motionphoto/utils/v2/MediaFile;)V
+    .param p1    # Lcom/samsung/android/motionphoto/utils/v2/MediaFile;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+.end method
+
+.method public commit(Ljava/io/File;)V
+    .locals 1
+    .param p1    # Ljava/io/File;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+
+    new-instance v0, Lcom/samsung/android/motionphoto/utils/v2/MediaFile;
+
+    invoke-direct {v0, p1}, Lcom/samsung/android/motionphoto/utils/v2/MediaFile;-><init>(Ljava/io/File;)V
+
+    invoke-interface {p0, v0}, Lcom/samsung/android/motionphoto/utils/v2/XMPEdit;->commit(Lcom/samsung/android/motionphoto/utils/v2/MediaFile;)V
+
+    return-void
+.end method
+
+.method public commit(Ljava/io/FileDescriptor;)V
+    .locals 1
+    .param p1    # Ljava/io/FileDescriptor;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+
+    new-instance v0, Lcom/samsung/android/motionphoto/utils/v2/MediaFile;
+
+    invoke-direct {v0, p1}, Lcom/samsung/android/motionphoto/utils/v2/MediaFile;-><init>(Ljava/io/FileDescriptor;)V
+
+    invoke-interface {p0, v0}, Lcom/samsung/android/motionphoto/utils/v2/XMPEdit;->commit(Lcom/samsung/android/motionphoto/utils/v2/MediaFile;)V
+
+    return-void
+.end method
+
+.method public abstract isDirty()Z
+.end method
+
+.method public abstract removeAll()Lcom/samsung/android/motionphoto/utils/v2/XMPEdit;
+.end method
+
+.method public abstract removeItem(Ljava/lang/String;)Lcom/samsung/android/motionphoto/utils/v2/XMPEdit;
+    .param p1    # Ljava/lang/String;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+.end method
+
+.method public abstract removeItemField(Ljava/lang/String;Ljava/lang/String;)Lcom/samsung/android/motionphoto/utils/v2/XMPEdit;
+    .param p1    # Ljava/lang/String;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p2    # Ljava/lang/String;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+.end method
+
+.method public abstract removeProperty(Ljava/lang/String;Ljava/lang/String;)Lcom/samsung/android/motionphoto/utils/v2/XMPEdit;
+    .param p1    # Ljava/lang/String;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p2    # Ljava/lang/String;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+.end method
+
+.method public abstract replaceItemField(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;)Lcom/samsung/android/motionphoto/utils/v2/XMPEdit;
+    .param p1    # Ljava/lang/String;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p2    # Ljava/lang/String;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p3    # Ljava/lang/Object;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+.end method
+
+.method public abstract setItem(Ljava/lang/String;Lcom/samsung/android/motionphoto/utils/v2/MimeType;)Lcom/samsung/android/motionphoto/utils/v2/XMPEdit;
+    .param p1    # Ljava/lang/String;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p2    # Lcom/samsung/android/motionphoto/utils/v2/MimeType;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+.end method
+
+.method public abstract setItemField(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;)Lcom/samsung/android/motionphoto/utils/v2/XMPEdit;
+    .param p1    # Ljava/lang/String;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p2    # Ljava/lang/String;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p3    # Ljava/lang/Object;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+.end method
+
+.method public abstract setProperty(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;)Lcom/samsung/android/motionphoto/utils/v2/XMPEdit;
+    .param p1    # Ljava/lang/String;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p2    # Ljava/lang/String;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+    .param p3    # Ljava/lang/Object;
+        .annotation build Landroidx/annotation/NonNull;
+        .end annotation
+    .end param
+.end method

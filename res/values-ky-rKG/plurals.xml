@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 сүрөт жана %1$d видео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 сүрөт жана %1$d видео (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d колдонмо орнотулган жок</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d колдонмо орнотулган жок</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Билдирүүлөр: шашылыш кырдаал эскертмелери, өткөрүлгөн файлдар, %d МБдан чоң мультимедия билдирүүлөрү, караламалар жана жиберилбей калган билдирүүлөр</item>
+        <item quantity="one">Билдирүүлөр: шашылыш кырдаал эскертмелери, өткөрүлгөн файлдар, %d МБдан чоң мультимедия билдирүүлөрү, караламалар жана жиберилбей калган билдирүүлөр</item>
+        <item quantity="two">Билдирүүлөр: шашылыш кырдаал эскертмелери, өткөрүлгөн файлдар, %d МБдан чоң мультимедия билдирүүлөрү, караламалар жана жиберилбей калган билдирүүлөр</item>
+        <item quantity="few">Билдирүүлөр: шашылыш кырдаал эскертмелери, өткөрүлгөн файлдар, %d МБдан чоң мультимедия билдирүүлөрү, караламалар жана жиберилбей калган билдирүүлөр</item>
+        <item quantity="many">Билдирүүлөр: шашылыш кырдаал эскертмелери, өткөрүлгөн файлдар, %d МБдан чоң мультимедия билдирүүлөрү, караламалар жана жиберилбей калган билдирүүлөр</item>
+        <item quantity="other">Билдирүүлөр: шашылыш кырдаал эскертмелери, өткөрүлгөн файлдар, %d МБдан чоң мультимедия билдирүүлөрү, караламалар жана жиберилбей калган билдирүүлөр</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d түзмөк үчүн камдык сактоо маалыматтарынын мөөнөтү жакында бүтөт. Аяктала турган мөөнөттү узартуу үчүн, түзмөктү тандаңыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d түзмөк үчүн камдык сактоо маалыматтарынын мөөнөтү жакында бүтөт. Аяктала турган мөөнөттү узартуу үчүн, түзмөктү тандаңыз.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d түзмөк үчүн камдык сактоо маалыматтарынын мөөнөтү жакында бүтөт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d түзмөк үчүн камдык сактоо маалыматтарынын мөөнөтү жакында бүтөт.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d нерсенин камдык сактоосу жаңыртылган жок, андыктан бул нерсенин мурунку камдык сактоосу жаңы телефонуңузга (%2$s) калыбына келтирилет.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d нерсенин камдык сактоосу жаңыртылган жок, андыктан бул нерселердин мурунку камдык сактоосу жаңы телефонуңузга (%2$s) калыбына келтирилет.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d нерсенин камдык сактоосу жаңыртылган жок, андыктан %2$s күнү сакталган камдык сактоо жаңы телефонуңузга (%3$s) калыбына келтирилет.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d нерсенин камдык сактоосу жаңыртылган жок, андыктан %2$s күнү сакталган камдык сактоо жаңы телефонуңузга (%3$s) калыбына келтирилет.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d нерсенин камдык сактоосу жаңыртылган жок, андыктан бул нерсенин мурунку камдык сактоосу жаңы планшетиңизге (%2$s) калыбына келтирилет.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d нерсенин камдык сактоосу жаңыртылган жок, андыктан бул нерселердин мурунку камдык сактоосу жаңы планшетиңизге (%2$s) калыбына келтирилет.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d нерсенин камдык сактоосу жаңыртылган жок, андыктан %2$s күнү сакталган камдык сактоо жаңы планшетиңизге (%3$s) калыбына келтирилет.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d нерсенин камдык сактоосу жаңыртылган жок, андыктан %2$s күнү сакталган камдык сактоо жаңы планшетиңизге (%3$s) калыбына келтирилет.</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дайындарыңыз %d күндөн соң өчүрүлөт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Дайындарыңыз %d күндөн соң өчүрүлөт.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Мөөнөтү %d күндүн ичинде бүтөт</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Мөөнөтү %d күндүн ичинде бүтөт</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Маалыматтарыңыздын көбү калыбына келтирилди, бирок %d колдонмо орнотулган жок.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Маалыматтарыңыздын көбү калыбына келтирилди, бирок %d колдонмо орнотулган жок.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d жаңы альбом жеткиликтүү</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d жаңы альбом жеткиликтүү</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d альбом тандалды</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d альбом тандалды</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 аватар жана %d жеке жасалгаланган нерсе</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 аватар жана %d жеке жасалгаланган нерсе</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 саат %d мүнөт калды</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 саат %d мүнөт калды</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 сүрөт ж-а %d видео синхрон.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 сүрөт ж-а %d видео синхрон.</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d нерсе тандалды (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d нерсе тандалды (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d сүрөт жана 1 видео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d сүрөт жана 1 видео (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d сүрөт (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d сүрөт (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d тандалды (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d тандалды (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d видео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d видео (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d файл</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d файл</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d саат 1 мүнөт калды</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d саат 1 мүнөт калды</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d сүрөт булуттан жүктөлдү.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d сүрөт булуттан жүктөлдү.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d нерсе булуттан жүктөлдү.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d нерсе булуттан жүктөлдү.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d мүнөт</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d мүнөт</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d мүнөт калды</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d мүнөт калды</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d сүрөт ж-а 1 видео синхрон.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d сүрөт ж-а 1 видео синхрон.</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d сүрөт синхрондоштурулду</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d сүрөт синхрондоштурулду</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d сүрөт же видео</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d сүрөт жана видео</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d тандалды</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d тандалды</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d видео булуттан жүктөлдү.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d видео булуттан жүктөлдү.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d видео синхрондоштурулду</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d видео синхрондоштурулду</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Батарея кубаты төмөн. Телефонуңузду камдык сактоо үчүн кеминде %d%% заряддаңыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Батарея кубаты төмөн. Телефонуңузду камдык сактоо үчүн кеминде %d%% заряддаңыз.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Убактылуу камдык сактооңуздун мөөнөтү %d күндөн кийин бүтөт. Аны азыр калыбына келтириңиз же көбүрөөк убакыт керек болсо, жарамдуулук мөөнөтүн кийинкиге калтырыңыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Убактылуу камдык сактооңуздун мөөнөтү %d күндөн кийин бүтөт. Аны жакында калыбына келтириңиз же көбүрөөк убакыт керек болсо, жарамдуулук мөөнөтүн кийинкиге калтырыңыз.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d күн кийинкиге калтыруу</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d күн кийинкиге калтыруу</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d аватар</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d аватар</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d аватар жана 1 жеке жасалгаланган нерсе</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d аватар жана 1 жеке жасалгаланган нерсе</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d жеке жасалгаланган нерсе</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d жеке жасалгаланган нерсе</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d нерсе калды</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d нерсе калды</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d байланыштырылган Samsung түзмөк</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d байланыштырылган Samsung түзмөк</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d эскертүү</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d эскертүү</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Жазылууңуз %1$s‘да аяктады. Дайындарыңыз %2$d күндөн соң өчүрүлөт. Дайындарыңызды сактоо үчүн жазылууңузду кайра иштетиңиз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Жазылууңуз %1$s‘да аяктады. Дайындарыңыз %2$d күндөн соң өчүрүлөт. Дайындарыңызды сактоо үчүн жазылууңузду кайра иштетиңиз.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Батарея кубаты төмөн. Планшетиңизди камдык сактоо үчүн кеминде %d%% заряддаңыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Батарея кубаты төмөн. Планшетиңизди камдык сактоо үчүн кеминде %d%% заряддаңыз.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Чексиз дайындарды %1$s үчүн %2$d күнгө чейин камдык сактаңыз же камдык сакталган дайындарды калыбына келтириңиз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Чексиз дайындарды %1$s үчүн %2$d күнгө чейин камдык сактаңыз же камдык сакталган дайындарды калыбына келтириңиз.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Бул камдык сактоо %d күндөн кийин өчүрүлөт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Бул камдык сактоо %d күндөн кийин өчүрүлөт.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d сааттан кийин кайра аракет кылыңыз</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d сааттан кийин кайра аракет кылыңыз</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d саат 1 мүнөттөн кийин кайра аракет кылыңыз</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d саат 1 мүнөттөн кийин кайра аракет кылыңыз</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d мүнөттөн кийин кайра аракет кылыңыз</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d мүнөттөн кийин кайра аракет кылыңыз</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 саат %d мүнөттөн кийин кайра аракет кылыңыз</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 саат %d мүнөттөн кийин кайра аракет кылыңыз</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Камдык сактооңуз %1$s ичинде коопсуз сакталат. Аны калыбына келтирүү үчүн %2$d күнүңүз бар.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Камдык сактооңуз %1$s ичинде коопсуз сакталат. Аны калыбына келтирүү үчүн %2$d күнүңүз бар.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Убактылуу камдык сактооңуз %d күндөн кийин өчүрүлөт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Убактылуу камдык сактооңуз %d күндөн кийин өчүрүлөт.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дайындарыңыз телефонуңузга калыбына келтирилген жок. Аны калыбына келтирүү үчүн %d күнүңүз калды.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Дайындарыңыз телефонуңузга калыбына келтирилген жок. Аны калыбына келтирүү үчүн %d күнүңүз калды.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дайындарыңыз планшетиңизге калыбына келтирилген жок. Аны калыбына келтирүү үчүн %d күнүңүз калды.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Дайындарыңыз планшетиңизге калыбына келтирилген жок. Аны калыбына келтирүү үчүн %d күнүңүз калды.</item>
+    </plurals>
+</resources>

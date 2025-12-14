@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:icon="@drawable/ic_cloud_suggestion" android:shortcutId="AS-06" android:shortcutShortLabel="@string/suggestion_menu_title_for_as_06" android:shortcutLongLabel="@string/suggestion_menu_description_for_as_06">
+        <intent android:action="android.intent.action.VIEW" android:data="samsungcloud://com.samsung.android.scloud/main" />
+        <extra android:name="buttonType" android:value="GOTO" />
+        <extra android:name="buttonLabel" android:value="@string/suggestion_menu_button_for_as_06" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ic_cloud_suggestion" android:shortcutId="AS-07" android:shortcutShortLabel="@string/suggestion_menu_title_for_as_07" android:shortcutLongLabel="@string/suggestion_menu_description_for_as_07">
+        <intent android:action="android.intent.action.VIEW" android:data="samsungcloud://com.samsung.android.scloud/sync" />
+        <extra android:name="buttonType" android:value="GOTO" />
+        <extra android:name="buttonLabel" android:value="@string/suggestion_menu_button_for_as_07" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ic_cloud_suggestion" android:shortcutId="AS-08" android:shortcutShortLabel="@string/suggestion_menu_title_for_as_08" android:shortcutLongLabel="@string/suggestion_menu_description_for_as_08">
+        <intent android:action="android.intent.action.VIEW" android:data="samsungcloud://com.samsung.android.scloud/bnr/backup" />
+        <extra android:name="buttonType" android:value="GOTO" />
+        <extra android:name="buttonLabel" android:value="@string/suggestion_menu_button_for_as_08" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ic_cloud_suggestion" android:shortcutId="AS-09" android:shortcutShortLabel="@string/suggestion_menu_title_for_as_09" android:shortcutLongLabel="@string/suggestion_menu_description_for_as_09">
+        <intent android:action="android.intent.action.VIEW" android:data="samsungcloud://com.samsung.android.scloud/onedrive/tnc" />
+        <extra android:name="buttonType" android:value="TURNON" />
+        <extra android:name="buttonLabel" android:value="@string/suggestion_menu_button_for_as_09" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ic_cloud_suggestion" android:shortcutId="AS-11" android:shortcutShortLabel="@string/suggestion_menu_title_for_as_11" android:shortcutLongLabel="@string/suggestion_menu_description_for_as_11">
+        <intent android:action="com.samsung.android.scloud.app.activity.LAUNCH_SUGGEST_ACTION">
+            <extra android:name="tag" android:value="sync" />
+            <extra android:name="action" android:value="turnOn" />
+            <extra android:name="statusId" android:value="bt_sync_status" />
+        </intent>
+        <extra android:name="buttonType" android:value="TURNON" />
+        <extra android:name="buttonLabel" android:value="@string/suggestion_menu_button_for_as_11" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ic_cloud_suggestion" android:shortcutId="AS-12" android:shortcutShortLabel="@string/suggestion_menu_title_for_as_12" android:shortcutLongLabel="@string/suggestion_menu_description_for_as_12">
+        <intent android:action="com.samsung.android.scloud.app.activity.LAUNCH_SUGGEST_ACTION">
+            <extra android:name="tag" android:value="sync" />
+            <extra android:name="action" android:value="turnOn" />
+            <extra android:name="statusId" android:value="wifi_sync_status" />
+        </intent>
+        <extra android:name="buttonType" android:value="TURNON" />
+        <extra android:name="buttonLabel" android:value="@string/suggestion_menu_button_for_as_12" />
+    </shortcut>
+</shortcuts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Điện thoại của bạn đang sạc.</item>
+        <item>Điện thoại của bạn đã được kết nối với mạng Wi-Fi.</item>
+        <item>Màn hình đang tắt.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Máy tính bảng của bạn đang sạc.</item>
+        <item>Máy tính bảng của bạn đã được kết nối với mạng Wi-Fi.</item>
+        <item>Màn hình đang tắt.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Các dữ liệu bạn có thể sao lưu có thể khác nhau tùy theo điện thoại hoặc hệ điều hành của bạn.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Dữ liệu bạn có thể sao lưu có thể khác nhau dựa vào máy tính bảng hoặc hệ điều hành của bạn.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Danh bạ: danh bạ từ các tài khoản được đồng bộ</item>
+        <item>Lịch: sự kiện và nhiệm vụ từ các tài khoản được đồng bộ</item>
+        <item>Galaxy Themes: theme và hình nền mặc định</item>
+        <item>Ứng dụng: các file cài đặt không tương thích và dữ liệu từ các ứng dụng không phải của Samsung</item>
+        <item>Thư mục bảo mật: ứng dụng và dữ liệu</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Danh bạ: danh bạ từ các tài khoản được đồng bộ</item>
+        <item>Lịch: sự kiện và nhiệm vụ từ các tài khoản được đồng bộ</item>
+        <item>Galaxy Themes: theme và hình nền mặc định</item>
+        <item>Ứng dụng: file cài đặt không được hỗ trợ</item>
+        <item>Thư mục bảo mật: ứng dụng và dữ liệu</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Điện thoại: nhật ký cuộc gọi và nhật ký tin nhắn</item>
+        <item>Tin nhắn: tin nhắn nâng cao, tin nhắn MMS và tin nhắn SMS</item>
+        <item>Danh bạ: danh bạ, địa chỉ email và danh thiếp lưu trên thiết bị của bạn</item>
+        <item>Lịch: sự kiện và nhiệm vụ lưu trên thiết bị của bạn</item>
+        <item>Đồng hồ: chuông báo, đồng hồ thế giới và đếm giờ</item>
+        <item>Cài đặt: cài đặt hỗ trợ, nhạc chuông, tùy chọn Bàn phím Samsung, cài đặt Wi-Fi, thiết bị Bluetooth được ghép đôi, cài đặt nhận diện khuôn mặt, cài đặt dấu vân tay, và cài đặt Always On Display (nhạc chuông mặc định của bạn sẽ không được sao lưu)</item>
+        <item>Màn hình chờ: bố cục, hình nền và cài đặt Samsung DeX</item>
+        <item>Ứng dụng: file cài đặt và cài đặt ứng dụng</item>
+        <item>Máy ghi âm: bản ghi âm</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Âm nhạc: MP3, FLAC, WAV, M4A, OGG và các file nhạc khác</item>
+        <item>Tài liệu: PDF, Word, Excel, PowerPoint và các tài liệu khác</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: nhật ký chat</item>
+        <item>%s: ghi chú bị khóa</item>
+        <item>%s: dữ liệu được bảo vệ bằng mật mã</item>
+        <item>%s: ứng dụng và dữ liệu ứng dụng</item>
+        <item>%s: Sự kiện từ tài khoản đã đồng bộ</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Khóa riêng và cụm từ khôi phục</item>
+        <item>Không thể truyền dữ liệu do chính sách của ứng dụng</item>
+        <item>Các ứng dụng không thể chuyển được do vấn đề về bảo mật hoặc tương thích: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Danh bạ chỉ đọc</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Hình nền mặc định</item>
+        <item>Hình nền Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Tin nhắn thông báo khẩn cấp</item>
+        <item>Nháp và tin nhắn không gửi được</item>
+        <item>Tin nhắn có hiệu ứng iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Nội dung đã khóa</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Điện thoại: nhật ký cuộc gọi và nhật ký tin nhắn</item>
+        <item>Tin nhắn: tin nhắn nâng cao, tin nhắn MMS và tin nhắn SMS</item>
+        <item>Đồng hồ: chuông báo, đồng hồ thế giới và đếm giờ</item>
+        <item>Cài đặt: cài đặt hỗ trợ, nhạc chuông, tùy chọn Bàn phím Samsung, cài đặt Wi-Fi, thiết bị Bluetooth được ghép đôi và cài đặt Always On Display (nhạc chuông mặc định không được mã hóa)</item>
+        <item>Ứng dụng: cài đặt ứng dụng</item>
+        <item>Màn hình chờ: bố cục, hình nền và cài đặt Samsung DeX</item>
+        <item>Máy ghi âm: bản ghi âm</item>
+    </string-array>
+</resources>

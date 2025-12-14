@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>휴대전화가 충전 중일 때</item>
+        <item>휴대전화가 Wi-Fi 네트워크에 연결된 상태일 때</item>
+        <item>화면이 꺼져 있을 때</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>태블릿이 충전 중일 때</item>
+        <item>태블릿이 Wi-Fi 네트워크에 연결된 상태일 때</item>
+        <item>화면이 꺼져 있을 때</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>백업할 수 있는 데이터는 휴대전화 또는 운영체제에 따라 달라질 수 있습니다.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>백업할 수 있는 데이터는 태블릿 또는 운영체제에 따라 달라질 수 있습니다.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>연락처: 동기화된 계정에서 가져온 연락처</item>
+        <item>캘린더: 동기화된 계정에서 가져온 일정 및 할 일</item>
+        <item>Galaxy Themes: 테마 및 기본 배경화면</item>
+        <item>앱: 호환되지 않는 설치 파일 및 삼성 앱 이외의 데이터</item>
+        <item>보안 폴더: 앱 및 데이터</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>연락처: 동기화된 계정에서 가져온 연락처</item>
+        <item>캘린더: 동기화된 계정에서 가져온 일정 및 할 일</item>
+        <item>Galaxy Themes: 테마 및 기본 배경화면</item>
+        <item>앱: 지원되지 않는 설치 파일</item>
+        <item>보안 폴더: 앱 및 데이터</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>전화 앱: 통화 및 메시지 기록</item>
+        <item>메시지 앱: 향상된 메시지, 멀티미디어 메시지, 문자 메시지</item>
+        <item>연락처 앱: 기기에 저장된 연락처, 이메일 주소, 명함</item>
+        <item>캘린더 앱: 기기에 저장된 일정 및 할 일</item>
+        <item>시계 앱: 알람, 세계시각, 타이머</item>
+        <item>설정: 접근성 설정, 벨소리, 삼성 키보드 옵션, Wi-Fi 설정, 등록된 블루투스 기기, 얼굴 인식 설정, 지문 설정, Always On Display 설정(기본 벨소리 제외)</item>
+        <item>홈 화면: 구성, 배경화면, Samsung DeX 설정</item>
+        <item>앱: 설치 파일 및 앱 설정</item>
+        <item>음성 녹음 앱: 녹음 파일</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>음악: MP3, FLAC, WAV, M4A, OGG 및 기타 음악 파일</item>
+        <item>문서: PDF, Word, Excel, PowerPoint 및 기타 문서</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: 대화기록</item>
+        <item>%s: 잠긴 노트</item>
+        <item>%s: 비밀번호가 설정된 데이터</item>
+        <item>%s: 앱 및 앱 데이터</item>
+        <item>%s: 동기화된 계정의 일정</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>개인키 및 복원 문구</item>
+        <item>앱 정책에 따라 전송할 수 없는 데이터</item>
+        <item>보안 또는 호환성의 이유로 전송할 수 없는 앱: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>읽기 전용 연락처</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>기본 배경화면</item>
+        <item>Galaxy Themes 배경화면</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>긴급 알림 메시지</item>
+        <item>임시 저장 및 전송 실패한 메시지</item>
+        <item>iMessage 효과가 포함된 메시지</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>잠긴 콘텐츠</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>전화 앱: 통화 및 메시지 기록</item>
+        <item>메시지 앱: 향상된 메시지, 멀티미디어 메시지, 문자 메시지</item>
+        <item>시계 앱: 알람, 세계시각, 타이머</item>
+        <item>설정: 접근성 설정, 벨소리, 삼성 키보드 옵션, Wi-Fi 설정, 등록된 블루투스 기기, Always On Display 설정(기본 벨소리는 암호화되지 않음)</item>
+        <item>애플리케이션: 앱 설정</item>
+        <item>홈 화면: 구성, 배경화면, Samsung DeX 설정</item>
+        <item>음성 녹음 앱: 녹음 파일</item>
+    </string-array>
+</resources>

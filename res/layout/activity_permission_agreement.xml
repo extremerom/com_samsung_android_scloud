@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/bright_window_background_color" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/root" android:background="@color/bright_window_background_color" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_above="@id/connect_button_layout" android:layout_alignParentTop="true" android:layout_alignParentStart="true" android:layout_alignParentEnd="true">
+        <ScrollView android:layout_width="match_parent" android:layout_height="0.0dp" android:fillViewport="true" android:layout_weight="1.0">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="38.0dp" android:paddingEnd="38.0dp">
+                    <FrameLayout android:id="@id/title_layout" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                    <LinearLayout android:gravity="center|top" android:orientation="vertical" android:id="@id/content_layout_sub1" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <TextView android:textAppearance="@style/TextPermissionDescription" android:layout_gravity="center_horizontal" android:id="@id/permission_main_description_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/privacy_policy_agreement_cancel_button_margin_top" android:layout_marginBottom="@dimen/privacy_policy_agreement_cancel_button_margin_bottom" android:text="@string/required_permissions" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/content_layout_permission_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="30.0dp" android:paddingEnd="38.0dp" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/connect_button_layout" android:paddingTop="@dimen/agreement_bottom_button_layout_padding_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/permission_agreement_button_margin_bottom" android:weightSum="100.0" android:layout_alignParentBottom="true">
+        <View android:layout_width="0.0dp" android:layout_height="match_parent" android:layout_weight="6.7" />
+        <com.samsung.android.scloud.app.common.component.AlphaStateButton android:textAppearance="@style/TextAppearanceNegativeButton" android:id="@id/permission_cancel_bottom_button" android:background="@drawable/gray_round_button" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginTop="@dimen/agreement_bottom_button_padding_top" android:minWidth="@dimen/horizontal_button_width" android:minHeight="@dimen/agreement_button_height" android:text="@string/cancel" android:layout_weight="42.2" android:textAlignment="center" />
+        <View android:layout_width="0.0dp" android:layout_height="match_parent" android:layout_weight="2.2" />
+        <com.samsung.android.scloud.app.common.component.AlphaStateButton android:textAppearance="@style/TextAppearanceBottomButton" android:id="@id/permission_bottom_button" android:background="@drawable/round_button" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginTop="@dimen/agreement_bottom_button_padding_top" android:minWidth="@dimen/horizontal_button_width" android:minHeight="@dimen/agreement_button_height" android:text="@string/continue_button" android:layout_weight="42.2" android:textAlignment="center" />
+        <View android:layout_width="0.0dp" android:layout_height="match_parent" android:layout_weight="6.7" />
+    </LinearLayout>
+</RelativeLayout>

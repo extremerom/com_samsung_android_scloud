@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Телефонът се зарежда.</item>
+        <item>Телефонът е свързан към Wi-Fi мрежа.</item>
+        <item>Екранът е изключен.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Таблетът се зарежда.</item>
+        <item>Таблетът е свързан към Wi-Fi мрежа.</item>
+        <item>Екранът е изключен.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Данните, които може да архивирате, може да се различават в зависимост от телефона или операционната система.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Данните, които може да архивирате, може да се различават в зависимост от таблета или операционната система.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Контакти: контакти от синхронизирани акаунти</item>
+        <item>Календар: събития и задачи от синхронизирани акаунти</item>
+        <item>Galaxy Themes: теми и тапет по подразбиране</item>
+        <item>Приложения: несъвместими инсталационни файлове и данни от приложения, които не са на Samsung</item>
+        <item>Защитена папка: приложения и данни</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Контакти: контакти от синхронизирани акаунти</item>
+        <item>Календар: събития и задачи от синхронизирани акаунти</item>
+        <item>Galaxy Themes: теми и тапет по подразбиране</item>
+        <item>Приложения: неподдържани инсталационни файлове</item>
+        <item>Защитена папка: приложения и данни</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Телефон: хронология на повикванията и съобщенията</item>
+        <item>Съобщения: подобрени съобщения, мултимедийни съобщения и текстови съобщения</item>
+        <item>Контакти: контакти, имейл адреси и визитки, записани на устройството</item>
+        <item>Календар: събития и задачи, записани на устройството</item>
+        <item>Часовник: аларми, световни часовници и таймери</item>
+        <item>Настройки: настройки за достъпност, тонове на звънене, опции на клавиатурата на Samsung, настройки за Wi-Fi, сдвоени Bluetooth устройства, настройки за разпознаване на лице, настройки за пръстов отпечатък и настройки за Always On Display (тонът на звънене по подразбиране няма да бъде архивиран)</item>
+        <item>Начален екран: оформление, тапети и настройки на Samsung DeX</item>
+        <item>Приложения: инсталационни файлове и настройки на приложения</item>
+        <item>Диктофон: записи</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Музика: MP3, FLAC, WAV, M4A, OGG и други музикални файлове</item>
+        <item>Документи: PDF, Word, Excel, PowerPoint и други документи</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: хронология на чата</item>
+        <item>%s: заключени бележки</item>
+        <item>%s: данни, защитени с парола</item>
+        <item>%s: приложения и данни на приложения</item>
+        <item>%s: Събития от синхронизирани акаунти</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Личен ключ и фраза за възстановяване</item>
+        <item>Данни, които не може да се прехвърлят поради политиката на приложението</item>
+        <item>Приложения, които не може да се прехвърлят поради проблеми със защитата или съвместимостта: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Контакти само за четене</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Тапет по подразбиране</item>
+        <item>Тапети на Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Съобщения за спешни известия</item>
+        <item>Чернови и неуспешни съобщения</item>
+        <item>Съобщения с ефекти на iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Заключено съдържание</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Телефон: хронология на повикванията и съобщенията</item>
+        <item>Съобщения: подобрени съобщения, мултимедийни съобщения и текстови съобщения</item>
+        <item>Часовник: аларми, световни часовници и таймери</item>
+        <item>Настройки: настройки за достъпност, тонове на звънене, опции на клавиатурата на Samsung, настройки за Wi-Fi, сдвоени Bluetooth устройства и настройки за Always On Display (тон на звънене не се шифрова)</item>
+        <item>Приложения: настройки на приложения</item>
+        <item>Начален екран: оформление, тапети и настройки на Samsung DeX</item>
+        <item>Диктофон: записи</item>
+    </string-array>
+</resources>

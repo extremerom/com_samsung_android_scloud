@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/no_item_screen_layout" android:tag="layout/no_item_layout_0" android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <View android:layout_width="0.0dp" android:layout_height="0.0dp" android:layout_weight="0.2" />
+        <FrameLayout android:id="@id/action_button" android:background="@drawable/round_button" android:visibility="gone" android:clickable="true" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_24dp" android:layout_weight="0.6" style="@style/RecoilEffect">
+            <TextView android:textAppearance="@style/TextNoItemButton" android:gravity="center" android:layout_gravity="center" android:id="@id/action_button_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/no_network_retry_button_size" />
+        </FrameLayout>
+        <View android:layout_width="0.0dp" android:layout_height="0.0dp" android:layout_weight="0.2" />
+    </LinearLayout>
+    <TextView android:textAppearance="@style/TextNoItemTitle" android:gravity="center" android:id="@id/no_items_message_textview" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no_items" android:textAlignment="center" />
+</LinearLayout>

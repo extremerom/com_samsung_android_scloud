@@ -1,0 +1,52 @@
+{
+  "concurrency": [
+    {
+      "siop": -3,
+      "concurrency": 6
+    },
+    {
+      "siop": -2,
+      "concurrency": 6
+    },
+    {
+      "siop": -1,
+      "concurrency": 4
+    },
+    {
+      "siop": 0,
+      "concurrency": 4
+    },
+    {
+      "siop": 1,
+      "concurrency": 2
+    },
+    {
+      "siop": 2,
+      "concurrency": 2
+    },
+    {
+      "siop": 3,
+      "concurrency": 1
+    },
+    {
+      "siop": 4,
+      "concurrency": 1
+    },
+    {
+      "siop": 5,
+      "concurrency": 0
+    },
+    {
+      "siop": 6,
+      "concurrency": 0
+    },
+    {
+      "siop": 7,
+      "concurrency": 0
+    },
+    {
+      "siop": 8,
+      "concurrency": 0
+    }
+  ]
+}

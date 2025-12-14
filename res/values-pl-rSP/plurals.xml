@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikacyjŏ niezainsztalowanŏ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplikacyje niezainsztalowane</item>
+        <item quantity="many">%d aplikacyjōw niezainsztalowanych</item>
+        <item quantity="other">%d aplikacyjōw niezainsztalowanych</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wiadomości: wiadomości alarmowe, pliki wysyłane i odbierane w rozmowach oraz wiadomości MMS większe niż %d MB</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wiadomości: wiadomości alarmowe, pliki wysyłane i odbierane w rozmowach oraz wiadomości MMS większe niż %d MB</item>
+        <item quantity="many">Wiadomości: wiadomości alarmowe, pliki wysyłane i odbierane w rozmowach oraz wiadomości MMS większe niż %d MB</item>
+        <item quantity="other">Wiadomości: wiadomości alarmowe, pliki wysyłane i odbierane w rozmowach oraz wiadomości MMS większe niż %d MB</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Backup %d masziny chned sie przedŏwni. Ôbier maszina niżyj, coby badnōńć na data wŏżności.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Backup %d maszin chned sie przedŏwni. Ôbier maszina niżyj, coby badnōńć na data wŏżności.</item>
+        <item quantity="many">Backup %d maszin chned sie przedŏwni. Ôbier maszina niżyj, coby badnōńć na data wŏżności.</item>
+        <item quantity="other">Backup %d maszin chned sie przedŏwni. Ôbier maszina niżyj, coby badnōńć na data wŏżności.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Backup %d masziny chned sie przedŏwni.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Backup %d maszin chned sie przedŏwni.</item>
+        <item quantity="many">Backup %d maszin chned sie przedŏwni.</item>
+        <item quantity="other">Backup %d maszin chned sie przedŏwni.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nie można zaktualizować %1$d elementu kopii zapasowej, więc poprzednia kopia zapasowa tego elementu zostanie przywrócona na nowy telefon (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nie można zaktualizować %1$d elementów kopii zapasowej, więc poprzednie kopie zapasowe tych elementów zostaną przywrócone na nowy telefon (%2$s).</item>
+        <item quantity="many">Nie można zaktualizować %1$d elementów kopii zapasowej, więc poprzednie kopie zapasowe tych elementów zostaną przywrócone na nowy telefon (%2$s).</item>
+        <item quantity="other">Nie można zaktualizować %1$d elementu kopii zapasowej, więc poprzednie kopie zapasowe tych elementów zostaną przywrócone na nowy telefon (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nie można zaktualizować %1$d elementu kopii zapasowej, więc poprzednia kopia zapasowa tego elementu zostanie przywrócona na nowy tablet (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nie można zaktualizować %1$d elementów kopii zapasowej, więc poprzednie kopie zapasowe tych elementów zostaną przywrócone na nowy tablet (%2$s).</item>
+        <item quantity="many">Nie można zaktualizować %1$d elementów kopii zapasowej, więc poprzednie kopie zapasowe tych elementów zostaną przywrócone na nowy tablet (%2$s).</item>
+        <item quantity="other">Nie można zaktualizować %1$d elementu kopii zapasowej, więc poprzednie kopie zapasowe tych elementów zostaną przywrócone na nowy tablet (%2$s).</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Przedŏwniŏ sie za %d dziyń</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Przedŏwniŏ sie za %d dni</item>
+        <item quantity="many">Przedŏwniŏ sie za %d dni</item>
+        <item quantity="other">Przedŏwniŏ sie za %d dni</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wrōcōnych ôstało nazŏd wiynkszość Twojich danych, ale %d aplikacyjŏ niy ôstała zainsztalowanŏ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wrōcōnych ôstało nazŏd wiynkszość Twojich danych, ale %d aplikacyje niy ôstały zainsztalowane.</item>
+        <item quantity="many">Wrōcōnych ôstało nazŏd wiynkszość Twojich danych, ale %d aplikacyjōw niy ôstało zainsztalowanych.</item>
+        <item quantity="other">Wrōcōnych ôstało nazŏd wiynkszość Twojich danych, ale %d aplikacyjōw niy ôstało zainsztalowanych.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nowy dostępny album</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d nowe dostępne albumy</item>
+        <item quantity="many">%d nowych dostępnych albumów</item>
+        <item quantity="other">%d nowego dostępnego albumu</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wybrano %d album</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wybrano %d albumy</item>
+        <item quantity="many">Wybrano %d albumów</item>
+        <item quantity="other">Wybrano %d albumu</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pozostała 1 godzina, %d minuta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pozostała 1 godzina, %d minuty</item>
+        <item quantity="many">Pozostała 1 godzina, %d minut</item>
+        <item quantity="other">Pozostała 1 godzina, %d minuty</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zesynchr.1 zdjyńcie i %d video</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zesynchr.1 zdjyńcie i %d video</item>
+        <item quantity="many">Zesynchr.1 zdjyńcie i %d video</item>
+        <item quantity="other">Zesynchr.1 zdjyńcie i %d video</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ôbrany %1$d elemynt (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ôbrane %1$d elemynty (%2$s)</item>
+        <item quantity="many">Ôbranych %1$d elemyntōw (%2$s)</item>
+        <item quantity="other">Ôbranych %1$d elemyntōw (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wybrano %1$d (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wybrano %1$d (%2$s %3$s)</item>
+        <item quantity="many">Wybrano %1$d (%2$s %3$s)</item>
+        <item quantity="other">Wybrano %1$d (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d plik</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d pliki</item>
+        <item quantity="many">%d plików</item>
+        <item quantity="other">%d pliku</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pozostała %d godzina, 1 minuta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pozostały %d godziny, 1 minuta</item>
+        <item quantity="many">Pozostało %d godzin, 1 minuta</item>
+        <item quantity="other">Pozostało %d godziny, 1 minuta</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ôstała %d minuta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ôstały %d minuty</item>
+        <item quantity="many">Ôstało %d minut</item>
+        <item quantity="other">Ôstało %d minut</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zesynchr.%d zdjyńcie i 1 video</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zesynchr.%d zdjyńcia i 1 video</item>
+        <item quantity="many">Zesynchr.%d zdjyńć i 1 video</item>
+        <item quantity="other">Zesynchr.%d zdjyńć i 1 video</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zesynchrōnizuj %d zdjyńcie</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zesynchrōnizuj %d zdjyńcia</item>
+        <item quantity="many">Zesynchrōnizuj %d zdjyńć</item>
+        <item quantity="other">Zesynchrōnizuj %d zdjyńć</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d obraz lub wideo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d obrazy i wideo</item>
+        <item quantity="many">%d obrazów i wideo</item>
+        <item quantity="other">%d obrazu i wideo</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zesynchrōnizuj %d video</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zesynchrōnizuj %d video</item>
+        <item quantity="many">Zesynchrōnizuj %d video</item>
+        <item quantity="other">Zesynchrōnizuj %d video</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Niski poziom baterii. Naładuj do co najmniej %d%%, aby wykonać kopię zapasową telefonu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Niski poziom baterii. Naładuj do co najmniej %d%%, aby wykonać kopię zapasową telefonu.</item>
+        <item quantity="many">Niski poziom baterii. Naładuj do co najmniej %d%%, aby wykonać kopię zapasową telefonu.</item>
+        <item quantity="other">Niski poziom baterii. Naładuj do co najmniej %d%%, aby wykonać kopię zapasową telefonu.</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Został %d element</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zostały %d elementy</item>
+        <item quantity="many">Zostało %d elementów</item>
+        <item quantity="other">Zostało %d elementu</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d pożyniōne masziny Galaxy</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d pożyniōne masziny Galaxy</item>
+        <item quantity="many">%d pożyniōnych maszin Galaxy</item>
+        <item quantity="other">%d pożyniōnych maszin Galaxy</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d spōminŏczy</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d spōminŏcze</item>
+        <item quantity="many">%d spōminŏczy</item>
+        <item quantity="other">%d spōminŏczy</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Niski poziom baterii. Naładuj do co najmniej %d%%, aby wykonać kopię zapasową tabletu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Niski poziom baterii. Naładuj do co najmniej %d%%, aby wykonać kopię zapasową tabletu.</item>
+        <item quantity="many">Niski poziom baterii. Naładuj do co najmniej %d%%, aby wykonać kopię zapasową tabletu.</item>
+        <item quantity="other">Niski poziom baterii. Naładuj do co najmniej %d%%, aby wykonać kopię zapasową tabletu.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Twórz kopie zapasowe nieograniczonej ilości danych w %1$s przez maksymalnie %2$d dzień lub przywracaj dane, których kopie zapasowe zostały utworzone.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Twórz kopie zapasowe nieograniczonej ilości danych w %1$s przez maksymalnie %2$d dni lub przywracaj dane, których kopie zapasowe zostały utworzone.</item>
+        <item quantity="many">Twórz kopie zapasowe nieograniczonej ilości danych w %1$s przez maksymalnie %2$d dni lub przywracaj dane, których kopie zapasowe zostały utworzone.</item>
+        <item quantity="other">Twórz kopie zapasowe nieograniczonej ilości danych w %1$s przez maksymalnie %2$d dnia lub przywracaj dane, których kopie zapasowe zostały utworzone.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ta kopia zapasowa zostanie usunięta za %d dzień.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ta kopia zapasowa zostanie usunięta za %d dni.</item>
+        <item quantity="many">Ta kopia zapasowa zostanie usunięta za %d dni.</item>
+        <item quantity="other">Ta kopia zapasowa zostanie usunięta za %d dnia.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Spróbuj ponownie za %d godzinę</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Spróbuj ponownie za %d godziny</item>
+        <item quantity="many">Spróbuj ponownie za %d godzin</item>
+        <item quantity="other">Spróbuj ponownie za %d godziny</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Spróbuj ponownie za %d godzinę i 1 minutę</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Spróbuj ponownie za %d godziny i 1 minutę</item>
+        <item quantity="many">Spróbuj ponownie za %d godzin i 1 minutę</item>
+        <item quantity="other">Spróbuj ponownie za %d godziny i 1 minutę</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Spróbuj ponownie za %d minutę</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Spróbuj ponownie za %d minuty</item>
+        <item quantity="many">Spróbuj ponownie za %d minut</item>
+        <item quantity="other">Spróbuj ponownie za %d minuty</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Spróbuj ponownie za 1 godzinę i %d minutę</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Spróbuj ponownie za 1 godzinę i %d minuty</item>
+        <item quantity="many">Spróbuj ponownie za 1 godzinę i %d minut</item>
+        <item quantity="other">Spróbuj ponownie za 1 godzinę i %d minuty</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Twoja kopia zapasowa jest bezpieczna w aplikacji %1$s. Masz %2$d dzień na jej przywrócenie.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Twoja kopia zapasowa jest bezpieczna w aplikacji %1$s. Masz %2$d dni na jej przywrócenie.</item>
+        <item quantity="many">Twoja kopia zapasowa jest bezpieczna w aplikacji %1$s. Masz %2$d dni na jej przywrócenie.</item>
+        <item quantity="other">Twoja kopia zapasowa jest bezpieczna w aplikacji %1$s. Masz %2$d dnia na jej przywrócenie.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kopia zapasowa zostanie usunięta za %d dzień.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Kopia zapasowa zostanie usunięta za %d dni.</item>
+        <item quantity="many">Kopia zapasowa zostanie usunięta za %d dni.</item>
+        <item quantity="other">Kopia zapasowa zostanie usunięta za %d dnia.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Twoje dane nie zostały przywrócone do telefonu. Masz jeszcze %d dzień na przywrócenie ich.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Twoje dane nie zostały przywrócone do telefonu. Masz jeszcze %d dni na przywrócenie ich.</item>
+        <item quantity="many">Twoje dane nie zostały przywrócone do telefonu. Masz jeszcze %d dni na przywrócenie ich.</item>
+        <item quantity="other">Twoje dane nie zostały przywrócone do telefonu. Masz jeszcze %d dnia na przywrócenie ich.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Twoje dane nie zostały przywrócone do tabletu. Masz jeszcze %d dzień na przywrócenie ich.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Twoje dane nie zostały przywrócone do tabletu. Masz jeszcze %d dni na przywrócenie ich.</item>
+        <item quantity="many">Twoje dane nie zostały przywrócone do tabletu. Masz jeszcze %d dni na przywrócenie ich.</item>
+        <item quantity="other">Twoje dane nie zostały przywrócone do tabletu. Masz jeszcze %d dnia na przywrócenie ich.</item>
+    </plurals>
+</resources>

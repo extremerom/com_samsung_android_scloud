@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Teie telefoni laetakse.</item>
+        <item>Teie telefon on ühendatud Wi-Fi-võrguga.</item>
+        <item>Ekraan on väljas.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Teie tahvelseadet laetakse.</item>
+        <item>Teie tahvelseade on ühendatud Wi-Fi-võrguga.</item>
+        <item>Ekraan on väljas.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Varundatavad andmed võivad olenevalt telefonist ja operatsioonisüsteemist erineda.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Varundatavad andmed võivad olenevalt tahvelarvutist ja operatsioonisüsteemist erineda.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontaktid: kontaktid sünkroonitud kontodelt</item>
+        <item>Kalender: sünkroonitud kontode sündmused ja ülesanded</item>
+        <item>Galaxy Themes: teemad ja vaikimisi taustpilt</item>
+        <item>Rakendused: mitteühilduvad installifailid ja andmed muudest kui Samsungi rakendustest</item>
+        <item>Turvaline kaust: rakendused ja andmed</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kontaktid: kontaktid sünkroonitud kontodelt</item>
+        <item>Kalender: sünkroonitud kontode sündmused ja ülesanded</item>
+        <item>Galaxy Themes: teemad ja vaikimisi taustpilt</item>
+        <item>Rakendused: toetamata installifailid</item>
+        <item>Turvaline kaust: rakendused ja andmed</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: kõne- ja sõnumiajalugu</item>
+        <item>Sõnumid: täiustatud sõnumid, multimeediasõnumid ja tekstsõnumid</item>
+        <item>Kontaktid: teie seadmesse salvestatud kontaktid, e-posti aadressid ja visiitkaardid</item>
+        <item>Kalender: teie seadmesse salvestatud sündmused ja ülesanded</item>
+        <item>Kell: märguanded, maailmakellad ja taimerid</item>
+        <item>Seaded: juurdepääsu seaded, helinad, Samsungi klaviatuuri valikud, Wi-Fi seaded, seotud Bluetooth-seadmed, näotuvastuse seaded, sõrmejälje seaded ja Always On Display seaded (teie vaikimisi helinat ei varundata)</item>
+        <item>Avaekraan: paigutus, taustpildid ja Samsung DeX-i seaded</item>
+        <item>Rakendused: installifailid ja rakenduse seaded</item>
+        <item>Helisalvesti: salvestised</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Muusika: MP3, FLAC, WAV, M4A, OGG ja muud muusikafailid</item>
+        <item>Dokumendid: PDF, Word, Excel, PowerPoint ja muud dokumendid</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: vestluse ajalugu</item>
+        <item>%s: lukustatud märkused</item>
+        <item>%s: parooliga kaitstud andmed</item>
+        <item>%s: rakendused ja rakenduste andmed</item>
+        <item>%s: sündmused sünkroonitud kontodelt</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Isiklik võti ja taastamisfraas</item>
+        <item>Andmed, mida ei saa edastada rakenduse poliitika tõttu</item>
+        <item>Rakendused, mida ei saa edastada turvalisuse või ühilduvuse probleemide tõttu: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Kirjutuskaitstud kontaktid</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Vaikimisi taustpilt</item>
+        <item>Galaxy Themes’i taustpildid</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Hädaolukorra hoiatussõnumid</item>
+        <item>Mustandid ja nurjunud sõnumid</item>
+        <item>Sõnumid iMessage’i efektidega</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Lukustatud sisu</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: kõne- ja sõnumiajalugu</item>
+        <item>Sõnumid: täiustatud sõnumid, multimeediasõnumid ja tekstsõnumid</item>
+        <item>Kell: märguanded, maailmakellad ja taimerid</item>
+        <item>Seaded: juurdepääsu seaded, helinad, Samsungi klaviatuuri valikud, Wi-Fi seaded, seotud Bluetooth-seadmed ja Always On Display seaded (vaikimisi helin pole krüptitud)</item>
+        <item>Rakendused: rakenduste seaded</item>
+        <item>Avaekraan: paigutus, taustpildid ja Samsung DeX-i seaded</item>
+        <item>Helisalvesti: salvestised</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+.class public Lorg/spongycastle/operator/bc/BcECContentSignerBuilder;
+.super Lorg/spongycastle/operator/bc/BcContentSignerBuilder;
+.source "SourceFile"
+
+
+# direct methods
+.method public constructor <init>(Lorg/spongycastle/asn1/x509/AlgorithmIdentifier;Lorg/spongycastle/asn1/x509/AlgorithmIdentifier;)V
+    .locals 0
+
+    invoke-direct {p0, p1, p2}, Lorg/spongycastle/operator/bc/BcContentSignerBuilder;-><init>(Lorg/spongycastle/asn1/x509/AlgorithmIdentifier;Lorg/spongycastle/asn1/x509/AlgorithmIdentifier;)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public createSigner(Lorg/spongycastle/asn1/x509/AlgorithmIdentifier;Lorg/spongycastle/asn1/x509/AlgorithmIdentifier;)Lorg/spongycastle/crypto/Signer;
+    .locals 1
+
+    iget-object p1, p0, Lorg/spongycastle/operator/bc/BcContentSignerBuilder;->digestProvider:Lorg/spongycastle/operator/bc/BcDigestProvider;
+
+    invoke-interface {p1, p2}, Lorg/spongycastle/operator/bc/BcDigestProvider;->get(Lorg/spongycastle/asn1/x509/AlgorithmIdentifier;)Lorg/spongycastle/crypto/ExtendedDigest;
+
+    move-result-object p1
+
+    new-instance p2, Lorg/spongycastle/crypto/signers/DSADigestSigner;
+
+    new-instance v0, Lorg/spongycastle/crypto/signers/ECDSASigner;
+
+    invoke-direct {v0}, Lorg/spongycastle/crypto/signers/ECDSASigner;-><init>()V
+
+    invoke-direct {p2, v0, p1}, Lorg/spongycastle/crypto/signers/DSADigestSigner;-><init>(Lorg/spongycastle/crypto/DSA;Lorg/spongycastle/crypto/Digest;)V
+
+    return-object p2
+.end method

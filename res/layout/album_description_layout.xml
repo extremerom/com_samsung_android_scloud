@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/album_description_layout_0" android:background="@color/window_background_color" android:paddingBottom="@dimen/margin_16dp" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextDescription" android:id="@id/album_description_text_view" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:textAlignment="viewStart" android:layout_marginStart="@dimen/view_start_and_end_margin" android:layout_marginEnd="@dimen/view_start_and_end_margin" />
+    <TextView android:textAppearance="@style/TextDescription" android:id="@id/sd_card_description_textview" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_16dp" android:textAlignment="viewStart" android:layout_marginStart="@dimen/view_start_and_end_margin" android:layout_marginEnd="@dimen/view_start_and_end_margin" />
+</LinearLayout>

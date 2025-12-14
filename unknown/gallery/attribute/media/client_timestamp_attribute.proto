@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package samsung.scsp.media.attribute;
+
+option java_multiple_files = true;
+
+message ClientTimestamp {
+
+  optional int64 content_modified_at = 1; 
+  optional int64 status_modified_at = 2;  
+}

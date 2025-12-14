@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:tag="layout/not_enough_storage_layout_0" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true" android:paddingStart="@dimen/margin_24dp" android:paddingEnd="@dimen/margin_24dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="14.0sp" android:textColor="@color/header_title_text_color" android:layout_gravity="center_vertical" android:id="@id/required_storage_summary" android:tag="binding_1" android:paddingTop="9.0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textSize="13.0sp" android:textColor="@color/text_color_secondary" android:layout_gravity="center_vertical" android:id="@id/storage_detail" android:tag="binding_2" android:paddingTop="9.0dp" android:paddingBottom="9.0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <View android:layout_gravity="center_vertical" android:background="@drawable/divider_dot" android:layout_width="match_parent" android:layout_height="1.0dp" />
+        <TextView android:textSize="14.0sp" android:textColor="@color/header_title_text_color" android:layout_gravity="center_vertical" android:id="@id/description" android:tag="binding_3" android:paddingTop="9.0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textSize="13.0sp" android:textColor="@color/text_color_secondary" android:layout_gravity="center_vertical" android:id="@id/category_storage_detail" android:tag="binding_4" android:paddingTop="9.0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</ScrollView>

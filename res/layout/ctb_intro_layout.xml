@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/ctb_intro_layout_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.scloud.app.core.component.RoundCorneredScrollView android:orientation="vertical" android:id="@id/about_main_scrollview" android:focusable="false" android:scrollbars="vertical" android:descendantFocusability="beforeDescendants" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:overScrollMode="ifContentScrolls">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/about_main_layout" android:tag="binding_1" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <include android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/ctb_icon_margin_top" layout="@layout/ctb_intro_icon_view" />
+                <TextView android:textAppearance="@style/TextTemporaryBackupScreenTitle" android:layout_gravity="center_horizontal" android:id="@id/backup_intro_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/ctb_title_top_margin" android:textAlignment="center" android:layout_marginStart="@dimen/ctb_title_start_end_margin" android:layout_marginEnd="@dimen/ctb_title_start_end_margin" />
+                <TextView android:textAppearance="@style/TextTemporaryBackupSummaryTitle" android:layout_gravity="center" android:id="@id/backup_intro_summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/ctb_summary_top_margin" android:textAlignment="center" android:layout_marginStart="@dimen/ctb_title_start_end_margin" android:layout_marginEnd="@dimen/ctb_title_start_end_margin" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/account_info_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.samsung.android.scloud.ctb.ui.customviews.OvalImageView android:tag="binding_2" android:layout_width="@dimen/ctb_account_thumbnail_size" android:layout_height="@dimen/ctb_account_thumbnail_size" android:layout_marginTop="@dimen/ctb_account_thumbnail_margin_top" />
+                <TextView android:textAppearance="@style/TextCTBAccountInfoTitle" android:layout_gravity="center_horizontal" android:id="@id/account_name" android:tag="binding_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/ctb_account_title_top_margin" android:textAlignment="center" android:layout_marginStart="@dimen/ctb_account_info_start_end_margin" android:layout_marginEnd="@dimen/ctb_account_info_start_end_margin" />
+                <TextView android:textAppearance="@style/TextCTBAccountInfoEmail" android:layout_gravity="center" android:id="@id/account_email" android:tag="binding_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="center" android:layout_marginStart="@dimen/ctb_account_info_start_end_margin" android:layout_marginEnd="@dimen/ctb_account_info_start_end_margin" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center|bottom" android:orientation="vertical" android:tag="binding_5" android:layout_width="match_parent" android:layout_height="match_parent">
+                <com.samsung.android.scloud.app.common.custom.UnderLineTextView android:textAppearance="@style/CtbUnderLineTextAppearance" android:ellipsize="end" android:layout_gravity="center" android:id="@id/powered_by_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:textAlignment="center" android:layout_marginStart="@dimen/margin_35dp" android:layout_marginEnd="@dimen/margin_35dp" />
+                <include android:id="@id/ctb_bottom_button" android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/vertical_button_layout" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.samsung.android.scloud.app.core.component.RoundCorneredScrollView>
+    <androidx.appcompat.widget.SeslProgressBar android:id="@id/loading_view" android:layout_width="@dimen/size_60dp" android:layout_height="@dimen/size_60dp" android:indeterminate="true" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    <include android:id="@id/no_network" layout="@layout/no_network_layout" />
+</RelativeLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/bnr_switch_item_view_0" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/layout_background" android:background="?android:listChoiceBackgroundIndicator" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight" android:paddingStart="@dimen/multiple_selection_end">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/RecoilEffect">
+            <RelativeLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="match_parent">
+                <ImageView android:id="@id/icon" android:tag="binding_1" android:layout_width="@dimen/bnr_icon_size" android:layout_height="@dimen/bnr_icon_size" android:layout_marginEnd="16.0dp" />
+                <ImageView android:id="@id/encrypted_image" android:tag="binding_2" android:layout_width="@dimen/size_14dp" android:layout_height="@dimen/size_14dp" android:layout_marginTop="@dimen/margin_18dp" android:src="@drawable/e2ee_badge" android:layout_alignBottom="@id/icon" android:layout_marginStart="@dimen/margin_18dp" android:layout_alignEnd="@id/icon" />
+            </RelativeLayout>
+            <LinearLayout android:orientation="vertical" android:tag="binding_3" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="1.0dp">
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingEnd="@dimen/multiple_selection_end">
+                    <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/summary_layout" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginTop="@dimen/list_item_top_padding" android:layout_marginBottom="@dimen/list_item_bottom_padding" android:layout_weight="1.0">
+                        <TextView android:textAppearance="?android:textAppearanceListItem" android:textColor="@color/text_color_primary" android:ellipsize="marquee" android:id="@id/title" android:tag="binding_4" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+                        <TextView android:textAppearance="@style/ListItemSubTitleTextStyle" android:orientation="vertical" android:id="@id/summary" android:tag="binding_5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/title" />
+                        <TextView android:textAppearance="@style/ListItemWarningTextStyle" android:orientation="vertical" android:id="@id/warningSummary" android:tag="binding_6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/summary" />
+                    </RelativeLayout>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/compound_button_container" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent">
+                        <androidx.appcompat.widget.SwitchCompat android:id="@id/item_view_switch_normal_font" android:tag="binding_7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:soundEffectsEnabled="false" android:importantForAccessibility="no" android:layout_marginStart="@dimen/on_off_switch_start" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/progress_container" android:layout_width="wrap_content" android:layout_height="match_parent">
+                        <ImageView android:layout_gravity="center" android:id="@id/check_image" android:visibility="gone" android:layout_width="@dimen/complete_check_image_length" android:layout_height="@dimen/complete_check_image_length" android:src="@drawable/cloud_backingup_ic_check" android:tint="@color/color_primary" android:contentDescription="@null" />
+                        <com.google.android.material.progressindicator.CircularProgressIndicator android:layout_gravity="center" android:id="@id/progress" android:tag="binding_8" android:visibility="gone" android:layout_width="@dimen/circle_progress_length" android:layout_height="@dimen/circle_progress_length" android:indeterminateOnly="false" app:indicatorColor="@color/bnr_icon_progress_bar_color" app:indicatorInset="0.0dp" app:indicatorSize="@dimen/circle_progress_length" app:trackColor="@color/theme_progress_track_color" app:trackCornerRadius="@dimen/bnr_circular_progress_bar_thickness" app:trackThickness="@dimen/bnr_circular_progress_bar_thickness" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:layout_gravity="end" android:orientation="vertical" android:id="@id/compound_button_large_container" android:paddingBottom="@dimen/margin_14dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:paddingStart="@dimen/margin_24dp" android:paddingEnd="@dimen/margin_24dp">
+                    <androidx.appcompat.widget.SwitchCompat android:layout_gravity="center_vertical" android:id="@id/item_view_switch_large_font" android:tag="binding_9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:soundEffectsEnabled="false" android:importantForAccessibility="no" />
+                </LinearLayout>
+                <include android:id="@id/divider" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/end_margin_divider_margin_start" layout="@layout/list_divider" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

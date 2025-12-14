@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/image" android:focusable="false" android:clickable="false" android:layout_width="@dimen/bnr_icon_size" android:layout_height="@dimen/bnr_icon_size" android:scaleType="fitXY" android:contentDescription="@null" />
+    <com.google.android.material.progressindicator.CircularProgressIndicator android:layout_gravity="center" android:id="@id/progress" android:visibility="gone" android:layout_width="@dimen/circle_progress_length" android:layout_height="@dimen/circle_progress_length" android:indeterminateOnly="false" app:indicatorColor="@color/ctb_circular_progress_bar_indicator" app:indicatorSize="@dimen/circle_progress_length" app:trackColor="@color/theme_progress_track_color" app:trackCornerRadius="@dimen/bnr_circular_progress_bar_thickness" app:trackThickness="@dimen/bnr_circular_progress_bar_thickness" />
+</FrameLayout>

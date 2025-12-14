@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Ваш тэлефон зараджаецца.</item>
+        <item>Ваш тэлефон падлучаны да сеткі Wi-Fi.</item>
+        <item>Экран выключаны.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Планшэт зараджаецца.</item>
+        <item>Ваш планшэт падлучаны да сеткі Wi-Fi.</item>
+        <item>Экран выключаны.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Даныя, для якіх можна выканаць рэзервовае капіраванне, могуць адрознівацца ў залежнасці ад вашага тэлефона або аперацыйнай сістэмы.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Даныя, для якіх можна выканаць рэзервовае капіраванне, могуць адрознівацца ў залежнасці ад вашага планшэта або аперацыйнай сістэмы.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Кантакты: кантакты з сінхранізаваных уліковых запісаў</item>
+        <item>Каляндар: падзеі і заданні з сінхранізаваных уліковых запісаў</item>
+        <item>Galaxy Themes: тэмы і стандартныя шпалеры</item>
+        <item>Праграмы: несумяшчальныя файлы для ўсталёўкі і даныя з праграм, якія не з’яўляюцца праграмамі Samsung</item>
+        <item>Бяспечная папка: праграмы і даныя</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Кантакты: кантакты з сінхранізаваных уліковых запісаў</item>
+        <item>Каляндар: падзеі і заданні з сінхранізаваных уліковых запісаў</item>
+        <item>Galaxy Themes: тэмы і стандартныя шпалеры</item>
+        <item>Праграмы: файлы для ўсталявання, якія не падтрымліваюцца</item>
+        <item>Бяспечная папка: праграмы і даныя</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Тэлефон: журнал выклікаў і паведамленняў</item>
+        <item>Паведамленні: палепшаныя паведамленні, мультымедыйныя і тэкставыя паведамленні</item>
+        <item>Кантакты: кантакты, адрасы электроннай пошты і візітныя карткі, захаваныя на вашай прыладзе</item>
+        <item>Каляндар: падзеі і заданні, захаваныя на вашай прыладзе</item>
+        <item>Гадзіннік: будзільнікі, сусветныя гадзіннікі і таймеры</item>
+        <item>Налады: налады спецыяльных магчымасцей, мелодыі выкліку, параметры клавіятуры Samsung, налады Wi-Fi, спалучаныя прылады Bluetooth, налады распазнавання твару, налады адбіткаў пальцаў і налады Always On Display (рэзервовае капіраванне стандартнай мелодыі выкліку выканана не будзе)</item>
+        <item>Галоўны экран: макет, шпалеры і налады Samsung DeX</item>
+        <item>Праграмы: файлы для ўсталявання і налады праграм</item>
+        <item>Дыктафон: запісы</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Музыка: MP3, FLAC, WAV, M4A, OGG і іншыя музычныя файлы</item>
+        <item>Дакументы: PDF, Word, Excel, PowerPoint і іншыя дакументы</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: гісторыя чату</item>
+        <item>%s: заблакіраваныя нататкі</item>
+        <item>%s: даныя, абароненыя паролем</item>
+        <item>%s: праграмы і даныя праграм</item>
+        <item>%s: Падзеі з сінхранізаваных уліковых запісаў</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Прыватны ключ і фраза аднаўлення</item>
+        <item>Даныя, якія немагчыма перадаваць з-за правіл праграмы</item>
+        <item>Праграмы, якія нельга перадаць з-за праблем з бяспекай або сумяшчальнасцю: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Кантакты толькі для чытання</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Стандартныя шпалеры</item>
+        <item>Шпалеры Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Паведамленні экстранных абвестак</item>
+        <item>Чарнавікі і неадпраўленыя паведамленні</item>
+        <item>Паведамленні з эфектамі iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Заблакіраванае змесціва</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Тэлефон: журнал выклікаў і паведамленняў</item>
+        <item>Паведамленні: палепшаныя паведамленні, мультымедыйныя і тэкставыя паведамленні</item>
+        <item>Гадзіннік: будзільнікі, сусветныя гадзіннікі і таймеры</item>
+        <item>Налады: налады спецыяльных магчымасцей, мелодыі выкліку, параметры клавіятуры Samsung, налады Wi-Fi, спалучаныя прылады Bluetooth і налады Always On Display (стандартнай мелодыі выкліку не шыфруецца)</item>
+        <item>Праграмы: налады праграм</item>
+        <item>Галоўны экран: макет, шпалеры і налады Samsung DeX</item>
+        <item>Дыктафон: запісы</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ctb_land_side_border">120.0dp</dimen>
+    <dimen name="ctb_land_side_inner">32.0dp</dimen>
+    <dimen name="ctb_land_top_margin">58.0dp</dimen>
+</resources>

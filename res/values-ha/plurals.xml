@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Hoto 1 da kuma %1$d bidiyo (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Hoto 1 da kuma %1$d bidiyoyi (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ba a shigar da manhajar %d ba</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ba a shigar da manhajojin %d ba</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Saƙonni: faɗakarwar gaggawa, fayilolin da aka canzawa wuri, saƙonnin multimedia da suka fi girma fiye da %d MB, zayyanawa, da saƙon da suka gaza</item>
+        <item quantity="one">Saƙonni: faɗakarwar gaggawa, fayilolin da aka canzawa wuri, saƙonnin multimedia da suka fi girma fiye da %d MB, zayyanawa, da saƙon da suka gaza</item>
+        <item quantity="two">Saƙonni: faɗakarwar gaggawa, fayilolin da aka canzawa wuri, saƙonnin multimedia da suka fi girma fiye da %d MB, zayyanawa, da saƙon da suka gaza</item>
+        <item quantity="few">Saƙonni: faɗakarwar gaggawa, fayilolin da aka canzawa wuri, saƙonnin multimedia da suka fi girma fiye da %d MB, zayyanawa, da saƙon da suka gaza</item>
+        <item quantity="many">Saƙonni: faɗakarwar gaggawa, fayilolin da aka canzawa wuri, saƙonnin multimedia da suka fi girma fiye da %d MB, zayyanawa, da saƙon da suka gaza</item>
+        <item quantity="other">Saƙonni: faɗakarwar gaggawa, fayilolin da aka canzawa wuri, saƙonnin multimedia da suka fi girma fiye da %d MB, zayyanawa, da saƙon da suka gaza</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Yi ajiyar kota-kwana na bayanai na na'urar %d zai ƙare aiki nan ba da jimawa ba. Zaɓi na'urar da ke ƙasa don duba kwanan watan ƙare aiki."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Yi ajiyar kota-kwana na bayanai na na'urorin %d za su ƙare aiki nan ba da jimawa ba. Zaɓi na'ura da ke ƙasa don duba kwanan watan ƙare aiki."</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Yi ajiyar kota-kwana na bayanai na na'urar %d zai ƙare aiki nan ba da jimawa ba."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Yi ajiyar kota-kwana na bayanai na na'urorin %d zai ƙare aiki nan ba da jimawa ba."</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An kasa sabunta ajiyar kota kwana na %1$d, don haka za a sake adana ajiyar kota-kwana na baya zuwa sabon wayarka (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An kasa sabunta ajiyar kota kwana na %1$d, don haka za a sake adana ajiyar kota-kwana na baya zuwa sabon wayarka (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An kasa sabunta ajiyar ko ta kwnanan abun %1$d, don haka ajiyar ko ta kwanan wannan abun da akayi akan %2$s zai maidu zuwa kan sabon wayar ka (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An kasa sabunta ajiyar ko ta kwnanan abubuwan %1$d, don haka ajiyar ko ta kwanan wanɗannan abun da akayi akan %2$s zai maidu zuwa kan sabon wayar ka (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An kasa sabunta ajiyar kota kwana na %1$d, don haka za a sake adana ajiyar kota-kwana na baya zuwa sabon tabulet ɗinka (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An kasa sabunta ajiyar kota kwana %1$d, don haka za a sake adana ajiyar kota-kwana na baya a sabon tabulet ɗinka (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An kasa sabunta ajiyar ko ta kwnanan abun %1$d, don haka ajiyar ko ta kwanan wannan abun da akayi akan %2$s zai maidu zuwa kan sabon tabulet ɗin ka (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An kasa sabunta ajiyar ko ta kwnanan abubuwa %1$d, don haka ajiyar ko ta kwanan waɗannan abun da akayi akan %2$s zai maidu zuwa kan sabon tabulet ɗin ka (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Za a goge bayanin a cikin kwana %d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Za a goge bayanin a cikin kwanaki %d.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zai ƙare aiki nan da kwana %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Zai ƙare aiki nan da kwanaki %d</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Yawancin an sake adana bayananka, amma ba a shigar da manhajar %d ba.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Yawancin an sake adana bayananka, amma ba a shigar da manhajojin %d ba.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sabon album %d yana samuwa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sabon albums %d yana samuwa</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An zaɓa album %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An zaɓi albums %d</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 avatar da %d samfurin abun da aka zana</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 avatar da %d samfurin abubuwan da aka zana</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Awa 1 minti %d ya rage</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Awa 1 mintuna %d suka rage</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An daidaita hoto 1 da bidiyo %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An daidaita hoto 1 da bidiyoyi %d</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An zaɓi abu %1$d (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An zaɓi abubuwa %1$d (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d hoto da kuma bidiyo 1 (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d hotuna da kuma bidiyo 1 (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d hoto (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d hotuna (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An zaɓi %1$d (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An zaɓi %1$d (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d bidiyo (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d bidiyoyi (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Fayil na %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Fayilolin %d</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Awa %d minti 1 ya rage</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Awanni %d minti 1 ya rage</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An sauke hoto %d daga cloud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An sauke hotuna %d daga cloud.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An sauke abu %d daga cloud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An sauke abubuwa %d daga cloud.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d minti</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d mintuna</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d minti ya rage</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d mintuna ya rage</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An daidaita hoto %d da bidiyo 1</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An daidaita hotuna %d da bidiyo 1</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An daidaita hoto %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An daidaita hotuna %d</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Hoto %d ko bidiyo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Hotuna %d da bidiyoyi</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d an zaɓa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d an zaɓa</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An sauke bidiyon %d daga cloud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An sauke bidiyoyin %d daga cloud.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">An daidaita bidiyo %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">An daidaita bidiyoyi %d</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Batiri yayi ƙasa. Yi caji zuwa aƙalla %d%% don yin ajiyar kota-kwana na wayarka.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Batiri yayi ƙasa. Yi caji zuwa aƙalla %d%% don yin ajiyar kota-kwana na wayarka.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ajiyar ko ta kwanar ka na ɗan lokaci zai ƙare a cikin kwana %d. Maido shi yanzu ko ɗage ranar ƙarewar idan kana buƙatar ƙarin lokaci.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ajiyar ko ta kwanar ka na ɗan lokaci zai ƙare a cikin kwana %d. Maido shi kwanan nan ko ɗage ranar ƙarewar idan kana buƙatar ƙarin lokaci.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ɗage kwana %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ɗage kwanaki %d</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d avatars</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar da 1 samfurin abun da aka zana</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d avatars da 1 samfurin abun da aka zana</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d samfuran abun da aka zana</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d abubuwan da aka tsara na musamman</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Abu %d ya rage</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Abubuwa %d suka rage</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Na'urar Samsung %d da aka haɗa"</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Na'urorin Samsung %d da aka haɗa"</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tunatarwar %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Tunatarwar %d</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Rijistarku ya kare a %1$s. Za a goge bayananku a cikin kwana %2$d. Sake kunna rijistarku don adana bayananku.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Rijistarku ya kare a %1$s. Za a goge bayananku a cikin kwanaki %2$d. Sake kunna rijistarku don adana bayananku.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Batiri yayi ƙasa. Yi caji zuwa aƙalla %d%% don yin ajiyar kota-kwana na tabulet ɗinka.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Batiri yayi ƙasa. Yi caji zuwa aƙalla %d%% don yin ajiyar kota-kwana na tabulet ɗinka.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ajiye bayanai marasa iyaka zuwa %1$s na har zuwa kwana %2$d ko sake adana bayanan da ka yi ajiyar kota-kwana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ajiye bayanai marasa iyaka zuwa %1$s na har zuwa kwanaki %2$d ko sake adana bayanan da ka yi ajiyar kota-kwana.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Za a share wannan ajiyar kota-kwana a cikin kwana %d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Za a share wannan ajiyar kota-kwana a cikin kwanaki %d.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sake gwadawa a cikin awa %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sake gwadawa a cikin awanni %d</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sake gwadawa a cikin awa %d minti 1</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sake gwadawa a cikin awanni %d minti 1</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sake gwadawa a cikin minti %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sake gwadawa a cikin mintuna %d</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sake gwadawa a cikin awa 1 minti %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sake gwadawa a cikin awa 1 mintuna %d</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ajiyar kota-kwanan ka yana a tsare akan %1$s. Kana da kwana %2$d don sake adana shi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ajiyar kota-kwanan ka yana a tsare akan %1$s. Kana da kwanaki %2$d don sake adana shi.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Za a goge ajiyar kota-kwanan ka a cikin kwana %d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Za a goge ajiyar kota-kwanan ka a cikin %d kwanaki.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ba a sake adana bayananka zuwa wayarka ba. Kana da kwana %d da ya rage don sake adana shi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ba a sake adana bayananka zuwa wayarka ba. Kana da kwanaki %d da ya rage don sake adana shi.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ba a sake adana bayananka zuwa tabulet ɗinka ba. Kana da kwana %d da ya rage don sake adana shi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ba a sake adana bayananka zuwa tabulet ɗinka ba. Kana da kwanaki %d da ya rage don sake adana shi.</item>
+    </plurals>
+</resources>

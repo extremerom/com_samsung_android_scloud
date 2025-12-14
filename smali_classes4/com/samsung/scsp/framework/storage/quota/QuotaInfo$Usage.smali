@@ -1,0 +1,50 @@
+.class public Lcom/samsung/scsp/framework/storage/quota/QuotaInfo$Usage;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/samsung/scsp/framework/storage/quota/QuotaInfo;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x9
+    name = "Usage"
+.end annotation
+
+
+# instance fields
+.field public checked:Z
+    .annotation runtime Ls1/b;
+        value = "quota_check"
+    .end annotation
+.end field
+
+.field public cid:Ljava/lang/String;
+    .annotation runtime Ls1/b;
+        value = "cid"
+    .end annotation
+.end field
+
+.field public count:J
+    .annotation runtime Ls1/b;
+        value = "cnt"
+    .end annotation
+.end field
+
+.field public size:J
+    .annotation runtime Ls1/b;
+        value = "size"
+    .end annotation
+.end field
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method

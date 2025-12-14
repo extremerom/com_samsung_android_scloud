@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/description_line_spacing_extra"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextDescription" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/u2022" android:importantForAccessibility="no" android:textAlignment="viewStart" android:layout_marginStart="@dimen/description_text_padding_start" />
+    <TextView android:textAppearance="@style/TextSubDescription" android:id="@id/explanation_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="viewStart" android:layout_marginStart="@dimen/description_text_padding_start" android:breakStrategy="simple" />
+</LinearLayout>

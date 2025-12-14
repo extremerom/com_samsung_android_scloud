@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<runtime-manifest
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <policy android:label="@string/samsung_cloud_no_brand" android:enabled="true" android:priority="2" type="SALESCODE" value="VZW" />
+        <policy android:label="@string/samsung_cloud_no_brand" android:enabled="true" android:priority="2" type="SALESCODE" value="VPP" />
+        <policy android:label="@string/samsung_cloud" android:enabled="true" android:priority="1" minValue="50100" type="ONEUI" />
+        <policy android:label="@string/samsung_cloud_jpn" android:enabled="true" type="SALESCODE" value="DCM" />
+        <policy android:label="@string/samsung_cloud_jpn" android:enabled="true" type="SALESCODE" value="KDI" />
+        <policy android:label="@string/samsung_cloud_jpn" android:enabled="true" type="SALESCODE" value="UQM" />
+        <policy android:label="@string/samsung_cloud_jpn" android:enabled="true" type="SALESCODE" value="JCO" />
+        <policy android:label="@string/samsung_cloud_jpn" android:enabled="true" type="SALESCODE" value="RKT" />
+        <policy android:label="@string/samsung_cloud_jpn" android:enabled="true" type="SALESCODE" value="SJP" />
+        <policy android:label="@string/samsung_cloud_jpn" android:enabled="true" type="SALESCODE" value="XJP" />
+    </application>
+    <activity android:name="com.samsung.android.scloud.app.ui.splash.launcher">
+        <policy android:label="@string/cloud" minValue="60000" type="ONEUI" />
+    </activity>
+    <activity android:name="com.samsung.android.scloud.app.ui.splash.launcher.jpn">
+        <policy android:label="@string/cloud" minValue="60000" type="ONEUI" />
+    </activity>
+    <activity android:name="com.samsung.android.scloud.app.ui.splash.launcher.finder">
+        <policy android:label="@string/cloud" minValue="60000" type="ONEUI" />
+    </activity>
+    <activity android:name="com.samsung.android.scloud.app.ui.splash.launcher.finder.jpn">
+        <policy android:label="@string/cloud" minValue="60000" type="ONEUI" />
+    </activity>
+</runtime-manifest>

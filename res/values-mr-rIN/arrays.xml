@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>आपला फोन चार्ज होत आहे.</item>
+        <item>आपला फोन Wi-Fi नेटवर्कशी कनेक्‍ट केला आहे.</item>
+        <item>स्क्रीन बंद आहे.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>आपल्या टॅबलेटचे चार्जिंग होत आहे.</item>
+        <item>आपला टॅबलेट Wi-Fi नेटवर्कशी कनेक्‍ट केला आहे.</item>
+        <item>स्क्रीन बंद आहे.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>आपण बॅक अप करू शकता तो डेटा आपल्या फोन वर किंवा ऑपरेटिंग सिस्टम वर आधारित भिन्न असू शकतो.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>आपल्या टॅबलेट किंवा ऑपरेटिंग सिस्टम वर आधारित आपण बॅक अप करू इच्छित असलेला डेटा भिन्न असू शकतो.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>संपर्क: सिंक केलेल्या खात्यांमधील संपर्क</item>
+        <item>दिनदर्शिका: सिंक केलेल्या खात्यांमधील कार्यक्रम आणि कार्ये</item>
+        <item>Galaxy Themes: थीम आणि डीफॉल्ट वॉलपेपर</item>
+        <item>ऍप्स: गैर-सुसंगत इन्‍स्‍टॉलेशन फाइल आणि सॅमसंग नसलेल्या ऍप्समधील डेटा</item>
+        <item>सुरक्षित फोल्डर: ऍप्स आणि डेटा</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>संपर्क: सिंक केलेल्या खात्यांमधील संपर्क</item>
+        <item>दिनदर्शिका: सिंक केलेल्या खात्यांमधील कार्यक्रम आणि कार्ये</item>
+        <item>Galaxy Themes: थीम आणि डीफॉल्ट वॉलपेपर</item>
+        <item>ऍप्स: असमर्थित इन्स्टॉलेशन फाइल्स</item>
+        <item>सुरक्षित फोल्डर: ऍप्स आणि डेटा</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>फोन: कॉल आणि संदेश इतिहास</item>
+        <item>संदेश: सुधारित संदेश, मल्टिमीडिया संदेश आणि टेक्स्ट संदेश</item>
+        <item>संपर्क: आपल्या उपकरणा वर जतन केलेले संपर्क, ईमेल पत्‍ते आणि व्यवसाय कार्ड्स</item>
+        <item>दिनदर्शिका: आपल्या उपकरणा वर जतन केलेले उपक्रम आणि कार्य</item>
+        <item>घड्याळ: सतर्क, जागतिक घड्याळ आणि टाइमर्स</item>
+        <item>सेटिंग्स: ऍक्सेसेबिलिटी सेटिंग्स, रिंगटोन्स, सॅमसंग कीबोर्ड पर्याय, Wi-Fi सेटिंग्स, पेअर केलेली ब्लुटूथ डिव्हाईसस, चेहरा ओळख सेटिंग्स, फिंगरप्रिंट सेटिंग्स आणि Always On Display सेटिंग्स (आपल्या डिफॉल्ट रिंगटोनचा बॅकअप घेतला जाणार नाही)</item>
+        <item>मुख्‍य स्‍क्रीन: लेआउट, वॉलपेपर आणि Samsung DeX सेटिंग्स</item>
+        <item>ऍप्स: इन्स्टॉलेशन फाइल आणि ऍप्स सेटिंग्‍स</item>
+        <item>आवाज रेकॉर्डर: रेकॉर्डिंग्स</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>संगीत: MP3, FLAC, WAV, M4A, OGG आणि इतर संगीत फाइल्स</item>
+        <item>दस्तऐवज: PDF, Word, Excel, PowerPoint आणि इतर दस्तऐवज</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: चॅट इतिहास</item>
+        <item>%s: लॉक केलेल्या टिपा</item>
+        <item>%s: पासवर्ड-सुरक्षित डेटा</item>
+        <item>%s: ऍप्स आणि ऍप्स डेटा</item>
+        <item>%s: सिंक केलेल्या खात्यां मधील उपक्रम</item>
+        <item>सॅमसंग ब्लॉकचेन कीस्टोर</item>
+        <item>खाजगी की आणि रिकव्‍हरी वाक्यांश</item>
+        <item>डेटा जो अनुप्रयोगाच्या धोरणां मुळे हस्तांतरित केला जाऊ शकत नाही</item>
+        <item>सुरक्षितता किंवा सुसंगततेच्या समस्यां मुळे हस्तांतरित न केले जाऊ शकणारे ऍप्स: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>केवळ-वाचनीय संपर्क</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>डिफॉल्ट वॉलपेपर</item>
+        <item>Galaxy Themes वॉलपेपर</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>एमर्जन्सि सतर्क संदेश</item>
+        <item>मसुदे आणि अयशस्‍वी झालेले संदेश</item>
+        <item>iMessage प्रभावां सह असलेले संदेश</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>लॉक केलेली सामग्री</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>फोन: कॉल आणि संदेश इतिहास</item>
+        <item>संदेश: सुधारित संदेश, मल्टिमीडिया संदेश आणि टेक्स्ट संदेश</item>
+        <item>घड्याळ: सतर्क, जागतिक घड्याळ आणि टाइमर्स</item>
+        <item>सेटिंग्स: ऍक्सेसेबिलिटी सेटिंग्स, रिंगटोन, सॅमसंग कीबोर्ड पर्याय, Wi-Fi सेटिंग्स, पेअर केलेली ब्लुटूथ डिव्हाईसे आणि Always On Display सेटिंग्स (डीफॉल्ट रिंगटोन एन्क्रिप्‍ट केलेली नाही)</item>
+        <item>ऍप्स: ऍप सेटिंग्स</item>
+        <item>मुख्‍य स्‍क्रीन: लेआउट, वॉलपेपर आणि Samsung DeX सेटिंग्स</item>
+        <item>आवाज रेकॉर्डर: रेकॉर्डिंग्स</item>
+    </string-array>
+</resources>

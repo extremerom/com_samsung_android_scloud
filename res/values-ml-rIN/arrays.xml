@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>നിങ്ങളുടെ ഫോൺ ചാർജ്ജ് ചെയ്യുകയാണ്.</item>
+        <item>നിങ്ങളുടെ ഫോൺ ഒരു Wi-Fi നെറ്റ്‌‌വര്‍ക്കിലേക്ക് ബന്ധിപ്പിച്ചിട്ടുണ്ട്.</item>
+        <item>സ്ക്രീൻ ഓഫ് ആണ്.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>നിങ്ങളുടെ ടാബ്‌ലറ്റ് ചാർജ്ജ് ചെയ്യുകയാണ്.</item>
+        <item>നിങ്ങളുടെ ടാബ്‌ലറ്റ് ഒരു Wi-Fi നെറ്റ്‌‌വര്‍ക്കിലേക്ക് ബന്ധിപ്പിച്ചിട്ടുണ്ട്.</item>
+        <item>സ്ക്രീൻ ഓഫ് ആണ്.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>നിങ്ങളുടെ ‌ഫോണിന് അല്ലെങ്കിൽ ഓപ്പറേറ്റിംഗ് സിസ്റ്റത്തിന് അനുസൃതമായി നിങ്ങൾക്ക് ബാക്കപ്പ് ചെയ്യാവുന്ന ഡാറ്റ വ്യത്യാസപ്പെട്ടേക്കാം.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>നിങ്ങളുടെ ടാബ്‌ലറ്റിന് അല്ലെങ്കിൽ ഓപ്പറേറ്റിംഗ് സിസ്റ്റത്തിന് അനുസൃതമായി നിങ്ങൾക്ക് ബാക്കപ്പ് ചെയ്യാവുന്ന ഡാറ്റ വ്യത്യാസപ്പെട്ടേക്കാം.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>കോൺടാക്ടുകൾ: സമന്വയിപ്പിച്ച അക്കൗണ്ടുകളിൽ നിന്നുള്ള കോൺടാക്ടുകൾ</item>
+        <item>കലണ്ടർ: സമന്വയിപ്പിച്ച അക്കൗണ്ടുകളിൽ നിന്നുള്ള ഇവന്‍റുകളും ചുമതലകളും</item>
+        <item>Galaxy Themes: തീമുകളും ഡിഫോൾട്ട് വാൾപേപ്പറും</item>
+        <item>ആപ്പുകൾ: സാംസങ്ങ് ഇതര ആപ്പുകളിൽ നിന്നുള്ള അനുയോജ്യമല്ലാത്ത ഇൻസ്റ്റാളേഷൻ ഫയലുകളും ഡാറ്റയും</item>
+        <item>സുരക്ഷിത ഫോൾഡർ: ആപ്പുകളും ഡാറ്റയും</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>കോൺടാക്ടുകൾ: സമന്വയിപ്പിച്ച അക്കൗണ്ടുകളിൽ നിന്നുള്ള കോൺടാക്ടുകൾ</item>
+        <item>കലണ്ടർ: സമന്വയിപ്പിച്ച അക്കൗണ്ടുകളിൽ നിന്നുള്ള ഇവന്‍റുകളും ചുമതലകളും</item>
+        <item>Galaxy Themes: തീമുകളും ഡിഫോൾട്ട് വാൾപേപ്പറും</item>
+        <item>ആപ്പുകൾ: പിന്തുണയ്ക്കാത്ത ഇൻസ്റ്റാളേഷൻ ഫയലുകൾ</item>
+        <item>സുരക്ഷിത ഫോൾഡർ: ആപ്പുകളും ഡാറ്റയും</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ഫോൺ: കോൾ, സന്ദേശ ചരിത്രം</item>
+        <item>സന്ദേശങ്ങൾ: മികച്ച സന്ദേശങ്ങൾ, മൾട്ടിമീഡിയ സന്ദേശങ്ങൾ, ടെക്സ്റ്റ് സന്ദേശങ്ങൾ</item>
+        <item>കോൺടാക്ടുകൾ: കോൺടാക്ടുകൾ, ഈമെയിൽ വിലാസങ്ങൾ, ബിസിനസ് കാർഡുകൾ എന്നിവ നിങ്ങളുടെ ഉപകരണത്തിൽ സംരക്ഷിക്കപ്പെടുന്നു</item>
+        <item>കലണ്ടർ: നിങ്ങളുടെ ഉപകരണത്തിൽ സംരക്ഷിച്ചിട്ടുള്ള ഇവന്‍റുകളും ചുമതലകളും</item>
+        <item>ക്ലോക്ക്: അലാറങ്ങൾ, ആഗോള ക്ലോക്കുകൾ, ടൈമറുകൾ</item>
+        <item>ക്രമീകരണങ്ങൾ: ആക്സസിബിലിറ്റി ക്രമീകരണങ്ങൾ, റിംഗ്ടോണുകള്‍, സാംസങ്ങ് കീബോർഡ് ഐച്ഛികങ്ങൾ, Wi-Fi ക്രമീകരണങ്ങൾ, ബന്ധിത ബ്ലൂടൂത്ത് ഉപകരണങ്ങൾ, മുഖം തിരിച്ചറിയൽ ക്രമീകരണങ്ങൾ, വിരലടയാള ക്രമീകരണങ്ങൾ, Always On Display ക്രമീകരണങ്ങൾ (നിങ്ങളുടെ ഡിഫോൾട്ട് റിംഗ്ടോൺ ബാക്കപ്പ് ചെയ്യപ്പെടില്ല)</item>
+        <item>ഹോം സ്ക്രീൻ: ലേഔട്ട്, വാൾപേപ്പറുകൾ, Samsung DeX ക്രമീകരണങ്ങൾ</item>
+        <item>ആപ്പുകൾ: ഇന്‍‌സ്റ്റാള്‍ ചെയ്യലിനുള്ള ഫയലുകളും ആപ്പ് ക്രമീകരണങ്ങളും</item>
+        <item>ശബ്ദ റെക്കോർഡർ: റെക്കോർഡിംഗുകൾ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>സംഗീതം: MP3, FLAC, WAV, M4A, OGG, മറ്റ് സംഗീത ഫയലുകൾ</item>
+        <item>പ്രമാണങ്ങൾ: PDF, Word, Excel, PowerPoint, മറ്റ് പ്രമാണങ്ങൾ</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: ചാറ്റ് ചരിത്രം</item>
+        <item>%s: ലോക്ക് ചെയ്യപ്പെട്ട കുറിപ്പുകൾ</item>
+        <item>%s: പാസ്‌വേഡ് പരിരക്ഷിത ഡാറ്റ</item>
+        <item>%s: ആപ്പുകളും ആപ്പ് ഡാറ്റയും</item>
+        <item>%s: സമന്വയിപ്പിച്ച അക്കൗണ്ടുകളിൽ നിന്നുള്ള ഇവന്‍റുകൾ</item>
+        <item>സാംസങ്ങ് ബ്ലോക്ക്ചെയിൻ കീസ്റ്റോർ</item>
+        <item>സ്വകാര്യ കീയും വീണ്ടെടുക്കൽ പദവും</item>
+        <item>ആപ്പിന്‍റെ നയങ്ങൾ നിമിത്തം കൈമാറാനാവാത്ത ഡാറ്റ</item>
+        <item>സുരക്ഷ അല്ലെങ്കിൽ അനുയോജ്യത പ്രശ്നങ്ങൾ മൂലം കൈമാറാനാവാത്ത ആപ്പുകൾ: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>വായന-മാത്രം കോൺടാക്‌റ്റുകൾ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>ഡിഫോൾട്ട് വാൾപേപ്പർ</item>
+        <item>Galaxy Themes വാൾപേപ്പറുകൾ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>അടിയന്തിര സൂചനാ സന്ദേശങ്ങൾ</item>
+        <item>ഡ്രാഫ്റ്റുകളും പരാജയപ്പെട്ട സന്ദേശങ്ങളും</item>
+        <item>iMessage ഇഫക്റ്റുകളുള്ള സന്ദേശങ്ങൾ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>ലോക്ക് ചെയ്ത ഉള്ളക്കം</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ഫോൺ: കോൾ, സന്ദേശ ചരിത്രം</item>
+        <item>സന്ദേശങ്ങൾ: മികച്ച സന്ദേശങ്ങൾ, മൾട്ടിമീഡിയ സന്ദേശങ്ങൾ, ടെക്സ്റ്റ് സന്ദേശങ്ങൾ</item>
+        <item>ക്ലോക്ക്: അലാറങ്ങൾ, ആഗോള ക്ലോക്കുകൾ, ടൈമറുകൾ</item>
+        <item>ക്രമീകരണങ്ങൾ: ആക്‌സസിബിലിറ്റി ക്രമീകരണങ്ങൾ, റിംഗ്‌ടോണുകൾ, സാംസങ്ങ് കീബോർഡ് ഐച്‌ഛികങ്ങൾ, Wi-Fi ക്രമീകരണങ്ങൾ, ബന്ധിപ്പിച്ച ബ്ലൂടൂത്ത് ഉപകരണങ്ങൾ, Always On Display ക്രമീകരണങ്ങൾ (ഡിഫോൾട്ട് റിംഗ്‌ടോൺ എൻക്രിപ്‌റ്റ് ചെയ്യുന്നില്ല)</item>
+        <item>ആപ്പുകൾ: ആപ്പ് ക്രമീകരണം</item>
+        <item>ഹോം സ്ക്രീൻ: ലേഔട്ട്, വാൾപേപ്പറുകൾ, Samsung DeX ക്രമീകരണങ്ങൾ</item>
+        <item>ശബ്ദ റെക്കോർഡർ: റെക്കോർഡിംഗുകൾ</item>
+    </string-array>
+</resources>

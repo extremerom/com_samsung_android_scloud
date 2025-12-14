@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Wayarku na yin caji.</item>
+        <item>Wayarku baya haɗe da hanyar sadarwa na Wi-Fi.</item>
+        <item>Allon yana kashe.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tabulet ku na yin caji.</item>
+        <item>Tabulet ɗinku baya haɗe da hanyar sadarwa na Wi-Fi.</item>
+        <item>Allon yana kashe.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Bayanan da za ka iya adanawa zai iya bambanta dangane da wayarka ko tsarin gudanarwa.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Bayanan da za ka iya adanawa zai iya bambanta dangane da tabulet ɗinka ko tsarin gudanarwa.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Lambobin tuntuɓa: lambobin tuntuɓa daga daidaitaccen asusu</item>
+        <item>Kalanda: taruka da ayyuka daga ajiyeyyen asusu</item>
+        <item>Galaxy Themes: launuka da fuskar bango na ainihi</item>
+        <item>Manhajoji: Sauke fayilolin da basu dace ba da bayanai daga manhajojin da ba na Samsung ba</item>
+        <item>Folda Mai Kariya: Manhaja da bayanai</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Lambobin tuntuɓa: lambobin tuntuɓa daga daidaitaccen asusu</item>
+        <item>Kalanda: taruka da ayyuka daga ajiyeyyen asusu</item>
+        <item>Galaxy Themes: launuka da fuskar bango na ainihi</item>
+        <item>Manhajoji: fayilolin shigarwa marasa tallafi</item>
+        <item>Folda Mai Kariya: Manhaja da bayanai</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Waya: tarihin kira da saƙonni</item>
+        <item>Saƙonni: saƙonni da aka haɓaka, saƙonnin maltimidiya, da saƙonnin rubutu</item>
+        <item>"Lambobin Tuntuɓa: lambobin tuntuɓa, adireshin imel, da katunan kasuwanci da aka ajiye akan na'urarku"</item>
+        <item>"Kalanda: taruka da ayyuka da aka ajiye akan na'ura ku"</item>
+        <item>Agogo: alam, agogon duniya, da mai naɗa lokaci</item>
+        <item>"Saiti: damar izinin shiga saiti, sautin ringi, zaɓin Allon madannan Samsung, saitunan Wi-Fi, haɗaɗɗen na'urorin Bluetooth, saitin gane fuska, saitin zanen hannu, da saitunan Always On Display (waƙoƙin ringi na ainihi ba zai ajiyu ba)"</item>
+        <item>Allon gida: shimfidawa, fuskar bangon waya, da saitunan Samsung DeX</item>
+        <item>Manhajoji: ɗaura fayiloli da saitunan manhajoji</item>
+        <item>Naɗa murya: naɗawa</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Kiɗa: MP3, FLAC, WAV, M4A, OGG, da sauran fayilolin kiɗa</item>
+        <item>Takardu: PDF, Word, Excel, PowerPoint, da sauran takardu</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: tarihin chat</item>
+        <item>%s: bayanan kula da aka kulle</item>
+        <item>%s: bayanan da aka tsare da kalmar sirri</item>
+        <item>%s: manhajoji da bayanan manhajoji</item>
+        <item>%s: Aukuwa da suka faru daga asusun da aka daidaita</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Keɓaɓɓen mabudi da kalmar dawowa</item>
+        <item>Bayanan da ba za a iya ajiyewa ba saboda dokokin manhajar</item>
+        <item>Manhajoji da ba za a iya turawa ba saboda matsalolin tsaro ko dacewa: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Karanta lambobin tuntuɓa kawai</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Asalin fuskar allo</item>
+        <item>Hoton fuskar allo na Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Saƙonnin faɗakarwa na gaggawa</item>
+        <item>Saƙonnin da aka dana da saƙon ya faɗi</item>
+        <item>Saƙonni tare da tasiran iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Ƙunshin bayani da aka kulle</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Waya: tarihin kira da saƙonni</item>
+        <item>Saƙonni: saƙonni da aka haɓaka, saƙonnin maltimidiya, da saƙonnin rubutu</item>
+        <item>Agogo: alam, agogon duniya, da mai naɗa lokaci</item>
+        <item>"Saituna: saitunan samun izinin shiga, sautin ringi, zaɓuɓɓukan Allon Madannan Samsung, Saitunan Wi-Fi, na'urorin Bluetooth da aka haɗa, da kuma saitunan Always On Display (aininhin ringi ba wanda aka kulle ba)"</item>
+        <item>Manhajoji: saitunan manhaja</item>
+        <item>Allon gida: shimfidawa, fuskar bangon waya, da saitunan Samsung DeX</item>
+        <item>Naɗa murya: naɗawa</item>
+    </string-array>
+</resources>

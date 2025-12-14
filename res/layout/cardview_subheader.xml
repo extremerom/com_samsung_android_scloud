@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@color/window_background_color" android:paddingBottom="5.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/cardview_padding_start" android:paddingEnd="@dimen/cardview_padding_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextSubHeader" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/security" android:accessibilityHeading="true" />
+</LinearLayout>

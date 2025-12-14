@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/activity_premium_storage_guide_0" android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:background="@color/round_corner_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.samsung.android.scloud.app.core.component.RoundCorneredRecyclerView android:id="@id/rv_guide_list" android:tag="binding_1" android:layout_width="match_parent" android:layout_height="wrap_content" app:bottomPadding="0.0dp" app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+    </FrameLayout>
+</LinearLayout>

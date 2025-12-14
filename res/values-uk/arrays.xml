@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Телефон заряджається.</item>
+        <item>Телефон підключено до мережі Wi-Fi.</item>
+        <item>Екран вимкнено.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Триває зарядження планшета.</item>
+        <item>Планшет підключено до мережі Wi-Fi.</item>
+        <item>Екран вимкнено.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Залежно від моделі телефону або операційної системи дані, для яких передбачено створення резервної копії, можуть відрізнятися.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Доступні для резервного копіювання дані можуть бути різними залежно від планшета або версії операційної системи.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Контакти: контакти з синхронізованих облікових записів</item>
+        <item>Календар: події та завдання із синхронізованих облікових записів</item>
+        <item>Galaxy Themes: теми і заставка за замовчуванням</item>
+        <item>Програми: несумісні інсталяційні файли й дані з програм сторонніх постачальників</item>
+        <item>Захищена папка: програми і дані</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Контакти: контакти з синхронізованих облікових записів</item>
+        <item>Календар: події та завдання із синхронізованих облікових записів</item>
+        <item>Galaxy Themes: теми і заставка за замовчуванням</item>
+        <item>Програми: непідтримувані файли інсталяції</item>
+        <item>Захищена папка: програми і дані</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Телефон: журнал викликів та повідомлень</item>
+        <item>Повідомлення: розширені, мультимедійні та текстові повідомлення</item>
+        <item>Контакти: контакти, адреси електронної пошти та візитки, збережені на вашому пристрої</item>
+        <item>Календар: події та завдання, збережені на вашому пристрої</item>
+        <item>Годинник: будильники, світовий час і таймери</item>
+        <item>Налаштування: налаштування спеціальних можливостей, звуки дзвінка, параметри клавіатури Samsung, налаштування Wi-Fi, пристрої Bluetooth, з якими створено пару, налаштування розпізнавання обличчя та відбитків пальців, а також налаштування Always On Display (резервну копію звуку дзвінка за замовчуванням створено не буде)</item>
+        <item>Головний екран: макет, заставки і налаштування Samsung DeX</item>
+        <item>Програми: файли встановлення та параметри програм</item>
+        <item>Диктофон: записи</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Музики: MP3, FLAC, WAV, M4A, OGG та інші типи музичних файлів</item>
+        <item>Документи: PDF, Word, Excel, PowerPoint та інші типи документів</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: історія чата</item>
+        <item>%s: заблоковані нотатки</item>
+        <item>%s: дані, захищені паролем</item>
+        <item>%s: програми та їхні дані</item>
+        <item>%s: події із синхронізованих облікових записів</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Приватний ключ і фраза для відновлення</item>
+        <item>Дані, які не можна передавати відповідно до політик програми</item>
+        <item>Програми, які неможливо перенести через проблеми з безпекою чи сумісністю: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Контакти лише для читання</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Стандартна заставка</item>
+        <item>Заставки «Galaxy Themes»</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Екстрені повідомлення</item>
+        <item>Чернетки та повідомлення, що не було надіслано</item>
+        <item>Повідомлення з ефектами iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Заблокований вміст</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Телефон: журнал викликів та повідомлень</item>
+        <item>Повідомлення: розширені, мультимедійні та текстові повідомлення</item>
+        <item>Годинник: будильники, світовий час і таймери</item>
+        <item>Налаштування: налаштування спеціальних можливостей, звуки дзвінка, параметри клавіатури Samsung, налаштування Wi-Fi, пристрої Bluetooth, із якими створено пару, та Always On Display (звук дзвінка за замовчуванням не шифрується)</item>
+        <item>Програми: налаштування програми</item>
+        <item>Головний екран: макет, заставки і налаштування Samsung DeX</item>
+        <item>Диктофон: записи</item>
+    </string-array>
+</resources>

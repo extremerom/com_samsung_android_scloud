@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Tālrunis tiek uzlādēts.</item>
+        <item>Tālrunis nav savienots ar Wi-Fi tīklu.</item>
+        <item>Ekrāns ir izslēgts.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Jūsu planšetdators tiek uzlādēts.</item>
+        <item>Planšetdators nav savienots ar Wi-Fi tīklu.</item>
+        <item>Ekrāns ir izslēgts.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Dati, ko varat dublēt, var atšķirties atkarībā no tālruņa vai operētājsistēmas.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Dati, ko varat dublēt, var atšķirties atkarībā no planšetdatora vai operētājsistēmas.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontakti: kontakti no sinhronizētajiem kontiem</item>
+        <item>Kalendārs: notikumi un uzdevumi no sinhronizētajiem kontiem</item>
+        <item>Galaxy Themes: motīvi un noklusējuma fona attēli</item>
+        <item>Programmas: nesaderīgi instalācijas faili un dati no programmām, kas nav Samsung programmas</item>
+        <item>Secure Folder: programmas un dati</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kontakti: kontakti no sinhronizētajiem kontiem</item>
+        <item>Kalendārs: notikumi un uzdevumi no sinhronizētajiem kontiem</item>
+        <item>Galaxy Themes: motīvi un noklusējuma fona attēli</item>
+        <item>Programmas: neatbalstīti instalācijas faili</item>
+        <item>Secure Folder: programmas un dati</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Tālrunis: zvanu un ziņu vēsture</item>
+        <item>Ziņas: uzlabotās ziņas, multiziņas un īsziņas</item>
+        <item>Kontakti: ierīcē saglabāti kontakti, e-pasta adreses un vizītkartes</item>
+        <item>Kalendārs: ierīcē saglabātie notikumi un uzdevumi</item>
+        <item>Pulkstenis: modinātāji, pasaules pulksteņi un taimeri</item>
+        <item>Iestatījumi: pieejamības iestatījumi, zvana signāli, Samsung tastatūras iespējas, Wi-Fi iestatījumi, pārī savienotās Bluetooth ierīces, sejas atpazīšanas iestatījumi, pirkstu nospiedumu iestatījumi un Always On Display iestatījumi (jūsu noklusējuma zvana signāls netiks dublēts)</item>
+        <item>Sākuma ekrāns: izkārtojums, fona attēli un Samsung DeX iestatījumi</item>
+        <item>Programmas: instalācijas faili un programmu iestatījumi</item>
+        <item>Balss ierakstītājs: ieraksti</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Mūzika: MP3, FLAC, WAV, M4A, OGG un citi mūzikas faili</item>
+        <item>Dokumenti: PDF, Word, Excel, PowerPoint un citi dokumenti</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: tērzēšanas vēsture</item>
+        <item>%s: bloķētās piezīmes</item>
+        <item>%s: ar paroli aizsargātie dati</item>
+        <item>%s: programmas un programmu dati</item>
+        <item>%s: notikumi no sinhronizētajiem kontiem</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Privātā atslēga un atkopšanas frāze</item>
+        <item>Dati, kurus nevar pārsūtīt programmas politiku dēļ</item>
+        <item>Programmas, ko nevar pārsūtīt drošības vai saderības problēmu dēļ: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Tikai lasāmie kontakti</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Noklusējuma fona attēls</item>
+        <item>Galaxy Themes fona attēli</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Ārkārtas brīdinājumu ziņas</item>
+        <item>Melnraksti un nenosūtītās ziņas</item>
+        <item>Ziņas ar iMessage efektiem</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Bloķēts saturs</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Tālrunis: zvanu un ziņu vēsture</item>
+        <item>Ziņas: uzlabotās ziņas, multiziņas un īsziņas</item>
+        <item>Pulkstenis: modinātāji, pasaules pulksteņi un taimeri</item>
+        <item>Iestatījumi: pieejamības iestatījumi, zvana signāli, Samsung tastatūras iespējas, Wi-Fi iestatījumi, pārī savienotās Bluetooth ierīces un Always On Display iestatījumi (noklusējuma zvana signāls netiks šifrēts)</item>
+        <item>Programmas: programmu iestatījumi</item>
+        <item>Sākuma ekrāns: izkārtojums, fona attēli un Samsung DeX iestatījumi</item>
+        <item>Balss ierakstītājs: ieraksti</item>
+    </string-array>
+</resources>

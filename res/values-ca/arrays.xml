@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>"S'està carregant el telèfon."</item>
+        <item>El telèfon està connectat a una xarxa Wi-Fi.</item>
+        <item>La pantalla està apagada.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>"S'està carregant la tablet."</item>
+        <item>La tablet està connectada a una xarxa Wi-Fi.</item>
+        <item>La pantalla està apagada.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>És possible que les dades de les quals pot fer còpia de seguretat variïn en funció del telèfon o del sistema operatiu.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>És possible que les dades de les quals pot fer còpia de seguretat variïn en funció de la tablet o del sistema operatiu.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Contactes: contactes dels comptes sincronitzats</item>
+        <item>Calendari: esdeveniments i tasques dels comptes sincronitzats</item>
+        <item>Galaxy Themes: temes i fons de pantalla predeterminat</item>
+        <item>"Aplicacions: fitxers d'instal·lació no compatibles i dades d'aplicacions que no són de Samsung"</item>
+        <item>Carpeta segura: aplicacions i dades</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Contactes: contactes dels comptes sincronitzats</item>
+        <item>Calendari: esdeveniments i tasques dels comptes sincronitzats</item>
+        <item>Galaxy Themes: temes i fons de pantalla predeterminat</item>
+        <item>"Aplicacions: fitxers d'instal·lació no admesos"</item>
+        <item>Carpeta segura: aplicacions i dades</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telèfon: historial de trucades i de missatges</item>
+        <item>Missatges: missatges millorats, missatges multimèdia i missatges de text</item>
+        <item>Contactes: contactes, adreces de correu electrònic i targetes de visita desades al teu dispositiu</item>
+        <item>Calendari: esdeveniments i tasques desades al dispositiu</item>
+        <item>Rellotge: alarmes, rellotges mundials i temporitzadors</item>
+        <item>"Ajustaments: ajustaments d'accessibilitat, melodies, opcions del Teclat Samsung, ajustaments del Wi-Fi, dispositius Bluetooth vinculats, ajustaments de reconeixement facial, ajustaments d'empremtes i ajustaments d'Always On Display (no es farà una còpia de seguretat de la melodia predeterminada)"</item>
+        <item>"Pantalla d'inici: ajustaments de Samsung DeX, fons de pantalla i disseny"</item>
+        <item>"Aplicacions: fitxers d'instal·lació i ajustaments d'aplicació"</item>
+        <item>Gravadora de veu: gravacions</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Música: MP3, FLAC, WAV, M4A, OGG i altres fitxers de música</item>
+        <item>Documents: PDF, Word, Excel, PowerPoint i altres documents</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: historial de xat</item>
+        <item>%s: notes bloquejades</item>
+        <item>%s: dades protegides amb contrasenya</item>
+        <item>"%s: aplicacions i dades d'aplicacions"</item>
+        <item>%s: Esdeveniments dels comptes sincronitzats</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Clau privada i frase de recuperació</item>
+        <item>"Dades que no es poden transferir per les polítiques de l'aplicació"</item>
+        <item>Aplicacions que no es poden transferir per problemes de seguretat o compatibilitat: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Contactes de només lectura</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Fons de pantalla predeterminat</item>
+        <item>Fons de pantalla de Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>"Missatges d'avís d'emergència"</item>
+        <item>Esborranys i missatges fallits</item>
+        <item>"Missatges amb efectes d'iMessage"</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Contingut bloquejat</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telèfon: historial de trucades i de missatges</item>
+        <item>Missatges: missatges millorats, missatges multimèdia i missatges de text</item>
+        <item>Rellotge: alarmes, rellotges mundials i temporitzadors</item>
+        <item>"Ajustaments: ajustaments d'accessibilitat, melodies, opcions del Teclat Samsung, ajustaments del Wi-Fi, dispositius Bluetooth vinculats i ajustaments d'Always On Display (melodia predeterminada no xifrada)"</item>
+        <item>"Aplicacions: ajustaments d'aplicacions"</item>
+        <item>"Pantalla d'inici: ajustaments de Samsung DeX, fons de pantalla i disseny"</item>
+        <item>Gravadora de veu: gravacions</item>
+    </string-array>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>يتم شحن الهاتف.</item>
+        <item>هاتفك متصل بشبكة Wi-Fi.</item>
+        <item>الشاشة متوقفة عن التشغيل.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>جهازك اللوحي قيد الشحن.</item>
+        <item>جهازك اللوحي متصل بشبكة Wi-Fi.</item>
+        <item>الشاشة متوقفة عن التشغيل.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>قد تختلف البيانات التي يمكنك نسخها احتياطياً حسب الهاتف أو نظام التشغيل.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>قد تختلف البيانات التي يمكنك نسخها احتياطياً بحسب جهازك اللوحي أو نظام التشغيل.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>جهات الاتصال: جهات الاتصال من حسابات تمت مزامنتها</item>
+        <item>التقويم: أحداث ومهام من حسابات تمت مزامنتها</item>
+        <item>‏Galaxy Themes: سمات وخلفيات افتراضية</item>
+        <item>التطبيقات: ملفات التثبيت غير متوافقة وبيانات من تطبيقات غير Samsung</item>
+        <item>المجلد الآمن: التطبيقات والبيانات</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>جهات الاتصال: جهات الاتصال من حسابات تمت مزامنتها</item>
+        <item>التقويم: أحداث ومهام من حسابات تمت مزامنتها</item>
+        <item>‏Galaxy Themes: سمات وخلفيات افتراضية</item>
+        <item>التطبيقات: ملفات التثبيت غير المدعومة</item>
+        <item>المجلد الآمن: التطبيقات والبيانات</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>الهاتف: محفوظات المكالمات والرسائل</item>
+        <item>الرسائل: الرسائل المحسّنة، ورسائل الوسائط المتعددة، والرسائل النصية</item>
+        <item>جهات الاتصال: جهات الاتصال وعناوين البريد الإلكتروني وبطاقات العمل المحفوظة على جهازك</item>
+        <item>التقويم: الأحداث والمهام المحفوظة على جهازك</item>
+        <item>الساعة: التنبيهات، والساعات العالمية، والمؤقتات</item>
+        <item>الضبط: ضبط إمكانية الوصول ونغمات الرنين وخيارات لوحة مفاتيح Samsung وضبط شبكة Wi-Fi والأجهزة بتقنية البلوتوث المقترنة وضبط التعرف على الوجه وضبط بصمة الإصبع وضبط Always On Display (لن يتم نسخ نغمة الرنين الافتراضية الخاصة بك احتياطياً)</item>
+        <item>الشاشة الرئيسية: التخطيط و الخلفيات و ضبط Samsung DeX</item>
+        <item>التطبيقات: ملفات التثبيت وضبط التطبيق</item>
+        <item>مسجّل الصوت: التسجيلات</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>الموسيقى: ملفات MP3 وFLAC وWAV وM4A وOGG وملفات الموسيقى الأخرى</item>
+        <item>المستندات: مستندات PDF وWord وExcel وPowerPoint ومستندات أخرى</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: سجل الدردشات</item>
+        <item>%s: الملاحظات التي تم إقفالها</item>
+        <item>%s: البيانات المحمية بكلمة مرور</item>
+        <item>%s: التطبيقات وبيانات التطبيق</item>
+        <item>%s: الأحداث من الحسابات التي تمت مزامنتها</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>المفتاح الخاص وجملة الاسترداد</item>
+        <item>البيانات التي لا يمكن نقلها بسبب سياسات التطبيق</item>
+        <item>التطبيقات التي لا يمكن نقلها بسبب مشاكل حماية أو توافق: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>جهات الاتصال للقراءة فقط‬</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>خلفية افتراضية</item>
+        <item>خلفيات Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>رسائل التحذير الطارئ</item>
+        <item>المسودات والرسائل التي فشلت</item>
+        <item>رسائل بتأثيرات iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>المحتوى المحظور</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>الهاتف: محفوظات المكالمات والرسائل</item>
+        <item>الرسائل: الرسائل المحسّنة، ورسائل الوسائط المتعددة، والرسائل النصية</item>
+        <item>الساعة: التنبيهات، والساعات العالمية، والمؤقتات</item>
+        <item>الضبط: ضبط إمكانية الوصول ونغمات الرنين وخيارات لوحة مفاتيح Samsung وضبط شبكة Wi-Fi والأجهزة بتقنية البلوتوث المقترنة وضبط Always On Display (لن يتم تشفير نغمة الرنين الافتراضية)</item>
+        <item>التطبيقات: ضبط التطبيقات</item>
+        <item>الشاشة الرئيسية: التخطيط و الخلفيات و ضبط Samsung DeX</item>
+        <item>مسجّل الصوت: التسجيلات</item>
+    </string-array>
+</resources>

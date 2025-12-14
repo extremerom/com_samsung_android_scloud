@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Puhelin latautuu.</item>
+        <item>Puhelin on yhdistetty Wi-Fi-verkkoon.</item>
+        <item>Näyttö on sammutettu.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tablet-laite latautuu.</item>
+        <item>Tablet-laite on yhdistetty Wi-Fi-verkkoon.</item>
+        <item>Näyttö on sammutettu.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Varmuuskopioitavissa olevat tiedot voivat vaihdella puhelin- tai käyttöjärjestelmäkohtaisesti.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Varmuuskopioitavissa olevat tiedot voivat vaihdella tablet-laite- tai käyttöjärjestelmäkohtaisesti.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Yhteystiedot: synkronoitujen tilien yhteystiedot</item>
+        <item>Kalenteri: synkronoitujen tilien tapahtumat ja tehtävät</item>
+        <item>Galaxy Themes: teemat ja oletustaustakuva</item>
+        <item>Sovellukset: muiden kuin Samsung-sovellusten yhteensopimattomat asennustiedostot ja tiedot</item>
+        <item>Suojattu kansio: sovellukset ja tiedot</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Yhteystiedot: synkronoitujen tilien yhteystiedot</item>
+        <item>Kalenteri: synkronoitujen tilien tapahtumat ja tehtävät</item>
+        <item>Galaxy Themes: teemat ja oletustaustakuva</item>
+        <item>Sovellukset: ei-tuetut asennustiedostot</item>
+        <item>Suojattu kansio: sovellukset ja tiedot</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Puhelin: puhelu- ja viestihistoria</item>
+        <item>Viestit: parannetut viestit, multimediaviestit ja tekstiviestit</item>
+        <item>Yhteystiedot: laitteeseen tallennetut yhteystiedot, sähköpostiosoitteet ja käyntikortit</item>
+        <item>Kalenteri: laitteeseen tallennetut tapahtumat ja tehtävät</item>
+        <item>Kello: herätykset, maailmankellot ja ajastimet</item>
+        <item>Asetukset: helppokäyttöisyysasetukset, soittoäänet, Samsung-näppäimistön asetukset, Wi-Fi-asetukset, pariksi liitetyt Bluetooth-laitteet, kasvojentunnistuksen asetukset, sormenjälkiasetukset ja Always On Displayn asetukset (oletussoittoääntä ei varmuuskopioida)</item>
+        <item>Alkunäyttö: asettelu, taustakuvat ja Samsung DeX:n asetukset</item>
+        <item>Sovellukset: asennustiedostot ja sovellusten asetukset</item>
+        <item>Ääninauhuri: tallenteet</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Musiikki: MP3, FLAC, WAV, M4A, OGG ja muut musiikkitiedostot</item>
+        <item>Asiakirjat: PDF, Word, Excel, PowerPoint ja muut asiakirjat</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: keskusteluhistoria</item>
+        <item>%s: lukittuja muistiinpanoja</item>
+        <item>%s: salasanasuojattuja tietoja</item>
+        <item>%s: sovellukset ja sovellustiedot</item>
+        <item>%s: synkronoitujen tilien tapahtumat</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Yksityinen avain ja palautusilmaus</item>
+        <item>Tietoja ei voi siirtää sovelluksen käytäntöjen vuoksi</item>
+        <item>Sovellukset, joita ei voi siirtää turvallisuus- tai yhteensopivuusongelmien vuoksi: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Vain luku -muotoiset yhteystiedot</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Oletustaustakuva</item>
+        <item>Galaxy Themes -taustakuvat</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Hälytysviestit</item>
+        <item>Luonnokset ja epäonnistuneet viestit</item>
+        <item>Viestit iMessagen tehosteilla</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Lukittu sisältö</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Puhelin: puhelu- ja viestihistoria</item>
+        <item>Viestit: parannetut viestit, multimediaviestit ja tekstiviestit</item>
+        <item>Kello: herätykset, maailmankellot ja ajastimet</item>
+        <item>Asetukset: helppokäyttöisyysasetukset, soittoäänet, Samsung-näppäimistön asetukset, Wi-Fi-asetukset, pariksi liitetyt Bluetooth-laitteet ja Always On Displayn asetukset (oletussoittoääntä ei salata)</item>
+        <item>Sovellukset: sovellusten asetukset</item>
+        <item>Alkunäyttö: asettelu, taustakuvat ja Samsung DeX:n asetukset</item>
+        <item>Ääninauhuri: tallenteet</item>
+    </string-array>
+</resources>

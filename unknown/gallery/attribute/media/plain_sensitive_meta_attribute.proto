@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+import "gallery/attribute/media/image_sensitive_attribute.proto";
+import "gallery/attribute/media/video_sensitive_attribute.proto";
+
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.media.attribute;
+
+option java_multiple_files = true;
+
+ message PlainSensitiveMeta {
+   optional string path         = 1 [(google.api.field_behavior) = REQUIRED]; 
+   optional string album_path   = 2 [(google.api.field_behavior) = REQUIRED]; 
+   optional int64  date_added   = 3 [(google.api.field_behavior) = REQUIRED]; 
+   optional int64  date_modified= 4 [(google.api.field_behavior) = REQUIRED]; 
+   optional int32  width        = 5 [(google.api.field_behavior) = REQUIRED]; 
+   optional int32  height       = 6 [(google.api.field_behavior) = REQUIRED]; 
+   optional string resolution   = 7; 
+   optional int32  orientation  = 8; 
+   optional double latitude     = 9; 
+   optional double longitude    = 10; 
+
+   optional bool   favorite     = 11; 
+   optional int64  localtime    = 12; 
+
+   oneof mime_attribute {
+     ImageSensitiveAttribute image = 13; 
+     VideoSensitiveAttribute video = 14; 
+   }
+ }

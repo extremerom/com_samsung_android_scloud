@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>ನಿಮ್ಮ ಫೋನ್ ಚಾರ್ಜ್ ಆಗುತ್ತಿದೆ.</item>
+        <item>ನಿಮ್ಮ ಫೋನ್ Wi-Fi ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡಿದೆ.</item>
+        <item>ಸ್ಕ್ರೀನ್ ಆಫ್ ಆಗಿದೆ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಚಾರ್ಜಿಂಗ್ ಆಗುತ್ತಿದೆ.</item>
+        <item>ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ Wi-Fi ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡಿದೆ.</item>
+        <item>ಸ್ಕ್ರೀನ್ ಆಫ್ ಆಗಿದೆ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>ನಿಮ್ಮ ಫೋನ್ ಅಥವಾ ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಂ ಆಧಾರದ ಮೇಲೆ ನೀವು ಬ್ಯಾಕಪ್ ಮಾಡಬಹುದಾದ ಡೇಟಾ ಭಿನ್ನವಾಗಿರಬಹುದು.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಮತ್ತು ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ ಆಧರಿಸಿ ನೀವು ಬ್ಯಾಕಪ್ ಮಾಡಬಹುದಾದ ಡೇಟಾವು ಭಿನ್ನವಾಗಿರುತ್ತದೆ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>ಸಂಪರ್ಕಗಳು: ಸಿಂಕ್ ಮಾಡಲಾದ ಖಾತೆಗಳಿಂದ ಸಂಪರ್ಕಗಳು</item>
+        <item>ಕ್ಯಾಲೆಂಡರ್: ಸಿಂಕ್ ಮಾಡಲಾದ ಖಾತೆಗಳಿಂದ ಈವೆಂಟ್‌ಗಳು ಮತ್ತು ಕಾರ್ಯಗಳು</item>
+        <item>Galaxy Themes: ಥೀಮ್‌ಗಳು ಮತ್ತು ಡೀಫಾಲ್ಟ್ ವಾಲ್‌ಪೇಪರ್</item>
+        <item>ಆ್ಯಪ್‌ಗಳು: ಸ್ಯಾಮ್‌ಸಂಗ್-ಅಲ್ಲದ ಆ್ಯಪ್‌ಗಳಿಂದ ಹೊಂದಾಣಿಕೆಯಿಲ್ಲದ ಸ್ಥಾಪನೆ ಫೈಲ್‌ಗಳು ಮತ್ತು ಡೇಟಾ</item>
+        <item>ಸುರಕ್ಷಿತ ಫೋಲ್ಡರ್: ಆ್ಯಪ್‌ಗಳು ಮತ್ತು ಡೇಟಾ</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>ಸಂಪರ್ಕಗಳು: ಸಿಂಕ್ ಮಾಡಲಾದ ಖಾತೆಗಳಿಂದ ಸಂಪರ್ಕಗಳು</item>
+        <item>ಕ್ಯಾಲೆಂಡರ್: ಸಿಂಕ್ ಮಾಡಲಾದ ಖಾತೆಗಳಿಂದ ಈವೆಂಟ್‌ಗಳು ಮತ್ತು ಕಾರ್ಯಗಳು</item>
+        <item>Galaxy Themes: ಥೀಮ್‌ಗಳು ಮತ್ತು ಡೀಫಾಲ್ಟ್ ವಾಲ್‌ಪೇಪರ್</item>
+        <item>ಆ್ಯಪ್‌ಗಳು: ಬೆಂಬಲಿತವಾಗಿಲ್ಲದ ಇನ್‌ಸ್ಟಾಲೇಶನ್ ಫೈಲ್‌ಗಳು</item>
+        <item>ಸುರಕ್ಷಿತ ಫೋಲ್ಡರ್: ಆ್ಯಪ್‌ಗಳು ಮತ್ತು ಡೇಟಾ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ಫೋನ್: ಕರೆ ಮತ್ತು ಸಂದೇಶ ಇತಿಹಾಸ</item>
+        <item>ಸಂದೇಶಗಳು: ವರ್ಧಿತ ಸಂದೇಶಗಳು, ಮಲ್ಟಿಮೀಡಿಯಾ ಸಂದೇಶಗಳು ಮತ್ತು ಪಠ್ಯ ಸಂದೇಶಗಳು</item>
+        <item>ಸಂಪರ್ಕಗಳು: ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಉಳಿಸಲಾದ ಸಂಪರ್ಕಗಳು, ಇಮೇಲ್ ವಿಳಾಸಗಳು ಮತ್ತು ವ್ಯವಹಾರ ಕಾರ್ಡ್‌ಗಳು</item>
+        <item>ಕ್ಯಾಲೆಂಡರ್: ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಉಳಿಸಿದ ಸಂದರ್ಭಗಳು ಮತ್ತು ಕಾರ್ಯಗಳು</item>
+        <item>ಗಡಿಯಾರ: ಎಚ್ಚರಗಂಟೆಗಳು, ಜಾಗತಿಕ ಗಡಿಯಾರಗಳು ಮತ್ತು ಟೈಮರ್‌ಗಳು</item>
+        <item>ಸೆಟ್ಟಿಂಗ್‌ಗಳು: ಪ್ರವೇಶಿಸುವಿಕೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು, ರಿಂಗ್‌ಟೋನ್‌ಗಳು, ಸ್ಯಾಮ್‌ಸಂಗ್ ಕೀಬೋರ್ಡ್ ಆಯ್ಕೆಗಳು, Wi-Fi ಸೆಟ್ಟಿಂಗ್‌ಗಳು, ಜೋಡಿಗೊಳಿಸಿದ ಬ್ಲೂಟೂತ್ ಸಾಧನಗಳು, ಮುಖ ಗುರುತಿಸುವಿಕೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು, ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು Always On Display ಸೆಟ್ಟಿಂಗ್‌ಗಳು (ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ರಿಂಗ್‌ಟೋನ್ ಬ್ಯಾಕಪ್ ಮಾಡಲಾಗುವುದಿಲ್ಲ)</item>
+        <item>ಹೋಮ್ ಸ್ಕ್ರೀನ್: ಲೇಔಟ್, ವಾಲ್‌ಪೇಪರ್‌ಗಳು ಮತ್ತು Samsung DeX ಸೆಟ್ಟಿಂಗ್‌ಗಳು</item>
+        <item>ಆ್ಯಪ್‌ಗಳು: ಇನ್‌ಸ್ಟಾಲೆಶನ್ ಫೈಲ್‍ಗಳು ಹಾಗೂ ಆ್ಯಪ್‌ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</item>
+        <item>ದ್ವನಿ ರೆಕಾರ್ಡರ್: ರೆಕಾರ್ಡಿಂಗ್‍‍ಗಳು</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>ಸಂಗೀತ: MP3, FLAC, WAV, M4A, OGG ಮತ್ತು ಇತರೆ ಸಂಗೀತದ ಫೈಲ್‌ಗಳು</item>
+        <item>ಡಾಕ್ಯುಮೆಂಟ್‌ಗಳು: PDF, Word, Excel, PowerPoint ಮತ್ತು ಇತರೆ ಡಾಕ್ಯುಮೆಂಟ್‌ಗಳು</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: ಚಾಟ್ ಇತಿಹಾಸ</item>
+        <item>%s: ಲಾಕ್ ಆಗಿರುವ ಟಿಪ್ಪಣಿಗಳು</item>
+        <item>%s: ಪಾಸ್‍ವರ್ಡ್-ಸಂರಕ್ಷಿತ ಡೇಟಾ</item>
+        <item>%s: ಆ್ಯಪ್‌ಗಳು ಮತ್ತು ಆ್ಯಪ್‌ ಡೇಟಾ</item>
+        <item>%s: ಸಿಂಕ್ ಮಾಡಿದ ಖಾತೆಗಳಿಂದ ಈವೆಂಟ್‌ಗಳು</item>
+        <item>ಸ್ಯಾಮ್‌ಸಂಗ್ ಬ್ಲಾಕ್‌ಚೈನ್ ಕೀಸ್ಟೋರ್</item>
+        <item>ಖಾಸಗಿ ಕೀ ಮತ್ತು ಹಿಂಪಡೆಯುವಿಕೆ ನುಡಿಗಟ್ಟು</item>
+        <item>ಅನ್ವಯಿಸುವಿಕೆ ನೀತಿಗಳ ಕಾರಣ ವರ್ಗಾವಣೆ ಮಾಡಲು ಸಾಧ್ಯವಾಗದೇ ಇರುವ ಡೇಟಾ</item>
+        <item>ಭದ್ರತೆ ಮತ್ತು ಹೊಂದಾಣಿಕೆ ಸಮಸ್ಯೆಗಳ ಕಾರಣ ವರ್ಗಾವಣೆಯಾಗದಿರುವ ಆ್ಯಪ್‌ಗಳು: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>ಓದಲು-ಮಾತ್ರ ಸಂಪರ್ಕಗಳು</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>ಡೀಫಾಲ್ಟ್ ವಾಲ್‌ಪೇಪರ್</item>
+        <item>Galaxy Themes ವಾಲ್‌ಪೇಪರ್‌ಗಳು</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>ತುರ್ತು ಎಚ್ಚರಿಕೆ ಸಂದೇಶಗಳು</item>
+        <item>ಡ್ರಾಫ್ಟ್‌ಗಳು ಮತ್ತು ವಿಫಲ ಸಂದೇಶಗಳು</item>
+        <item>iMessage ಪರಿಣಾಮಗಳೊಂದಿಗೆ ಸಂದೇಶಗಳು</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>ಲಾಕ್ ಆಗಿರುವ ಒಳಾಂಶ</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ಫೋನ್: ಕರೆ ಮತ್ತು ಸಂದೇಶ ಇತಿಹಾಸ</item>
+        <item>ಸಂದೇಶಗಳು: ವರ್ಧಿತ ಸಂದೇಶಗಳು, ಮಲ್ಟಿಮೀಡಿಯಾ ಸಂದೇಶಗಳು ಮತ್ತು ಪಠ್ಯ ಸಂದೇಶಗಳು</item>
+        <item>ಗಡಿಯಾರ: ಎಚ್ಚರಗಂಟೆಗಳು, ಜಾಗತಿಕ ಗಡಿಯಾರಗಳು ಮತ್ತು ಟೈಮರ್‌ಗಳು</item>
+        <item>ಸೆಟ್ಟಿಂಗ್‌ಗಳು: ಪ್ರವೇಶಿಸುವಿಕೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು, ರಿಂಗ್‌ಟೋನ್‌ಗಳು, ಸ್ಯಾಮ್‌ಸಂಗ್ ಕೀಬೋರ್ಡ್ ಆಯ್ಕೆಗಳು, Wi-Fi ಸೆಟ್ಟಿಂಗ್‌ಗಳು, ಜೋಡಿಗೊಳಿಸಿದ ಬ್ಲೂಟೂತ್ ಸಾಧನಗಳು ಮತ್ತು Always On Display ಸೆಟ್ಟಿಂಗ್‌ಗಳು (ಡೀಫಾಲ್ಟ್ ರಿಂಗ್‌ಟೋನ್ ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗಿಲ್ಲ)</item>
+        <item>ಆ್ಯಪ್‌ಗಳು: ಆ್ಯಪ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</item>
+        <item>ಹೋಮ್ ಸ್ಕ್ರೀನ್: ಲೇಔಟ್, ವಾಲ್‌ಪೇಪರ್‌ಗಳು ಮತ್ತು Samsung DeX ಸೆಟ್ಟಿಂಗ್‌ಗಳು</item>
+        <item>ದ್ವನಿ ರೆಕಾರ್ಡರ್: ರೆಕಾರ್ಡಿಂಗ್‍‍ಗಳು</item>
+    </string-array>
+</resources>

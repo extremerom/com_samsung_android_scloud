@@ -1,0 +1,429 @@
+{
+  "version": "1.0.1",
+  "meta": {
+    "screenId": "premium_info_card"
+  },
+  "styles": {
+    "headerText": {
+      "type": "TextStyle",
+      "fontSize": 13,
+      "fontColor": {
+        "color": "GRAYSCALE_D1"
+      },
+      "fontWeight": "SemiBold"
+    },
+    "totalSizeText": {
+      "type": "TextStyle",
+      "fontSize": 50,
+      "fontColor": {
+        "color": "GRAYSCALE_D1"
+      },
+      "fontWeight": "Bold"
+    },
+    "quotaText": {
+      "type": "TextStyle",
+      "fontSize": 14,
+      "fontColor": {
+        "color": "GRAY_TEXT_L4"
+      },
+      "fontWeight": "Bold",
+      "maxLine": 1,
+      "overflow": "Ellipsis"
+    },
+    "subscriptionDescriptionStyle": {
+      "type": "TextStyle",
+      "fontSize": 13,
+      "fontColor": {
+        "color": "GRAY_TEXT_L4"
+      },
+      "fontWeight": "Regular"
+    },
+    "subscriptionDescriptionErrorStyle": {
+      "type": "TextStyle",
+      "fontSize": 13,
+      "fontColor": {
+        "color": "Custom",
+        "hexColor": "#FFD93E36"
+      },
+      "fontWeight": "Regular"
+    },
+    "subscriptionActionStyle": {
+      "type": "TextStyle",
+      "fontSize": 13,
+      "fontColor": {
+        "color": "GRAY_TEXT_L2"
+      },
+      "fontWeight": "Bold"
+    },
+    "buttonStyle": {
+      "type": "ButtonStyle",
+      "colors": {
+        "containerColor": {
+          "color": "Custom",
+          "hexColor": "#00000000"
+        },
+        "contentColor": {
+          "color": "Common_White"
+        }
+      },
+      "size": "XSmall"
+    }
+  },
+  "layout": {
+    "top": {
+      "type": "Column",
+      "id": "top_view",
+      "modifier": {
+        "top": 18,
+        "bottom": 18,
+        "start": 18,
+        "end": 18
+      },
+      "children": [
+        {
+          "type": "Row",
+          "id": "top_view_row",
+          "properties": {
+            "horizontalArrangement": {
+              "arrangementType": "SpaceBetween"
+            },
+            "verticalAlignment": "Top"
+          },
+          "modifier": {
+            "width": {
+              "sizeType": "Fill"
+            },
+            "height": {
+              "sizeType": "Wrap"
+            }
+          },
+          "children": [
+            {
+              "type": "Text",
+              "id": "premium_text",
+              "properties": {
+                "text": {
+                  "stringId": "premium_text_label"
+                },
+                "style": "headerText"
+              },
+              "modifier":{
+                "width": {
+                  "sizeType": "Wrap",
+                  "weight": 1,
+                  "align": "Start"
+                },
+                "height": {
+                  "sizeType": "Wrap"
+                }
+              }
+            },
+            {
+              "type": "Button",
+              "id": "upgrade_button",
+              "properties" : {
+                "text": {
+                  "stringId": "button_text_label"
+                },
+                "style": "buttonStyle",
+                "action": {
+                  "type": "open_deeplink",
+                  "payload": {
+                    "uri": "samsungcloud://com.samsung.android.scloud/premium/web?landing=onboarding"
+                  }
+                }
+              },
+              "modifier" : {
+                "start": 8,
+                "backgroundLayers": [
+                  {
+                    "type": "Linear",
+                    "colors": [
+                      {
+                        "color": "Primary_Blue"
+                      },
+                      {
+                        "color":"Custom",
+                        "hexColor": "#FF84ADFF"
+                      }
+                    ],
+                    "start": {
+                      "x": 0.0,
+                      "y": 0.5
+                    },
+                    "end": {
+                      "x": 1.0,
+                      "y": 0.5
+                    },
+                    "shape": {
+                      "type": "Circle"
+                    }
+                  }
+                ],
+                "width": {
+                  "sizeType": "Minimum",
+                  "size": 50,
+                  "weight": 1,
+                  "align": "End"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "Row",
+          "id": "top_row",
+          "properties": {
+            "verticalAlignment": "Bottom"
+          },
+          "modifier": {
+            "top": 20,
+            "width": {
+              "sizeType": "Fill"
+            }
+          },
+          "children": [
+            {
+              "type": "Text",
+              "id": "storage_text",
+              "properties": {
+                "text": {
+                  "stringId": "",
+                  "args": [
+                    {
+                      "type": "binding",
+                      "key": "totalSize"
+                    }
+                  ]
+                },
+                "style": "totalSizeText"
+              },
+              "modifier": {
+                "alignByBaseline": true
+              }
+            },
+            {
+              "type": "Text",
+              "id": "storage_small_text",
+              "properties": {
+                "text": {
+                  "stringId": "",
+                  "args": [
+                    {
+                      "type": "binding",
+                      "key": "quota"
+                    }
+                  ]
+                },
+                "style": "quotaText"
+              },
+              "modifier": {
+                "alignByBaseline": true
+              }
+            }
+          ]
+        },
+        {
+          "type": "Row",
+          "id": "bottom_progress_view",
+          "properties": {
+            "horizontalArrangement": {
+              "arrangementType": "SpacedBy",
+              "space": 4
+            },
+            "verticalAlignment": "CenterVertically"
+          },
+          "modifier": {
+            "height": {
+              "sizeType": "Wrap"
+            },
+            "width": {
+              "sizeType": "Fill"
+            }
+          },
+          "children": [
+            {
+              "type": "Box",
+              "id": "lpy7bdk2i2",
+              "modifier": {
+                "height": {
+                  "sizeType": "Fixed",
+                  "size": 10
+                },
+                "shape": {
+                  "type": "Circle"
+                },
+                "background": {
+                  "color": "Custom",
+                  "hexColor": "#FFF0799A"
+                }
+              }
+            },
+            {
+              "type": "Box",
+              "id": "8w5as5n1ct",
+              "modifier": {
+                "height": {
+                  "sizeType": "Fixed",
+                  "size": 10
+                },
+                "shape": {
+                  "type": "Circle"
+                },
+                "background": {
+                  "color": "Custom",
+                  "hexColor": "#FF888EEB"
+                }
+              }
+            },
+            {
+              "type": "Box",
+              "id": "gf3uwmlj2o",
+              "modifier": {
+                "height": {
+                  "sizeType": "Fixed",
+                  "size": 10
+                },
+                "shape": {
+                  "type": "Circle"
+                },
+                "background": {
+                  "color": "Custom",
+                  "hexColor": "#FFE8BE7F"
+                }
+              }
+            },
+            {
+              "type": "Box",
+              "id": "g40agfgpwp",
+              "modifier": {
+                "height": {
+                  "sizeType": "Fixed",
+                  "size": 10
+                },
+                "shape": {
+                  "type": "Circle"
+                },
+                "background": {
+                  "color": "Custom",
+                  "hexColor": "#FF59D1EA"
+                }
+              }
+            },
+            {
+              "type": "Box",
+              "id": "unused",
+              "modifier": {
+                "height": {
+                  "sizeType": "Fixed",
+                  "size": 10
+                },
+                "shape": {
+                  "type": "Circle"
+                },
+                "background": {
+                  "color": "GRAYSCALE_D3",
+                  "alpha": 0.1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "id": "bottom_column",
+          "properties": {
+            "properties": {
+              "horizontalAlignment": "Start"
+            }
+          },
+          "modifier": {
+            "top": 8,
+            "width": {
+              "sizeType": "Fill"
+            }
+          },
+          "children": [
+            {
+              "type": "Text",
+              "id": "subscription_description",
+              "properties": {
+                "text": {
+                  "stringId": "subscription_status",
+                  "bindStatus": true,
+                  "args": [
+                    {
+                      "type": "binding",
+                      "key": "arg1"
+                    },
+                    {
+                      "type": "binding",
+                      "key": "arg2"
+                    }
+                  ]
+                },
+                "style": "subscriptionDescriptionStyle"
+              }
+            },
+            {
+              "type": "Text",
+              "id": "subscription_description_error",
+              "properties": {
+                "text": {
+                  "stringId": "subscription_status_error",
+                  "bindStatus": true,
+                  "args": [
+                    {
+                      "type": "binding",
+                      "key": "arg1"
+                    },
+                    {
+                      "type": "binding",
+                      "key": "arg2"
+                    }
+                  ]
+                },
+                "style": "subscriptionDescriptionErrorStyle"
+              }
+            },
+            {
+              "type": "Text",
+              "id": "subscription_action",
+              "properties": {
+                "text": {
+                  "stringId": "subscription_action_status",
+                  "bindStatus": true
+                },
+                "style": "subscriptionActionStyle",
+                "action": {
+                  "type": "show_toast",
+                  "payload": {
+                    "message": "Update plan",
+                    "duration": "short"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "localization": {
+    "premium_text_label": "DREAM_CLOUD_HEADER_PREMIUM_STORAGE",
+    "button_text_label": "DREAM_CLOUD_OPT_UPGRADE",
+    "subscription_status_DOWNGRADING": "DREAM_CLOUD_BODY_YOUR_STORAGE_PLAN_WILL_CHANGE_TO_P1SS_ON_P2SS_YOU_CAN_CANCEL_THIS_CHANGE_ANYTIME_BEFORE_THAT_DATE",
+    "subscription_status_CANCELING": "DREAM_CLOUD_BODY_YOUR_SUBSCRIPTION_IS_SCHEDULED_TO_END_ON_PS_YOU_CAN_REACTIVATE_IT_ANYTIME_BEFORE_THAT_DATE",
+    "subscription_status_UNSUBSCRIBED": "PLURAL_CLOUD_BODY_YOUR_SUBSCRIPTION_ENDED_ON_P1SS_YOUR_DATA_WILL_BE_DELETED_IN_P2SD_DAYS_REACTIVATE_YOUR_SUBSCRIPTION_TO_KEEP_YOUR_DATA",
+    "subscription_status_error_REFUNDING": "DREAM_CLOUD_BODY_YOUR_REFUND_REQUEST_IS_BEING_PROCESSED_YOU_CAN_RESUBSCRIBE_AFTER_YOUR_REQUEST_IS_PROCESSED_ABB",
+    "subscription_status_STORAGE_FULL": "DREAM_CLOUD_BODY_CLOUD_STORAGE_IS_PS_FULL_UPGRADE_FOR_MORE_STORAGE",
+    "subscription_status_SUBSCRIBED": "NONE",
+    "subscription_status_UNRECOGNIZED": "NONE",
+    "subscription_action_status_DOWNGRADING": "DREAM_CLOUD_OPT_CANCEL_CHANGE",
+    "subscription_action_status_CANCELING": "DREAM_CLOUD_BUTTON_REACTIVATE_25",
+    "subscription_action_status_UNSUBSCRIBED": "DREAM_CLOUD_BUTTON_REACTIVATE_25",
+    "subscription_action_status_STORAGE_FULL": "DREAM_CLOUD_OPT_UPGRADE_ACTION",
+    "subscription_action_status_SUBSCRIBED": "NONE",
+    "subscription_action_status_UNRECOGNIZED": "NONE"
+  }
+}

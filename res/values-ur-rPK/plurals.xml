@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 تصویر اور %1$d ویڈیو (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 تصویر اور %1$d ویڈیوز (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ایپلیکیشن تنصیب نہیں ہوا</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ایپلیکیشنز تنصیب نہیں ہوئے</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">پیغامات: ایمرجنسی الرٹس، منتقل شدہ فائلز، %d MBسے بڑے ملٹی میڈیا پیغامات، مسودے، اور ناکام پیغامات</item>
+        <item quantity="one">پیغامات: ایمرجنسی الرٹس، منتقل شدہ فائلز، %d MBسے بڑے ملٹی میڈیا پیغامات، مسودے، اور ناکام پیغامات</item>
+        <item quantity="two">پیغامات: ایمرجنسی الرٹس، منتقل شدہ فائلز، %d MBسے بڑے ملٹی میڈیا پیغامات، مسودے، اور ناکام پیغامات</item>
+        <item quantity="few">پیغامات: ایمرجنسی الرٹس، منتقل شدہ فائلز، %d MBسے بڑے ملٹی میڈیا پیغامات، مسودے، اور ناکام پیغامات</item>
+        <item quantity="many">پیغامات: ایمرجنسی الرٹس، منتقل شدہ فائلز، %d MBسے بڑے ملٹی میڈیا پیغامات، مسودے، اور ناکام پیغامات</item>
+        <item quantity="other">پیغامات: ایمرجنسی الرٹس، منتقل شدہ فائلز، %d MBسے بڑے ملٹی میڈیا پیغامات، مسودے، اور ناکام پیغامات</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d آلہ کے لیے بیک اپ کی میعاد جلد ہی ختم ہوگی۔ اختتامی تاریخ چیک کرنے کے لیے مندرجہ ذیل آلہ منتخب کریں۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d آلات کے لیے بیک اپ ڈیٹ کی میعاد جلد ہی ختم ہوگی۔ اختتامی تاریخ چیک کرنے کے لیے مندرجہ ذیل آلہ منتخب کریں۔</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d آلہ کے لیے بیک اپ کی میعاد جلد ہی ختم ہوگی۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d آلات کے لیے بیک اپ ڈیٹ کی میعاد جلد ہی ختم ہوگی۔</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d بیک اپ آئٹم کو اپ ڈیٹ نہیں کیا جا سکا، اسلئے اس آئٹم کے پچھلے بیک اپ کو آپ کے نئے فون (%2$s) پر بحال کر دیا جائے گا۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d بیک اپ آئٹمز کو اپ ڈیٹ نہیں کیا جا سکا، اسلئے ان آئٹمز کے پچھلا بیک اپس کو آپ کے نئے فون (%2$s) پر بحال کر دیا جائے گا۔</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d بیک اپ آئٹم کو اپ ڈیٹ نہیں کیا جا سکا، اسلئے %2$s پر لئے گئے اس آئٹم کے بیک اپ کو آپ کے نئے فون (%3$s) پر بحال کر دیا جائے گا۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d بیک اپ آئٹمز کو اپ ڈیٹ نہیں کیا جا سکا، اسلئے %2$s پر لئے گئے اس آئٹمز کے بیک اپ کو آپ کے نئے فون (%3$s) پر بحال کر دیا جائے گا۔</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d بیک اپ آئٹم کو اپ ڈیٹ نہیں کیا جا سکا، اسلئے اس آئٹم کے پچھلے بیک اپ کو آپ کے نئے ٹیبلیٹ (%2$s) پر بحال کر دیا جائے گا۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d بیک اپ آئٹمز کو اپ ڈیٹ نہیں کیا جا سکا، اسلئے ان آئٹمز کے پچھلا بیک اپس کو آپ کے نئے ٹیبلیٹ (%2$s) پر بحال کر دیا جائے گا۔</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d بیک اپ آئٹم کو اپ ڈیٹ نہیں کیا جا سکا، اسلئے %2$s پر لئے گئے اس آئٹم کے بیک اپ کو آپ کے نئے ٹیبلیٹ (%3$s) پر بحال کر دیا جائے گا۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d بیک اپ آئٹمز کو اپ ڈیٹ نہیں کیا جا سکا، اسلئے %2$s پر لئے گئے اس آئٹمز کے بیک اپ کو آپ کے نئے ٹیبلیٹ (%3$s) پر بحال کر دیا جائے گا۔</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ڈیٹا %d دن میں حذف ہو جائے گا۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ڈیٹا %d دن میں حذف ہو جائے گا۔</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d دن میں ختم ہورہا ہے</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d دنوں میں ختم ہورہا ہے</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">آپ کا زیادہ تر ڈیٹا بحال ہوچکا ہے، لیکن %d ایپلیکیشن تنصیب نہیں ہو پایا۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">آپ کا زیادہ تر ڈیٹا بحال ہوچکا ہے، لیکن %d ایپلیکیشنز تنصیب نہیں ہو پائے۔</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d نیا البم دستیاب ہے</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d نئے البمز دستیاب ہیں</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d البم منتخب کیا گیا</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d البمز منتخب کئے گئے</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 اوتار اور %d حسب ضرورت ڈیزائن کردہ آئٹم</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 اوتار اور %d حسب ضرورت ڈیزائن کردہ آئٹمز</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 گھنٹہ %d منٹ باقی</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 گھنٹہ %d منٹس باقی</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 تصویر اور %d ویڈیو سنک ہوگئی</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 تصویر اور %d ویڈیوز سنک ہوگئے</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d شئے منتخب کی گئی (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d اشیاء منتخب کی گئیں (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d تصویر اور 1 ویڈیو (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d تصاویر اور 1 ویڈیو (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d تصویر (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d تصاویر (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d منتخب کیا گیا (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d منتخب کیا گیا (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ویڈیو (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ویڈیوز (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d فائل</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d فائلیں</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d گھنٹہ 1 منٹ باقی</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d گھنٹے 1 منٹ باقی</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">کلاؤڈ سے %d تصویر ڈاؤن لوڈ کی گئی۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">کلاؤڈ سے %d تصاویر ڈاؤن لوڈ کی گئیں۔</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">کلاؤڈ سے %d شئے ڈاؤن لوڈ کی گئی۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">کلاؤڈ سے %d اشیاء ڈاؤن لوڈ کیے گئے۔</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d منٹ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d منٹس</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d منٹ باقی ہے</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d منٹس باقی ہیں</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d تصویر اور 1 ویڈیو سنک ہوگئی</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d تصاویر اور 1 ویڈیو سنک ہوگیا</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d تصویر سنک ہوگئی</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d تصاویر سنک ہوگئیں</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d تصویر یا ویڈیو</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d تصاویر اور ویڈیوز</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d منتخب ہوگیا</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d منتخب ہوگیا</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">کلاؤڈ سے %d ویڈیو ڈاؤن لوڈ کیا گيا۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">کلاؤڈ سے %d ویڈیوز ڈاؤن لوڈ کیے گئے۔</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ویڈیو سنک ہوگیا</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ویڈیوز سنک ہوگئے</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">بیٹری کم ہے۔ اپنے فون کا بیک اپ لینے کیلئے، کم از کم %d%% چارج کریں۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">بیٹری کم ہے۔ اپنے فون کا بیک اپ لینے کیلئے، کم از کم %d%% چارج کریں۔</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">آپ کے عارضی بیک اپ کی میعاد %d دن میں ختم ہو رہی ہے۔ اسے ابھی بحال کریں یا اگر آپ کو مزید وقت درکار ہے تو میعاد ختم ہونے کی تاریخ کو آگے بڑھائیں۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">آپ کے عارضی بیک اپ کی میعاد %d دن میں ختم ہو رہی ہے۔ اسے جلدی بحال کریں یا اگر آپ کو مزید وقت درکار ہے تو میعاد ختم ہونے کی تاریخ کو آگے بڑھائیں۔</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d دن آگے بڑھائیں</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d دن آگے بڑھائیں</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d اوتار</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d اوتارز</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d اوتار اور 1 حسب ضرورت ڈیزائن کردہ آئٹم</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d اوتارز اور 1 حسب ضرورت ڈیزائن کردہ آئٹم</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d حسب ضرورت ڈیزائن کردہ آئٹم</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d حسب ضرورت ڈیزائن کردہ آئٹمز</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d آئٹم باقی</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d آئٹمز باقی</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d: جوڑی کردہ Samsung آلہ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d: جوڑی کردہ Samsung آلات</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d یاد دہاھانی</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d یاد دہانیاں</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">آپ کی سبسکرپشن %1$s کو ختم ہو جائے گی۔ آپ کا ڈیٹا %2$d میں ختم ہو جائے گا۔ اپنا ڈیٹا بچانے کیلئے، اپنی سبسکرپشن کو دوبارہ فعال کریں۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">آپ کی سبسکرپشن %1$s کو ختم ہو جائے گی۔ آپ کا ڈیٹا %2$d میں ختم ہو جائے گا۔ اپنا ڈیٹا بچانے کیلئے، اپنی سبسکرپشن کو دوبارہ فعال کریں۔</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">بیٹری کم ہے۔ اپنے ٹیبلیٹ کا بیک اپ لینے کیلئے، کم از کم %d%% چارج کریں۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">بیٹری کم ہے۔ اپنے ٹیبلیٹ کا بیک اپ لینے کیلئے، کم از کم %d%% چارج کریں۔</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">لا محدود ڈیٹا کا بیک اپ لیں یا اپنا بیک اپ لیا گیا ڈیٹا بحال کریں %1$s پر %2$d دن تک۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">لا محدود ڈیٹا کا بیک اپ لیں یا اپنا بیک اپ لیا گیا ڈیٹا بحال کریں %1$s پر %2$d دن تک۔</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">اس بیک اپ کو %d دن میں حذف کر دیا جائے گا۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">اس بیک اپ کو %d دن میں حذف کر دیا جائے گا۔</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d گھنٹے میں دوبارہ کوشش کریں</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d گھنٹے میں دوبارہ کوشش کریں</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d گھنٹے 1 منٹ میں دوبارہ کوشش کریں</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d گھنٹے 1 منٹ میں دوبارہ کوشش کریں</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d منٹ میں دوبارہ کوشش کریں</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d منٹ میں دوبارہ کوشش کریں</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 گھنٹے %d منٹ میں دوبارہ کوشش کریں</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 گھنٹے %d منٹ میں دوبارہ کوشش کریں</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">آپ کا بیک اپ %1$s پر محفوظ ہے۔ اسے بحال کرنے کیلئے آپ کے پاس %2$d دن ہے۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">آپ کا بیک اپ %1$s پر محفوظ ہے۔ اسے بحال کرنے کیلئے آپ کے پاس %2$d دن ہیں۔</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">آپ کے عارضی بیک اپ کو %d دن میں حذف کر دیا جائے گا۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">آپ کے عارضی بیک اپ کو %d دن میں حذف کر دیا جائے گا۔</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">آپ کے ڈیٹا کو آپ کے فون پر بحال نہیں کیا گیا تھا۔ اسے بحال کرنے کیلئے، آپ کے پاس %d دن ہے۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">آپ کے ڈیٹا کو آپ کے فون پر بحال نہیں کیا گیا تھا۔ اسے بحال کرنے کیلئے، آپ کے پاس %d دن ہیں۔</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">آپ کے ڈیٹا کو آپ کے ٹیبلیٹ پر بحال نہیں کیا گیا تھا۔ اسے بحال کرنے کیلئے، آپ کے پاس %d دن ہے۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">آپ کے ڈیٹا کو آپ کے ٹیبلیٹ پر بحال نہیں کیا گیا تھا۔ اسے بحال کرنے کیلئے، آپ کے پاس %d دن ہیں۔</item>
+    </plurals>
+</resources>

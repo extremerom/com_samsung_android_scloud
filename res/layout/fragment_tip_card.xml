@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/root" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout android:orientation="vertical" android:paddingTop="@dimen/tip_card_fragment_margin_top" android:paddingBottom="@dimen/tip_card_fragment_margin_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/tip_card_fragment_margin_horizontal" android:paddingEnd="@dimen/tip_card_fragment_margin_horizontal">
+            <androidx.viewpager2.widget.ViewPager2 android:id="@id/pager" android:layout_width="match_parent" android:layout_height="wrap_content" />
+            <com.samsung.android.scloud.odm.view.tipcard.template.PageIndicator android:id="@id/page_indicator" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/tip_card_page_indicator_margin_top" />
+        </com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout>
+        <View android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="20.0dp" />
+    </LinearLayout>
+</FrameLayout>

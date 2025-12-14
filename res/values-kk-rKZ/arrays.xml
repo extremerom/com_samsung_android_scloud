@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Телефоныңыз зарядталып жатыр.</item>
+        <item>Телефоныңыз Wi-Fi желісіне қосылған.</item>
+        <item>Экран өшірулі.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Планшетіңіз зарядталып жатыр.</item>
+        <item>Планшетіңіз Wi-Fi желісіне қосылған.</item>
+        <item>Экран өшірулі.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Сақтық көшірмесін жасауға болатын деректер телефонға немесе операциялық жүйеге байланысты әртүрлі болуы мүмкін.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Сақтық көшірмелеуге болатын деректер планшетіңізге немесе операциялық жүйеге байланысты өзгеруі мүмкін.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Контактілер: синхрондалған есептік жазбалардан контактілер</item>
+        <item>Күнтізбе: синхрондалған есептік жазбаларды оқиғалар мен тапсырмалар</item>
+        <item>Galaxy Themes: тақырыптар және әдепкі түсқағаз</item>
+        <item>Қолданбалар: үйлесімсіз орнату файлдары және Samsung емес қолданбаларынан алынған деректер</item>
+        <item>Қорғалған қалта: қолданбалар және деректер</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Контактілер: синхрондалған есептік жазбалардан контактілер</item>
+        <item>Күнтізбе: синхрондалған есептік жазбаларды оқиғалар мен тапсырмалар</item>
+        <item>Galaxy Themes: тақырыптар және әдепкі түсқағаз</item>
+        <item>Қолданбалар: қолдау көрсетілмейтін орнату файлдары</item>
+        <item>Қорғалған қалта: қолданбалар және деректер</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Телефон: қоңыраулар және хабарлар журналы</item>
+        <item>Хабарлар: жақсартылған хабарлар, мультимедиалық хабарлар және мәтіндік хабарлар</item>
+        <item>Контактілер: құрылғыңызда сақталған контактілер, электрондық пошта мекенжайлары және бизнес-карталар</item>
+        <item>Күнтізбе: құрылғыңызда сақталған оқиғалар мен тапсырмалар</item>
+        <item>Сағат: оятарлар, әлемдік сағаттар және таймерлер</item>
+        <item>Параметрлер: арнайы мүмкіндіктер параметрлері, рингтондар, Samsung Пернетақтасының опциялары, Wi-Fi параметрлері, жұптастырылған Bluetooth құрылғылары, бетті тану параметрлері, саусақ ізі параметрлері және Always On Display параметрлері (әдепкі рингтоныңыз сақтық көшірмеленбейді)</item>
+        <item>Бастапқы экран: орналасу, түсқағаздар және Samsung DeX параметрлері</item>
+        <item>Қолданбалар: орнату файлдары және қолданба параметрлері</item>
+        <item>Диктофон: жазбалар</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Музыка: MP3, FLAC, WAV, M4A, OGG, және басқа музыкалық файлдар</item>
+        <item>Құжаттар: PDF, Word, Excel, PowerPoint, және басқа құжаттар</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: чат журналы</item>
+        <item>%s: құлыпталған жазбалар</item>
+        <item>%s: құпиясөзбен қорғалған деректер</item>
+        <item>%s: қолданбалар мен қолданба деректері</item>
+        <item>%s: Синхрондалған есептік жазбалардағы іс-шаралар</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Жеке кілт және қалпына келтіру фразасы</item>
+        <item>Қолданбаның саясаттарына байланысты тасымалдау мүмкін емес деректер</item>
+        <item>Қаупсіздің немесе үйлесімділік бойынша мәселелерге байланысты тасымалдауға болмайтын қолданбалар: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Тек оқуға арналған контактілер</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Әдепкі түсқағаз</item>
+        <item>Galaxy Themes түсқағаздары</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Төтенше ескерту хабарлары</item>
+        <item>Жобалар мен жіберілмеген хабарлар</item>
+        <item>iMessage әсерлері бар хабарлар</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Құлыпталған мазмұн</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Телефон: қоңыраулар және хабарлар журналы</item>
+        <item>Хабарлар: жақсартылған хабарлар, мультимедиалық хабарлар және мәтіндік хабарлар</item>
+        <item>Сағат: оятарлар, әлемдік сағаттар және таймерлер</item>
+        <item>Параметрлер: арнайы мүмкіндіктер параметрлері, рингтондар, Samsung Пернетақтасы опциялары, Wi-Fi параметрлері, жұптастырылған Bluetooth құрылғылары және Always On Display параметрлері (әдепкі рингтон шифрланбаған)</item>
+        <item>Қолданбалар: қолданба параметрлері</item>
+        <item>Бастапқы экран: орналасу, түсқағаздар және Samsung DeX параметрлері</item>
+        <item>Диктофон: жазбалар</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <deny-ownership>com.samsung.android.themestore</deny-ownership>
+    <deny-ownership>com.samsung.android.app.notes</deny-ownership>
+    <deny-ownership>com.samsung.android.app.reminder</deny-ownership>
+    <deny-ownership>com.samsung.android.app.watchmanager</deny-ownership>
+    <deny-ownership>com.samsung.android.app.watchmanager2</deny-ownership>
+    <deny-ownership>com.samsung.android.email.provider</deny-ownership>
+    <deny-ownership>com.samsung.android.galaxycontinuity</deny-ownership>
+    <deny-ownership>com.samsung.android.homemode</deny-ownership>
+    <deny-ownership>com.samsung.android.lool</deny-ownership>
+    <deny-ownership>com.samsung.android.oneconnect</deny-ownership>
+    <deny-ownership>com.samsung.android.scpm</deny-ownership>
+    <deny-ownership>com.samsung.android.spacear</deny-ownership>
+    <deny-ownership>com.samsung.android.spay</deny-ownership>
+    <deny-ownership>com.samsung.android.tvplus</deny-ownership>
+    <deny-ownership>com.samsung.android.voc</deny-ownership>
+    <deny-ownership>com.samsung.android.wear.shealth</deny-ownership>
+    <deny-ownership>com.samsung.android.wearable.music</deny-ownership>
+    <deny-ownership>com.samsung.knox.securefolder</deny-ownership>
+    <deny-ownership>com.samsung.sree</deny-ownership>
+    <deny-ownership>com.samsung.sree.classic</deny-ownership>
+    <deny-ownership>com.samsung.sree.countdown</deny-ownership>
+    <deny-ownership>com.samsung.sree.digital</deny-ownership>
+    <deny-ownership>com.samsung.sree.spin</deny-ownership>
+    <deny-ownership>com.sec.android.app.clockpackage</deny-ownership>
+    <deny-ownership>com.sec.android.app.fm</deny-ownership>
+    <deny-ownership>com.sec.android.app.music</deny-ownership>
+    <deny-ownership>com.sec.android.app.myfiles</deny-ownership>
+    <deny-ownership>com.sec.android.app.popupcalculator</deny-ownership>
+    <deny-ownership>com.sec.android.app.sbrowser</deny-ownership>
+    <deny-ownership>com.sec.android.app.shealth</deny-ownership>
+    <deny-ownership>com.sec.android.easyMover</deny-ownership>
+    <deny-ownership>com.sec.penup</deny-ownership>
+    <deny-ownership>com.sec.spp.push</deny-ownership>
+    <deny-ownership>com.sec.android.app.voicenote</deny-ownership>
+    <deny-ownership>com.samsung.ecomm.global.gbr</deny-ownership>
+    <deny-ownership>com.samsung.android.calendar</deny-ownership>
+</resources>

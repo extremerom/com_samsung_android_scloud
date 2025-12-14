@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>您的手机正在充电。</item>
+        <item>您的手机已连接至 &lt;cst>Wi-Fi&lt;/cst> 网络。</item>
+        <item>屏幕已关闭。</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>您的平板电脑正在充电。</item>
+        <item>您的平板电脑已连接至 &lt;cst>Wi-Fi&lt;/cst> 网络。</item>
+        <item>屏幕已关闭。</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>您可以备份的数据会因手机或操作系统而异。</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>您可以备份的数据会因平板电脑或操作系统而异。</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>联系人：来自已同步账号的联系人</item>
+        <item>日历：来自已同步账号的事件和任务</item>
+        <item>主题商店：主题和默认壁纸</item>
+        <item>应用程序：来自非三星应用程序的不兼容安装文件和数据</item>
+        <item>安全文件夹：应用程序和数据</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>联系人：来自已同步账号的联系人</item>
+        <item>日历：来自已同步账号的事件和任务</item>
+        <item>主题商店：主题和默认壁纸</item>
+        <item>应用程序：不支持的安装文件</item>
+        <item>安全文件夹：应用程序和数据</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>电话：通话和信息记录</item>
+        <item>信息：增强信息、彩信和短信</item>
+        <item>联系人：设备上保存的联系人、电子邮件地址和名片</item>
+        <item>日历：设备上保存的事件和任务</item>
+        <item>时钟：闹钟、世界时钟和计时器。</item>
+        <item>设置：辅助功能设置、铃声、三星键盘选项、&lt;cst>Wi-Fi&lt;/cst> 设置、已配对的蓝牙设备、面部识别设置、指纹设置和息屏提醒设置 (不会备份您的默认铃声)</item>
+        <item>主屏幕：布局、壁纸和 Samsung DeX 设置</item>
+        <item>应用程序：安装文件和应用程序设置</item>
+        <item>录音机：录音</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>音乐：MP3、FLAC、WAV、M4A、OGG 及其他音乐文件</item>
+        <item>文档：PDF、Word、Excel、PowerPoint 及其他文档</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s：聊天记录</item>
+        <item>%s：已锁定的笔记</item>
+        <item>%s：受密码保护的数据</item>
+        <item>%s：应用程序和应用程序数据</item>
+        <item>%s：已同步账号中的事件</item>
+        <item>三星区块链密钥库</item>
+        <item>私人密钥和恢复短语</item>
+        <item>由于应用程序的政策，无法传输数据</item>
+        <item>由于安全性或兼容性问题，无法传输应用程序：%s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>只读联系人</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>默认壁纸</item>
+        <item>主题商店壁纸</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>紧急警报信息</item>
+        <item>草稿和失败信息</item>
+        <item>带 iMessage 效果的信息</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>已锁定的内容</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>电话：通话和信息记录</item>
+        <item>信息：增强信息、彩信和短信</item>
+        <item>时钟：闹钟、世界时钟和计时器。</item>
+        <item>设置：辅助功能设置、铃声、三星键盘选项、&lt;cst>Wi-Fi&lt;/cst> 设置、已配对的蓝牙设备和息屏提醒设置 (默认铃声未加密)</item>
+        <item>应用程序：应用程序设置</item>
+        <item>主屏幕：布局、壁纸和 Samsung DeX 设置</item>
+        <item>录音机：录音</item>
+    </string-array>
+</resources>

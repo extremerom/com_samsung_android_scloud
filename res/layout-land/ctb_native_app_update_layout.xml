@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:tag="layout-land/ctb_native_app_update_layout_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.Guideline android:orientation="vertical" android:id="@id/guideline" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_percent="0.5" />
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="0.0dp" android:layout_height="match_parent" android:layout_marginTop="@dimen/ctb_land_top_margin" android:layout_marginBottom="@dimen/ctb_land_bottom_margin" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/guideline" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <androidx.core.widget.NestedScrollView android:orientation="vertical" android:id="@id/main_view" android:focusable="false" android:descendantFocusability="beforeDescendants" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:overScrollMode="ifContentScrolls" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+            <androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:id="@id/about_main_layout" android:tag="binding_1" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/ctb_land_side_border" android:layout_marginEnd="@dimen/ctb_land_side_inner" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+                <include android:id="@id/image_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" layout="@layout/ctb_icon_view" />
+                <TextView android:textAppearance="@style/TextTemporaryBackupScreenTitle" android:id="@id/page_title_app_update" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_16dp" android:text="@string/app_updates" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/image_icon" />
+                <TextView android:textAppearance="@style/TextTemporaryBackupSummaryTitle" android:id="@id/title_summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_8dp" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/page_title_app_update" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.core.widget.NestedScrollView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="0.0dp" android:layout_height="match_parent" android:layout_marginTop="@dimen/ctb_land_top_margin" android:layout_marginBottom="@dimen/ctb_land_bottom_margin" android:layout_marginStart="@dimen/ctb_land_side_inner" android:layout_marginEnd="@dimen/ctb_land_side_border" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/guideline" app:layout_constraintTop_toTopOf="parent">
+        <RelativeLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <androidx.core.widget.NestedScrollView android:orientation="vertical" android:focusable="false" android:descendantFocusability="beforeDescendants" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:layout_above="@id/button_view" android:overScrollMode="ifContentScrolls" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+                    <LinearLayout android:orientation="vertical" android:id="@id/app_root_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+                        <ScrollView android:id="@id/root_scroll_view" android:layout_width="match_parent" android:layout_height="0.0dp" android:fillViewport="true" android:layout_weight="1.0">
+                            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                <LinearLayout android:orientation="vertical" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                    <LinearLayout android:orientation="vertical" android:id="@id/native_app_update_list" android:tag="binding_2" android:background="@color/suw_bg_color" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                                </LinearLayout>
+                            </LinearLayout>
+                        </ScrollView>
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.core.widget.NestedScrollView>
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@id/button_view" android:tag="binding_3" android:background="@drawable/round_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/backup_intro_button_margin" android:layout_marginTop="@dimen/margin_24dp" android:layout_marginRight="@dimen/backup_intro_button_margin" android:minWidth="@dimen/button_min_width" android:minHeight="@dimen/button_min_height" android:layout_alignParentBottom="true" android:layout_centerInParent="true" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent">
+                <androidx.appcompat.widget.SeslProgressBar android:theme="@style/ButtonProgress.Theme.Mono" android:layout_gravity="center" android:id="@id/button_loading" android:visibility="gone" android:layout_width="@dimen/size_24dp" android:layout_height="@dimen/size_24dp" android:indeterminate="true" />
+                <TextView android:textAppearance="@style/TextAppearanceBottomButton" android:layout_gravity="center" android:id="@id/continue_button_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/continue_button" android:textAlignment="center" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/loading" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent">
+                <androidx.appcompat.widget.SeslProgressBar android:layout_gravity="center" android:layout_width="@dimen/size_60dp" android:layout_height="@dimen/size_60dp" android:indeterminate="true" />
+            </LinearLayout>
+        </RelativeLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

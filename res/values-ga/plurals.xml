@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 phictiúr agus %1$d fhíseán (%2$s)</item>
+        <item quantity="two">1 phictiúr agus %1$d fhíseán (%2$s)</item>
+        <item quantity="few">1 phictiúr agus %1$d fhíseán (%2$s)</item>
+        <item quantity="many">1 phictiúr agus %1$d bhfíseán (%2$s)</item>
+        <item quantity="other">1 phictiúr agus %1$d físeán (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Níl %d fheidhmchlár suiteáilte</item>
+        <item quantity="two">Níl %d fheidhmchlár suiteáilte</item>
+        <item quantity="few">Níl %d fheidhmchlár suiteáilte</item>
+        <item quantity="many">Níl %d bhfeidhmchlár suiteáilte</item>
+        <item quantity="other">Níor suiteáladh %d feidhmchlár</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Teachtaireachtaí: foláirimh éigeandála, comhaid aistrithe, teachtaireachtaí ilmheán níos mó ná %d MB, dréachtaí, agus teachtaireachtaí teipthe</item>
+        <item quantity="one">Teachtaireachtaí: foláirimh éigeandála, comhaid aistrithe, teachtaireachtaí ilmheán níos mó ná %d MB, dréachtaí, agus teachtaireachtaí teipthe</item>
+        <item quantity="two">Teachtaireachtaí: foláirimh éigeandála, comhaid aistrithe, teachtaireachtaí ilmheán níos mó ná %d MB, dréachtaí, agus teachtaireachtaí teipthe</item>
+        <item quantity="few">Teachtaireachtaí: foláirimh éigeandála, comhaid aistrithe, teachtaireachtaí ilmheán níos mó ná %d MB, dréachtaí, agus teachtaireachtaí teipthe</item>
+        <item quantity="many">Teachtaireachtaí: foláirimh éigeandála, comhaid aistrithe, teachtaireachtaí ilmheán níos mó ná %d MB, dréachtaí, agus teachtaireachtaí teipthe</item>
+        <item quantity="other">Teachtaireachtaí: foláirimh éigeandála, comhaid aistrithe, teachtaireachtaí ilmheán níos mó ná %d MB, dréachtaí, agus teachtaireachtaí teipthe</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Imeoidh sonraí cúltaca maidir le %d ghléas as feidhm go luath. Roghnaigh an gléas thíos leis an dáta as feidhm a sheiceáil.</item>
+        <item quantity="two">Imeoidh sonraí cúltaca maidir le %d ghléas as feidhm go luath. Roghnaigh gléas thíos leis an dáta as feidhm a sheiceáil.</item>
+        <item quantity="few">Imeoidh sonraí cúltaca maidir le %d ghléas as feidhm go luath. Roghnaigh gléas thíos leis an dáta as feidhm a sheiceáil.</item>
+        <item quantity="many">Imeoidh sonraí cúltaca maidir le %d ngléas as feidhm go luath. Roghnaigh gléas thíos leis an dáta as feidhm a sheiceáil.</item>
+        <item quantity="other">Imeoidh sonraí cúltaca maidir le %d gléas as feidhm go luath. Roghnaigh gléas thíos leis an dáta as feidhm a sheiceáil.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Imeoidh sonraí cúltaca maidir le %d ghléas as feidhm go luath.</item>
+        <item quantity="two">Imeoidh sonraí cúltaca maidir le %d ghléas as feidhm go luath.</item>
+        <item quantity="few">Imeoidh sonraí cúltaca maidir le %d ghléas as feidhm go luath.</item>
+        <item quantity="many">Imeoidh sonraí cúltaca maidir le %d ngléas as feidhm go luath.</item>
+        <item quantity="other">Imeoidh sonraí cúltaca maidir le %d gléas as feidhm go luath.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Níorbh fhéidir %1$d mhír chúltaca a nuashonrú, mar sin aischuirfear an cúltaca roimhe den mhír seo chuig d'fhón nua (%2$s)."</item>
+        <item quantity="two">"Níorbh fhéidir %1$d mhír chúltaca a nuashonrú, mar sin aischuirfear na cúltacaí roimhe de na míreanna seo chuig d'fhón nua (%2$s)."</item>
+        <item quantity="few">"Níorbh fhéidir %1$d mhír chúltaca a nuashonrú, mar sin aischuirfear na cúltacaí roimhe de na míreanna seo chuig d'fhón nua (%2$s)."</item>
+        <item quantity="many">"Níorbh fhéidir %1$d mír chúltaca a nuashonrú, mar sin aischuirfear na cúltacaí roimhe de na míreanna seo chuig d'fhón nua (%2$s)."</item>
+        <item quantity="other">"Níorbh fhéidir %1$d mír chúltaca a nuashonrú, mar sin aischuirfear na cúltacaí roimhe de na míreanna seo chuig d'fhón nua (%2$s)."</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Níorbh fhéidir %1$d mhír chúltaca a nuashonrú, mar sin aischuirfear an cúltaca den mhír seo a rinneadh ar an %2$s chuig d'fhón nua (%3$s)."</item>
+        <item quantity="two">"Níorbh fhéidir %1$d mhír chúltaca a nuashonrú, mar sin aischuirfear cúltaca de na míreanna seo a rinneadh ar an %2$s chuig d'fhón nua (%3$s)."</item>
+        <item quantity="few">"Níorbh fhéidir %1$d mhír chúltaca a nuashonrú, mar sin aischuirfear cúltaca de na míreanna seo a rinneadh ar an %2$s chuig d'fhón nua (%3$s)."</item>
+        <item quantity="many">"Níorbh fhéidir %1$d mír chúltaca a nuashonrú, mar sin aischuirfear cúltaca de na míreanna seo a rinneadh ar an %2$s chuig d'fhón nua (%3$s)."</item>
+        <item quantity="other">"Níorbh fhéidir %1$d mír chúltaca a nuashonrú, mar sin aischuirfear cúltaca de na míreanna seo a rinneadh ar an %2$s chuig d'fhón nua (%3$s)."</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Níorbh fhéidir %1$d mhír chúltaca a nuashonrú, mar sin aischuirfear an cúltaca roimhe den mhír seo chuig do tháibléad nua (%2$s).</item>
+        <item quantity="two">Níorbh fhéidir %1$d mhír chúltaca a nuashonrú, mar sin aischuirfear na cúltacaí roimhe de na míreanna seo chuig do tháibléad nua (%2$s).</item>
+        <item quantity="few">Níorbh fhéidir %1$d mhír chúltaca a nuashonrú, mar sin aischuirfear na cúltacaí roimhe de na míreanna seo chuig do tháibléad nua (%2$s).</item>
+        <item quantity="many">Níorbh fhéidir %1$d mír chúltaca a nuashonrú, mar sin aischuirfear na cúltacaí roimhe de na míreanna seo chuig do tháibléad nua (%2$s).</item>
+        <item quantity="other">Níorbh fhéidir %1$d mír chúltaca a nuashonrú, mar sin aischuirfear na cúltacaí roimhe de na míreanna seo chuig do tháibléad nua (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Níorbh fhéidir %1$d mhír chúltaca a nuashonrú, mar sin aischuirfear an cúltaca den mhír seo a rinneadh ar an %2$s chuig do tháibléad nua (%3$s).</item>
+        <item quantity="two">Níorbh fhéidir %1$d mhír chúltaca a nuashonrú, mar sin aischuirfear cúltaca de na míreanna seo a rinneadh ar an %2$s chuig do tháibléad nua (%3$s).</item>
+        <item quantity="few">Níorbh fhéidir %1$d mhír chúltaca a nuashonrú, mar sin aischuirfear cúltaca de na míreanna seo a rinneadh ar an %2$s chuig do tháibléad nua (%3$s).</item>
+        <item quantity="many">Níorbh fhéidir %1$d mír chúltaca a nuashonrú, mar sin aischuirfear cúltaca de na míreanna seo a rinneadh ar an %2$s chuig do tháibléad nua (%3$s).</item>
+        <item quantity="other">Níorbh fhéidir %1$d mír chúltaca a nuashonrú, mar sin aischuirfear an cúltaca den mhír seo a rinneadh ar an %2$s chuig do tháibléad nua (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Scriosfar na sonraí i gceann %d lae.</item>
+        <item quantity="two">Scriosfar na sonraí i gceann %d lá.</item>
+        <item quantity="few">Scriosfar na sonraí i gceann %d lá.</item>
+        <item quantity="many">Scriosfar na sonraí i gceann %d lá.</item>
+        <item quantity="other">Scriosfar na sonraí i gceann %d lá.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Le himeacht as feidhm i gceann %d lae</item>
+        <item quantity="two">Le himeacht as feidhm i gceann %d lá</item>
+        <item quantity="few">Le himeacht as feidhm i gceann %d lá</item>
+        <item quantity="many">Le himeacht as feidhm i gceann %d lá</item>
+        <item quantity="other">Le himeacht as feidhm i gceann %d lá</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tá an chuid is mó de do chuid sonraí aischurtha, ach ní raibh %d fheidhmchlár suiteáilte.</item>
+        <item quantity="two">Tá an chuid is mó de do chuid sonraí aischurtha, ach ní raibh %d fheidhmchlár suiteáilte.</item>
+        <item quantity="few">Tá an chuid is mó de do chuid sonraí aischurtha, ach ní raibh %d fheidhmchlár suiteáilte.</item>
+        <item quantity="many">Tá an chuid is mó de do chuid sonraí aischurtha, ach ní raibh %d bhfeidhmchlár suiteáilte.</item>
+        <item quantity="other">Tá an chuid is mó de do chuid sonraí aischurtha, ach ní raibh %d feidhmchlár suiteáilte.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d albam nua ar fáil</item>
+        <item quantity="two">%d albam nua ar fáil</item>
+        <item quantity="few">%d albam nua ar fáil</item>
+        <item quantity="many">%d n-albam nua ar fáil</item>
+        <item quantity="other">%d albam nua ar fáil</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d albam roghnaithe</item>
+        <item quantity="two">%d albam roghnaithe</item>
+        <item quantity="few">%d albam roghnaithe</item>
+        <item quantity="many">%d n-albam roghnaithe</item>
+        <item quantity="other">%d albam roghnaithe</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 abhatár agus %d mhír shaindeartha</item>
+        <item quantity="two">1 abhatár agus %d mhír shaindeartha</item>
+        <item quantity="few">1 abhatár agus %d mhír shaindeartha</item>
+        <item quantity="many">1 abhatár agus %d mír shaindeartha</item>
+        <item quantity="other">1 abhatár agus %d mír shaindeartha</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 uair an chloig %d nóiméad fágtha</item>
+        <item quantity="two">1 uair an chloig %d nóiméad fágtha</item>
+        <item quantity="few">1 uair an chloig %d nóiméad fágtha</item>
+        <item quantity="many">1 n-uair an chloig %d nóiméad fágtha</item>
+        <item quantity="other">1 uair an chloig %d nóiméad fágtha</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 phictiúr &amp; %d fhíseán sionc.</item>
+        <item quantity="two">1 phictiúr &amp; %d fhíseán sionc.</item>
+        <item quantity="few">1 phictiúr &amp; %d fhíseán sionc.</item>
+        <item quantity="many">1 phictiúr &amp; %d bhfíseán sionc.</item>
+        <item quantity="other">1 phictiúr &amp; %d físeán sionc.</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d mhír roghnaithe (%2$s)</item>
+        <item quantity="two">%1$d mhír roghnaithe (%2$s)</item>
+        <item quantity="few">%1$d mhír roghnaithe (%2$s)</item>
+        <item quantity="many">%1$d mír roghnaithe (%2$s)</item>
+        <item quantity="other">%1$d mír roghnaithe (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d phictiúr agus 1 fhíseán (%2$s)</item>
+        <item quantity="two">%1$d phictiúr agus 1 fhíseán (%2$s)</item>
+        <item quantity="few">%1$d phictiúr agus 1 fhíseán (%2$s)</item>
+        <item quantity="many">%1$d bpictiúr agus 1 fhíseán (%2$s)</item>
+        <item quantity="other">%1$d pictiúr agus 1 fhíseán (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d phictiúr (%2$s)</item>
+        <item quantity="two">%1$d phictiúr (%2$s)</item>
+        <item quantity="few">%1$d phictiúr (%2$s)</item>
+        <item quantity="many">%1$d bpictiúr (%2$s)</item>
+        <item quantity="other">%1$d pictiúr (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d roghnaithe (%2$s %3$s)</item>
+        <item quantity="two">%1$d roghnaithe (%2$s %3$s)</item>
+        <item quantity="few">%1$d roghnaithe (%2$s %3$s)</item>
+        <item quantity="many">%1$d roghnaithe (%2$s %3$s)</item>
+        <item quantity="other">%1$d roghnaithe (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d fhíseán (%2$s)</item>
+        <item quantity="two">%1$d fhíseán (%2$s)</item>
+        <item quantity="few">%1$d fhíseán (%2$s)</item>
+        <item quantity="many">%1$d bhfíseán (%2$s)</item>
+        <item quantity="other">%1$d físeán (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d chomhad</item>
+        <item quantity="two">%d chomhad</item>
+        <item quantity="few">%d chomhad</item>
+        <item quantity="many">%d gcomhad</item>
+        <item quantity="other">%d comhad</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d uair an chloig 1 nóiméad fágtha</item>
+        <item quantity="two">%d uair an chloig 1 nóiméad fágtha</item>
+        <item quantity="few">%d uair an chloig 1 nóiméad fágtha</item>
+        <item quantity="many">%d n-uair an chloig 1 nóiméad fágtha</item>
+        <item quantity="other">%d uair an chloig 1 nóiméad fágtha</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d íomhá íoslódáilte ón néal.</item>
+        <item quantity="two">%d íomhá íoslódáilte ón néal.</item>
+        <item quantity="few">%d íomhá íoslódáilte ón néal.</item>
+        <item quantity="many">%d n-íomhá íoslódáilte ón néal.</item>
+        <item quantity="other">%d íomhá íoslódáilte ón néal.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d mhír íoslódáilte ón néal.</item>
+        <item quantity="two">%d mhír íoslódáilte ón néal.</item>
+        <item quantity="few">%d mhír íoslódáilte ón néal.</item>
+        <item quantity="many">%d mír íoslódáilte ón néal.</item>
+        <item quantity="other">%d mír íoslódáilte ón néal.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nóiméad</item>
+        <item quantity="two">%d nóiméad</item>
+        <item quantity="few">%d nóiméad</item>
+        <item quantity="many">%d nóiméad</item>
+        <item quantity="other">%d nóiméad</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nóiméad fágtha</item>
+        <item quantity="two">%d nóiméad fágtha</item>
+        <item quantity="few">%d nóiméad fágtha</item>
+        <item quantity="many">%d nóiméad fágtha</item>
+        <item quantity="other">%d nóiméad fágtha</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d phictiúr &amp; 1 fhíseán sionc.</item>
+        <item quantity="two">%d phictiúr &amp; 1 fhíseán sionc.</item>
+        <item quantity="few">%d phictiúr &amp; 1 fhíseán sionc.</item>
+        <item quantity="many">%d bpictiúr &amp; 1 fhíseán sionc.</item>
+        <item quantity="other">%d pictiúr &amp; 1 fhíseán sionc.</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ghrianghraf sioncronaithe</item>
+        <item quantity="two">%d ghrianghraf sioncronaithe</item>
+        <item quantity="few">%d ghrianghraf sioncronaithe</item>
+        <item quantity="many">%d ngrianghraf sioncronaithe</item>
+        <item quantity="other">%d grianghraf sioncronaithe</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d phictiúr nó fhíseán</item>
+        <item quantity="two">%d phictiúr agus fhíseán</item>
+        <item quantity="few">%d phictiúr agus fhíseán</item>
+        <item quantity="many">%d bpictiúr agus bhfíseán</item>
+        <item quantity="other">%d pictiúr agus físeán</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d roghnaithe</item>
+        <item quantity="two">%d roghnaithe</item>
+        <item quantity="few">%d roghnaithe</item>
+        <item quantity="many">%d roghnaithe</item>
+        <item quantity="other">%d roghnaithe</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d fhíseán íoslódáilte ón néal.</item>
+        <item quantity="two">%d fhíseán íoslódáilte ón néal.</item>
+        <item quantity="few">%d fhíseán íoslódáilte ón néal.</item>
+        <item quantity="many">%d bhfíseán íoslódáilte ón néal.</item>
+        <item quantity="other">%d físeán íoslódáilte ón néal.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d fhíseán sioncronaithe</item>
+        <item quantity="two">%d fhíseán sioncronaithe</item>
+        <item quantity="few">%d fhíseán sioncronaithe</item>
+        <item quantity="many">%d bhfíseán sioncronaithe</item>
+        <item quantity="other">%d físeán sioncronaithe</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Tá an ceallra lag. Luchtaigh chuig %d%% ar a laghad é le d'fhón a chúltacú."</item>
+        <item quantity="two">"Tá an ceallra lag. Luchtaigh chuig %d%% ar a laghad é le d'fhón a chúltacú."</item>
+        <item quantity="few">"Tá an ceallra lag. Luchtaigh chuig %d%% ar a laghad é le d'fhón a chúltacú."</item>
+        <item quantity="many">"Tá an ceallra lag. Luchtaigh chuig %d%% ar a laghad é le d'fhón a chúltacú."</item>
+        <item quantity="other">"Tá an ceallra lag. Luchtaigh chuig %d%% ar a laghad é le d'fhón a chúltacú."</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Rachaidh do chúltacú sealadach as feidhm i gceann %d lae. Aischuir anois é nó cuir siar an dáta as feidhm má tá tuilleadh ama de dhíth ort.</item>
+        <item quantity="two">Rachaidh do chúltacú sealadach as feidhm i gceann %d lá. Aischuir go luath é nó cuir siar an dáta as feidhm má tá tuilleadh ama de dhíth ort.</item>
+        <item quantity="few">Rachaidh do chúltacú sealadach as feidhm i gceann %d lá. Aischuir go luath é nó cuir siar an dáta as feidhm má tá tuilleadh ama de dhíth ort.</item>
+        <item quantity="many">Rachaidh do chúltacú sealadach as feidhm i gceann %d lá. Aischuir go luath é nó cuir siar an dáta as feidhm má tá tuilleadh ama de dhíth ort.</item>
+        <item quantity="other">Rachaidh do chúltacú sealadach as feidhm i gceann %d lá. Aischuir go luath é nó cuir siar an dáta as feidhm má tá tuilleadh ama de dhíth ort.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Cuir siar %d lá é</item>
+        <item quantity="two">Cuir siar %d lá é</item>
+        <item quantity="few">Cuir siar %d lá é</item>
+        <item quantity="many">Cuir siar %d lá é</item>
+        <item quantity="other">Cuir siar %d lá é</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d abhatár</item>
+        <item quantity="two">%d abhatár</item>
+        <item quantity="few">%d abhatár</item>
+        <item quantity="many">%d n-abhatár</item>
+        <item quantity="other">%d abhatár</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d abhatár agus 1 mhír shaindeartha</item>
+        <item quantity="two">%d abhatár agus 1 mhír shaindeartha</item>
+        <item quantity="few">%d abhatár agus 1 mhír shaindeartha</item>
+        <item quantity="many">%d n-abhatár agus 1 mír shaindeartha</item>
+        <item quantity="other">%d abhatár agus 1 mhír shaindeartha</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d mhír shaindeartha</item>
+        <item quantity="two">%d mhír shaindeartha</item>
+        <item quantity="few">%d mhír shaindeartha</item>
+        <item quantity="many">%d mír shaindeartha</item>
+        <item quantity="other">%d mír shaindeartha</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d mhír fágtha</item>
+        <item quantity="two">%d mhír fágtha</item>
+        <item quantity="few">%d mhír fágtha</item>
+        <item quantity="many">%d mír fágtha</item>
+        <item quantity="other">%d mír fágtha</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ghléas Samsung péireáilte</item>
+        <item quantity="two">%d ghléas Samsung phéireáilte</item>
+        <item quantity="few">%d ghléas Samsung phéireáilte</item>
+        <item quantity="many">%d ngléas Samsung phéireáilte</item>
+        <item quantity="other">%d gléas Samsung phéireáilte</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d mheabhrúchán</item>
+        <item quantity="two">%d mheabhrúchán</item>
+        <item quantity="few">%d mheabhrúchán</item>
+        <item quantity="many">%d meabhrúchán</item>
+        <item quantity="other">%d meabhrúchán</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tháinig deireadh le do shíntiús ar an %1$s. Scriosfar do shonraí i gceann %2$d lae. Athghníomhachtaigh do shíntiús le do chuid sonraí a choinneáil.</item>
+        <item quantity="two">Tháinig deireadh le do shíntiús ar an %1$s. Scriosfar do shonraí i gceann %2$d lá. Athghníomhachtaigh do shíntiús le do chuid sonraí a choinneáil.</item>
+        <item quantity="few">Tháinig deireadh le do shíntiús ar an %1$s. Scriosfar do shonraí i gceann %2$d lá. Athghníomhachtaigh do shíntiús le do chuid sonraí a choinneáil.</item>
+        <item quantity="many">Tháinig deireadh le do shíntiús ar an %1$s. Scriosfar do shonraí i gceann %2$d lá. Athghníomhachtaigh do shíntiús le do chuid sonraí a choinneáil.</item>
+        <item quantity="other">Tháinig deireadh le do shíntiús ar an %1$s. Scriosfar do shonraí i gceann %2$d lá. Athghníomhachtaigh do shíntiús le do chuid sonraí a choinneáil.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tá an ceallra lag. Luchtaigh chuig %d%% ar a laghad é le do tháibléad a chúltacú.</item>
+        <item quantity="two">Tá an ceallra lag. Luchtaigh chuig %d%% ar a laghad é le do tháibléad a chúltacú.</item>
+        <item quantity="few">Tá an ceallra lag. Luchtaigh chuig %d%% ar a laghad é le do tháibléad a chúltacú.</item>
+        <item quantity="many">Tá an ceallra lag. Luchtaigh chuig %d%% ar a laghad é le do tháibléad a chúltacú.</item>
+        <item quantity="other">Tá an ceallra lag. Luchtaigh chuig %d%% ar a laghad é le do tháibléad a chúltacú.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Cúltacaigh sonraí neamhtheoranta chuig %1$s go ceann suas le %2$d lá nó aischuir na sonraí atá cúltacaithe agat.</item>
+        <item quantity="two">Cúltacaigh sonraí neamhtheoranta chuig %1$s go ceann suas le %2$d lá nó aischuir na sonraí atá cúltacaithe agat.</item>
+        <item quantity="few">Cúltacaigh sonraí neamhtheoranta chuig %1$s go ceann suas le %2$d lá nó aischuir na sonraí atá cúltacaithe agat.</item>
+        <item quantity="many">Cúltacaigh sonraí neamhtheoranta chuig %1$s go ceann suas le %2$d lá nó aischuir na sonraí atá cúltacaithe agat.</item>
+        <item quantity="other">Cúltacaigh sonraí neamhtheoranta chuig %1$s go ceann suas le %2$d lá nó aischuir na sonraí atá cúltacaithe agat.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Scriosfar an cúltaca seo i gceann %d lae.</item>
+        <item quantity="two">Scriosfar an cúltaca seo i gceann %d lá.</item>
+        <item quantity="few">Scriosfar an cúltaca seo i gceann %d lá.</item>
+        <item quantity="many">Scriosfar an cúltaca seo i gceann %d lá.</item>
+        <item quantity="other">Scriosfar an cúltaca seo i gceann %d lá.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Triail arís i gceann %d uair an chloig</item>
+        <item quantity="two">Triail arís i gceann %d uair an chloig</item>
+        <item quantity="few">Triail arís i gceann %d uair an chloig</item>
+        <item quantity="many">Triail arís i gceann %d n-uair an chloig</item>
+        <item quantity="other">Triail arís i gceann %d uair an chloig</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Triail arís i gceann %d uair an chloig 1 nóiméad</item>
+        <item quantity="two">Triail arís i gceann %d uair an chloig 1 nóiméad</item>
+        <item quantity="few">Triail arís i gceann %d uair an chloig 1 nóiméad</item>
+        <item quantity="many">Triail arís i gceann %d n-uair an chloig 1 nóiméad</item>
+        <item quantity="other">Triail arís i gceann %d uair an chloig 1 nóiméad</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Triail arís i gceann %d nóiméid</item>
+        <item quantity="two">Triail arís i gceann %d nóiméad</item>
+        <item quantity="few">Triail arís i gceann %d nóiméad</item>
+        <item quantity="many">Triail arís i gceann %d nóiméad</item>
+        <item quantity="other">Triail arís i gceann %d nóiméad</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Triail arís i gceann 1 uair an chloig %d nóiméad</item>
+        <item quantity="two">Triail arís i gceann 1 uair an chloig %d nóiméad</item>
+        <item quantity="few">Triail arís i gceann 1 uair an chloig %d nóiméad</item>
+        <item quantity="many">Triail arís i gceann 1 uair an chloig %d nóiméad</item>
+        <item quantity="other">Triail arís i gceann 1 uair an chloig %d nóiméad</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tá do chúltaca slán sábháilte ar %1$s. Beidh %2$d lá agat lena aischur.</item>
+        <item quantity="two">Tá do chúltaca slán sábháilte ar %1$s. Beidh %2$d lá agat lena aischur.</item>
+        <item quantity="few">Tá do chúltaca slán sábháilte ar %1$s. Beidh %2$d lá agat lena aischur.</item>
+        <item quantity="many">Tá do chúltaca slán sábháilte ar %1$s. Beidh %2$d lá agat lena aischur.</item>
+        <item quantity="other">Tá do chúltaca slán sábháilte ar %1$s. Beidh %2$d lá agat lena aischur.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Scriosfar do chúltaca sealadach i gceann %d lae.</item>
+        <item quantity="two">Scriosfar do chúltaca sealadach i gceann %d lá.</item>
+        <item quantity="few">Scriosfar do chúltaca sealadach i gceann %d lá.</item>
+        <item quantity="many">Scriosfar do chúltaca sealadach i gceann %d lá.</item>
+        <item quantity="other">Scriosfar do chúltaca sealadach i gceann %d lá.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Níor aischuireadh do shonraí chuig d'fhón. Tá %d lá fágtha agat lena n-aischur."</item>
+        <item quantity="two">"Níor aischuireadh do shonraí chuig d'fhón. Tá %d lá fágtha agat lena n-aischur."</item>
+        <item quantity="few">"Níor aischuireadh do shonraí chuig d'fhón. Tá %d lá fágtha agat lena n-aischur."</item>
+        <item quantity="many">"Níor aischuireadh do shonraí chuig d'fhón. Tá %d lá fágtha agat lena n-aischur."</item>
+        <item quantity="other">"Níor aischuireadh do shonraí chuig d'fhón. Tá %d lá fágtha agat lena n-aischur."</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Níor aischuireadh do shonraí chuig do tháibléad. Tá %d lá fágtha agat lena n-aischur.</item>
+        <item quantity="two">Níor aischuireadh do shonraí chuig do tháibléad. Tá %d lá fágtha agat lena n-aischur.</item>
+        <item quantity="few">Níor aischuireadh do shonraí chuig do tháibléad. Tá %d lá fágtha agat lena n-aischur.</item>
+        <item quantity="many">Níor aischuireadh do shonraí chuig do tháibléad. Tá %d lá fágtha agat lena n-aischur.</item>
+        <item quantity="other">Níor aischuireadh do shonraí chuig do tháibléad. Tá %d lá fágtha agat lena n-aischur.</item>
+    </plurals>
+</resources>

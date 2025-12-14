@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Το τηλέφωνό σας φορτίζει.</item>
+        <item>Το τηλέφωνό σας είναι συνδεδεμένο σε δίκτυο Wi-Fi.</item>
+        <item>Η οθόνη είναι σβηστή.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Το tablet σας φορτίζει.</item>
+        <item>Το tablet σας είναι συνδεδεμένο σε δίκτυο Wi-Fi.</item>
+        <item>Η οθόνη είναι σβηστή.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Τα δεδομένα για τα οποία είναι δυνατή η δημιουργία αντιγράφου ασφαλείας μπορεί να διαφέρουν ανάλογα με το τηλέφωνο ή το λειτουργικό σας σύστημα.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Τα δεδομένα για τα οποία είναι δυνατή η δημιουργία αντιγράφου ασφαλείας μπορεί να διαφέρουν ανάλογα με το tablet ή το λειτουργικό σας σύστημα.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Επαφές: επαφές από συγχρονισμένους λογαριασμούς</item>
+        <item>Ημερολόγιο: συμβάντα και εργασίες από συγχρονισμένους λογαριασμούς</item>
+        <item>Galaxy Themes: θέματα και προεπιλεγμένο φόντο</item>
+        <item>Εφαρμογές: μη συμβατά αρχεία εγκατάστασης και δεδομένα από εφαρμογές που δεν είναι της Samsung</item>
+        <item>Ασφαλής φάκελος: εφαρμογές και δεδομένα</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Επαφές: επαφές από συγχρονισμένους λογαριασμούς</item>
+        <item>Ημερολόγιο: συμβάντα και εργασίες από συγχρονισμένους λογαριασμούς</item>
+        <item>Galaxy Themes: θέματα και προεπιλεγμένο φόντο</item>
+        <item>Εφαρμογές: μη υποστηριζόμενα αρχεία εγκατάστασης</item>
+        <item>Ασφαλής φάκελος: εφαρμογές και δεδομένα</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Τηλέφωνο: ιστορικό κλήσεων και μηνυμάτων</item>
+        <item>Μηνύματα: βελτιωμένα μηνύματα, μηνύματα πολυμέσων και μηνύματα κειμένου</item>
+        <item>Επαφές: επαφές, διευθύνσεις email και επαγγελματικές κάρτες αποθηκευμένες στη συσκευή σας</item>
+        <item>Ημερολόγιο: συμβάντα και εργασίες που αποθηκεύτηκαν στη συσκευή</item>
+        <item>Ρολόι: ξυπνητήρια, παγκόσμια ρολόγια και αντίστροφη μέτρηση</item>
+        <item>Ρυθμίσεις: ρυθμίσεις προσβασιμότητας, ήχοι κλήσης, επιλογές Πληκτρολογίου Samsung, ρυθμίσεις Wi-Fi, συσκευές Bluetooth σε σύζευξη, ρυθμίσεις αναγνώρισης προσώπου, ρυθμίσεις δαχτυλικού αποτυπώματος και ρυθμίσεις Always On Display (ο προεπιλεγμένος ήχος κλήσης δεν θα προστεθεί στο αντίγραφο ασφαλείας)</item>
+        <item>Αρχική οθόνη: διάταξη, φόντα και ρυθμίσεις Samsung DeX</item>
+        <item>Εφαρμογές: αρχεία εγκατάστασης και ρυθμίσεις εφαρμογών</item>
+        <item>Εγγραφή φωνής: εγγραφές</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Μουσική: MP3, FLAC, WAV, M4A, OGG και άλλα αρχεία μουσικής</item>
+        <item>Έγγραφα: PDF, Word, Excel, PowerPoint και άλλα έγγραφα</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: ιστορικό συνομιλιών</item>
+        <item>%s: κλειδωμένες σημειώσεις</item>
+        <item>%s: δεδομένα με προστασία κωδικού πρόσβασης</item>
+        <item>%s: εφαρμογές και δεδομένα εφαρμογών</item>
+        <item>%s: Συμβάντα από συγχρονισμένους λογαριασμούς</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Απόρρητο κλειδί και φράση ανάκτησης</item>
+        <item>Δεδομένα που δεν μπορούν να μεταφερθούν λόγω των πολιτικών της εφαρμογής</item>
+        <item>Εφαρμογές που δεν μπορούν να μεταφερθούν λόγω ζητημάτων ασφαλείας ή συμβατότητας: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Επαφές μόνο για ανάγνωση</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Προεπιλεγμένο φόντο</item>
+        <item>Φόντα Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Μηνύματα ειδοποιήσεων έκτακτης ανάγκης</item>
+        <item>Πρόχειρα και αποτυχημένα μηνύματα</item>
+        <item>Μηνύματα με εφέ iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Κλειδωμένο περιεχόμενο</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Τηλέφωνο: ιστορικό κλήσεων και μηνυμάτων</item>
+        <item>Μηνύματα: βελτιωμένα μηνύματα, μηνύματα πολυμέσων και μηνύματα κειμένου</item>
+        <item>Ρολόι: ξυπνητήρια, παγκόσμια ρολόγια και αντίστροφη μέτρηση</item>
+        <item>Ρυθμίσεις: ρυθμίσεις προσβασιμότητας, ήχοι κλήσης, επιλογές Πληκτρολογίου Samsung, ρυθμίσεις Wi-Fi, συσκευές Bluetooth σε σύζευξη και ρυθμίσεις Always On Display (ο προεπιλεγμένος ήχος κλήσης δεν κρυπτογραφείται)</item>
+        <item>Εφαρμογές: ρυθμίσεις εφαρμογών</item>
+        <item>Αρχική οθόνη: διάταξη, φόντα και ρυθμίσεις Samsung DeX</item>
+        <item>Εγγραφή φωνής: εγγραφές</item>
+    </string-array>
+</resources>

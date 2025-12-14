@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 చిత్రం మరియు %1$d వీడియో (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 చిత్రం మరియు %1$d వీడియోలు (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d అప్లికేషన్ ఇన్‌స్టాల్ చేయబడలేదు</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d అప్లికేషన్‌లు ఇన్‌స్టాల్ చేయబడ్డాయి</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">సందేశాలు: అత్యవసర హెచ్చరికలు, బదిలీ చేసిన ఫైల్‌లు, %d MB కంటే పెద్ద మల్టీమీడియా సందేశాలు, డ్రాఫ్ట్‌లు మరియు విఫలమైన సందేశాలు</item>
+        <item quantity="one">సందేశాలు: అత్యవసర హెచ్చరికలు, బదిలీ చేసిన ఫైల్‌లు, %d MB కంటే పెద్ద మల్టీమీడియా సందేశాలు, డ్రాఫ్ట్‌లు మరియు విఫలమైన సందేశాలు</item>
+        <item quantity="two">సందేశాలు: అత్యవసర హెచ్చరికలు, బదిలీ చేసిన ఫైల్‌లు, %d MB కంటే పెద్ద మల్టీమీడియా సందేశాలు, డ్రాఫ్ట్‌లు మరియు విఫలమైన సందేశాలు</item>
+        <item quantity="few">సందేశాలు: అత్యవసర హెచ్చరికలు, బదిలీ చేసిన ఫైల్‌లు, %d MB కంటే పెద్ద మల్టీమీడియా సందేశాలు, డ్రాఫ్ట్‌లు మరియు విఫలమైన సందేశాలు</item>
+        <item quantity="many">సందేశాలు: అత్యవసర హెచ్చరికలు, బదిలీ చేసిన ఫైల్‌లు, %d MB కంటే పెద్ద మల్టీమీడియా సందేశాలు, డ్రాఫ్ట్‌లు మరియు విఫలమైన సందేశాలు</item>
+        <item quantity="other">సందేశాలు: అత్యవసర హెచ్చరికలు, బదిలీ చేసిన ఫైల్‌లు, %d MB కంటే పెద్ద మల్టీమీడియా సందేశాలు, డ్రాఫ్ట్‌లు మరియు విఫలమైన సందేశాలు</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d పరికరానికి డేటాని బ్యాకప్ చేసే గడువు త్వరలో ముగుస్తుంది. గడువు ముగింపు తేదీని తనిఖీ చేయడానికి దిగువ పరికరాన్ని ఎంచుకోండి.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d పరికరాలకు డేటాని బ్యాకప్ చేసే గడువు త్వరలో ముగుస్తుంది. గడువు ముగింపు తేదీని తనిఖీ చేయడానికి దిగువ పరికరాన్ని ఎంచుకోండి.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d పరికరానికి డేటాని బ్యాకప్ చేసే గడువు త్వరలో ముగుస్తుంది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d పరికరాలకు డేటాని బ్యాకప్ చేసే గడువు త్వరలో ముగుస్తుంది.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d బ్యాకప్ అంశాన్ని అప్‌డేట్ చేయడం సాధ్యం కాలేదు, కాబట్టి ఈ అంశం యొక్క మునుపటి బ్యాకప్ మీ కొత్త ఫోన్‌కు పునరుద్ధరించబడుతుంది (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d బ్యాకప్ అంశాలను అప్‌డేట్ చేయడం సాధ్యం కాలేదు, కాబట్టి ఈ అంశాల యొక్క మునుపటి బ్యాకప్‌లు మీ కొత్త ఫోన్‌కు పునరుద్ధరించబడతాయి (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d బ్యాకప్ అంశాన్ని అప్‌డేట్ చేయడం సాధ్యం కాలేదు, కాబట్టి %2$sన ఈ అంశానికి చేసిన బ్యాకప్ మీ కొత్త ఫోన్‌కు (%3$s) పునరుద్ధరించబడుతుంది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d బ్యాకప్ అంశాలను అప్‌డేట్ చేయడం సాధ్యం కాలేదు, కాబట్టి %2$sన ఈ అంశాలకు చేసిన బ్యాకప్‌లు మీ కొత్త ఫోన్‌కు (%3$s) పునరుద్ధరించబడతాయి.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d బ్యాకప్ అంశాన్ని అప్‌డేట్ చేయడం సాధ్యం కాలేదు, కాబట్టి ఈ అంశం యొక్క మునుపటి బ్యాకప్ మీ కొత్త టాబ్లెట్‌కు పునరుద్ధరించబడుతుంది (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d బ్యాకప్ అంశాలను అప్‌డేట్ చేయడం సాధ్యం కాలేదు, కాబట్టి ఈ అంశాల యొక్క మునుపటి బ్యాకప్‌లు మీ కొత్త టాబ్లెట్‌కు పునరుద్ధరించబడతాయి (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d బ్యాకప్ అంశాన్ని అప్‌డేట్ చేయడం సాధ్యం కాలేదు, కాబట్టి %2$sన ఈ అంశానికి చేసిన బ్యాకప్ మీ కొత్త టాబ్లెట్‌కు (%3$s) పునరుద్ధరించబడుతుంది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d బ్యాకప్ అంశాలను అప్‌డేట్ చేయడం సాధ్యం కాలేదు, కాబట్టి %2$sన ఈ అంశాలకు చేసిన బ్యాకప్‌లు మీ కొత్త టాబ్లెట్‌కు (%3$s) పునరుద్ధరించబడతాయి.</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">డేటా %d రోజులో తొలగించబడుతుంది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">డేటా %d రోజులలో తొలగించబడుతుంది.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d రోజులో గడువు ముగుస్తుంది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d రోజులలో గడువు ముగుస్తుంది</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">దాదాపు మీ డేటా అంతా పునరుద్ధరించబడింది, కానీ %d అప్లికేషన్ ఇన్‌స్టాల్ చేయబడలేదు.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">దాదాపు మీ డేటా అంతా పునరుద్ధరించబడింది, కానీ %d అప్లికేషన్‌లు ఇన్‌స్టాల్ చేయబడలేదు.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d కొత్త ఆల్బమ్ అందుబాటులో ఉన్నాయి</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d కొత్త ఆల్బమ్‌లు అందుబాటులో ఉన్నాయి</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ఆల్బమ్ ఎంచుకోబడింది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ఆల్బమ్‌లు ఎంచుకోబడ్డాయి</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 అవతార్ మరియు %d అనుకూలంగా రూపొందించిన అంశం</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 అవతార్ మరియు %d అనుకూలంగా రూపొందించిన అంశాలు</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 గంట %d నిమిషం మిగిలి ఉంది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 గంట %d నిమిషాలు మిగిలి ఉన్నాయి</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 ఫోటో మరియు %d వీడియో సమకాలీకరించబడ్డాయి</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 ఫోటో మరియు %d వీడియోలు సమకాలీకరించబడ్డాయి</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d అంశం ఎంచుకోబడింది (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d అంశాలు ఎంచుకోబడ్డాయి (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d చిత్రం మరియు 1 వీడియో (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d చిత్రాలు మరియు 1 వీడియో (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d చిత్రం (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d చిత్రాలు (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ఎంచుకోబడింది (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ఎంచుకోబడ్డాయి (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d వీడియో (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d వీడియోలు (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ఫైల్</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ఫైల్‌లు</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d గంట 1 నిమిషం మిగిలి ఉంది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d గంటల 1 నిమిషం మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">క్లౌడ్ నుండి %d చిత్రం డౌన్‌లోడ్ చేయబడింది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">క్లౌడ్ నుండి %d చిత్రాలు డౌన్‌లోడ్ చేయబడ్డాయి.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">క్లౌడ్ నుండి %d అంశం డౌన్‌లోడ్ చేయబడింది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">క్లౌడ్ నుండి %d అంశాలు డౌన్‌లోడ్ చేయబడ్డాయి.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d నిమిషం</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d నిమిషాలు</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d నిమిషం మిగిలి ఉంది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d నిమిషాలు మిగిలి ఉన్నాయి</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ఫోటో మరియు 1 వీడియో సమకాలీకరించబడ్డాయి</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ఫోటోలు మరియు 1 వీడియో సమకాలీకరించబడ్డాయి</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ఫోటో సమకాలీకరించబడింది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ఫోటోలు సమకాలీకరించబడ్డాయి</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d చిత్రం లేదా వీడియో</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d చిత్రాలు మరియు వీడియోలు</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ఎంచుకోబడింది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">క్లౌడ్ నుండి %d వీడియో డౌన్‌లోడ్ చేయబడింది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">క్లౌడ్ నుండి %d వీడియోలు డౌన్‌లోడ్ చేయబడ్డాయి.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">మొత్తం %d వీడియో సమకాలీకరించబడింది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">మొత్తం %d వీడియోలు సమకాలీకరించబడ్డాయి</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">బ్యాటరీ తక్కువగా ఉంది. మీ ఫోన్‌ని బ్యాకప్ చేయడానికి కనీసం %d%%కు ఛార్జ్ చేయండి.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">బ్యాటరీ తక్కువగా ఉంది. మీ ఫోన్‌ని బ్యాకప్ చేయడానికి కనీసం %d%%కు ఛార్జ్ చేయండి.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">మీ తాత్కాలిక బ్యాకప్ గడువు %d రోజులో ముగుస్తుంది. ఇప్పుడే దాన్ని పునరుద్ధరించండి లేదా మీకు మరింత సమయం అవసరమైనట్లయితే, గడువు ముగింపు తేదీని వాయిదా వేయండి.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">మీ తాత్కాలిక బ్యాకప్ గడువు %d రోజుల్లో ముగుస్తుంది. ఇప్పుడే దాన్ని పునరుద్ధరించండి లేదా మీకు మరింత సమయం అవసరమైనట్లయితే, గడువు ముగింపు తేదీని వాయిదా వేయండి.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d రోజు వాయిదా వేయి</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d రోజులు వాయిదా వేయి</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d అవతార్</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d అవతార్‌లు</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d అవతార్ మరియు 1 అనుకూలంగా రూపొందించిన అంశం</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d అవతార్‌లు మరియు 1 అనుకూలంగా రూపొందించిన అంశం</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d అనుకూలంగా రూపొందించిన అంశం</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d అనుకూలంగా రూపొందించిన అంశాలు</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d అంశం మిగిలి ఉంది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d అంశాలు మిగిలి ఉన్నాయి</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d జత చేయబడిన స్యామ్‌సంగ్ పరికరం</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d జత చేయబడిన స్యామ్‌సంగ్ పరికరాలు</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d రిమైండర్</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d రిమైండర్‌లు</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">మీ సభ్యత్వం %1$sన ముగిసింది. మీ డేటా %2$d రోజులో తొలగించబడుతుంది. మీ డేటాని ఉంచడానికి మీ సభ్యత్వాన్ని మళ్లీ యాక్టివేట్ చేయబడుతుంది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">మీ సభ్యత్వం %1$sన ముగిసింది. మీ డేటా %2$d రోజుల్లో తొలగించబడుతుంది. మీ డేటాని ఉంచడానికి మీ సభ్యత్వాన్ని మళ్లీ యాక్టివేట్ చేయబడుతుంది.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">బ్యాటరీ తక్కువగా ఉంది. మీ టాబ్లెట్‌ని బ్యాకప్ చేయడానికి కనీసం %d%%కు ఛార్జ్ చేయండి.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">బ్యాటరీ తక్కువగా ఉంది. మీ టాబ్లెట్‌ని బ్యాకప్ చేయడానికి కనీసం %d%%కు ఛార్జ్ చేయండి.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">గరిష్టంగా %2$d రోజు పాటు %1$sకు అపరిమిత డేటాని బ్యాకప్ చేయండి లేదా మీరు బ్యాకప్ చేసిన డేటాని పునరుద్ధరించండి.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">గరిష్టంగా %2$d రోజుల పాటు %1$sకు అపరిమిత డేటాని బ్యాకప్ చేయండి లేదా మీరు బ్యాకప్ చేసిన డేటాని పునరుద్ధరించండి.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ఈ బ్యాకప్ %d రోజులో తొలగించబడుతుంది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ఈ బ్యాకప్ %d రోజుల్లో తొలగించబడుతుంది.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d గంటలో మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d గంటలలో మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d గంట 1 నిమిషంలో మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d గంటల 1 నిమిషంలో మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d నిమిషంలో మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d నిమిషాల్లో మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 గంట %d నిమిషంలో మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 గంట %d నిమిషాల్లో మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$sలో మీ బ్యాకప్ సురక్షితంగా ఉంటుంది. దీన్ని పునరుద్ధరించడానికి మీకు %2$d రోజు మిగిలి ఉంది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$sలో మీ బ్యాకప్ సురక్షితంగా ఉంటుంది. దీన్ని పునరుద్ధరించడానికి మీకు %2$d రోజులు మిగిలి ఉన్నాయి.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">మీ తాత్కాలిక బ్యాకప్ %d రోజులో తొలగించబడుతుంది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">మీ తాత్కాలిక బ్యాకప్ %d రోజుల్లో తొలగించబడుతుంది.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">మీ డేటా మీ ఫోన్‌లో పునరుద్ధరించబడలేదు. దీన్ని పునరుద్ధరించడానికి మీకు %d రోజు మిగిలి ఉంది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">మీ డేటా మీ ఫోన్‌లో పునరుద్ధరించబడలేదు. దీన్ని పునరుద్ధరించడానికి మీకు %d రోజులు మిగిలి ఉన్నాయి.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">మీ డేటా మీ టాబ్లెట్‌లో పునరుద్ధరించబడలేదు. దీన్ని పునరుద్ధరించడానికి మీకు %d రోజు మిగిలి ఉంది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">మీ డేటా మీ టాబ్లెట్‌లో పునరుద్ధరించబడలేదు. దీన్ని పునరుద్ధరించడానికి మీకు %d రోజులు మిగిలి ఉన్నాయి.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout android:tag="layout-normal-land/fragment_help_template_0" android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/container" android:tag="disableFooter" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.constraintlayout.widget.Guideline android:orientation="vertical" android:id="@id/guidelineVertical" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_percent="0.5" />
+        <FrameLayout android:orientation="vertical" android:id="@id/video_container" android:layout_width="0.0dp" android:layout_height="match_parent" app:layout_constraintEnd_toStartOf="@id/guidelineVertical" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <ScrollView android:layout_width="0.0dp" android:layout_height="match_parent" android:fillViewport="true" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/guidelineVertical" app:layout_constraintTop_toTopOf="parent">
+            <LinearLayout android:gravity="top" android:orientation="vertical" android:id="@id/para_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/margin_10dp" />
+        </ScrollView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>fóònù rẹ ń gba iná sára.</item>
+        <item>fóònù wà ní ìsopọ̀ mọ́ ayélujára Wi-Fi.</item>
+        <item>Ìbòjú ti wà ní pípa.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Kòmpútà alogègé rẹ ń gba iná sára.</item>
+        <item>Kọ̀m̀pútà alogègé rẹ tí wà ní ìsopọ̀ ayélujára Wi-Fi.</item>
+        <item>Ìbòjú ti wà ní pípa.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Dátà tí o lè fipamọ́ lè yàtọ̀ látàrí fóònù tàbi ètò ẹ̀rọ ìṣíṣẹ́ rẹ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Dátà tí o lè fipamọ́ lè yàtọ̀ látàrí tabulẹti tàbi ètò ẹ̀rọ ìṣíṣẹ́ rẹ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Èlò ẹ̀rọ ìforúkọpamọ́si: àwọn olubaṣọrọ láti àwọn àkọọ́lé ti a ṣe ìmúdọ́gba rẹ</item>
+        <item>kálẹ́ndà: àwọn ìṣẹ̀lẹ̀ àti iṣẹ́ láti inú àkọọ́lé ìmúdọ́gba</item>
+        <item>Galaxy Themes: àwọn àkórí àti àwọ̀rán ojú ẹ̀rọ aláìyípadà</item>
+        <item>Àwọn ohun èlò ẹ̀rọ: fáìlì ìfilọ́lẹ̀ aláìbáramu àti detà láti àwọn ohun èlò ẹ̀rọ tí kì í ṣẹ ti Samsung</item>
+        <item>Àyè ìpamọ́ Fódà: Ohun èlo ẹ̀rọ àti détà</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Èlò ẹ̀rọ ìforúkọpamọ́si: àwọn olubaṣọrọ láti àwọn àkọọ́lé ti a ṣe ìmúdọ́gba rẹ</item>
+        <item>kálẹ́ndà: àwọn ìṣẹ̀lẹ̀ àti iṣẹ́ láti inú àkọọ́lé ìmúdọ́gba</item>
+        <item>Galaxy Themes: àwọn àkórí àti àwọ̀rán ojú ẹ̀rọ aláìyípadà</item>
+        <item>Àwọn áàpù: àwọn fáìlì ta ma n fi sori ẹrọ ti a ko ṣatilẹyin fun</item>
+        <item>Àyè ìpamọ́ Fódà: Ohun èlo ẹ̀rọ àti détà</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Fóònù: ìpè àti ìtàn àtẹ̀jíṣẹ́́</item>
+        <item>Àwọn ìfiránṣẹ́: àwon ìfiránṣẹ́ tí a mú dára si, ìfiránṣẹ́ àkópọ̀ ohùn àti àwòrán àti ìfọ̀rọ̀ránṣẹ́</item>
+        <item>Èlò ẹ̀rọ ìforúkọpamọ́si: àwọn olùbásọ̀rọ̀, àdírẹ̀sì Í-meèlì, àti káàdì àfimọni tó wà ní ìpamọ́ lórí ohun èlò rẹ</item>
+        <item>Kálẹ́ndà: àwọn ìṣẹ̀lẹ̀ àti isẹ́ tó wà ní ìpamọ́ lórí ohun èlò rẹ</item>
+        <item>Ago: àwọn ago ìtànijí, ago àgbáyé, àti àsìkò</item>
+        <item>Àwọn ààto: àwọn ààto wíwá nílẹ̀, Ìró ago ẹ̀rọ ìbánisọ̀rọ̀, àṣàyàn àtẹ bọ́tíìnì Samsung, àwọn ààtò Wi-Fi, ìsopọ̀ ohun èlò Ìsopọ̀ láàrín ohun elò ẹ̀rọ méjì, ààtò ìdámọ̀ ojú, àwọn ààtò ìtẹ̀ka, àti àwọn ààto Always On Display (Ìró ago ẹ̀rọ ìbánisọ̀rọ̀ aláàtúnṣẹ̀ rẹ̀ kò ní wà ní àbọ̀wábá)</item>
+        <item>Àfihàn ojúlé ìbẹ̀rẹ̀: Ìfilélẹ̀, Ìyàwòrán ojú ẹ̀rọ, àti àwọn ààtò Samsung DeX</item>
+        <item>Àwọn ohun èlò: Àwọn fàilì ìṣàgbékalẹ̀ àti àwọn ààtò ti ohun èlò</item>
+        <item>Ìgbàsílẹ̀ ohùn: àwọn Ìgbàsílẹ̀</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Orin: MP3, FLAC, WAV, M4A, OGG, àti àwọn fáìlì orin tókù</item>
+        <item>Documents: PDF, Word, Excel, PowerPoint, àti àwọn dọ́kúmẹ́ǹtì mìíràn</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: ìtàn ìjíròrò</item>
+        <item>%s: ohun èlò fún nǹkan kíkọ tó wà ní àtìpa</item>
+        <item>%s: ọ̀rọ̀ ìgbaniwọlé-ìdáàbòbo détà</item>
+        <item>%s: àwọn ohun èlò àti détà ohun èlò</item>
+        <item>%s: Àwọn ìṣẹ̀lẹ̀ láti àwọn àkọọ́lé tí a múdọ́gba</item>
+        <item>Keystore Samsung Blockchain</item>
+        <item>Bọ́tíìnì ìkọ̀kọ̀ àti gbólóhùn ìmúláradá</item>
+        <item>Détà tí a kò lè di gbígbé nítorí àwọn Ìlànà ìmúlò ohun èlò</item>
+        <item>Àwọn ohun èlò tí a kò le gbé nítorì àwọn ìṣòro ajẹ́mọ́ àbò tàbí ìbámu: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Èlò ẹ̀rọ ìforúkọpamọ́si fún kíkà nìkan</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Ìṣẹ̀sọ́ ògiri àìyípadà</item>
+        <item>Àwọn àlẹ̀mọ́ Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Àwọn àtẹ̀jíṣẹ́ ìtanilólobó pàjáwìrì</item>
+        <item>Àkọsílẹ̀ àti àwọn àtẹ̀jíṣẹ́ tí ó kùnà</item>
+        <item>Èlò ẹ̀rọ àtẹ̀jíṣẹ́ pẹ̀lú ipa iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Àkóónú nítìpa</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Fóònù: ìpè àti ìtàn àtẹ̀jíṣẹ́́</item>
+        <item>Àwọn ìfiránṣẹ́: àwon ìfiránṣẹ́ tí a mú dára si, ìfiránṣẹ́ àkópọ̀ ohùn àti àwòrán àti ìfọ̀rọ̀ránṣẹ́</item>
+        <item>Ago: àwọn ago ìtànijí, ago àgbáyé, àti àsìkò</item>
+        <item>Àwọn ààtò: àwọn ààtò wíwá nílẹ̀, àwọn ìró aago ẹ̀rọ ìbánisọ̀rọ̀, àwọn ẹ̀yàn àtẹ iṣẹ́ Samsung, àwọn ààtò Wi-Fi, àwọn ẹ̀rọ Bluetooth tí a so pọ̀, àti àwọn ààtò Always On Display (ìró aago ẹ̀rọ ìbánisọ̀rọ̀ àìyípadà kò sí ní ìyí ọ̀rọ̀ sí kóòdù)</item>
+        <item>Àwọn ohun èlò: àwọn ààtò ohun èlò</item>
+        <item>Àfihàn ojúlé ìbẹ̀rẹ̀: Ìfilélẹ̀, Ìyàwòrán ojú ẹ̀rọ, àti àwọn ààtò Samsung DeX</item>
+        <item>Ìgbàsílẹ̀ ohùn: àwọn Ìgbàsílẹ̀</item>
+    </string-array>
+</resources>

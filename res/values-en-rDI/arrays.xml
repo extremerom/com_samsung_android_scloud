@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>DREAM_CLOUD_BODY_YOUR_PHONE_IS_CHARGING</item>
+        <item>DREAM_CLOUD_BODY_YOUR_PHONE_IS_CONNECTED_TO_A_WI_FI_NETWORK</item>
+        <item>DREAM_CLOUD_BODY_THE_SCREEN_IS_OFF</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>DREAM_CLOUD_BODY_YOUR_TABLET_IS_CHARGING</item>
+        <item>DREAM_CLOUD_BODY_YOUR_TABLET_IS_CONNECTED_TO_A_WI_FI_NETWORK</item>
+        <item>DREAM_CLOUD_BODY_THE_SCREEN_IS_OFF</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>DREAM_ST_BODY_THE_DATA_THAT_YOU_CAN_BACK_UP_MAY_DIFFER_BASED_ON_YOUR_PHONE_OR_OPERATING_SYSTEM</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>DREAM_ST_BODY_THE_DATA_THAT_YOU_CAN_BACK_UP_MAY_DIFFER_BASED_ON_YOUR_TABLET_OR_OPERATING_SYSTEM</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>DREAM_CLOUD_OPT_CONTACTS_C_CONTACTS_FROM_SYNCED_ACCOUNTS</item>
+        <item>DREAM_CLOUD_OPT_CALENDAR_C_EVENTS_AND_TASKS_FROM_SYNCED_ACCOUNTS</item>
+        <item>DREAM_CLOUD_OPT_GALAXY_THEMES_C_THEMES_AND_DEFAULT_WALLPAPER</item>
+        <item>DREAM_CLOUD_OPT_APPS_C_NON_COMPATIBLE_INSTALLATION_FILES_AND_DATA_FROM_NON_SAMSUNG_APPS</item>
+        <item>DREAM_CLOUD_OPT_SECURE_FOLDER_C_APPS_AND_DATA</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>DREAM_CLOUD_OPT_CONTACTS_C_CONTACTS_FROM_SYNCED_ACCOUNTS</item>
+        <item>DREAM_CLOUD_OPT_CALENDAR_C_EVENTS_AND_TASKS_FROM_SYNCED_ACCOUNTS</item>
+        <item>DREAM_CLOUD_OPT_GALAXY_THEMES_C_THEMES_AND_DEFAULT_WALLPAPER</item>
+        <item>DREAM_CLOUD_OPT_APPS_C_UNSUPPORTED_INSTALLATION_FILES</item>
+        <item>DREAM_CLOUD_OPT_SECURE_FOLDER_C_APPS_AND_DATA</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>DREAM_CLOUD_BODY_PHONE_C_CALL_AND_MESSAGE_HISTORY</item>
+        <item>DREAM_ST_BODY_MESSAGES_C_ENHANCED_MESSAGES_MULTIMEDIA_MESSAGES_AND_TEXT_MESSAGES</item>
+        <item>DREAM_CLOUD_BODY_CONTACTS_C_CONTACTS_EMAIL_ADDRESSES_AND_BUSINESS_CARDS_SAVED_ON_YOUR_DEVICE</item>
+        <item>DREAM_CLOUD_BODY_CALENDAR_C_EVENTS_AND_TASKS_SAVED_ON_YOUR_DEVICE</item>
+        <item>DREAM_CLOUD_BODY_CLOCK_C_ALARMS_WORLD_CLOCKS_AND_TIMERS</item>
+        <item>DREAM_CLOUD_OPT_SETTINGS_C_ACCESSIBILITY_SETTINGS_RINGTONES_SAMSUNG_KEYBOARD_OPTIONS_MSG</item>
+        <item>DREAM_CLOUD_OPT_HOME_SCREEN_C_LAYOUT_WALLPAPERS_AND_SAMSUNG_DEX_SETTINGS</item>
+        <item>DREAM_CLOUD_BODY_APPS_C_INSTALLATION_FILES_AND_APP_SETTINGS</item>
+        <item>DREAM_CLOUD_BODY_VOICE_RECORDER_C_RECORDINGS</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>DREAM_CLOUD_OPT_MUSIC_C_MP3_FLAC_WAV_M4A_OGG_AND_OTHER_MUSIC_FILES</item>
+        <item>DREAM_CLOUD_OPT_DOCUMENTS_C_PDF_WORD_EXCEL_POWERPOINT_AND_OTHER_DOCUMENTS</item>
+        <item>DREAM_CLOUD_OPT_APP_DATA_C_DATA_FROM_NON_SAMSUNG_APPS</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>DREAM_SSWITCH_BODY_PS_C_CHAT_HISTORY %s</item>
+        <item>DREAM_SSWITCH_BODY_PS_C_LOCKED_NOTES %s</item>
+        <item>DREAM_SSWITCH_BODY_PS_C_PASSWORD_PROTECTED_DATA %s</item>
+        <item>DREAM_SSWITCH_BODY_PS_C_APPS_AND_APP_DATA %s</item>
+        <item>DREAM_SSWITCH_BODY_PS_C_EVENTS_FROM_SYNCED_ACCOUNTS %s</item>
+        <item>DREAM_SSWITCH_OPT_SAMSUNG_BLOCKCHAIN_KEYSTORE</item>
+        <item>DREAM_SSWITCH_OPT_PRIVATE_KEY_AND_RECOVERY_PHRASE</item>
+        <item>DREAM_SSWITCH_OPT_DATA_THAT_CANT_BE_TRANSFERRED_DUE_TO_THE_APPS_POLICIES</item>
+        <item>DREAM_SSWITCH_BODY_APPS_THAT_CANT_BE_TRANSFERRED_DUE_TO_SECURITY_OR_COMPATIBILITY_ISSUES_C_PS %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>DREAM_CLOUD_OPT_READ_ONLY_CONTACTS</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>DREAM_SSWITCH_BODY_DEFAULT_WALLPAPER</item>
+        <item>DREAM_SSWITCH_BODY_GALAXY_THEMES_WALLPAPERS</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>DREAM_SSWITCH_BODY_EMERGENCY_ALERT_MESSAGES</item>
+        <item>DREAM_SSWITCH_BODY_DRAFTS_AND_FAILED_MESSAGES</item>
+        <item>DREAM_SSWITCH_BODY_MESSAGES_WITH_IMESSAGE_EFFECTS</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>DREAM_SSWITCH_OPT_LOCKED_CONTENT</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>DREAM_CLOUD_BODY_PHONE_C_CALL_AND_MESSAGE_HISTORY</item>
+        <item>DREAM_ST_BODY_MESSAGES_C_ENHANCED_MESSAGES_MULTIMEDIA_MESSAGES_AND_TEXT_MESSAGES</item>
+        <item>DREAM_CLOUD_BODY_CLOCK_C_ALARMS_WORLD_CLOCKS_AND_TIMERS</item>
+        <item>DREAM_CLOUD_OPT_SETTINGS_C_ACCESSIBILITY_SETTINGS_RINGTONES_SAMSUNG_KEYBOARD_OPTIONS_WI_FI_SETTINGS_MSG</item>
+        <item>DREAM_CLOUD_OPT_APPS_C_APP_SETTINGS</item>
+        <item>DREAM_CLOUD_OPT_HOME_SCREEN_C_LAYOUT_WALLPAPERS_AND_SAMSUNG_DEX_SETTINGS</item>
+        <item>DREAM_CLOUD_BODY_VOICE_RECORDER_C_RECORDINGS</item>
+    </string-array>
+</resources>

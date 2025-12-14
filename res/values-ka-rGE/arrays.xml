@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>ტელეფონი იმუხტება.</item>
+        <item>ტელეფონი დაკავშირებულია Wi-Fi ქსელთან.</item>
+        <item>ეკრანი გამორთულია.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>პლანშეტი იმუხტება.</item>
+        <item>პლანშეტი დაკავშირებულია Wi-Fi ქსელთან.</item>
+        <item>ეკრანი გამორთულია.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>მონაცემები, რომლებიც შეიძლება დამარქაფდეს, შეიძლება განსხვავებული იყოს, ტელეფონის ან ოპერაციული სისტემის მიხედვით.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>მონაცემები, რომლებიც შეიძლება დამარქაფდეს, შეიძლება განსხვავებული იყოს, პლანშეტის ან ოპერაციული სისტემის მიხედვით.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>კონტაქტები: კონტაქტები დასინქრონებული ანგარიშებიდან</item>
+        <item>კალენდარი: ღონისძიებები და დავალებები დასინქრონებული ანგარიშებიდან</item>
+        <item>Galaxy Themes: თემები და ნაგულისხმევი ფონი</item>
+        <item>აპლიკაციები: არათავსებადი საინსტალაციო ფაილები და მონაცემები Samsung-ისგან განსხვავებული აპლიკაციებიდან</item>
+        <item>დაცული საქაღალდე: აპლიკაციები და მონაცემები</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>კონტაქტები: კონტაქტები დასინქრონებული ანგარიშებიდან</item>
+        <item>კალენდარი: ღონისძიებები და დავალებები დასინქრონებული ანგარიშებიდან</item>
+        <item>Galaxy Themes: თემები და ნაგულისხმევი ფონი</item>
+        <item>აპლიკაციები: მხარდაუჭერელი საინსტალაციო ფაილები</item>
+        <item>დაცული საქაღალდე: აპლიკაციები და მონაცემები</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ტელეფონი: ზარებისა და შეტყობინებების ისტორია</item>
+        <item>შეტყობინებები: დახვეწილი შეტყობინებები, მულტიმედიური შეტყობინებები და ტესტური შეტყობინებები</item>
+        <item>კონტაქტები: მოწყობილობაში შენახული კონტაქტები, ელფოსტის მისამართები და სავიზიტო ბარათები</item>
+        <item>კალენდარი: მოწყობილობაში შენახული მოვლენები და დავალებები</item>
+        <item>საათი: სიგნალები, მსოფლიო საათები და ტაიმერები</item>
+        <item>პარამეტრები: წვდომის პარამეტრები, ზარის მელოდიები, Samsung-ის კლავიატურის პარამეტრები, Wi-Fi-ს პარამეტრები, დაწყვილებული Bluetooth მოწყობილობები, სახის ამოცნობის პარამეტრები, თითის ანაბეჭდის პარამეტრები და Always On Display პარამეტრები (ნაგულისხმევი ზარის მელოდია არ დამარქაფდება)</item>
+        <item>საწყისი გვერდი: განლაგება, ფონები და Samsung DeX პარამეტრები</item>
+        <item>აპლიკაციები: ფაილების დაინსტალირება და აპლიკაციის პარამეტრები</item>
+        <item>ხმის ჩამწერი: ჩანაწერები</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>მუსიკა: MP3, FLAC, WAV, M4A, OGG და მუსიკის სხვა ფაილები</item>
+        <item>დოკუმენტები: PDF, Word, Excel, PowerPoint და სხვა დოკუმენტები</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: საუბრების ისტორია</item>
+        <item>%s: ჩაკეტილი შენიშვნები</item>
+        <item>%s: პაროლით დაცული მონაცემები</item>
+        <item>%s: აპლიკაციები და აპლიკაციის მონაცემები</item>
+        <item>%s: ღონისძიებები დასინქრონებული ანგარიშებიდან</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>პერსონალური გასაღები და აღდგენის ფრაზა</item>
+        <item>მონაცემები, რომელთა გადაცემა შეუძლებელია აპლიკაციის წესების გამო</item>
+        <item>აპლიკაციები, რომელთა გადაცემა შეუძლებელია უსაფრთხოების ან თავსებადობის პრობლემების გამო: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>მხოლოდ წასაკითხი კონტაქტები</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>ნაგულისხმევი ფონი</item>
+        <item>Galaxy Themes-ის ფონები</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>საგანგებო შეტყობინებები</item>
+        <item>მონახაზები და გაუგზავნელი შეტყობინებები</item>
+        <item>შეტყობინებები iMessage ეფექტებით</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>დაბლოკილი შინაარსი</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ტელეფონი: ზარებისა და შეტყობინებების ისტორია</item>
+        <item>შეტყობინებები: დახვეწილი შეტყობინებები, მულტიმედიური შეტყობინებები და ტესტური შეტყობინებები</item>
+        <item>საათი: სიგნალები, მსოფლიო საათები და ტაიმერები</item>
+        <item>პარამეტრები: წვდომის პარამეტრები, ზარის მელოდიები, Samsung-ის კლავიატურის პარამეტრები, Wi-Fi-ს პარამეტრები, დაწყვილებული Bluetooth მოწყობილობები და Always On Display პარამეტრები (ნაგულისხმევი ზარის მელოდია არაა დაშიფრული)</item>
+        <item>აპლიკაციები: აპლიკაციის პარამეტრები</item>
+        <item>საწყისი გვერდი: განლაგება, ფონები და Samsung DeX პარამეტრები</item>
+        <item>ხმის ჩამწერი: ჩანაწერები</item>
+    </string-array>
+</resources>

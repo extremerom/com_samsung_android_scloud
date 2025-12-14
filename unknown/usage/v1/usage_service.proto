@@ -1,0 +1,56 @@
+/*
+ * This code is copied.
+ * The original Source Code is maintained from origin repository.
+ *
+ * Source repo: S-Cloud/usage
+ * Source path: usage-protobuf/external/protos/usage/v1
+ */
+
+syntax = "proto3";
+
+package samsung.scsp.usage.v1;
+
+option java_multiple_files = true;
+
+// Clients can use this service to query their allocated quota,
+// current usage, and detailed per-content usage.
+service UsageServiceProto {
+  // Retrieves the user’s paid contents usage information.
+  //  Returns the allocated quota, total used size,
+  //   and detailed usage information for each content.
+  rpc GetPaidUsage(GetPaidUsageRequestProto) returns (GetPaidUsageResponseProto) {}
+}
+
+// Request message for querying usage.
+// Currently, no parameters are required.
+message GetPaidUsageRequestProto { }
+
+// Response message containing usage information.
+// - quota: quota size (in bytes)
+// - totalSize: total used size (in bytes)
+// - contentsUsage: detailed usage information by content ID
+message GetPaidUsageResponseProto {
+  int64 quota = 1;        // Allocated quota
+  int64 totalSize = 2;    // Total usage
+  map<string, ContentUsageProto> contentsUsages = 3; // Usage per content
+}
+
+// Represents usage details for a specific content type.
+// For example: image, video, document.
+// - size: used size for this type (in bytes)
+// - count: total number of items for this type
+message SubUsageProto {
+  int64 size = 1;   // Sum Size used by this type
+  int64 count = 2;  // Number of items of this type
+}
+
+// Represents usage information for a specific content.
+// Includes overall content usage and per-type usage details.
+// - size: total used size of the content (in bytes)
+// - count: total number of items for the content
+// - subUsages: usage details categorized by content type
+message ContentUsageProto {
+  int64 size = 1;   // Total size for the content
+  int64 count = 2;  // Total item count for the content
+  map<string, SubUsageProto> subUsages = 3; // Per-type usage (e.g., "image", "video") if exists
+}

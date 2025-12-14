@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Telefon se puni.</item>
+        <item>Telefon je povezan na Wi-Fi mrežu.</item>
+        <item>Ekran je isključen.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tablet računar se puni.</item>
+        <item>Tablet računar je povezan na Wi-Fi mrežu.</item>
+        <item>Ekran je isključen.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Podaci koje možete da bekapujete mogu da se razlikuju u zavisnosti od telefona ili operativnog sistema.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Podaci koje možete da bekapujete mogu da se razlikuju u zavisnosti od tablet računara ili operativnog sistema.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontakti: kontakti sa sinhronizovanih naloga</item>
+        <item>Kalendar: događaji i zadaci sa sinhronizovanih naloga</item>
+        <item>Galaxy Themes: teme i podrazumevana pozadina</item>
+        <item>Aplikacije: nekompatibilni instalacioni fajlovi i podaci iz aplikacija čiji proizvođač nije Samsung</item>
+        <item>Bezbedan folder: aplikacije i podaci</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kontakti: kontakti sa sinhronizovanih naloga</item>
+        <item>Kalendar: događaji i zadaci sa sinhronizovanih naloga</item>
+        <item>Galaxy Themes: teme i podrazumevana pozadina</item>
+        <item>Aplikacije: nepodržani instalacioni fajlovi</item>
+        <item>Bezbedan folder: aplikacije i podaci</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: istorija poziva i poruka</item>
+        <item>Poruke: poboljšane poruke, multimedijalne poruke i tekstualne poruke</item>
+        <item>Kontakti: kontakti, e-adrese i vizitkarte sačuvane na uređaju</item>
+        <item>Kalendar: događaji i zadaci sačuvani na uređaju</item>
+        <item>Sat: alarmi, svetska vremena i tajmeri</item>
+        <item>Podešavanja: podešavanja pristupačnosti, melodije zvona, opcije Samsung tastature, Wi-Fi podešavanja, upareni Bluetooth uređaji, podešavanja prepoznavanja lica, podešavanja otisaka prstiju i podešavanja funkcije Always On Display (podrazumevana melodija zvona neće biti bekapovana)</item>
+        <item>Početni ekran: izgled, pozadine i Samsung DeX podešavanja</item>
+        <item>Aplikacije: instalacioni fajlovi i podešavanja aplikacija</item>
+        <item>Snimač govora: snimci</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Muzika: MP3, FLAC, WAV, M4A, OGG i drugi muzički fajlovi</item>
+        <item>Dokumenti: PDF, Word, Excel, PowerPoint i drugi dokumenti</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: istorija ćaskanja</item>
+        <item>%s: zaključane beleške</item>
+        <item>%s: podaci zaštićeni lozinkom</item>
+        <item>%s: aplikacije i podaci aplikacija</item>
+        <item>%s: Događaji na sinhronizovanim nalozima</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Privatni ključ i fraza za vraćanje</item>
+        <item>Podaci koji ne mogu da se prenesu zbog politike aplikacije</item>
+        <item>Aplikacije koje nije moguće preneti zbog problema sa bezbednošću ili kompatibilnošću: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Kontakti samo za čitanje</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Podrazumevana pozadina</item>
+        <item>Pozadine aplikacije Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Poruke sa hitnim upozorenjima</item>
+        <item>Skice i poruke čije slanje nije uspelo</item>
+        <item>Poruke sa iMessage efektima</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Zaključan sadržaj</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: istorija poziva i poruka</item>
+        <item>Poruke: poboljšane poruke, multimedijalne poruke i tekstualne poruke</item>
+        <item>Sat: alarmi, svetska vremena i tajmeri</item>
+        <item>Podešavanja: podešavanja pristupačnosti, melodije zvona, opcije Samsung tastature, Wi-Fi podešavanja, upareni Bluetooth uređaji i podešavanja funkcije Always On Display (podrazumevana melodija zvona nije šifrovana)</item>
+        <item>Aplikacije: podešavanja aplikacije</item>
+        <item>Početni ekran: izgled, pozadine i Samsung DeX podešavanja</item>
+        <item>Snimač govora: snimci</item>
+    </string-array>
+</resources>

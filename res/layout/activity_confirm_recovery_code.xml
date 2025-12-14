@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/activity_confirm_recovery_code_0" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/recovery_code_layout" android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/layout_recovery_code" />
+    <include android:id="@id/error_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/layout_e2ee_error" />
+</LinearLayout>

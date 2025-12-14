@@ -1,0 +1,29 @@
+.class public abstract Lt3/t;
+.super Landroidx/databinding/ViewDataBinding;
+.source "SourceFile"
+
+
+# instance fields
+.field public final a:Landroid/widget/LinearLayout;
+
+.field public final b:LV1/q;
+
+.field public final c:Landroid/widget/LinearLayout;
+
+
+# direct methods
+.method public constructor <init>(Landroidx/databinding/DataBindingComponent;Landroid/view/View;Landroid/widget/LinearLayout;LV1/q;Landroid/widget/LinearLayout;)V
+    .locals 1
+
+    const/4 v0, 0x1
+
+    invoke-direct {p0, p1, p2, v0}, Landroidx/databinding/ViewDataBinding;-><init>(Ljava/lang/Object;Landroid/view/View;I)V
+
+    iput-object p3, p0, Lt3/t;->a:Landroid/widget/LinearLayout;
+
+    iput-object p4, p0, Lt3/t;->b:LV1/q;
+
+    iput-object p5, p0, Lt3/t;->c:Landroid/widget/LinearLayout;
+
+    return-void
+.end method

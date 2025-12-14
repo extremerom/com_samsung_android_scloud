@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>আপোনাৰ ফোন চাৰ্জ হৈ আছে।</item>
+        <item>আপোনাৰ ফোনটো এটা Wi-Fi নেটৱৰ্কত সংযোগ হৈছে।</item>
+        <item>স্ক্ৰীণ অফ আছে।</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>আপোনাৰ টেবলেট চাৰ্জ হৈ আছে।</item>
+        <item>আপোনাৰ টেবলেটো এটা Wi-Fi নেটৱৰ্কত সংযোগ হৈছে।</item>
+        <item>স্ক্ৰীণ অফ আছে।</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>"আপুনি বেক আপ ল'ব পৰা ডাটা আপোনাৰ ফোন বা অপাৰেটিং ছিষ্টেমৰ ওপৰত ভিত্তি কৰি ভিন্ন হ'ব পাৰে।"</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>"আপুনি বেক আপ ল'ব পৰা ডাটা আপোনাৰ টেবলেট বা অপাৰেটিং ছিষ্টেমৰ ওপৰত ভিত্তি কৰি ভিন্ন হ'ব পাৰে।"</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>সম্পর্কসমূহ: চিংক কৰা একাউণ্টসমূহৰ পৰা সম্পৰ্কসমূহ</item>
+        <item>কেলেণ্ডাৰ: চিংক কৰা একাউণ্টসমূহৰ পৰা ইভেণ্ট আৰু কাৰ্যসমূহ</item>
+        <item>"Galaxy Themes: Themes আৰু ডিফ'ল্ট ৱালপেপাৰ"</item>
+        <item>এপ্প্‌সমূহ: অনা-চেমচাং এপ্প্‌সমূহৰ পৰা সংগতিহীন ইনষ্টলেশ্বন ফাইলসমূহ আৰু ডাটা</item>
+        <item>"সুৰক্ষিত ফ'ল্ডাৰ: এপ্প্‌সমূহ আৰু ডাটা"</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>সম্পর্কসমূহ: চিংক কৰা একাউণ্টসমূহৰ পৰা সম্পৰ্কসমূহ</item>
+        <item>কেলেণ্ডাৰ: চিংক কৰা একাউণ্টসমূহৰ পৰা ইভেণ্ট আৰু কাৰ্যসমূহ</item>
+        <item>"Galaxy Themes: Themes আৰু ডিফ'ল্ট ৱালপেপাৰ"</item>
+        <item>এপ্প্‌সমূহ: অসমৰ্থিত ইনষ্টলেশ্বন ফাইলসমূহ</item>
+        <item>"সুৰক্ষিত ফ'ল্ডাৰ: এপ্প্‌সমূহ আৰু ডাটা"</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ফোন: কল আৰু মেচেজ ইতিহাস</item>
+        <item>মেচেজ: উন্নত মেচেজ, মাল্টিমিডিয়া মেচেজ আৰু পাঠ মেচেজ</item>
+        <item>সম্পৰ্কসমূহ: আপোনাৰ ডিভাইচত সংৰক্ষিত সম্পৰ্কসমূহ, ইমেইল ঠিকনাসমূহ আৰু ব্যৱসায় কাৰ্ডসমূহ</item>
+        <item>কেলেণ্ডাৰ: আপোনাৰ ডিভাইচত সংৰক্ষিত ইভেণ্টসমূহ আৰু কাৰ্যসমূহ</item>
+        <item>ঘড়ী: এলাৰ্ম, বিশ্ব ঘড়ী আৰু টাইমাৰ</item>
+        <item>"ছেটিংছ: এক্সেছিবিলিটী ছেটিংছ, ৰিংট'নসমূহ, চেমচাং কীব'ৰ্ডৰ বিকল্পসমূহ, Wi-Fi ছেটিংছ, যোৰা লাগি থকা ব্লুটুথ ডিভাইচসমূহ, মুখ চিনাক্তকৰণ ছেটিংছ, আঙুলিৰ ছাপৰ ছেটিংছ, আৰু Always On Display ছেটিংছ (আপোনাৰ ডিফ'ল্ট ৰিংট'নৰ বেক আপ লোৱা নহ'ব)"</item>
+        <item>"হোম স্ক্ৰীণ: লে'আউট, ৱালপেপাৰসমূহ আৰু Samsung DeX ছেটিংছ"</item>
+        <item>এপ্প্‌সমূহ: ইনষ্টলেশ্বন ফাইলসমূহ আৰু এপ ছেটিংছ</item>
+        <item>ভইচ ৰেকৰ্ডাৰ: ৰেকৰ্ডিং</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>সঙ্গীত: MP3, FLAC, WAV, M4A, OGG, আৰু অন্য সঙ্গীতৰ ফাইলসমূহ</item>
+        <item>নথিপত্ৰসমূহ: PDF, Word, Excel, PowerPoint, আৰু অন্য নথিপত্ৰসমূহ</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: চাটৰ ইতিবৃত্ত</item>
+        <item>%s: লক হোৱা টোকাসমূহ</item>
+        <item>%s: পাছৱৰ্ড-সুৰক্ষিত ডাটা</item>
+        <item>%s: এপ্প্‌সমূহ আৰু এপ্প্‌ৰ ডাটা</item>
+        <item>%s: চিংক হোৱা একাউণ্টসমূহৰ পৰা ইভেণ্টসমূহ</item>
+        <item>"চেমচাং ব্লকচেইন কীষ্ট'ৰ"</item>
+        <item>গোপনীয় কী আৰু পুনৰুদ্ধাৰ বাক্যাংশ</item>
+        <item>এপ্প্‌ৰ নীতিৰ বাবে ডাটা স্থানান্তৰ কৰিব পৰা নাযায়</item>
+        <item>নিৰাপত্তা বা সংগতাৰ সমস্যাসমূহ কাৰণে স্থানান্তৰ কৰিব নোৱাৰা এপ্প্‌সমূহ: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>ৰিড-অনলি সম্পৰ্কসমূহ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>"ডিফ'ল্ট ৱালপেপাৰ"</item>
+        <item>Galaxy Themes ৱালপেপাৰসমূহ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>জৰুৰীকালীন এলাৰ্ট মেচেজসমূহ</item>
+        <item>ড্ৰাফ্টসমূহ আৰু বিফল মেচেজসমূহ</item>
+        <item>iMessage প্ৰভাৱসমূহ থকা মেচেজসমূহ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>লক কৰা সমল</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ফোন: কল আৰু মেচেজ ইতিহাস</item>
+        <item>মেচেজ: উন্নত মেচেজ, মাল্টিমিডিয়া মেচেজ আৰু পাঠ মেচেজ</item>
+        <item>ঘড়ী: এলাৰ্ম, বিশ্ব ঘড়ী আৰু টাইমাৰ</item>
+        <item>"ছেটিংছ: এক্সেছিবিলিটী ছেটিংছ, ৰিংট'নসমূহ, চেমচাং কীব'ৰ্ডৰ বিকল্পসমূহ, Wi-Fi ছেটিংছ, যোৰা লাগি থকা ব্লুটুথ ডিভাইচসমূহ আৰু Always On Display ছেটিংছ (ডিফ'ল্ট ৰিংট'ন এনক্ৰিপ্ট কৰা নাই)"</item>
+        <item>এপ্প্‌সমূহ: এপ্প্‌ৰ ছেটিংছ</item>
+        <item>"হোম স্ক্ৰীণ: লে'আউট, ৱালপেপাৰসমূহ আৰু Samsung DeX ছেটিংছ"</item>
+        <item>ভইচ ৰেকৰ্ডাৰ: ৰেকৰ্ডিং</item>
+    </string-array>
+</resources>

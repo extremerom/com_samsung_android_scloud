@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>உங்கள் ஃபோன் சார்ஜ் ஆகிறது.</item>
+        <item>உங்கள் ஃபோன், Wi-Fi நெட்வொர்க்குடன் இணைக்கப்பட்டுள்ளது.</item>
+        <item>திரை ஆஃப் செய்யப்பட்டது.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>உங்கள் டேப்லெட் சார்ஜ் ஆகிறது.</item>
+        <item>உங்கள் டேப்லெட், Wi-Fi நெட்வொர்க்குடன் இணைக்கப்பட்டுள்ளது.</item>
+        <item>திரை ஆஃப் செய்யப்பட்டது.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>உங்கள் ஃபோன் அல்லது இயங்கு தளத்தின் அடிப்படையில் நீங்கள் பின்சேமிக்கக் கூடிய தரவு மாறுபடலாம்.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>நீங்கள் பின்சேமிக்கக் கூடிய தரவு உங்கள் டேப்லெட் அல்லது இயங்கு தளத்தின் அடிப்படையில் வேறுபடலாம்.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>தொடர்புகள்: ஒத்திசைக்கப்பட்ட கணக்குகளிலிருந்து பெறும் தொடர்புகள்</item>
+        <item>நாட்காட்டி: ஒத்திசைக்கப்பட்ட கணக்குகளிலிருந்து நிகழ்வுகள் மற்றும் பணிகள்</item>
+        <item>Galaxy Themes: தீம்கள் மற்றும் டீஃபால்ட் வால்பேப்பர்</item>
+        <item>பயன்பாடுகள்: இணக்கமற்ற நிறுவல் கோப்புகள் மற்றும் சாம்சங் அல்லாத பயன்பாடுகளின் தரவு</item>
+        <item>பாதுகாப்பான கோப்புறை: பயன்பாடுகள் மற்றும் தரவு</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>தொடர்புகள்: ஒத்திசைக்கப்பட்ட கணக்குகளிலிருந்து பெறும் தொடர்புகள்</item>
+        <item>நாட்காட்டி: ஒத்திசைக்கப்பட்ட கணக்குகளிலிருந்து நிகழ்வுகள் மற்றும் பணிகள்</item>
+        <item>Galaxy Themes: தீம்கள் மற்றும் டீஃபால்ட் வால்பேப்பர்</item>
+        <item>பயன்பாடுகள்: ஆதரிக்கப்படாத நிறுவல் கோப்புகள்</item>
+        <item>பாதுகாப்பான கோப்புறை: பயன்பாடுகள் மற்றும் தரவு</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ஃபோன்: அழைப்பு மற்றும் தகவல் வரலாறு</item>
+        <item>தகவல்கள்: மேம்படுத்தப்பட்ட தகவல்கள், பல்லூடக தகவல்கள் மற்றும் உரை தகவல்கள்</item>
+        <item>தொடர்புகள்: தொடர்புகள், மின்னஞ்சல் முகவரிகள் மற்றும் வியாபார அட்டைகள் ஆகியவை உங்கள் சாதனத்தில் சேமிக்கப்பட்டுள்ளன</item>
+        <item>நாட்காட்டி: உங்கள் சாதனத்தில் நிகழ்வுகள் மற்றும் பணிகள் சேர்க்கப்பட்டுள்ளன</item>
+        <item>கடிகாரம்: அலாரங்கள், உலகக் கடிகாரங்கள் மற்றும் டைமர்கள்</item>
+        <item>அமைவுகள்: அணுகல் அமைவுகள், ரிங்டோன்கள், சாம்சங் விசைப்பலகைத் தெரிவுகள், Wi-Fi அமைவுகள், இணைக்கப்பட்டுள்ள ப்ளூடூத் சாதனங்கள், முகம் கண்டறிதல் அமைவுகள், கைரேகைப் பதிவு அமைவுகள் மற்றும் Always On Display அமைவுகள் (உங்கள் டீஃபால்ட் ரிங்டோன் பின்சேமிக்கப்படாது)</item>
+        <item>முகப்புத் திரை: தளவமைப்பு, வால்பேப்பர்கள் மற்றும் Samsung DeX அமைவுகள்</item>
+        <item>பயன்பாடுகள்: நிறுவல் கோப்புகள் மற்றும் பயன்பாட்டு அமைவுகள்</item>
+        <item>குரல் பதிகருவி: பதிவுகள்</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>இசை: MP3, FLAC, WAV, M4A, OGG, மற்றும் பிற இசை கோப்புகள்</item>
+        <item>ஆவணங்கள்: PDF, Word, Excel, PowerPoint, மற்றும் பிற ஆவணங்கள்</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: அரட்டை வரலாறு</item>
+        <item>%s: பூட்டிய குறிப்புகள்</item>
+        <item>%s: கடவுச்சொல்லால் பாதுகாக்கப்பட்ட தரவு</item>
+        <item>%s: பயன்பாடுகள், பயன்பாட்டுத் தரவு</item>
+        <item>%s: ஒத்திசைக்கப்பட்ட கணக்குகளிலிருந்து நிகழ்வுகள்</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>தனிப்பட்ட விசை மற்றும் மீட்பு சொற்றொடர்</item>
+        <item>பயன்பாட்டுக் கொள்கைகளின் காரணமாக தரவை இடமாற்ற இயலாது</item>
+        <item>பாதுகாப்பு அல்லது இணக்கத்தன்மை சிக்கல்களுக்காக இடமாற்ற இயலாத பயன்பாடுகள்: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>வாசிக்க-மட்டும் தொடர்புகள்</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>டீஃபால்ட் வால்பேப்பர்</item>
+        <item>Galaxy Themes வால்பேப்பர்கள்</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>அவசர நிலை விழிப்பூட்டல் தகவல்கள்</item>
+        <item>வரைவுகள் மற்றும் தோல்வியடைந்த தகவல்கள்</item>
+        <item>iMessage விளைவுகளுடைய தகவல்கள்</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>பூட்டப்பட்ட உள்ளடக்கம்</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ஃபோன்: அழைப்பு மற்றும் தகவல் வரலாறு</item>
+        <item>தகவல்கள்: மேம்படுத்தப்பட்ட தகவல்கள், பல்லூடக தகவல்கள் மற்றும் உரை தகவல்கள்</item>
+        <item>கடிகாரம்: அலாரங்கள், உலகக் கடிகாரங்கள் மற்றும் டைமர்கள்</item>
+        <item>அமைவுகள்: அணுகல் அமைவுகள், ரிங்டோன்கள், சாம்சங் விசைப்பலகைத் தெரிவுகள், Wi-Fi அமைவுகள், இணைக்கப்பட்டுள்ள ப்ளூடூத் சாதனங்கள் மற்றும் Always On Display அமைவுகள் (உங்கள் டீஃபால்ட் ரிங்டோன் மறைகுறியாக்கம் செய்யப்படவில்லை)</item>
+        <item>பயன்பாடுகள்: பயன்பாட்டு அமைவுகள்</item>
+        <item>முகப்புத் திரை: தளவமைப்பு, வால்பேப்பர்கள் மற்றும் Samsung DeX அமைவுகள்</item>
+        <item>குரல் பதிகருவி: பதிவுகள்</item>
+    </string-array>
+</resources>

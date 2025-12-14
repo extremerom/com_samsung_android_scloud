@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 පින්තූරයක් සහ %1$d වීඩියෝවක් (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 පින්තූරයක් සහ වීඩියෝ %1$dක් (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">යෙදුම් %dක් ස්ථාපිත කර නැත</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">යෙදුම් %dක් ස්ථාපිත කර නැත</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">පණිවිඩ: හදිසි ඇඟවුම්, මාරු කළ ගොනු, %d MBට වඩා විශාල බහුමාධ්‍ය පණිවිඩ, කෙටුම්පත්, සහ අසමත් වූ පණිවිඩ</item>
+        <item quantity="one">පණිවිඩ: හදිසි ඇඟවුම්, මාරු කළ ගොනු, %d MBට වඩා විශාල බහුමාධ්‍ය පණිවිඩ, කෙටුම්පත්, සහ අසමත් වූ පණිවිඩ</item>
+        <item quantity="two">පණිවිඩ: හදිසි ඇඟවුම්, මාරු කළ ගොනු, %d MBට වඩා විශාල බහුමාධ්‍ය පණිවිඩ, කෙටුම්පත්, සහ අසමත් වූ පණිවිඩ</item>
+        <item quantity="few">පණිවිඩ: හදිසි ඇඟවුම්, මාරු කළ ගොනු, %d MBට වඩා විශාල බහුමාධ්‍ය පණිවිඩ, කෙටුම්පත්, සහ අසමත් වූ පණිවිඩ</item>
+        <item quantity="many">පණිවිඩ: හදිසි ඇඟවුම්, මාරු කළ ගොනු, %d MBට වඩා විශාල බහුමාධ්‍ය පණිවිඩ, කෙටුම්පත්, සහ අසමත් වූ පණිවිඩ</item>
+        <item quantity="other">පණිවිඩ: හදිසි ඇඟවුම්, මාරු කළ ගොනු, %d MBට වඩා විශාල බහුමාධ්‍ය පණිවිඩ, කෙටුම්පත්, සහ අසමත් වූ පණිවිඩ</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">උපාංග %dක් සඳහා උපස්ථ දත්ත ඉක්මනින් කල් ඉකුත් වනු ඇත. කල් ඉකුත් වන දිනය පරීක්ෂා කිරීමට පහතින් උපාංගය තෝරන්න.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">උපාංග %dක් සඳහා උපස්ථ දත්ත ඉක්මනින් කල් ඉකුත් වනු ඇත. කල් ඉකුත් වන දිනය පරීක්ෂා කිරීමට පහතින් උපාංගයක් තෝරන්න.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">උපාංග %dක් සඳහා උපස්ථ දත්ත ඉක්මනින් කල් ඉකුත් වනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">උපාංග %dක් සඳහා උපස්ථ දත්ත ඉක්මනින් කල් ඉකුත් වනු ඇත.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d උපස්ථ අයිතමයක් යාවත්කාලීන කළ නොහැකි වූ බැවින්, මෙම අයිතමයෙහි පෙර උපස්ථය ඔබේ නව දුරකථනයට (%2$s) ප්‍රතිසාධනය කරනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">උපස්ථ අයිතම %1$dක් යාවත්කාලීන කළ නොහැකි වූ බැවින්, මෙම අයිතමවල පෙර උපස්ථයන් ඔබේ නව දුරකථනයට (%2$s) ප්‍රතිසාධනය කරනු ඇත.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d උපස්ථ අයිතමයක් යාවත්කාලීන කළ නොහැකි වූ බැවින්, %2$s හි සාදන ලද මෙම අයිතමයෙහි උපස්ථය ඔබේ නව දුරකථනයට (%3$s) ප්‍රතිසාධනය කරනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">උපස්ථ අයිතම %1$dක් යාවත්කාලීන කළ නොහැකි වූ බැවින්, %2$s හි සාදන ලද මෙම අයිතමවල උපස්ථයන් ඔබේ නව දුරකථනයට (%3$s) ප්‍රතිසාධනය කරනු ඇත.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d උපස්ථ අයිතමයක් යාවත්කාලීන කළ නොහැකි වූ බැවින්, මෙම අයිතමයෙහි පෙර උපස්ථය ඔබේ නව ටැබ්ලටයට (%2$s) ප්‍රතිසාධනය කරනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">උපස්ථ අයිතම %1$dක් යාවත්කාලීන කළ නොහැකි වූ බැවින්, මෙම අයිතමවල පෙර උපස්ථයන් ඔබේ නව ටැබ්ලටයට (%2$s) ප්‍රතිසාධනය කරනු ඇත.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d උපස්ථ අයිතමයක් යාවත්කාලීන කළ නොහැකි වූ බැවින්, %2$s හි සාදන ලද මෙම අයිතමයෙහි උපස්ථය ඔබේ නව ටැබ්ලටයට (%3$s) ප්‍රතිසාධනය කරනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">උපස්ථ අයිතම %1$dක් යාවත්කාලීන කළ නොහැකි වූ බැවින්, %2$s හි සාදන ලද මෙම අයිතමවල උපස්ථයන් ඔබේ නව ටැබ්ලටයට (%3$s) ප්‍රතිසාධනය කරනු ඇත.</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">දත්ත %d දිනකින් මකනු ලැබේ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">දත්ත දින %dකින් මකනු ලැබේ.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">දින %dකින් කල් ඉකුත් වේ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">දින %dකින් කල් ඉකුත් වේ</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඔබේ බොහෝ දත්ත ප්‍රතිසාධනය කර ඇත, නමුත් යෙදුම් %dක් ස්ථාපනය කර නොමැත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඔබේ බොහෝ දත්ත ප්‍රතිසාධනය කර ඇත, නමුත් යෙදුම් %dක් ස්ථාපනය කර නොමැත.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d නව ඇල්බමයක් ඇත</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">නව ඇල්බම %dක් ඇත</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ඇල්බමයක් තෝරන ලදි</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඇල්බම් %dක් තෝරන ලදි</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 අනුරූපයක් සහ අභිමතව-නිර්මාණය කළ %d අයිතමයක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 අනුරූපයක් සහ අභිමතව-නිර්මාණය කළ අයිතම %dක්</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">පැය 1යි විනාඩි %dක් ඉතිරියි</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">පැය 1යි විනාඩි %dක් ඉතිරියි</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඡායාරූප 1 සහ වීඩියෝ %d සමමුහුයි</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඡායාරූප 1 සහ වීඩියෝ %d සමමුහුයි</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">අයිතම %1$dක් තේරිණි (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">අයිතම %1$dක් තේරිණි (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d පින්තූරයක් සහ 1 වීඩියෝවක් (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">පින්තූර %1$dක් සහ 1 වීඩියෝවක් (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d පින්තූරයක් (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">පින්තූර %1$dක් (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$dක් තෝරන ලදි (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$dක් තෝරන ලදි (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d වීඩියෝවක් (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">වීඩියෝ %1$dක් (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ගොනුවක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ගොනු %dක්</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">පැය %dයි විනාඩි 1ක් ඉතිරියි</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">පැය %dයි විනාඩි 1ක් ඉතිරියි</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">අනුරූ %dක් ක්ලවුඩ් වෙතින් බාගැනිණි.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">අනුරූ %dක් ක්ලවුඩ් වෙතින් බාගැනිණි.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">අයිතම %dක් ක්ලවුඩ් වෙතින් බාගැනිණි.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">අයිතම %dක් ක්ලවුඩ් වෙතින් බාගැනිණි.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">විනාඩි %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">විනාඩි %dක්</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">විනාඩි %dක් ඉතිරියි</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">විනාඩි %dක් ඉතිරියි</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඡායාරූප %d සහ වීඩියෝ 1 සමමුහුයි</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඡායාරූප %d සහ වීඩියෝ 1 සමමුහුයි</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඡායාරූප %d සමමුහුයි</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඡායාරූප %d සමමුහුයි</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d පින්තූරයක් හෝ වීඩියෝවක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">පින්තූර සහ වීඩියෝ %dක්</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dක් තේරිණි</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%dක් තේරිණි</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">වීඩියෝ %dක් ක්ලවුඩ් වෙතින් බාගැනිණි.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">වීඩියෝ %dක් ක්ලවුඩ් වෙතින් බාගැනිණි.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">වීඩියෝ %d සමමුහුයි</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">වීඩියෝ %d සමමුහුයි</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">බැටරිය අඩුයි. ඔබේ දුරකථනය උපස්ථ කිරීමට අඩු තරමින් %d%% දක්වා චාර්ජ් කරන්න.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">බැටරිය අඩුයි. ඔබේ දුරකථනය උපස්ථ කිරීමට අඩු තරමින් %d%% දක්වා චාර්ජ් කරන්න.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඔබේ තාවකාලික උපස්ථය %d දිනකින් කල් ඉකුත් වේ. ඔබට වැඩි කාලයක් අවශ්‍ය නම් එය දැන් ප්‍රතිසාධනය කරන්න හෝ කල් ඉකුත් වන දිනය කල් දමන්න.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඔබේ තාවකාලික උපස්ථය දින %dකින් කල් ඉකුත් වේ. ඔබට වැඩි කාලයක් අවශ්‍ය නම් එය දැන් ප්‍රතිසාධනය කරන්න හෝ කල් ඉකුත් වන දිනය කල් දමන්න.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d දිනක් කල් දමන්න</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">දින %dක් කල් දමන්න</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d අනුරූපයක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">අනුරූප %dක්</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d අනුරූපයක් සහ අභිමතව-නිර්මාණය කළ 1 අයිතමයක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">අනුරූප %dක් සහ අභිමතව-නිර්මාණය කළ 1 අයිතමයක්</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">අභිමතව-නිර්මාණය කළ %d අයිතමයක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">අභිමතව-නිර්මාණය කළ අයිතම %dක්</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d අයිතමයක් ඉතිරියි</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">අයිතම %dක් ඉතිරියි</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">යුගලිත Samsung උපාංග %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">යුගලිත Samsung උපාංග %dක්</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">සිහිකැඳවීම් %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">සිහිකැඳවීම් %dක්</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඔබේ ග්‍රාහකත්වය %1$s හි නිමා විය. ඔබේ දත්ත %2$d දිනකින් මකනු ලැබේ. ඔබේ දත්ත තබා ගැනීමට ඔබේ ග්‍රාහකත්වය නැවත සක්‍රිය කරන්න.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඔබේ ග්‍රාහකත්වය %1$s හි නිමා විය. ඔබේ දත්ත දින %2$dකින් මකනු ලැබේ. ඔබේ දත්ත තබා ගැනීමට ඔබේ ග්‍රාහකත්වය නැවත සක්‍රිය කරන්න.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">බැටරිය අඩුයි. ඔබේ ටැබ්ලටය උපස්ථ කිරීමට අඩු තරමින් %d%% දක්වා චාර්ජ් කරන්න.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">බැටරිය අඩුයි. ඔබේ ටැබ්ලටය උපස්ථ කිරීමට අඩු තරමින් %d%% දක්වා චාර්ජ් කරන්න.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%2$d දිනක් දක්වා අසීමිත දත්ත %1$s වෙත උපස්ථ කරන්න හෝ ඔබ උපස්ථ කර ඇති දත්ත ප්‍රතිසාධනය කරන්න.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">දින %2$dක් දක්වා අසීමිත දත්ත %1$s වෙත උපස්ථ කරන්න හෝ ඔබ උපස්ථ කර ඇති දත්ත ප්‍රතිසාධනය කරන්න.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">මෙම උපස්ථය %d දිනකින් මකනු ලැබේ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">මෙම උපස්ථය දින %dකින් මකනු ලැබේ.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">පැය %dකින් නැවත උත්සාහ කරන්න</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">පැය %dකින් නැවත උත්සාහ කරන්න</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">පැය %dයි විනාඩි 1කින් නැවත උත්සාහ කරන්න</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">පැය %dයි විනාඩි 1කින් නැවත උත්සාහ කරන්න</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">විනාඩි %dකින් නැවත උත්සාහ කරන්න</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">විනාඩි %dකින් නැවත උත්සාහ කරන්න</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">පැය 1යි විනාඩි %dකින් නැවත උත්සාහ කරන්න</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">පැය 1යි විනාඩි %dකින් නැවත උත්සාහ කරන්න</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඔබේ උපස්ථය %1$s මත සුරක්ෂිතයි. ඔබට එය ප්‍රතිසාධනය කිරීමට %2$d දිනක් ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඔබේ උපස්ථය %1$s මත සුරක්ෂිතයි. ඔබට එය ප්‍රතිසාධනය කිරීමට දින %2$dක් ඇත.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඔබේ තාවකාලික උපස්ථය %d දිනකින් මකනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඔබේ තාවකාලික උපස්ථය දින %dකින් මකනු ඇත.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඔබේ දත්ත ඔබේ දුරකථනයට ප්‍රතිසාධනය කර නැත. ඔබට එය ප්‍රතිසාධනය කිරීමට %d දිනක් ඉතිරිව ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඔබේ දත්ත ඔබේ දුරකථනයට ප්‍රතිසාධනය කර නැත. ඔබට එය ප්‍රතිසාධනය කිරීමට දින %dක් ඉතිරිව ඇත.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඔබේ දත්ත ඔබේ ටැබ්ලටයට ප්‍රතිසාධනය කර නැත. ඔබට එය ප්‍රතිසාධනය කිරීමට %d දිනක් ඉතිරිව ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ඔබේ දත්ත ඔබේ ටැබ්ලටයට ප්‍රතිසාධනය කර නැත. ඔබට එය ප්‍රතිසාධනය කිරීමට දින %dක් ඉතිරිව ඇත.</item>
+    </plurals>
+</resources>

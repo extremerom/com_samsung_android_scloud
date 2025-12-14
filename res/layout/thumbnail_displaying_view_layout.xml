@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/thumbnail_view_layout_margin" android:layout_marginBottom="@dimen/thumbnail_view_layout_margin">
+        <LinearLayout android:orientation="vertical" android:id="@id/text_region" android:layout_width="0.0dp" android:layout_height="wrap_content" app:layout_constraintEnd_toStartOf="@id/thumbnail_displaying_view_all" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+            <TextView android:textAppearance="@style/SyncedItemsTextStyle" android:gravity="start" android:id="@id/synced_item_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/synced_items" />
+            <TextView android:textAppearance="@style/TextListSummary" android:gravity="start" android:id="@id/summary_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <ImageButton android:layout_gravity="center" android:id="@id/thumbnail_displaying_view_all" android:background="@drawable/circle_image_button_background" android:layout_width="@dimen/icon_size_small" android:layout_height="@dimen/icon_size_small" android:layout_marginTop="4.0dp" android:src="@drawable/auto_mirrored_ic_next" android:scaleType="fitXY" android:layout_centerVertical="true" android:contentDescription="@string/view_all" android:scaleY="-1.0" android:layout_alignParentEnd="true" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/text_region" app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

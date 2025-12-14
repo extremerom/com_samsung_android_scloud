@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Ձեր հեռախոսը լիցքավորվում է:</item>
+        <item>Ձեր հեռախոսը միացված է Wi-Fi ցանցի:</item>
+        <item>Էկրանն անջատված է:</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Ձեր պլանշետը լիցքավորվում է:</item>
+        <item>Ձեր պլանշետը միացված է Wi-Fi ցանցի:</item>
+        <item>Էկրանն անջատված է:</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Հնարավոր է, որ տվյալները, որոնք կարող եք կրկնօրինակել, տարբեր լինեն՝ հեռախոսից կամ գործույթային համակարգից կախված:</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Հնարավոր է, որ տվյալները, որոնք կարող եք կրկնօրինակել, տարբեր լինեն՝ պլանշետից կամ գործույթային համակարգից կախված:</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Կոնտակտներ. կոնտակտներ համաժամացված հաշիվներից</item>
+        <item>Օրացույց. իրադարձություններ և առաջադրանքներ համաժամացված հաշիվներից</item>
+        <item>Galaxy Themes. թեմաներ և կանխադրված պաստառ</item>
+        <item>Ծրագրեր. տեղադրման անհամատեղելի ֆայլեր և տվյալներ ոչ Samsung-ի ծրագրերից</item>
+        <item>Ապահով պանակ. ծրագրեր և տվյալներ</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Կոնտակտներ. կոնտակտներ համաժամացված հաշիվներից</item>
+        <item>Օրացույց. իրադարձություններ և առաջադրանքներ համաժամացված հաշիվներից</item>
+        <item>Galaxy Themes. թեմաներ և կանխադրված պաստառ</item>
+        <item>Ծրագրեր՝ չապահովվող տեղադրման ֆայլեր</item>
+        <item>Ապահով պանակ. ծրագրեր և տվյալներ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Հեռախոս՝ կանչերի և հաղորդագրությունների պատմություն</item>
+        <item>Հաղորդագրություններ՝ կատարելագործված հաղորդագրություններ, մուլտիմեդիա հաղորդագրություններ և տեքստային հաղորդագրություններ</item>
+        <item>Կոնտակտներ. ձեր սարքում պահպանված կոնտակտներ, Էլփոստի հասցեներ և այցեքարտեր</item>
+        <item>Օրացույց՝ ձեր սարքում պահպանված իրադարձություններ և առաջադրանքներ</item>
+        <item>Ժամացույց՝ տագնապներ, աշխարհի ժամացույցներ և ժամաչափեր</item>
+        <item>Դրվածքներ՝ մատչելիության դրվածքներ, զանգի հնչերանգներ, Samsung Ստեղնաշարի ընտրանքներ, Wi-Fi-ի դրվածքներ, զուգտակված Bluetooth սարքեր, դեմքի ճանաչման դրվածքներ, մատնահետքի դրվածքներ և Always On Display-ի դրվածքներ (կանխադրված զանգի հնչերանգը չի կրկնօրինակվի)</item>
+        <item>Հիմնական էկրան՝ դասավորվածք, պաստառներ և Samsung DeX-ի դրվածքներ</item>
+        <item>Ծրագրեր՝ տեղադրման ֆայլեր և ծրագրի դրվածքներ</item>
+        <item>Ձայնագրիչ՝ ձայնագրություններ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Երաժշտություն՝ MP3, FLAC, WAV, M4A, OGG և այլ երաժշտական ֆայլեր</item>
+        <item>Փաստաթղթեր՝ PDF, Word, Excel, PowerPoint և այլ փաստաթղթեր</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s՝ զրույցների պատմություն</item>
+        <item>%s. կողպված նշումներ</item>
+        <item>%s. գաղտնաբառով պաշտպանված տվյալներ</item>
+        <item>%s. ծրագրեր և ծրագրի տվյալներ</item>
+        <item>%s. Իրադարձություններ համաժամացված հաշիվներից</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Գաղտնի բանալի և վերականգնման բառակապակցություն</item>
+        <item>Տվյալներ, որոնք հնարավոր չէ փոխանցել ծրագրի քաղաքականությունների պատճառով</item>
+        <item>Ծրագրեր, որոնք հնարավոր չէ փոխանցել անվտանգության կամ համատեղելիության խնդիրների պատճառով՝ %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Միայն կարդալու կոնտակտներ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Կանխադրված պաստառ</item>
+        <item>Galaxy Themes պաստառներ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Արտակարգ իրավիճակի մասին զգուշացնող հաղորդագրություններ</item>
+        <item>Սևագրեր և ձախողված հաղորդագրություններ</item>
+        <item>Հաղորդագրություններ iMessage էֆեկտով</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Կողպված բովանդակություն</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Հեռախոս՝ կանչերի և հաղորդագրությունների պատմություն</item>
+        <item>Հաղորդագրություններ՝ կատարելագործված հաղորդագրություններ, մուլտիմեդիա հաղորդագրություններ և տեքստային հաղորդագրություններ</item>
+        <item>Ժամացույց՝ տագնապներ, աշխարհի ժամացույցներ և ժամաչափեր</item>
+        <item>Դրվածքներ՝ մատչելիության դրվածքներ, զանգի հնչերանգներ, Samsung Ստեղնաշարի ընտրանքներ, Wi-Fi-ի դրվածքներ, զուգտակված Bluetooth սարքեր և Always On Display-ի դրվածքներ (կանխադրված զանգի հնչերանգը ծածկագրված չէ)</item>
+        <item>Ծրագրեր՝ ծրագրի դրվածքներ</item>
+        <item>Հիմնական էկրան՝ դասավորվածք, պաստառներ և Samsung DeX-ի դրվածքներ</item>
+        <item>Ձայնագրիչ՝ ձայնագրություններ</item>
+    </string-array>
+</resources>

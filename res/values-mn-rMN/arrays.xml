@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Таны утас цэнэглэгдэж байна.</item>
+        <item>Таны утас Wi-Fi сүлжээнд холбогдлоо.</item>
+        <item>Дэлгэц унтарсан.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Таблет цэнэглэгдэж байна.</item>
+        <item>Таны таблет Wi-Fi сүлжээнд холбогдлоо.</item>
+        <item>Дэлгэц унтарсан.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Таны нөөцөлж болох өгөгдөл утас эсвэл үйлдлийн системээс хамааран өөр өөр байж болно.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Таны нөөцөлж болох өгөгдөл таблет эсвэл үйлдлийн системээс хамааран өөр өөр байж болно.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Харилцагчид: синхрончилсон бүртгэлүүдийн харилцагчид</item>
+        <item>Хуанли: синхрончилсон бүртгэлүүдийн арга хэмжээ болон даалгаврууд</item>
+        <item>Galaxy Themes: загварууд болон өгөгдмөл дэлгэцийн зураг</item>
+        <item>Хэрэглүүрүүд: таарахгүй суулгах файлууд ба Samsung-н бус хэрэглүүрийн өгөгдлүүд</item>
+        <item>Нууцлалтай хавтас: хэрэглүүрүүд болон өгөгдөл</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Харилцагчид: синхрончилсон бүртгэлүүдийн харилцагчид</item>
+        <item>Хуанли: синхрончилсон бүртгэлүүдийн арга хэмжээ болон даалгаврууд</item>
+        <item>Galaxy Themes: загварууд болон өгөгдмөл дэлгэцийн зураг</item>
+        <item>Хэрэглүүрүүд: дэмжигдээгүй суулгах файлууд</item>
+        <item>Нууцлалтай хавтас: хэрэглүүрүүд болон өгөгдөл</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Утас: дуудлага ба зурвасын түүх</item>
+        <item>Зурвасууд: сайжруулсан зурвасууд, мультимедиа зурвасууд болон бичвэрт зурвасууд</item>
+        <item>Харилцагчид: харилцагчид, э-шуудангийн хаяг ба нэрийн хуудсыг таны төхөөрөмжид хадгалсан</item>
+        <item>Цаглабар: үйл ажиллагаа болон даалгавруудыг таны төхөөрөмжид хадгалсан</item>
+        <item>Цаг: сэрүүлэг, дэлхийн цаг, цаг хэмжигчүүд</item>
+        <item>Тохиргоо: хандалтыг хялбаршуулах, хонхны ая, Samsung гар сонголтууд, Wi-Fi тохиргоо, хосолсон Bluetooth төхөөрөмжүүд, нүүр таних тохиргоо, хурууны хээний тохиргоо ба Always On Display тохиргоо (таны өгөгдмөл хонхны аяыг нөөцлөхгүй)</item>
+        <item>Эх дэлгэц: зураглал, дэлгэцийн зураг болон Samsung DeX тохиргоо</item>
+        <item>Хэрэглүүрүүд: суурилуулалтын файлууд ба хэрэглүүрийн тохиргоо</item>
+        <item>Дуу хураагуур: бичлэгүүд</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Хөгжим: MP3, FLAC, WAV, M4A, OGG болон бусад дууны файл</item>
+        <item>Баримт бичгүүд: PDF, Word, Excel, PowerPoint болон бусад баримт бичиг</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: чаатын түүх</item>
+        <item>%s: түгжээтэй тэмдэглэл</item>
+        <item>%s: нууц үгээр хамгаалагдсан өгөгдөл</item>
+        <item>%s: хэрэглүүрүүд ба хэрэглүүрийн өгөгдөл</item>
+        <item>%s: Синхрончилсон бүртгэлүүдийн арга хэмжээнүүд</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Хувийн түлхүүр ба сэргээх өгүүлбэр</item>
+        <item>Хэрэглүүрийн бодлогын улмаас шилжүүлэх боломжгүй өгөгдөл</item>
+        <item>Хамгаалалт эсвэл нийцтэй байдлаас болоод шилжүүлэх боломжгүй хэрэглүүрүүд: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Зөвхөн унших харилцагчид</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Өгөгдмөл дэлгэцийн зураг</item>
+        <item>Galaxy Themes-н дэлгэцийн зургууд</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Яаралтай тусламжийн зурвасууд</item>
+        <item>Ноорог ба амжилтгүй зурвасууд</item>
+        <item>iMessage эффекттэй зурвасууд</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Түгжигдсэн контент</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Утас: дуудлага ба зурвасын түүх</item>
+        <item>Зурвасууд: сайжруулсан зурвасууд, мультимедиа зурвасууд болон бичвэрт зурвасууд</item>
+        <item>Цаг: сэрүүлэг, дэлхийн цаг, цаг хэмжигчүүд</item>
+        <item>Тохиргоо: хандалтыг хялбаршуулах тохиргоо, хонхны ая, Samsung гар сонголтууд, Wi-Fi тохиргоо, хослуулсан Bluetooth төхөөрөмжүүд ба Always On Display тохиргоо (шифрлэгдээгүй өгөгдмөл хонхны ая)</item>
+        <item>Хэрэглүүрүүд: хэрэглүүрийн тохиргоо</item>
+        <item>Эх дэлгэц: зураглал, дэлгэцийн зураг болон Samsung DeX тохиргоо</item>
+        <item>Дуу хураагуур: бичлэгүүд</item>
+    </string-array>
+</resources>

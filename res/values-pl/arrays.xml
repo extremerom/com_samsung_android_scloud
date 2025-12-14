@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Trwa ładowanie telefonu.</item>
+        <item>Telefon został połączony z siecią Wi-Fi.</item>
+        <item>Ekran jest wyłączony.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Trwa ładowanie tabletu.</item>
+        <item>Tablet został połączony z siecią Wi-Fi.</item>
+        <item>Ekran jest wyłączony.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Dane z możliwością utworzenia backupu mogą różnić się w zależności od telefonu lub systemu operacyjnego.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Dane, których kopię zapasową można utworzyć, mogą różnić się w zależności od tabletu lub systemu operacyjnego.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontakty: kontakty ze zsynchronizowanych kont</item>
+        <item>Kalendarz: zdarzenia i zadania ze zsynchronizowanych kont</item>
+        <item>Motywy Galaxy: motywy i domyślna tapeta</item>
+        <item>Aplikacje: niezgodne pliki instalacyjne i dane z aplikacji innych niż Samsung</item>
+        <item>Mój sejf: aplikacje i dane</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kontakty: kontakty ze zsynchronizowanych kont</item>
+        <item>Kalendarz: zdarzenia i zadania ze zsynchronizowanych kont</item>
+        <item>Motywy Galaxy: motywy i domyślna tapeta</item>
+        <item>Aplikacje: nieobsługiwane pliki instalacyjne</item>
+        <item>Mój sejf: aplikacje i dane</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: historia połączeń i wiadomości</item>
+        <item>Wiadomości: rozszerzone wiadomości, MMS i SMS</item>
+        <item>Kontakty: kontakty, adresy e-mail i wizytówki zapisane w urządzeniu</item>
+        <item>Kalendarz: wydarzenia i zadania zapisane w urządzeniu</item>
+        <item>Zegar: alarmy, zegary czasu na świecie i minutniki</item>
+        <item>Ustawienia: ustawienia dostępności, dzwonki, opcje Klawiatury Samsung, ustawienia sieci Wi-Fi, sparowane urządzenia Bluetooth, ustawienia rozpoznawania twarzy, ustawienia odcisku palca i ustawienia funkcji Always On Display (kopia zapasowa domyślnego dzwonka nie zostanie utworzona)</item>
+        <item>Ekran startowy: układ, tapety i ustawienia Samsung DeX</item>
+        <item>Aplikacje: pliki instalacyjne i ustawienia aplikacji</item>
+        <item>Dyktafon: nagrania</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Muzyka: MP3, FLAC, WAV, M4A, OGG i inne pliki muzyczne</item>
+        <item>Dokumenty: PDF, Word, Excel, PowerPoint i inne dokumenty</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: historia czatu</item>
+        <item>%s: zablokowane notatki</item>
+        <item>%s: dane zabezpieczone hasłem</item>
+        <item>%s: aplikacje i dane aplikacji</item>
+        <item>%s: wydarzenia ze zsynchronizowanych kont</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Prywatny klucz i fraza odzyskiwania</item>
+        <item>Dane, których nie można przesłać z powodu zasad aplikacji</item>
+        <item>Aplikacje, których nie można przesłać z powodu problemów z zabezpieczeniami lub zgodnością: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Kontakty tylko do odczytu</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Tapeta domyślna</item>
+        <item>Tapety Motywy Galaxy</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Wiadomości alarmów awaryjnych</item>
+        <item>Robocze i niewysłane wiadomości</item>
+        <item>Wiadomości z efektami iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Zawartość zablokowana</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: historia połączeń i wiadomości</item>
+        <item>Wiadomości: rozszerzone wiadomości, MMS i SMS</item>
+        <item>Zegar: alarmy, zegary czasu na świecie i minutniki</item>
+        <item>Ustawienia: ustawienia dostępności, dzwonki, opcje Klawiatury Samsung, ustawienia sieci Wi-Fi, sparowane urządzenia Bluetooth i ustawienia funkcji Always On Display (domyślny dzwonek nie jest zaszyfrowany)</item>
+        <item>Aplikacje: ustawienia aplikacji</item>
+        <item>Ekran startowy: układ, tapety i ustawienia Samsung DeX</item>
+        <item>Dyktafon: nagrania</item>
+    </string-array>
+</resources>

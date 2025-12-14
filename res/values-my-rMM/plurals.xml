@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ရုပ်ပုံ ၁ ပုံနှင့် ဗီဒီယို %1$d ခု (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">အက်ပ် %d ခုကို ထည့်သွင်းမထားပါ</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">မက်ဆေ့ချ်များ : အရေးပေါ် သတိပေးချက်များ၊ လွှဲပြောင်းထားသော ဖိုင်များ၊ %d MB ထက် ပိုကြီးသော မာတီမီဒီယာ မက်ဆေ့ချ်များ၊ စာကြမ်းများနှင့် ပို့၍မရသော မက်ဆေ့ချ်များ</item>
+        <item quantity="one">မက်ဆေ့ချ်များ : အရေးပေါ် သတိပေးချက်များ၊ လွှဲပြောင်းထားသော ဖိုင်များ၊ %d MB ထက် ပိုကြီးသော မာတီမီဒီယာ မက်ဆေ့ချ်များ၊ စာကြမ်းများနှင့် ပို့၍မရသော မက်ဆေ့ချ်များ</item>
+        <item quantity="two">မက်ဆေ့ချ်များ : အရေးပေါ် သတိပေးချက်များ၊ လွှဲပြောင်းထားသော ဖိုင်များ၊ %d MB ထက် ပိုကြီးသော မာတီမီဒီယာ မက်ဆေ့ချ်များ၊ စာကြမ်းများနှင့် ပို့၍မရသော မက်ဆေ့ချ်များ</item>
+        <item quantity="few">မက်ဆေ့ချ်များ : အရေးပေါ် သတိပေးချက်များ၊ လွှဲပြောင်းထားသော ဖိုင်များ၊ %d MB ထက် ပိုကြီးသော မာတီမီဒီယာ မက်ဆေ့ချ်များ၊ စာကြမ်းများနှင့် ပို့၍မရသော မက်ဆေ့ချ်များ</item>
+        <item quantity="many">မက်ဆေ့ချ်များ : အရေးပေါ် သတိပေးချက်များ၊ လွှဲပြောင်းထားသော ဖိုင်များ၊ %d MB ထက် ပိုကြီးသော မာတီမီဒီယာ မက်ဆေ့ချ်များ၊ စာကြမ်းများနှင့် ပို့၍မရသော မက်ဆေ့ချ်များ</item>
+        <item quantity="other">မက်ဆေ့ချ်များ : အရေးပေါ် သတိပေးချက်များ၊ လွှဲပြောင်းထားသော ဖိုင်များ၊ %d MB ထက် ပိုကြီးသော မာတီမီဒီယာ မက်ဆေ့ချ်များ၊ စာကြမ်းများနှင့် ပို့၍မရသော မက်ဆေ့ချ်များ</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ကိရိယာ %d ခုအတွက် ဘက်အပ်ဒေတာက မကြာမီ သက်တမ်းကုန်ပါမည်။ သက်တန်းကုန်ရက်ကို စစ်ကြည့်ရန် အောက်က ကိရိယာကို ရွေးပါ။</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ကိရိယာ %d ခုအတွက် ဘက်အပ်ဒေတာက မကြာမီ သက်တမ်းကုန်ပါမည်။</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">အရံသိမ်းသည့်အရာ %1$d ခုကို အပ်ဒိတ်လုပ်၍ မရနိုင်သောကြောင့် ၎င်းတို့၏ ယခင်အရံသိမ်းဖိုင်များကို သင့်ဖုန်းအသစ် (%2$s) တွင် နဂိုအတိုင်း ပြန်ထားပါမည်။</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">အရံသိမ်းသည့်အရာ %1$d ခုကို အပ်ဒိတ်လုပ်၍ မရနိုင်သောကြောင့် %2$s တွင် ပြုလုပ်ခဲ့သော ၎င်းတို့၏ အရံသိမ်းဖိုင်များကို သင့်ဖုန်းအသစ် (%3$s) တွင် နဂိုအတိုင်း ပြန်ထားပါမည်။</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">အရံသိမ်းသည့်အရာ %1$d ခုကို အပ်ဒိတ်လုပ်၍ မရနိုင်သောကြောင့် ၎င်းတို့၏ ယခင်အရံသိမ်းဖိုင်များကို သင့်တက်ဘလက်အသစ် (%2$s) တွင် နဂိုအတိုင်း ပြန်ထားပါမည်။</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">အရံသိမ်းသည့်အရာ %1$d ခုကို အပ်ဒိတ်လုပ်၍ မရနိုင်သောကြောင့် %2$s တွင် ပြုလုပ်ခဲ့သော ၎င်းတို့၏ အရံသိမ်းဖိုင်များကို သင့်တက်ဘလက်အသစ် (%3$s) တွင် နဂိုအတိုင်း ပြန်ထားပါမည်။</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ဒေတာကို %d ရက်အကြာတွင် ဖျက်ပစ်ပါမည်။</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ရက်အကြာမှာ သက်တမ်းကုန်မည်</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">သင့်ဒေတာအများစုကို နဂိုနေရာပြန်ထားသော်လည်း အက်ပ် %d ခုကို ထည့်မသွင်းခဲ့ပါ။</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">အယ်လ်ဘမ် အသစ် %d ခု ရှိသည်</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">အယ်လ်ဘမ် %d ခုကို ရွေးချယ်ထားသည်</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">လူပုံ ၁ ခုနှင့် စိတ်ကြိုက်ဒီဇိုင်းပြုလုပ်ထားသည့်အရာ %d ခု</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">၁ နာရီ %d မိနစ် ကျန်သည်</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ဓာတ်ပုံ ၁ ပုံနှင့် ဗီဒီယို %d ခုကို ဆင့်ခ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">အိုင်တမ် %1$d ခု ရွေးပြီးပြီ (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ရုပ်ပုံ %1$d ပုံနှင့် ဗီဒီယို ၁ ခု (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ရုပ်ပုံ %1$d ပုံ (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ခုရွေးချယ်ထားသည် (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ဗီဒီယို %1$d ခု (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ဖိုင် %d ခု</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d နာရီ ၁ မိနစ် ကျန်သည်</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ရုပ်ပုံ %d ပုံကို ကလောက်မှ ဒေါင်းလုတ်လုပ်ပြီးပြီ။</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">အိုင်တမ် %d ခုကို ကလောက်မှ ဒေါင်းလုတ်လုပ်ပြီးပြီ။</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d မိနစ်</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d မိနစ် ကျန်သည်</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ဓာတ်ပုံ %d ပုံနှင့် ဗီဒီယို ၁ ခုကို ဆင့်ခ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ဓာတ်ပုံ %d ပုံကို ဆင့်ခ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ရုပ်ပုံနှင့် ဗီဒီယို %d ခု</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ကို ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ဗီဒီယို %d ခုကို ကလောက်မှ ဒေါင်းလုတ်လုပ်ပြီးပြီ။</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ဗီဒီယို %d ခုကို ဆင့်ခ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ဘက်ထရီ အားနည်းနေသည်။ သင့်ဖုန်းကို ဘက်အပ်လုပ်ရန် အနည်းဆုံး %d%% အားသွင်းပါ။</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ယာယီအရန်သိမ်းမှုများသည် %d ရက်အကြာတွင် သက်တမ်းကုန်ပါမည်။ မြန်မြန် မူလအတိုင်းပြန်ထားပါ (သို့) အချိန်ထပ်လိုပါက သက်တမ်းကုန်ရက်ကို ရွှေ့ဆိုင်းပါ။</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ရက် ရွှေ့ဆိုင်းရန်</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">လူပုံ %d ခု</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">လူပုံ %d ခုနှင့် စိတ်ကြိုက်ဒီဇိုင်းပြုလုပ်ထားသည့်အရာ ၁ ခု</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">စိတ်ကြိုက်ဒီဇိုင်းပြုလုပ်ထားသည့်အရာ %d ခု</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ခု ကျန်သည်</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">အတွဲချိတ်ထားသည့် ဆမ်ဆောင်း ကိရိယာများ %d ခု</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">သတိပေးချက် %d ခု</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">သင်၏ စာရင်းသွင်းမှာယူခြင်း %1$s တွင် ပြီးဆုံးသွားသည်။ သင့်ဒေတာကို %2$d ရက်အကြာတွင် ဖျက်ပစ်ပါမည်။ သင့်ဒေတာကို ဆက်ထားရှိရန် သင်၏ စာရင်းသွင်းမှာယူခြင်းကို ပြန်အသက်သွင်းပါ။</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ဘက်ထရီ အားနည်းနေသည်။ သင့်တက်ဘလက်ကို ဘက်အပ်လုပ်ရန် အနည်းဆုံး %d%% အားသွင်းပါ။</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$s တွင် %2$d ရက်ကြာအထိ ဒေတာများကို အကန့်အသတ်မရှိ အရန်သိမ်းပါ (သို့) သင်အရန်သိမ်းထားသော ဒေတာများကို နဂိုအတိုင်း ပြန်ထားပါ။</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ဤအရံသိမ်းဖိုင်ကို %d ရက်အကြာတွင် ဖျက်ပစ်မည်။</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d နာရီအတွင်း ထပ်ကြိုးစားပါ</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d နာရီ ၁ မိနစ်အကြာတွင် ထပ်မံကြိုးစားပါ</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d မိနစ်အတွင်း ထပ်မံကြိုးစားပါ</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">၁ နာရီ %d မိနစ်အကြာတွင် ထပ်မံကြိုးစားပါ</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">သင့်ဘက်ခ်အပ်သည် %1$s တွင် လုံခြုံပါသည်။ ၎င်းကို နဂိုအတိုင်း ပြန်ထားရန် %2$d ရက် အချိန်ရပါသည်။</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">သင်၏အရန်သိမ်းဖိုင်ကို %d ရက်အကြာတွင် ဖျက်ပစ်မည်။</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">သင့်ဒေတာကို သင့်ဖုန်းတွင် နဂိုအတိုင်း ပြန်မထားခဲ့ပါ။ ၎င်းကိုနဂိုအတိုင်း ပြန်ထားရန် သင့်တွင် %d ရက်အချိန်ရှိသည်။</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">သင့်ဒေတာကို သင့်တက်ဘလက်တွင် နဂိုအတိုင်း ပြန်မထားခဲ့ပါ။ ၎င်းကိုနဂိုအတိုင်း ပြန်ထားရန် သင့်တွင် %d ရက်အချိန်ရှိသည်။</item>
+    </plurals>
+</resources>

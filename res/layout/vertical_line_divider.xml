@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View android:background="@color/vertical_divider_color" android:focusable="false" android:clickable="false" android:layout_width="@dimen/vertical_divider_width" android:layout_height="@dimen/vertical_divider_height" android:layout_marginEnd="@dimen/vertical_divider_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

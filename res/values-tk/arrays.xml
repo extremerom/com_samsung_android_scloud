@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Telefonyňyz zarýad alýar.</item>
+        <item>Telefonyňyz Wi-Fi toruna birigen.</item>
+        <item>Ekran ýapyk.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Planşetiňiz zarýad alýar.</item>
+        <item>Planşetiňiz Wi-Fi toruna birigen.</item>
+        <item>Ekran ýapyk.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Telefonyňyza ýa-da operasion ulgamyňyza görä, ätiýaçlap bolýan maglumat dürlüçe bolup biler.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Planşetiňize ýa-da operasion ulgamyňyza görä, ätiýaçlap bolýan maglumat dürlüçe bolup biler.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontaktlar: sinhron hasaplardan kontaktlar</item>
+        <item>Senenama: sinhronlanan hasaplardan çäreler we ýumuşlar</item>
+        <item>Galaxy Themes: temalar we standart diwar kagyzy</item>
+        <item>Programmalar: Samsung däl programmalardan ylalaşyksyz gurnaw faýllary we maglumatlar</item>
+        <item>Howpsuz bukja: programmalar we maglumat</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kontaktlar: sinhron hasaplardan kontaktlar</item>
+        <item>Senenama: sinhronlanan hasaplardan çäreler we ýumuşlar</item>
+        <item>Galaxy Themes: temalar we standart diwar kagyzy</item>
+        <item>Programmalar: goldanylmaýan gurnaw faýllary</item>
+        <item>Howpsuz bukja: programmalar we maglumat</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: jaň we hat taryhy</item>
+        <item>Hatlar: güýçlendirilen hatlar, multimedia hatlar we tekst hatlar</item>
+        <item>Kontaktlar: enjamyňyzda ýazdyrylgy kontaktlar, e-poçta salgylar we wizitkalar</item>
+        <item>Senenama: enjamyňyzda ýazdyrylgy wakalar we çäreler</item>
+        <item>Sagat: oýaryjylar, dünýä sagatlary we taýmerler</item>
+        <item>Sazlamalar: giriş ukyby sazlamalary, jaň sazlary, Samsung Klawiatura opsiýalary, Wi-Fi sazlamalary, jübütlenen Bluetooth enjamlary, ýüz tanaýyş sazlamalary, barmak yzy sazlamalary we Always On Display sazlamalary (Standart jaň sazyňyz ätiýaçlanmaz)</item>
+        <item>Öý ekran: ýerleşim, diwar kagyzlar we Samsung DeX sazlamalary</item>
+        <item>Programmalar: gurnaw faýllary we programma sazlamalary</item>
+        <item>Ses ýazyjy: ýazgylar</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Saz: MP3, FLAC, WAV, M4A, OGG we beýleki saz faýllary</item>
+        <item>Resminamalar: PDF, Word, Excel, PowerPoint we beýleki resminamalar</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: söhbet taryhy</item>
+        <item>%s: gulply bellikler</item>
+        <item>%s: parol goragly maglumat</item>
+        <item>%s: programmalar we programma maglumaty</item>
+        <item>%s: Sinhron hasaplardan çäreler</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Hususy açar we dikeldiş frazasy</item>
+        <item>Programmanyň syýasatlary sebäpli geçirip bolmaýan maglumat</item>
+        <item>Howpsuzlyk ýa-da ylalaşyjylyk meseleler sebäpli geçirip bolmaýan programmalar: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Diňe-okalýan kontaktlar</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Standart diwar kagyzy</item>
+        <item>Galaxy Themes diwar kagyzlary</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Gyssagly duýduryş hatlary</item>
+        <item>Garalamalar we iberip bolmadyk hatlar</item>
+        <item>iMessage effektler bilen hatlar</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Gulply mazmun</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: jaň we hat taryhy</item>
+        <item>Hatlar: güýçlendirilen hatlar, multimedia hatlar we tekst hatlar</item>
+        <item>Sagat: oýaryjylar, dünýä sagatlary we taýmerler</item>
+        <item>Sazlamalar: giriş ukyby sazlamalary, jaň sazlary, Samsung Klawiatura opsiýalary, Wi-Fi sazlamalary, jübütlenen Bluetooth enjamlary we Always On Display sazlamalary (standart jaň sazy şifrlenmeýär)</item>
+        <item>Programmalar: programma sazlamalary</item>
+        <item>Öý ekran: ýerleşim, diwar kagyzlar we Samsung DeX sazlamalary</item>
+        <item>Ses ýazyjy: ýazgylar</item>
+    </string-array>
+</resources>

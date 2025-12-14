@@ -1,0 +1,59 @@
+syntax = "proto3";
+
+import "gallery/attribute/media/plain_sensitive_meta_attribute.proto";
+import "gallery/attribute/media/group_attribute.proto";
+import "gallery/attribute/media/sef_attribute.proto";
+import "gallery/attribute/media/image_attribute.proto";
+import "gallery/attribute/media/video_attribute.proto";
+import "gallery/attribute/media/client_timestamp_attribute.proto";
+
+
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.media.attribute;
+
+option java_multiple_files = true;
+
+
+message MediaMeta {
+
+  SensitiveMeta sensitive_meta = 1 [(google.api.field_behavior) = REQUIRED]; 
+
+  optional string path_hash = 2 [(google.api.field_behavior) = REQUIRED]; 
+  optional string album_path_hash = 3 [(google.api.field_behavior) = REQUIRED]; 
+  ClientTimestamp client_timestamp = 4 [(google.api.field_behavior) = REQUIRED]; 
+
+  optional int64 date_taken = 5 [(google.api.field_behavior) = REQUIRED]; 
+  optional int64 purge_scheduled_time = 6; 
+
+  MimeType mime_type = 7 [(google.api.field_behavior) = REQUIRED]; 
+
+  
+  SefAttribute    sef   = 8;
+  GroupAttribute  group = 9; 
+
+  oneof mime_attribute {
+    ImageAttribute image = 10; 
+    VideoAttribute video = 11; 
+  }
+
+  message SensitiveMeta {
+    oneof value {
+      PlainSensitiveMeta decrypted = 1; 
+      bytes encrypted = 2; 
+    }
+  }
+
+  message MimeType {
+    
+    optional string value = 1 [(google.api.field_behavior) = REQUIRED];
+    optional MediaCategory category = 2 [(google.api.field_behavior) = REQUIRED]; 
+  }
+
+  enum MediaCategory {
+    
+    MEDIA_CATEGORY_UNSPECIFIED = 0;
+    IMAGE = 1;
+    VIDEO = 2;
+  }
+}

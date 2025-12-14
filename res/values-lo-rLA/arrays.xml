@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>ໂທລະສັບຂອງທ່ານກຳລັງສາກຢູ່.</item>
+        <item>ໂທລະສັບຂອງທ່ານຖືກເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi ແລ້ວ.</item>
+        <item>ໜ້າຈໍປິດຢູ່.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>ແທັບເລັດຂອງທ່ານກຳລັງສາກຢູ່.</item>
+        <item>ແທັບເລັດຂອງທ່ານຖືກເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi ແລ້ວ.</item>
+        <item>ໜ້າຈໍປິດຢູ່.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>ຂໍ້ມູນທີ່ທ່ານສາມາດແບັກອັບອາດຈະແຕກຕ່າງກັນ ຂຶ້ນຢູ່ກັບໂທລະສັບຂອງທ່ານ ຫຼື ລະບົບການປະຕິບັດການ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>ຂໍ້ມູນທີ່ທ່ານສາມາດແບັກອັບອາດຈະແຕກຕ່າງກັນໄປ ຂຶ້ນຢູ່ກັບແທັບເລັດຂອງທ່ານ ຫຼື ລະບົບການປະຕິບັດການ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>ຜູ້ຕິດຕໍ່: ຜູ້ຕິດຕໍ່ຈາກບັນຊີທີ່ຊິງຄ໌</item>
+        <item>ປະຕິທິນ: ເຫດການ ແລະ ໜ້າວຽກຈາກບັນຊີທີ່ຊິງຄ໌</item>
+        <item>Galaxy Themes: ຕີມ ແລະ ວອລເປເປີມາດຕະຖານ</item>
+        <item>ແອັບ: ໄຟລ໌ການຕິດຕັ້ງທີ່ເຂົ້າກັນບໍ່ໄດ້ ແລະ ຂໍ້ມູນຈາກແອັບທີ່ບໍ່ແມ່ນ Samsung apps</item>
+        <item>ໂຟລເດີທີ່ປອດໄພ: ແອັບ ແລະ ຂໍ້ມູນ</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>ຜູ້ຕິດຕໍ່: ຜູ້ຕິດຕໍ່ຈາກບັນຊີທີ່ຊິງຄ໌</item>
+        <item>ປະຕິທິນ: ເຫດການ ແລະ ໜ້າວຽກຈາກບັນຊີທີ່ຊິງຄ໌</item>
+        <item>Galaxy Themes: ຕີມ ແລະ ວອລເປເປີມາດຕະຖານ</item>
+        <item>ແອັບ: ໄຟລ໌ຕິດຕັ້ງທີ່ບໍ່ຮອງຮັບ</item>
+        <item>ໂຟລເດີທີ່ປອດໄພ: ແອັບ ແລະ ຂໍ້ມູນ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ໂທລະສັບ: ປະຫວັດການໂທແລະຂໍ້ຄວາມ</item>
+        <item>ຂໍ້ຄວາມ: ຂໍ້ຄວາມຂັ້ນສູງ, ຂໍ້ຄວາມມັລຕິມີເດຍ, ແລະ ຂໍ້ຄວາມຕົວອັກສອນ</item>
+        <item>ຜູ້ຕິດຕໍ່: ບັນທຶກຜູ້ຕິດຕໍ່, ທີ່ຢູ່ອີເມລ໌, ແລະ ນາມບັດໃນອຸປະກອນຂອງທ່ານແລ້ວ</item>
+        <item>ປະຕິທິນ: ບັນທຶກເຫດການ ແລະ ໜ້າວຽກໃນອຸປະກອນຂອງທ່ານແລ້ວ</item>
+        <item>ໂມງ: ໂມງປຸກ, ໂມງສາກົນ, ແລະເຄື່ອງຕັ້ງເວລາ</item>
+        <item>ການຕັ້ງຄ່າ: ການຕັ້ງຄ່າຄວາມສາມາດເຂົ້າໃຊ້, ສຽງໂທເຂົ້າ, ຕົວເລືືອກຄີບອດຊຳຊຸງ, ການຕັ້ງຄ່າ Wi-Fi, ອຸປະກອນບລູທູດທີ່ຖືກຈັບຄູ່, ການຕັ້ງຄ່າການຈົດຈຳໃບໜ້າ, ການຕັ້ງຄ່າລາຍນິ້ວມື ແລະ ການຕັ້ງຄ່າ Always On Display (ສຽງໂທເຂົ້າມາດຕະຖານຂອງທ່ານຈະບໍ່ຖືກແບັກອັບ)</item>
+        <item>ໜ້າຈໍຫຼັກ: ແຜນຜັງ, ວອລເປເປີ, ແລະ ການຕັ້ງຄ່າ Samsung DeX</item>
+        <item>ແອັບ: ໄຟລ໌ການຕິດຕັ້ງ ແລະ ການຕັ້ງຄ່າແອັບ</item>
+        <item>ເຄື່ອງບັນທຶກສຽງ: ການບັນທຶກ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>ເພງ: MP3, FLAC, WAV, M4A, OGG ແລະ ໄຟລ໌ເພງເພງອື່ນໆ</item>
+        <item>ເອກະສານ: PDF, Word, Excel, PowerPoint ແລະ ເອກະສານອື່ນໆ</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: ປະຫວັດການແຊັດ</item>
+        <item>%s: ບັນທຶກທີ່ລັອກແລ້ວ</item>
+        <item>%s: ຂໍ້ມູນທີ່ປ້ອງກັນດ້ວຍລະຫັດຜ່ານ</item>
+        <item>%s: ແອັບແລະຂໍ້ມູນແອັບ</item>
+        <item>%s: ເຫດການຈາກບັນຊີທີ່ຖືກຊິງຄ໌</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>ລະຫັດສ່ວນຕົວ ແລະ ກຸ່ມຄຳສັບການກູ້ຄືນ</item>
+        <item>ຂໍ້ມູນທີ່ບໍ່ສາມາດຖືກໂອນໄດ້ເນື່ອງຈາກນະໂຍບາຍຂອງແອັບ</item>
+        <item>ແອັບທີ່ບໍ່ສາມາດໂອນໄດ້ເນື່ອງຈາກບັນຫາດ້ານຄວາມປອດໄພ ຫຼື ຄວາມເຂົ້າກັນໄດ້: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>ຜູ້ຕິດຕໍ່ແບບອ່ານເທົ່ານັ້ນ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>ວອລເປເປີມາດຕະຖານ</item>
+        <item>ວອລເປເປີ Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>ຂໍ້ຄວາມການເຕືອນສຸກເສີນ</item>
+        <item>ການຮ່າງ ແລະ ຂໍ້ຄວາມທີ່ຫຼົ້ມເຫຼວ</item>
+        <item>ຂໍ້ຄວາມທີ່ມີເອັບເຝັກ iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>ເນື້ອໃນທີ່​ຖືກ​ລັອກ</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ໂທລະສັບ: ປະຫວັດການໂທແລະຂໍ້ຄວາມ</item>
+        <item>ຂໍ້ຄວາມ: ຂໍ້ຄວາມຂັ້ນສູງ, ຂໍ້ຄວາມມັລຕິມີເດຍ, ແລະ ຂໍ້ຄວາມຕົວອັກສອນ</item>
+        <item>ໂມງ: ໂມງປຸກ, ໂມງສາກົນ, ແລະເຄື່ອງຕັ້ງເວລາ</item>
+        <item>ການຕັ້ງຄ່າ: ການຕັ້ງຄ່າຄວາມສາມາດເຂົ້າໃຊ້, ສຽງໂທເຂົ້າ, ຕົວເລືືອກຄີບອດຊຳຊຸງ, ການຕັ້ງຄ່າ Wi-Fi, ອຸປະກອນບລູທູດທີ່ຖືກຈັບຄູ່, ແລະ ການຕັ້ງຄ່າ Always On Display (ສຽງໂທເຂົ້າມາດຕະຖານຈະບໍ່ຖືກໃສ່ລະຫັດ)</item>
+        <item>ແອັບ: ການຕັ້ງຄ່າແອັບ</item>
+        <item>ໜ້າຈໍຫຼັກ: ແຜນຜັງ, ວອລເປເປີ, ແລະ ການຕັ້ງຄ່າ Samsung DeX</item>
+        <item>ເຄື່ອງບັນທຶກສຽງ: ການບັນທຶກ</item>
+    </string-array>
+</resources>

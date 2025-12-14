@@ -1,0 +1,51 @@
+
+syntax = "proto3";
+
+import "gallery/attribute/media/media_attribute.proto";
+import "gallery/attribute/usertag/user_tag_attribute.proto";
+import "gallery/attribute/media/file_url_attribute.proto";
+
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.gallery.v1;
+
+option java_multiple_files = true;
+
+service GalleryViewService {
+
+  
+  rpc GetMediaList(GetMediaListRequest) returns (GetMediaListResponse) {}
+
+  
+  rpc GetDownloadUrls(GetDownloadUrlsRequest) returns (GetDownloadUrlsResponse) {}
+
+  
+  rpc GetUserTags(GetUserTagsRequest) returns (GetUserTagsResponse) {}
+}
+
+message GetMediaListRequest {
+  optional int32 size = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string page_token = 2; 
+}
+
+message GetMediaListResponse {
+  repeated media.attribute.Media media = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string next_page_token = 2; 
+  optional bool has_next = 3 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message GetDownloadUrlsRequest {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message GetDownloadUrlsResponse {
+  samsung.scsp.media.attribute.FileUrlAttribute file_url_attribute = 1 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message GetUserTagsRequest {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message GetUserTagsResponse {
+  repeated usertag.attribute.UserTag user_tag = 1 [(google.api.field_behavior) = REQUIRED]; 
+}

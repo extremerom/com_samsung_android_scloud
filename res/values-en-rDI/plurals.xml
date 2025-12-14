@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_1_PICTURE_AND_P1SD_VIDEOS_HP2SS %1$d %2$s</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_1_PICTURE_AND_P1SD_VIDEOS_HP2SS %1$d %2$s</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_1_PICTURE_AND_P1SD_VIDEOS_HP2SS %1$d %2$s</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_1_PICTURE_AND_P1SD_VIDEOS_HP2SS %1$d %2$s</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_1_PICTURE_AND_P1SD_VIDEOS_HP2SS %1$d %2$s</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_1_PICTURE_AND_P1SD_VIDEOS_HP2SS %1$d %2$s</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_PD_APPS_NOT_INSTALLED %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_PD_APPS_NOT_INSTALLED %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_PD_APPS_NOT_INSTALLED %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_PD_APPS_NOT_INSTALLED %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_PD_APPS_NOT_INSTALLED %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_PD_APPS_NOT_INSTALLED %d</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">DREAM_CLOUD_OPT_MESSAGES_C_EMERGENCY_ALERTS_TRANSFERRED_FILES_MULTIMEDIA_MESSAGES_LARGER_THAN_PD_MB_DRAFTS_AND_FAILED_MESSAGES %d</item>
+        <item quantity="one">DREAM_CLOUD_OPT_MESSAGES_C_EMERGENCY_ALERTS_TRANSFERRED_FILES_MULTIMEDIA_MESSAGES_LARGER_THAN_PD_MB_DRAFTS_AND_FAILED_MESSAGES %d</item>
+        <item quantity="two">DREAM_CLOUD_OPT_MESSAGES_C_EMERGENCY_ALERTS_TRANSFERRED_FILES_MULTIMEDIA_MESSAGES_LARGER_THAN_PD_MB_DRAFTS_AND_FAILED_MESSAGES %d</item>
+        <item quantity="few">DREAM_CLOUD_OPT_MESSAGES_C_EMERGENCY_ALERTS_TRANSFERRED_FILES_MULTIMEDIA_MESSAGES_LARGER_THAN_PD_MB_DRAFTS_AND_FAILED_MESSAGES %d</item>
+        <item quantity="many">DREAM_CLOUD_OPT_MESSAGES_C_EMERGENCY_ALERTS_TRANSFERRED_FILES_MULTIMEDIA_MESSAGES_LARGER_THAN_PD_MB_DRAFTS_AND_FAILED_MESSAGES %d</item>
+        <item quantity="other">DREAM_CLOUD_OPT_MESSAGES_C_EMERGENCY_ALERTS_TRANSFERRED_FILES_MULTIMEDIA_MESSAGES_LARGER_THAN_PD_MB_DRAFTS_AND_FAILED_MESSAGES %d</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_BACKUP_DATA_FOR_PD_DEVICES_WILL_EXPIRE_SOON_SELECT_A_DEVICE_BELOW_TO_CHECK_THE_EXPIRATION_DATE %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_BACKUP_DATA_FOR_PD_DEVICES_WILL_EXPIRE_SOON_SELECT_A_DEVICE_BELOW_TO_CHECK_THE_EXPIRATION_DATE %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_BACKUP_DATA_FOR_PD_DEVICES_WILL_EXPIRE_SOON_SELECT_A_DEVICE_BELOW_TO_CHECK_THE_EXPIRATION_DATE %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_BACKUP_DATA_FOR_PD_DEVICES_WILL_EXPIRE_SOON_SELECT_A_DEVICE_BELOW_TO_CHECK_THE_EXPIRATION_DATE %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_BACKUP_DATA_FOR_PD_DEVICES_WILL_EXPIRE_SOON_SELECT_A_DEVICE_BELOW_TO_CHECK_THE_EXPIRATION_DATE %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_BACKUP_DATA_FOR_PD_DEVICES_WILL_EXPIRE_SOON_SELECT_A_DEVICE_BELOW_TO_CHECK_THE_EXPIRATION_DATE %d</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_BACKUP_DATA_FOR_PD_DEVICES_WILL_EXPIRE_SOON %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_BACKUP_DATA_FOR_PD_DEVICES_WILL_EXPIRE_SOON %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_BACKUP_DATA_FOR_PD_DEVICES_WILL_EXPIRE_SOON %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_BACKUP_DATA_FOR_PD_DEVICES_WILL_EXPIRE_SOON %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_BACKUP_DATA_FOR_PD_DEVICES_WILL_EXPIRE_SOON %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_BACKUP_DATA_FOR_PD_DEVICES_WILL_EXPIRE_SOON %d</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_PREVIOUS_BACKUPS_OF_THESE_ITEMS_WILL_BE_RESTORED_TO_YOUR_NEW_PHONE_HP2SS %1$d %2$s</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_PREVIOUS_BACKUPS_OF_THESE_ITEMS_WILL_BE_RESTORED_TO_YOUR_NEW_PHONE_HP2SS %1$d %2$s</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_PREVIOUS_BACKUPS_OF_THESE_ITEMS_WILL_BE_RESTORED_TO_YOUR_NEW_PHONE_HP2SS %1$d %2$s</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_PREVIOUS_BACKUPS_OF_THESE_ITEMS_WILL_BE_RESTORED_TO_YOUR_NEW_PHONE_HP2SS %1$d %2$s</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_PREVIOUS_BACKUPS_OF_THESE_ITEMS_WILL_BE_RESTORED_TO_YOUR_NEW_PHONE_HP2SS %1$d %2$s</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_PREVIOUS_BACKUPS_OF_THESE_ITEMS_WILL_BE_RESTORED_TO_YOUR_NEW_PHONE_HP2SS %1$d %2$s</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_BACKUPS_OF_THESE_ITEMS_MADE_ON_P2SS_WILL_BE_RESTORED_TO_YOUR_NEW_PHONE_HP3SS %1$d %2$s %3$s</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_BACKUPS_OF_THESE_ITEMS_MADE_ON_P2SS_WILL_BE_RESTORED_TO_YOUR_NEW_PHONE_HP3SS %1$d %2$s %3$s</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_BACKUPS_OF_THESE_ITEMS_MADE_ON_P2SS_WILL_BE_RESTORED_TO_YOUR_NEW_PHONE_HP3SS %1$d %2$s %3$s</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_BACKUPS_OF_THESE_ITEMS_MADE_ON_P2SS_WILL_BE_RESTORED_TO_YOUR_NEW_PHONE_HP3SS %1$d %2$s %3$s</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_BACKUPS_OF_THESE_ITEMS_MADE_ON_P2SS_WILL_BE_RESTORED_TO_YOUR_NEW_PHONE_HP3SS %1$d %2$s %3$s</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_BACKUPS_OF_THESE_ITEMS_MADE_ON_P2SS_WILL_BE_RESTORED_TO_YOUR_NEW_PHONE_HP3SS %1$d %2$s %3$s</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_PREVIOUS_BACKUPS_OF_THESE_ITEMS_WILL_BE_RESTORED_TO_YOUR_NEW_TABLET_HP2SS %1$d %2$s</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_PREVIOUS_BACKUPS_OF_THESE_ITEMS_WILL_BE_RESTORED_TO_YOUR_NEW_TABLET_HP2SS %1$d %2$s</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_PREVIOUS_BACKUPS_OF_THESE_ITEMS_WILL_BE_RESTORED_TO_YOUR_NEW_TABLET_HP2SS %1$d %2$s</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_PREVIOUS_BACKUPS_OF_THESE_ITEMS_WILL_BE_RESTORED_TO_YOUR_NEW_TABLET_HP2SS %1$d %2$s</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_PREVIOUS_BACKUPS_OF_THESE_ITEMS_WILL_BE_RESTORED_TO_YOUR_NEW_TABLET_HP2SS %1$d %2$s</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_PREVIOUS_BACKUPS_OF_THESE_ITEMS_WILL_BE_RESTORED_TO_YOUR_NEW_TABLET_HP2SS %1$d %2$s</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_BACKUPS_OF_THESE_ITEMS_MADE_ON_P2SS_WILL_BE_RESTORED_TO_YOUR_NEW_TABLET_HP3SS %1$d %2$s %3$s</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_BACKUPS_OF_THESE_ITEMS_MADE_ON_P2SS_WILL_BE_RESTORED_TO_YOUR_NEW_TABLET_HP3SS %1$d %2$s %3$s</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_BACKUPS_OF_THESE_ITEMS_MADE_ON_P2SS_WILL_BE_RESTORED_TO_YOUR_NEW_TABLET_HP3SS %1$d %2$s %3$s</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_BACKUPS_OF_THESE_ITEMS_MADE_ON_P2SS_WILL_BE_RESTORED_TO_YOUR_NEW_TABLET_HP3SS %1$d %2$s %3$s</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_BACKUPS_OF_THESE_ITEMS_MADE_ON_P2SS_WILL_BE_RESTORED_TO_YOUR_NEW_TABLET_HP3SS %1$d %2$s %3$s</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_P1SD_BACKUP_ITEMS_COULDNT_BE_UPDATED_SO_THE_BACKUPS_OF_THESE_ITEMS_MADE_ON_P2SS_WILL_BE_RESTORED_TO_YOUR_NEW_TABLET_HP3SS %1$d %2$s %3$s</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_DATA_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_DATA_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_DATA_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_DATA_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_DATA_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_DATA_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_EXPIRING_IN_PD_DAYS %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_EXPIRING_IN_PD_DAYS %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_EXPIRING_IN_PD_DAYS %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_EXPIRING_IN_PD_DAYS %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_EXPIRING_IN_PD_DAYS %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_EXPIRING_IN_PD_DAYS %d</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_MOST_YOUR_DATA_HAS_BEEN_RESTORED_BUT_PD_APPS_WERENT_INSTALLED %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_MOST_YOUR_DATA_HAS_BEEN_RESTORED_BUT_PD_APPS_WERENT_INSTALLED %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_MOST_YOUR_DATA_HAS_BEEN_RESTORED_BUT_PD_APPS_WERENT_INSTALLED %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_MOST_YOUR_DATA_HAS_BEEN_RESTORED_BUT_PD_APPS_WERENT_INSTALLED %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_MOST_YOUR_DATA_HAS_BEEN_RESTORED_BUT_PD_APPS_WERENT_INSTALLED %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_MOST_YOUR_DATA_HAS_BEEN_RESTORED_BUT_PD_APPS_WERENT_INSTALLED %d</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_STATUS_PD_NEW_ALBUMS_AVAILABLE %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_STATUS_PD_NEW_ALBUMS_AVAILABLE %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_STATUS_PD_NEW_ALBUMS_AVAILABLE %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_STATUS_PD_NEW_ALBUMS_AVAILABLE %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_STATUS_PD_NEW_ALBUMS_AVAILABLE %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_STATUS_PD_NEW_ALBUMS_AVAILABLE %d</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_STATUS_PD_ALBUMS_SELECTED %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_STATUS_PD_ALBUMS_SELECTED %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_STATUS_PD_ALBUMS_SELECTED %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_STATUS_PD_ALBUMS_SELECTED %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_STATUS_PD_ALBUMS_SELECTED %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_STATUS_PD_ALBUMS_SELECTED %d</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_1_AVATAR_AND_PD_CUSTOM_DESIGNED_ITEMS %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_1_AVATAR_AND_PD_CUSTOM_DESIGNED_ITEMS %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_1_AVATAR_AND_PD_CUSTOM_DESIGNED_ITEMS %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_1_AVATAR_AND_PD_CUSTOM_DESIGNED_ITEMS %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_1_AVATAR_AND_PD_CUSTOM_DESIGNED_ITEMS %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_1_AVATAR_AND_PD_CUSTOM_DESIGNED_ITEMS %d</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_1_HOUR_PD_MINUTES_LEFT %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_1_HOUR_PD_MINUTES_LEFT %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_1_HOUR_PD_MINUTES_LEFT %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_1_HOUR_PD_MINUTES_LEFT %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_1_HOUR_PD_MINUTES_LEFT %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_1_HOUR_PD_MINUTES_LEFT %d</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_TMBODY_1_PHOTO_AND_PD_VIDEOS_SYNCED %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_TMBODY_1_PHOTO_AND_PD_VIDEOS_SYNCED %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_TMBODY_1_PHOTO_AND_PD_VIDEOS_SYNCED %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_TMBODY_1_PHOTO_AND_PD_VIDEOS_SYNCED %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_TMBODY_1_PHOTO_AND_PD_VIDEOS_SYNCED %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_TMBODY_1_PHOTO_AND_PD_VIDEOS_SYNCED %d</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_P1SD_ITEMS_SELECTED_HP2SS %1$d %2$s</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_P1SD_ITEMS_SELECTED_HP2SS %1$d %2$s</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_P1SD_ITEMS_SELECTED_HP2SS %1$d %2$s</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_P1SD_ITEMS_SELECTED_HP2SS %1$d %2$s</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_P1SD_ITEMS_SELECTED_HP2SS %1$d %2$s</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_P1SD_ITEMS_SELECTED_HP2SS %1$d %2$s</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_P1SD_PICTURES_AND_1_VIDEO_HP2SS %1$d %2$s</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_P1SD_PICTURES_AND_1_VIDEO_HP2SS %1$d %2$s</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_P1SD_PICTURES_AND_1_VIDEO_HP2SS %1$d %2$s</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_P1SD_PICTURES_AND_1_VIDEO_HP2SS %1$d %2$s</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_P1SD_PICTURES_AND_1_VIDEO_HP2SS %1$d %2$s</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_P1SD_PICTURES_AND_1_VIDEO_HP2SS %1$d %2$s</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_P1SD_PICTURES_HP2SS %1$d %2$s</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_P1SD_PICTURES_HP2SS %1$d %2$s</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_P1SD_PICTURES_HP2SS %1$d %2$s</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_P1SD_PICTURES_HP2SS %1$d %2$s</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_P1SD_PICTURES_HP2SS %1$d %2$s</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_P1SD_PICTURES_HP2SS %1$d %2$s</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_P1SD_SELECTED_HP2SS_P3SS %1$d %2$s %3$s</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_P1SD_SELECTED_HP2SS_P3SS %1$d %2$s %3$s</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_P1SD_SELECTED_HP2SS_P3SS %1$d %2$s %3$s</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_P1SD_SELECTED_HP2SS_P3SS %1$d %2$s %3$s</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_P1SD_SELECTED_HP2SS_P3SS %1$d %2$s %3$s</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_P1SD_SELECTED_HP2SS_P3SS %1$d %2$s %3$s</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_P1SD_VIDEOS_HP2SS %1$d %2$s</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_P1SD_VIDEOS_HP2SS %1$d %2$s</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_P1SD_VIDEOS_HP2SS %1$d %2$s</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_P1SD_VIDEOS_HP2SS %1$d %2$s</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_P1SD_VIDEOS_HP2SS %1$d %2$s</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_P1SD_VIDEOS_HP2SS %1$d %2$s</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_PD_FILES %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_PD_FILES %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_PD_FILES %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_PD_FILES %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_PD_FILES %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_PD_FILES %d</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_PD_HOURS_1_MINUTE_LEFT %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_PD_HOURS_1_MINUTE_LEFT %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_PD_HOURS_1_MINUTE_LEFT %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_PD_HOURS_1_MINUTE_LEFT %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_PD_HOURS_1_MINUTE_LEFT %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_PD_HOURS_1_MINUTE_LEFT %d</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">PLURAL_ZERO_GALLERY_TPOP_PD_IMAGES_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="one">PLURAL_ONE_GALLERY_TPOP_PD_IMAGES_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="two">PLURAL_TWO_GALLERY_TPOP_PD_IMAGES_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="few">PLURAL_FEW_GALLERY_TPOP_PD_IMAGES_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="many">PLURAL_MANY_GALLERY_TPOP_PD_IMAGES_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="other">PLURAL_OTHER_GALLERY_TPOP_PD_IMAGES_DOWNLOADED_FROM_THE_CLOUD %d</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">PLURAL_ZERO_GALLERY_TPOP_PD_ITEMS_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="one">PLURAL_ONE_GALLERY_TPOP_PD_ITEMS_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="two">PLURAL_TWO_GALLERY_TPOP_PD_ITEMS_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="few">PLURAL_FEW_GALLERY_TPOP_PD_ITEMS_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="many">PLURAL_MANY_GALLERY_TPOP_PD_ITEMS_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="other">PLURAL_OTHER_GALLERY_TPOP_PD_ITEMS_DOWNLOADED_FROM_THE_CLOUD %d</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">PLURAL_ZERO_ST_OPT_PD_MINUTES_ABB %d</item>
+        <item quantity="one">PLURAL_ONE_ST_OPT_PD_MINUTES_ABB %d</item>
+        <item quantity="two">PLURAL_TWO_ST_OPT_PD_MINUTES_ABB %d</item>
+        <item quantity="few">PLURAL_FEW_ST_OPT_PD_MINUTES_ABB %d</item>
+        <item quantity="many">PLURAL_MANY_ST_OPT_PD_MINUTES_ABB %d</item>
+        <item quantity="other">PLURAL_OTHER_ST_OPT_PD_MINUTES_ABB %d</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">PLURAL_ZERO_SSWITCH_BODY_PD_MINUTES_LEFT %d</item>
+        <item quantity="one">PLURAL_ONE_SSWITCH_BODY_PD_MINUTES_LEFT %d</item>
+        <item quantity="two">PLURAL_TWO_SSWITCH_BODY_PD_MINUTES_LEFT %d</item>
+        <item quantity="few">PLURAL_FEW_SSWITCH_BODY_PD_MINUTES_LEFT %d</item>
+        <item quantity="many">PLURAL_MANY_SSWITCH_BODY_PD_MINUTES_LEFT %d</item>
+        <item quantity="other">PLURAL_OTHER_SSWITCH_BODY_PD_MINUTES_LEFT %d</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_TMBODY_PD_PHOTOS_AND_1_VIDEO_SYNCED %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_TMBODY_PD_PHOTOS_AND_1_VIDEO_SYNCED %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_TMBODY_PD_PHOTOS_AND_1_VIDEO_SYNCED %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_TMBODY_PD_PHOTOS_AND_1_VIDEO_SYNCED %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_TMBODY_PD_PHOTOS_AND_1_VIDEO_SYNCED %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_TMBODY_PD_PHOTOS_AND_1_VIDEO_SYNCED %d</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_TMBODY_PD_PHOTOS_SYNCED %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_TMBODY_PD_PHOTOS_SYNCED %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_TMBODY_PD_PHOTOS_SYNCED %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_TMBODY_PD_PHOTOS_SYNCED %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_TMBODY_PD_PHOTOS_SYNCED %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_TMBODY_PD_PHOTOS_SYNCED %d</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_PD_PICTURES_AND_VIDEOS %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_PD_PICTURES_AND_VIDEOS %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_PD_PICTURES_AND_VIDEOS %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_PD_PICTURES_AND_VIDEOS %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_PD_PICTURES_AND_VIDEOS %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_PD_PICTURES_AND_VIDEOS %d</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">PLURAL_ZERO_ES_HEADER_PD_SELECTED %d</item>
+        <item quantity="one">PLURAL_ONE_ES_HEADER_PD_SELECTED %d</item>
+        <item quantity="two">PLURAL_TWO_ES_HEADER_PD_SELECTED %d</item>
+        <item quantity="few">PLURAL_FEW_ES_HEADER_PD_SELECTED %d</item>
+        <item quantity="many">PLURAL_MANY_ES_HEADER_PD_SELECTED %d</item>
+        <item quantity="other">PLURAL_OTHER_ES_HEADER_PD_SELECTED %d</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">PLURAL_ZERO_GALLERY_TPOP_PD_VIDEOS_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="one">PLURAL_ONE_GALLERY_TPOP_PD_VIDEOS_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="two">PLURAL_TWO_GALLERY_TPOP_PD_VIDEOS_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="few">PLURAL_FEW_GALLERY_TPOP_PD_VIDEOS_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="many">PLURAL_MANY_GALLERY_TPOP_PD_VIDEOS_DOWNLOADED_FROM_THE_CLOUD %d</item>
+        <item quantity="other">PLURAL_OTHER_GALLERY_TPOP_PD_VIDEOS_DOWNLOADED_FROM_THE_CLOUD %d</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_TMBODY_PD_VIDEOS_SYNCED %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_TMBODY_PD_VIDEOS_SYNCED %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_TMBODY_PD_VIDEOS_SYNCED %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_TMBODY_PD_VIDEOS_SYNCED %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_TMBODY_PD_VIDEOS_SYNCED %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_TMBODY_PD_VIDEOS_SYNCED %d</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_BATTERY_LOW_CHARGE_TO_AT_LEAST_PDP_TO_BACK_UP_YOUR_PHONE %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_BATTERY_LOW_CHARGE_TO_AT_LEAST_PDP_TO_BACK_UP_YOUR_PHONE %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_BATTERY_LOW_CHARGE_TO_AT_LEAST_PDP_TO_BACK_UP_YOUR_PHONE %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_BATTERY_LOW_CHARGE_TO_AT_LEAST_PDP_TO_BACK_UP_YOUR_PHONE %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_BATTERY_LOW_CHARGE_TO_AT_LEAST_PDP_TO_BACK_UP_YOUR_PHONE %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_BATTERY_LOW_CHARGE_TO_AT_LEAST_PDP_TO_BACK_UP_YOUR_PHONE %d</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_YOUR_TEMPORARY_BACKUP_EXPIRES_IN_PD_DAYS_RESTORE_IT_SOON_OR_POSTPONE_THE_EXPIRY_DATE_IF_YOU_NEED_MORE_TIME %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_YOUR_TEMPORARY_BACKUP_EXPIRES_IN_PD_DAYS_RESTORE_IT_SOON_OR_POSTPONE_THE_EXPIRY_DATE_IF_YOU_NEED_MORE_TIME %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_YOUR_TEMPORARY_BACKUP_EXPIRES_IN_PD_DAYS_RESTORE_IT_SOON_OR_POSTPONE_THE_EXPIRY_DATE_IF_YOU_NEED_MORE_TIME %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_YOUR_TEMPORARY_BACKUP_EXPIRES_IN_PD_DAYS_RESTORE_IT_SOON_OR_POSTPONE_THE_EXPIRY_DATE_IF_YOU_NEED_MORE_TIME %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_YOUR_TEMPORARY_BACKUP_EXPIRES_IN_PD_DAYS_RESTORE_IT_SOON_OR_POSTPONE_THE_EXPIRY_DATE_IF_YOU_NEED_MORE_TIME %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_YOUR_TEMPORARY_BACKUP_EXPIRES_IN_PD_DAYS_RESTORE_IT_SOON_OR_POSTPONE_THE_EXPIRY_DATE_IF_YOU_NEED_MORE_TIME %d</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BUTTON_POSTPONE_PD_DAYS_30 %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BUTTON_POSTPONE_PD_DAYS_30 %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BUTTON_POSTPONE_PD_DAYS_30 %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BUTTON_POSTPONE_PD_DAYS_30 %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BUTTON_POSTPONE_PD_DAYS_30 %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BUTTON_POSTPONE_PD_DAYS_30 %d</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_PD_AVATARS %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_PD_AVATARS %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_PD_AVATARS %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_PD_AVATARS %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_PD_AVATARS %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_PD_AVATARS %d</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_PD_AVATARS_AND_1_CUSTOM_DESIGNED_ITEM %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_PD_AVATARS_AND_1_CUSTOM_DESIGNED_ITEM %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_PD_AVATARS_AND_1_CUSTOM_DESIGNED_ITEM %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_PD_AVATARS_AND_1_CUSTOM_DESIGNED_ITEM %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_PD_AVATARS_AND_1_CUSTOM_DESIGNED_ITEM %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_PD_AVATARS_AND_1_CUSTOM_DESIGNED_ITEM %d</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_OPT_PD_CUSTOM_DESIGNED_ITEMS %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_OPT_PD_CUSTOM_DESIGNED_ITEMS %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_OPT_PD_CUSTOM_DESIGNED_ITEMS %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_OPT_PD_CUSTOM_DESIGNED_ITEMS %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_OPT_PD_CUSTOM_DESIGNED_ITEMS %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_OPT_PD_CUSTOM_DESIGNED_ITEMS %d</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_STATUS_PD_ITEMS_LEFT %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_STATUS_PD_ITEMS_LEFT %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_STATUS_PD_ITEMS_LEFT %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_STATUS_PD_ITEMS_LEFT %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_STATUS_PD_ITEMS_LEFT %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_STATUS_PD_ITEMS_LEFT %d</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_SBODY_PD_PAIRED_SAMSUNG_DEVICES %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_SBODY_PD_PAIRED_SAMSUNG_DEVICES %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_SBODY_PD_PAIRED_SAMSUNG_DEVICES %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_SBODY_PD_PAIRED_SAMSUNG_DEVICES %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_SBODY_PD_PAIRED_SAMSUNG_DEVICES %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_SBODY_PD_PAIRED_SAMSUNG_DEVICES %d</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_SBODY_PD_REMINDERS %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_SBODY_PD_REMINDERS %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_SBODY_PD_REMINDERS %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_SBODY_PD_REMINDERS %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_SBODY_PD_REMINDERS %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_SBODY_PD_REMINDERS %d</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_YOUR_SUBSCRIPTION_ENDED_ON_P1SS_YOUR_DATA_WILL_BE_DELETED_IN_P2SD_DAYS_REACTIVATE_YOUR_SUBSCRIPTION_TO_KEEP_YOUR_DATA %1$s %2$d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_YOUR_SUBSCRIPTION_ENDED_ON_P1SS_YOUR_DATA_WILL_BE_DELETED_IN_P2SD_DAYS_REACTIVATE_YOUR_SUBSCRIPTION_TO_KEEP_YOUR_DATA %1$s %2$d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_YOUR_SUBSCRIPTION_ENDED_ON_P1SS_YOUR_DATA_WILL_BE_DELETED_IN_P2SD_DAYS_REACTIVATE_YOUR_SUBSCRIPTION_TO_KEEP_YOUR_DATA %1$s %2$d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_YOUR_SUBSCRIPTION_ENDED_ON_P1SS_YOUR_DATA_WILL_BE_DELETED_IN_P2SD_DAYS_REACTIVATE_YOUR_SUBSCRIPTION_TO_KEEP_YOUR_DATA %1$s %2$d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_YOUR_SUBSCRIPTION_ENDED_ON_P1SS_YOUR_DATA_WILL_BE_DELETED_IN_P2SD_DAYS_REACTIVATE_YOUR_SUBSCRIPTION_TO_KEEP_YOUR_DATA %1$s %2$d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_YOUR_SUBSCRIPTION_ENDED_ON_P1SS_YOUR_DATA_WILL_BE_DELETED_IN_P2SD_DAYS_REACTIVATE_YOUR_SUBSCRIPTION_TO_KEEP_YOUR_DATA %1$s %2$d</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_BATTERY_LOW_CHARGE_TO_AT_LEAST_PDP_TO_BACK_UP_YOUR_TABLET %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_BATTERY_LOW_CHARGE_TO_AT_LEAST_PDP_TO_BACK_UP_YOUR_TABLET %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_BATTERY_LOW_CHARGE_TO_AT_LEAST_PDP_TO_BACK_UP_YOUR_TABLET %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_BATTERY_LOW_CHARGE_TO_AT_LEAST_PDP_TO_BACK_UP_YOUR_TABLET %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_BATTERY_LOW_CHARGE_TO_AT_LEAST_PDP_TO_BACK_UP_YOUR_TABLET %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_BATTERY_LOW_CHARGE_TO_AT_LEAST_PDP_TO_BACK_UP_YOUR_TABLET %d</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_BACK_UP_UNLIMITED_DATA_TO_P1SS_FOR_UP_TO_P2SD_DAYS_OR_RESTORE_DATA_YOUVE_BACKED_UP %1$s %2$d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_BACK_UP_UNLIMITED_DATA_TO_P1SS_FOR_UP_TO_P2SD_DAYS_OR_RESTORE_DATA_YOUVE_BACKED_UP %1$s %2$d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_BACK_UP_UNLIMITED_DATA_TO_P1SS_FOR_UP_TO_P2SD_DAYS_OR_RESTORE_DATA_YOUVE_BACKED_UP %1$s %2$d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_BACK_UP_UNLIMITED_DATA_TO_P1SS_FOR_UP_TO_P2SD_DAYS_OR_RESTORE_DATA_YOUVE_BACKED_UP %1$s %2$d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_BACK_UP_UNLIMITED_DATA_TO_P1SS_FOR_UP_TO_P2SD_DAYS_OR_RESTORE_DATA_YOUVE_BACKED_UP %1$s %2$d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_BACK_UP_UNLIMITED_DATA_TO_P1SS_FOR_UP_TO_P2SD_DAYS_OR_RESTORE_DATA_YOUVE_BACKED_UP %1$s %2$d</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_THIS_BACKUP_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_THIS_BACKUP_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_THIS_BACKUP_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_THIS_BACKUP_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_THIS_BACKUP_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_THIS_BACKUP_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_NPBODY_TRY_AGAIN_IN_PD_HOURS %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_NPBODY_TRY_AGAIN_IN_PD_HOURS %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_NPBODY_TRY_AGAIN_IN_PD_HOURS %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_NPBODY_TRY_AGAIN_IN_PD_HOURS %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_NPBODY_TRY_AGAIN_IN_PD_HOURS %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_NPBODY_TRY_AGAIN_IN_PD_HOURS %d</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_NPBODY_TRY_AGAIN_IN_PD_HOURS_1_MINUTE %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_NPBODY_TRY_AGAIN_IN_PD_HOURS_1_MINUTE %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_NPBODY_TRY_AGAIN_IN_PD_HOURS_1_MINUTE %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_NPBODY_TRY_AGAIN_IN_PD_HOURS_1_MINUTE %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_NPBODY_TRY_AGAIN_IN_PD_HOURS_1_MINUTE %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_NPBODY_TRY_AGAIN_IN_PD_HOURS_1_MINUTE %d</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_NPBODY_TRY_AGAIN_IN_PD_MINUTES %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_NPBODY_TRY_AGAIN_IN_PD_MINUTES %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_NPBODY_TRY_AGAIN_IN_PD_MINUTES %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_NPBODY_TRY_AGAIN_IN_PD_MINUTES %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_NPBODY_TRY_AGAIN_IN_PD_MINUTES %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_NPBODY_TRY_AGAIN_IN_PD_MINUTES %d</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_NPBODY_TRY_AGAIN_IN_1_HOUR_PD_MINUTES %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_NPBODY_TRY_AGAIN_IN_1_HOUR_PD_MINUTES %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_NPBODY_TRY_AGAIN_IN_1_HOUR_PD_MINUTES %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_NPBODY_TRY_AGAIN_IN_1_HOUR_PD_MINUTES %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_NPBODY_TRY_AGAIN_IN_1_HOUR_PD_MINUTES %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_NPBODY_TRY_AGAIN_IN_1_HOUR_PD_MINUTES %d</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_YOUR_BACKUP_IS_SAFE_ON_P1SS_YOU_HAVE_P2SD_DAYS_TO_RESTORE_IT %1$s %2$d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_YOUR_BACKUP_IS_SAFE_ON_P1SS_YOU_HAVE_P2SD_DAYS_TO_RESTORE_IT %1$s %2$d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_YOUR_BACKUP_IS_SAFE_ON_P1SS_YOU_HAVE_P2SD_DAYS_TO_RESTORE_IT %1$s %2$d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_YOUR_BACKUP_IS_SAFE_ON_P1SS_YOU_HAVE_P2SD_DAYS_TO_RESTORE_IT %1$s %2$d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_YOUR_BACKUP_IS_SAFE_ON_P1SS_YOU_HAVE_P2SD_DAYS_TO_RESTORE_IT %1$s %2$d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_YOUR_BACKUP_IS_SAFE_ON_P1SS_YOU_HAVE_P2SD_DAYS_TO_RESTORE_IT %1$s %2$d</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_YOUR_TEMPORARY_BACKUP_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_YOUR_TEMPORARY_BACKUP_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_YOUR_TEMPORARY_BACKUP_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_YOUR_TEMPORARY_BACKUP_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_YOUR_TEMPORARY_BACKUP_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_YOUR_TEMPORARY_BACKUP_WILL_BE_DELETED_IN_PD_DAYS %d</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_YOUR_DATA_WASNT_RESTORED_TO_YOUR_PHONE_YOU_HAVE_PD_DAYS_LEFT_TO_RESTORE_IT %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_YOUR_DATA_WASNT_RESTORED_TO_YOUR_PHONE_YOU_HAVE_PD_DAYS_LEFT_TO_RESTORE_IT %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_YOUR_DATA_WASNT_RESTORED_TO_YOUR_PHONE_YOU_HAVE_PD_DAYS_LEFT_TO_RESTORE_IT %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_YOUR_DATA_WASNT_RESTORED_TO_YOUR_PHONE_YOU_HAVE_PD_DAYS_LEFT_TO_RESTORE_IT %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_YOUR_DATA_WASNT_RESTORED_TO_YOUR_PHONE_YOU_HAVE_PD_DAYS_LEFT_TO_RESTORE_IT %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_YOUR_DATA_WASNT_RESTORED_TO_YOUR_PHONE_YOU_HAVE_PD_DAYS_LEFT_TO_RESTORE_IT %d</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">PLURAL_ZERO_CLOUD_BODY_YOUR_DATA_WASNT_RESTORED_TO_YOUR_TABLET_YOU_HAVE_PD_DAYS_LEFT_TO_RESTORE_IT %d</item>
+        <item quantity="one">PLURAL_ONE_CLOUD_BODY_YOUR_DATA_WASNT_RESTORED_TO_YOUR_TABLET_YOU_HAVE_PD_DAYS_LEFT_TO_RESTORE_IT %d</item>
+        <item quantity="two">PLURAL_TWO_CLOUD_BODY_YOUR_DATA_WASNT_RESTORED_TO_YOUR_TABLET_YOU_HAVE_PD_DAYS_LEFT_TO_RESTORE_IT %d</item>
+        <item quantity="few">PLURAL_FEW_CLOUD_BODY_YOUR_DATA_WASNT_RESTORED_TO_YOUR_TABLET_YOU_HAVE_PD_DAYS_LEFT_TO_RESTORE_IT %d</item>
+        <item quantity="many">PLURAL_MANY_CLOUD_BODY_YOUR_DATA_WASNT_RESTORED_TO_YOUR_TABLET_YOU_HAVE_PD_DAYS_LEFT_TO_RESTORE_IT %d</item>
+        <item quantity="other">PLURAL_OTHER_CLOUD_BODY_YOUR_DATA_WASNT_RESTORED_TO_YOUR_TABLET_YOU_HAVE_PD_DAYS_LEFT_TO_RESTORE_IT %d</item>
+    </plurals>
+</resources>

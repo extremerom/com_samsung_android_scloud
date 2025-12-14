@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Telefon anda sedang mengecas.</item>
+        <item>Telefon anda disambungkan ke rangkaian Wi-Fi.</item>
+        <item>Skrin dimatikan.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tablet anda sedang dicas.</item>
+        <item>Tablet anda disambungkan ke rangkaian Wi-Fi.</item>
+        <item>Skrin dimatikan.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Data yang boleh disandarkan mungkin berbeza berdasarkan telefon atau sistem pengendalian anda.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Data yang boleh anda sandarkan mungkin berbeza berdasarkan tablet atau sistem pengendalian anda.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kenalan: kenalan daripada akaun diselaraskan</item>
+        <item>Kalendar: peristiwa dan tugasan daripada akaun diselaraskan</item>
+        <item>Galaxy Themes: tema dan hiasan latar lalai</item>
+        <item>Aplikasi: fail dan data pemasangan tidak serasi yang bukan daripada Samsung apps</item>
+        <item>Pelipat Selamat: aplikasi dan data</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kenalan: kenalan daripada akaun diselaraskan</item>
+        <item>Kalendar: peristiwa dan tugasan daripada akaun diselaraskan</item>
+        <item>Galaxy Themes: tema dan hiasan latar lalai</item>
+        <item>Aplikasi: fail pemasangan yang tidak disokong</item>
+        <item>Pelipat Selamat: aplikasi dan data</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: sejarah panggilan dan mesej</item>
+        <item>Mesej: mesej dipertingkatkan, mesej multimedia dan mesej teks</item>
+        <item>Kenalan: kenalan, alamat e-mel dan kad perniagaan disimpan pada peranti anda</item>
+        <item>Kalendar: peristiwa dan tugasan disimpan pada peranti anda</item>
+        <item>Jam: penggera, jam dunia dan pemasa</item>
+        <item>Aturan: aturan pencapaian, nada dering, pilihan Papan Kekunci Samsung, aturan Wi-Fi, peranti Bluetooth berpasangan aturan pengecaman muka, aturan cap jari, dan aturan Always On Display (nada dering lalai anda tidak akan disandarkan)</item>
+        <item>Skrin utama: reka letak, hiasan latar dan aturan Samsung DeX</item>
+        <item>Aplikasi: fail pemasangan dan aturan aplikasi</item>
+        <item>Perakam Suara: rakaman</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Muzik: MP3, FLAC, WAV, M4A, OGG dan fail muzik lain</item>
+        <item>Dokumen: PDF, Word, Excel, PowerPoint dan dokumen lain</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: sejarah sembang</item>
+        <item>%s: nota dikunci</item>
+        <item>%s: data dilindungi kata laluan</item>
+        <item>%s: aplikasi dan data aplikasi</item>
+        <item>%s: Peristiwa daripada akaun diselaraskan</item>
+        <item>Stor Kekunci Blok Rantai Samsung</item>
+        <item>Kekunci peribadi dan frasa pemulihan</item>
+        <item>Data yang tidak dapat dipindahkan kerana dasar aplikasi</item>
+        <item>Aplikasi yang tidak dapat dipindahkan kerana isu keselamatan atau keserasian: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Kenalan baca sahaja</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Hiasan latar lalai</item>
+        <item>Hiasan latar Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Mesej amaran kecemasan</item>
+        <item>Draf dan mesej gagal</item>
+        <item>Mesej dengan kesan iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Kandungan dikunci</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: sejarah panggilan dan mesej</item>
+        <item>Mesej: mesej dipertingkatkan, mesej multimedia dan mesej teks</item>
+        <item>Jam: penggera, jam dunia dan pemasa</item>
+        <item>Aturan: aturan pencapaian, nada dering, pilihan Papan Kekunci Samsung, aturan Wi-Fi, peranti Bluetooth berpasangan dan aturan Always On Display (nada dering lalai tidak disulitkan)</item>
+        <item>Aplikasi: aturan aplikasi</item>
+        <item>Skrin utama: reka letak, hiasan latar dan aturan Samsung DeX</item>
+        <item>Perakam Suara: rakaman</item>
+    </string-array>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/bnr_backup_layout_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.scloud.app.common.custom.LoadingView android:id="@id/loading" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" />
+    <RelativeLayout android:orientation="vertical" android:id="@id/screen" android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/settings_item" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_above="@id/backup_button_layout" android:layout_alignParentTop="true">
+            <com.samsung.android.scloud.app.core.component.RoundCorneredScrollView android:id="@id/setting_items_container" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true" android:overScrollMode="always">
+                <LinearLayout android:orientation="vertical" android:id="@id/setting_items_detail_and_group" android:tag="binding_1" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="vertical" android:id="@id/tip_card_container" android:tag="binding_2" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <include android:id="@id/tip_card_layout" android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/tip_card_layout" />
+                        <View android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="@dimen/margin_20dp" />
+                    </LinearLayout>
+                    <include android:id="@id/setting_items_detail" layout="@layout/bnr_description_view" />
+                    <RelativeLayout android:id="@id/premium_backup_title_container" android:tag="binding_3" android:background="@color/window_background_color" android:paddingLeft="@dimen/view_start_and_end_margin" android:paddingRight="@dimen/view_start_and_end_margin" android:paddingBottom="@dimen/margin_6dp" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <TextView android:textAppearance="@style/BnrTextTitle" android:id="@id/premium_backup_title" android:tag="binding_4" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/premium" android:layout_alignParentTop="true" android:textAlignment="viewStart" />
+                    </RelativeLayout>
+                    <com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout android:orientation="vertical" android:id="@id/premium_item_group_layout" android:tag="binding_5" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                    <LinearLayout android:id="@id/premium_description_container" android:tag="binding_6" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginVertical="@dimen/margin_16dp">
+                        <include android:id="@id/premium_description_view" layout="@layout/bnr_description_view" />
+                    </LinearLayout>
+                    <RelativeLayout android:id="@id/basic_backup_title_container" android:tag="binding_7" android:background="@color/window_background_color" android:paddingLeft="@dimen/view_start_and_end_margin" android:paddingTop="@dimen/margin_12dp" android:paddingRight="@dimen/view_start_and_end_margin" android:paddingBottom="@dimen/margin_6dp" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <TextView android:textAppearance="@style/BnrTextTitle" android:id="@id/basic_backup_title" android:tag="binding_8" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/basic" android:layout_alignParentTop="true" android:textAlignment="viewStart" />
+                    </RelativeLayout>
+                    <com.samsung.android.scloud.bnr.ui.common.customwidget.roundcornerlayout.BNRRoundCornerLinearLayout android:orientation="vertical" android:id="@id/setting_items_group_layout" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                    <com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_20dp">
+                        <RelativeLayout android:gravity="center_vertical" android:id="@id/autobackup_while_roaming_layout" android:background="?android:listChoiceBackgroundIndicator" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.samsung.android.scloud.app.common.custom.VerticalGravityChangingLayout android:id="@id/two_line_list_switch_container" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignBottom="@id/two_line_list_text_area" android:layout_alignParentTop="true" android:layout_marginEnd="@dimen/margin_18dp" android:layout_alignParentEnd="true">
+                                <androidx.appcompat.widget.SwitchCompat android:id="@id/two_line_list_switch" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:importantForAccessibility="no" android:layout_marginStart="@dimen/two_line_list_switch_margin_start" android:layout_alignParentEnd="true" />
+                            </com.samsung.android.scloud.app.common.custom.VerticalGravityChangingLayout>
+                            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/two_line_list_text_area" android:paddingTop="@dimen/margin_16dp" android:paddingBottom="@dimen/margin_17dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/margin_23dp" android:layout_centerVertical="true" android:layout_marginStart="@dimen/margin_18dp" android:layout_marginEnd="@dimen/margin_16dp" android:layout_toStartOf="@id/two_line_list_switch_container" style="@style/RecoilEffect">
+                                <TextView android:textAppearance="@style/TextListTitle" android:id="@id/two_line_list_title_textview" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/auto_back_up_while_roaming" />
+                            </LinearLayout>
+                        </RelativeLayout>
+                    </com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout>
+                </LinearLayout>
+            </com.samsung.android.scloud.app.core.component.RoundCorneredScrollView>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/backup_button_layout" android:tag="binding_9" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <include android:id="@id/backup_button" android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/single_button_layout" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package samsung.scsp.media.attribute;
+
+option java_multiple_files = true;
+
+enum MediaStatus {
+  
+  MEDIA_STATUS_UNSPECIFIED = 0;
+  CREATED = 1;
+  UPDATED = 2;
+  TRASHED = 3;
+  PURGED = 4;
+}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>تېلېفونىڭىز توكلىنىۋاتىدۇ.</item>
+        <item>تېلېفونىڭىز Wi-Fi تورىغا ئۇلاق.</item>
+        <item>ئېكران ئېتىك.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>تاختا كومپيۇتېرىڭىز توكلىنىۋاتىدۇ.</item>
+        <item>تاختا كومپيۇتېرىڭىز Wi-Fi تورىغا ئۇلاق.</item>
+        <item>ئېكران ئېتىك.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>تېلېفون ياكى مەشغۇلات سىستېمىسىغا قاراپ، زاپاسلىغىلى بولىدىغان ھۆججەتلەر ئوخشىماسلىقى مۇمكىن.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>تابلېتىڭىز ياكى مەشغۇلات سىستېمىسىغا ئاساسەن، سىز زاپاسلىيالايدىغان بەرمىلەر ئوخشىماسلىقى مۇمكىن.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>联系人：来自已同步帐户的联系人</item>
+        <item>日历：来自已同步帐户的事件和任务</item>
+        <item>主题商店：主题和默认壁纸</item>
+        <item>应用程序：来自非三星应用程序的不兼容安装文件和数据</item>
+        <item>安全文件夹：应用程序和数据</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>تېلېفون: چاقىرىق ۋە ئۇچۇر تارىخى</item>
+        <item>ئۇچۇر: كۈچەيتمە ئۇچۇر، رەڭلىك ئۇچۇر ۋە قىسقا ئۇچۇر</item>
+        <item>ئالاقىداش: ئۈسكۈنىڭىزدە ساقلانغان ئالاقىداش، تورخەت ئادرېسلىرى ۋە ئىسىم كارتىلىرى</item>
+        <item>كالېندار: ئۈسكۈنىڭىزدە ساقلانغان ئىش ۋە ۋەزىپە</item>
+        <item>سائەت: ئەسكەرتمە، دۇنيا سائىتى ۋە ۋاقىتچى</item>
+        <item>设置：辅助功能设置、铃声、三星键盘选项、Wi-Fi 设置、已配对的蓝牙设备、面部识别设置、指纹设置和息屏提醒设置 (不会备份您的默认铃声)</item>
+        <item>主屏幕：布局、壁纸和 Samsung DeX 设置</item>
+        <item>ئەپ: قاچىلاش ھۆججىتى ۋە ئەپ تەڭشەكلىرى</item>
+        <item>ئۈنئالغۇ: خاتىرە</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: سۆھبەت تارىخى</item>
+        <item>‏%s: قۇلۇپلاق خاتىرە</item>
+        <item>%s: پاروللۇق قوغدالغان ئۇچۇر</item>
+        <item>%s: ئەپ ۋە ئەپ ئۇچۇرى</item>
+        <item>%s: ماسقەدەملەنگەن ھېسابتىكى ئىش</item>
+        <item>三星区块链密钥库</item>
+        <item>私人密钥和恢复短语</item>
+        <item>ئەپنىڭ سىياسەتلىرى سەۋەبىدىن ئاقتۇرۇلالمايدىغان بەرمىلەر</item>
+        <item>بىخەتەرلىك ياكى ماسلىق مەسىلىسى سەۋەبلىك يوللانمايدىغان ئەپلەر: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>只读联系人</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>سۈكۈتتىكى تام قەغەز</item>
+        <item>Galaxy Themes تەگلىكى</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>جىددىي ئەسكەرتىش ئۇچۇرى</item>
+        <item>ئورىگىنال ۋە يوللانمىغان ئۇچۇر</item>
+        <item>‏iMessage ئۈنۈمى بار ئۇچۇر</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>已锁定的内容</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>تېلېفون: چاقىرىق ۋە ئۇچۇر تارىخى</item>
+        <item>ئۇچۇر: كۈچەيتمە ئۇچۇر، رەڭلىك ئۇچۇر ۋە قىسقا ئۇچۇر</item>
+        <item>سائەت: ئەسكەرتمە، دۇنيا سائىتى ۋە ۋاقىتچى</item>
+        <item>设置：辅助功能设置、铃声、三星键盘选项、Wi-Fi 设置、已配对的蓝牙设备和息屏提醒设置 (默认铃声未加密)</item>
+        <item>应用程序：应用程序设置</item>
+        <item>主屏幕：布局、壁纸和 Samsung DeX 设置</item>
+        <item>ئۈنئالغۇ: خاتىرە</item>
+    </string-array>
+</resources>

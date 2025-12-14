@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>আপনার ফোন চার্জ হচ্ছে।</item>
+        <item>আপনার ফোন একটি ওয়াই-ফাই নেটওয়ার্কের সাথে সংযুক্ত হয়েছে।</item>
+        <item>স্ক্রিন বন্ধ আছে৷</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>আপনার ট্যাবলেটটির চার্জ হচ্ছে।</item>
+        <item>আপনার ট্যাবলেট একটি ওয়াই-ফাই নেটওয়ার্কের সাথে সংযুক্ত হয়েছে।</item>
+        <item>স্ক্রিন বন্ধ আছে৷</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>আপনি যে ডাটা ব্যাকআপ করতে পারবেন তা আপনার ফোন বা অপারেটিং সিস্টেমের উপর ভিত্তি করে ভিন্ন হতে পারে৷</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>আপনি যে ডাটা ব্যাকআপ করতে পারবেন তা আপনার ট্যাবলেট বা অপারেটিং সিস্টেমের উপর ভিত্তি করে ভিন্ন হতে পারে৷</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>কন্টাক্ট: সমলয়কৃত অ্যাকাউন্ট থেকে কন্টাক্ট</item>
+        <item>ক্যালেন্ডার: সমলয়কৃত অ্যাকাউন্ট থেকে ইভেন্ট ও কাজ</item>
+        <item>Galaxy Themes: থিম ও ডিফল্ট ওয়ালপেপার</item>
+        <item>অ্যাপ: অসঙ্গতিপূর্ণ ইনস্টলেশন ফাইল ও Samsung ছাড়া অন্য অ্যাপ থেকে ডাটা</item>
+        <item>সুরক্ষিত ফোল্ডার: অ্যাপ ও ডাটা</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>কন্টাক্ট: সমলয়কৃত অ্যাকাউন্ট থেকে কন্টাক্ট</item>
+        <item>ক্যালেন্ডার: সমলয়কৃত অ্যাকাউন্ট থেকে ইভেন্ট ও কাজ</item>
+        <item>Galaxy Themes: থিম ও ডিফল্ট ওয়ালপেপার</item>
+        <item>অ্যাপ: অসমর্থিত ইনস্টলেশন ফাইল</item>
+        <item>সুরক্ষিত ফোল্ডার: অ্যাপ ও ডাটা</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ফোন: কল ও মেসেজের ইতিহাস</item>
+        <item>মেসেজ: উচ্চতর মেসেজ, মাল্টিমিডিয়া মেসেজ, ও টেক্সট মেসেজ</item>
+        <item>কন্টাক্ট: কন্টাক্ট, ইমেইল ঠিকানা, ও বিজনেস কার্ডগুলো আপনার ডিভাইসে সংরক্ষণ করা হয়েছে</item>
+        <item>ক্যালেন্ডার: আপনার ডিভাইসে ইভেন্ট ও কাজ সংরক্ষণ করা হয়েছে</item>
+        <item>ঘড়ি: অ্যালার্ম, বিশ্ব ঘড়ি, ও টাইমার</item>
+        <item>সেটিংস: অ্যাক্সেসিবিলিটি সেটিংস, রিংটোন, Samsung কীবোর্ডের অপশনসমূহ, ওয়াই-ফাই সেটিংস, পেয়ারকৃত Bluetooth ডিভাইস, মুখ শনাক্তকরণের সেটিংস, আঙুলের ছাপের সেটিংস, ও Always On Display এর সেটিংস (আপনার ডিফল্ট রিংটোন ব্যাকআপ করা হবে না)</item>
+        <item>হোম স্ক্রিন: লেআউট, ওয়ালপেপার, ও Samsung DeX সেটিংস</item>
+        <item>অ্যাপ: ইনস্টলেশন ফাইল ও অ্যাপ সেটিংস</item>
+        <item>ভয়েস রেকর্ডার: রেকর্ডিং</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>মিউজিক: MP3, FLAC, WAV, M4A, OGG, এবং অন্যান্য মিউজিক ফাইল</item>
+        <item>ডকুমেন্ট: PDF, Word, Excel, PowerPoint, এবং অন্যান্য ডকুমেন্ট</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: চ্যাটের ইতিহাস</item>
+        <item>%s: লককৃত নোট</item>
+        <item>%s: পাসওয়ার্ড দিয়ে সুরক্ষিত ডাটা</item>
+        <item>%s: অ্যাপ ও অ্যাপের ডাটা</item>
+        <item>%s: সমলয়কৃত অ্যাকাউন্টগুলো থেকে ইভেন্টসমূহ</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>প্রাইভেট কী ও পুনরুদ্ধারের বাক্যাংশ</item>
+        <item>অ্যাপের নীতিমালার কারণে যে ডাটা স্থানান্তর করা যাবে না</item>
+        <item>নিরাপত্তা বা সঙ্গতিপূর্ণতার কারণে যে অ্যাপগুলো স্থানান্তর করা যাবে না: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>রিড-অনলি কন্টাক্ট</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>ডিফল্ট ওয়ালপেপার</item>
+        <item>Galaxy Themes ওয়ালপেপার</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>জরুরি অ্যালার্ট মেসেজ</item>
+        <item>ড্রাফট ও ব্যর্থ মেসেজ</item>
+        <item>iMessage ইফেক্টসহ মেসেজসমূহ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>লককৃত কন্টেন্ট</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ফোন: কল ও মেসেজের ইতিহাস</item>
+        <item>মেসেজ: উচ্চতর মেসেজ, মাল্টিমিডিয়া মেসেজ, ও টেক্সট মেসেজ</item>
+        <item>ঘড়ি: অ্যালার্ম, বিশ্ব ঘড়ি, ও টাইমার</item>
+        <item>সেটিংস: অ্যাক্সেসিবিলিটি সেটিংস, রিংটোন, Samsung কীবোর্ডের অপশনসমূহ, ওয়াই-ফাই সেটিংস, পেয়ারকৃত Bluetooth ডিভাইস, ও Always On Display সেটিংস (ডিফল্ট রিংটোন এনক্রিপ্ট করা হয় না)</item>
+        <item>অ্যাপ: অ্যাপের সেটিংস</item>
+        <item>হোম স্ক্রিন: লেআউট, ওয়ালপেপার, ও Samsung DeX সেটিংস</item>
+        <item>ভয়েস রেকর্ডার: রেকর্ডিং</item>
+    </string-array>
+</resources>

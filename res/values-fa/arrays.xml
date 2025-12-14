@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>تلفن شما درحال شارژ شدن است.</item>
+        <item>تلفن شما به شبکه Wi-Fi متصل شد.</item>
+        <item>صفحه نمایش خاموش است.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>تبلت شما درحال شارژ شدن است.</item>
+        <item>تبلت شما به شبکه Wi-Fi متصل شد.</item>
+        <item>صفحه نمایش خاموش است.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>اطلاعاتی که می‌توانید پشتیبان بگیرید ممکن است براساس تلفن یا سیستم عامل شما متفاوت باشد.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>اطلاعاتی که می‌توانید پشتیبان بگیرید ممکن است براساس تبلت یا سیستم عامل شما متفاوت باشد.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>مخاطبین: مخاطبین حساب‌های همگام‌سازی‌شده</item>
+        <item>تقویم: رویدادها و وظایف از حساب‌های همگام‌سازی‌شده</item>
+        <item>‏Galaxy Themes: طرح‌های پس‌زمینه و تصویرزمینه پیش‌فرض</item>
+        <item>برنامه‌ها: فایل‌های نصب و اطلاعات ناسازگار از برنامه‌های غیر Samsung</item>
+        <item>پوشه امن: برنامه‌ها و اطلاعات</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>مخاطبین: مخاطبین حساب‌های همگام‌سازی‌شده</item>
+        <item>تقویم: رویدادها و وظایف از حساب‌های همگام‌سازی‌شده</item>
+        <item>‏Galaxy Themes: طرح‌های پس‌زمینه و تصویرزمینه پیش‌فرض</item>
+        <item>برنامه‌ها: فایل‌های نصب پشتیبانی‌نشده</item>
+        <item>پوشه امن: برنامه‌ها و اطلاعات</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>تلفن: تاریخچه تماس و پیام</item>
+        <item>پیام‌ها: پیام‌های پیشرفته، پیام‌های چند رسانه‌ای و پیام‌های متنی</item>
+        <item>مخاطبین: مخاطبین، آدرس‌های ایمیل و کارت‌های ویزیت ذخیره شده در دستگاه شما</item>
+        <item>تقویم: رویدادها و کارهای ذخیره شده در دستگاه شما</item>
+        <item>ساعت: هشدارها، ساعت جهانی و تایمرها</item>
+        <item>تنظیمات: تنظیمات قابلیت دسترسی، زنگ‌های تماس، گزینه‌های صفحه کلید Samsung، تنظیمات Wi-Fi، دستگاه‌های بلوتوث جفت‌شده، تنظیمات شناسایی چهره، تنظیمات اثر انگشت، و تنظیمات Always On Display (از زنگ تماس پیش‌فرض شما پشتیبان‌گیری نمی‌شود)</item>
+        <item>صفحه اصلی: چیدمان، تصویر زمینه و تنظیمات Samsung DeX</item>
+        <item>برنامه‌ها: تنظیمات برنامه و فایل‌های نصب</item>
+        <item>ضبط صوت: موارد ضبط شده</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>موسیقی: MP3، FLAC، WAV، M4A، OGG و سایر فایل‌های موسیقی</item>
+        <item>اسناد: PDF، Word، Excel، PowerPoint و سایر اسناد</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: تاریخچه چت</item>
+        <item>%s: یادداشت‌های قفل شده</item>
+        <item>%s: اطلاعات محافظت شده با رمزعبور</item>
+        <item>%s: برنامه‌ها و اطلاعات برنامه</item>
+        <item>%s: رویدادها از حساب‌های همگام‌سازی شده</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>کلید خصوصی و عبارت بازیابی</item>
+        <item>اطلاعاتی که انتقال آنها به دلیل سیاست‌های برنامه ممکن نیست</item>
+        <item>برنامه‌هایی که به دلایل امنیتی یا سازگارپذیری منتقل نمی‌شوند: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>مخاطبین فقط خواندنی</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>عکس پس‌زمینه پیش‌فرض</item>
+        <item>عکس‌های پس‌زمینه Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>پیام‌های هشدار اضطراری</item>
+        <item>پیش‌نویس‌ها و پیام‌های ناموفق</item>
+        <item>پیام‌ها با جلوه iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>محتوای قفل‌شده</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>تلفن: تاریخچه تماس و پیام</item>
+        <item>پیام‌ها: پیام‌های پیشرفته، پیام‌های چند رسانه‌ای و پیام‌های متنی</item>
+        <item>ساعت: هشدارها، ساعت جهانی و تایمرها</item>
+        <item>تنظیمات: تنظیمات قابلیت دسترسی، آهنگ‌های زنگ، گزینه‌های صفحه کلید Samsung، تنظیمات Wi-Fi، دستگاه‌های بلوتوث جفت‌شده و تنظیمات Always On Display (زنگ تماس پیش‌فرض رمزگذاری نشده است)</item>
+        <item>برنامه‌ها: تنظیمات برنامه</item>
+        <item>صفحه اصلی: چیدمان، تصویر زمینه و تنظیمات Samsung DeX</item>
+        <item>ضبط صوت: موارد ضبط شده</item>
+    </string-array>
+</resources>

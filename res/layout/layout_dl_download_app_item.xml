@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/layout_dl_download_app_item_0" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/download_apps_name_margin_start"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/DlCategoryItemTitle" android:gravity="start|center" android:tag="binding_1" android:paddingTop="16.5dp" android:paddingBottom="16.5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/download_apps_name_padding_left" android:paddingEnd="@dimen/download_apps_name_padding_left" />
+    <include android:id="@id/divider" android:visibility="visible" layout="@layout/list_divider" />
+</LinearLayout>

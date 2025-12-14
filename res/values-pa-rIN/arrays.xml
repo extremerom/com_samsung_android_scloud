@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>ਤੁਹਾਡਾ ਫ਼ੋਨ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੈ।</item>
+        <item>ਤੁਹਾਡੇ ਫ਼ੋਨ ਨੂੰ Wi-Fi ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ ਹੈ।</item>
+        <item>ਸਕ੍ਰੀਨ ਬੰਦ ਹੈ।</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>ਤੁਹਾਡਾ ਟੈਬਲੇਟ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੈ।</item>
+        <item>ਤੁਹਾਡੇ ਟੈਬਲੇਟ ਨੂੰ Wi-Fi ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ ਹੈ।</item>
+        <item>ਸਕ੍ਰੀਨ ਬੰਦ ਹੈ।</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>ਤੁਸੀਂ ਜਿਸ ਡੈਟਾ ਦਾ ਬੈਕ ਅਪ ਲੈ ਸਕਦੇ ਹੋ ਉਹ ਤੁਹਾਡੇ ਫ਼ੋਨ ਜਾਂ ਔਪਰੇਟਿੰਗ ਸਿਸਟਮ ਦੇ ਆਧਾਰ ਤੇ ਵੱਖ ਹੋ ਸਕਦਾ ਹੈ।</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>ਤੁਸੀਂ ਜਿਸ ਡੈਟਾ ਦਾ ਬੈਕ ਅਪ ਲੈ ਸਕਦੇ ਹੋ ਉਹ ਤੁਹਾਡੇ ਟੈਬਲੇਟ ਜਾਂ ਔਪਰੇਟਿੰਗ ਸਿਸਟਮ ਦੇ ਆਧਾਰ ਤੇ ਵੱਖ ਹੋ ਸਕਦਾ ਹੈ।</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>ਸੰਪਰਕ: ਸਿੰਕ ਕੀਤੇ ਖਾਤਿਆਂ ਤੋਂ ਸੰਪਰਕ</item>
+        <item>ਕਲੰਡਰ: ਸਿੰਕ ਕੀਤੇ ਖਾਤਿਆਂ ਤੋਂ ਇਵੈਂਟ ਅਤੇ ਕਾਰਜ</item>
+        <item>Galaxy Themes: ਥੀਮ ਅਤੇ ਡਿਫੌਲਟ ਵਾਲਪੇਪਰ</item>
+        <item>ਐਪਾਂ: ਗੈਰ-ਅਨੁਕੂਲ ਇੰਸਟਾਲ ਫ਼ਾਈਲਾਂ ਅਤੇ ਗੈਰ-ਸੈਮਸੰਗ ਐਪਾਂ ਤੋਂ ਡੈਟਾ</item>
+        <item>ਸੁਰੱਖਿਅਤ ਫੋਲਡਰ: ਐਪਾਂ ਅਤੇ ਡੈਟਾ</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>ਸੰਪਰਕ: ਸਿੰਕ ਕੀਤੇ ਖਾਤਿਆਂ ਤੋਂ ਸੰਪਰਕ</item>
+        <item>ਕਲੰਡਰ: ਸਿੰਕ ਕੀਤੇ ਖਾਤਿਆਂ ਤੋਂ ਇਵੈਂਟ ਅਤੇ ਕਾਰਜ</item>
+        <item>Galaxy Themes: ਥੀਮ ਅਤੇ ਡਿਫੌਲਟ ਵਾਲਪੇਪਰ</item>
+        <item>ਐਪਾਂ: ਅਸਮਰਥਿਤ ਇੰਸਟਾਲੇਸ਼ਨ ਫ਼ਾਈਲਾਂ</item>
+        <item>ਸੁਰੱਖਿਅਤ ਫੋਲਡਰ: ਐਪਾਂ ਅਤੇ ਡੈਟਾ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ਫ਼ੋਨ: ਕਾਲ ਅਤੇ ਸੰਦੇਸ਼ ਇਤਿਹਾਸ</item>
+        <item>ਸੰਦੇਸ਼: ਏਨਹਾਂਸਡ ਸੰਦੇਸ਼, ਮਲਟੀਮੀਡੀਆ ਸੰਦੇਸ਼, ਅਤੇ ਟੈਕਸਟ ਸੰਦੇਸ਼</item>
+        <item>ਸੰਪਰਕ: ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਸੰਪਰਕ, ਈਮੇਲ ਪਤੇ, ਅਤੇ ਬਿਜ਼ਨੈਸ ਕਾਰਡਸ</item>
+        <item>ਕਲੰਡਰ: ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਇਵੈਂਟ ਅਤੇ ਕਾਰਜ</item>
+        <item>ਘੜੀ: ਅਲਾਰਮ, ਵਿਸ਼ਵ ਘੜੀਆਂ, ਅਤੇ ਟਾਈਮਰ</item>
+        <item>ਸੈੱਟਿੰਗਾਂ: ਐਕਸੈੱਸਬਿਲਟੀ ਸੈੱਟਿੰਗਾਂ, ਰਿੰਗਟੋਨਾਂ, ਸੈਮਸੰਗ ਕੀਬੋਰਡ ਵਿਕਲਪ, Wi-Fi ਸੈੱਟਿੰਗਾਂ, ਜੋੜਾ ਬਣਾਏ ਬਲੂਟੁੱਥ ਡਿਵਾਈਸ, ਚਿਹਰਾ ਪਛਾਣ ਸੈੱਟਿੰਗਾਂ, ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈੱਟਿੰਗਾਂ ਅਤੇ Always On Display ਸੈੱਟਿੰਗਾਂ (ਤੁਹਾਡੀ ਡਿਫੌਲਟ ਰਿੰਗਟੋਨ ਦਾ ਬੈਕਅੱਪ ਨਹੀਂ ਲਿਆ ਜਾਵੇਗਾ)</item>
+        <item>ਹੋਮ ਸਕ੍ਰੀਨ: ਲੇਆਉਟ, ਵਾਲਪੇਪਰ, ਅਤੇ Samsung DeX ਸੈੱਟਿੰਗਾਂ</item>
+        <item>ਐਪਾਂ: ਇੰਸਟਾਲ ਫ਼ਾਈਲਾਂ ਅਤੇ ਐਪ ਸੈੱਟਿੰਗਾਂ</item>
+        <item>ਵੌਇਸ ਰਿਕਾਰਡਰ: ਰਿਕਾਰਡਿੰਗ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>ਸੰਗੀਤ: MP3, FLAC, WAV, M4A, OGG, ਅਤੇ ਹੋਰ ਸੰਗੀਤ ਫ਼ਾਈਲਾਂ</item>
+        <item>ਦਸਤਾਵੇਜ਼: PDF, Word, Excel, PowerPoint, ਅਤੇ ਹੋਰ ਦਸਤਾਵੇਜ਼</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: ਚੈਟ ਇਤਿਹਾਸ</item>
+        <item>%s: ਲੌਕ ਕੀਤੇ ਨੋਟ</item>
+        <item>%s: ਪਾਸਵਰਡ-ਰੱਖਿਅਤ ਡੈਟਾ</item>
+        <item>%s: ਐਪਾਂ ਅਤੇ ਐਪ ਡੈਟਾ</item>
+        <item>%s: ਸਿੰਕ ਕੀਤੇ ਖਾਤਿਆਂ ਤੋਂ ਇਵੈਂਟ</item>
+        <item>ਸੈਮਸੰਗ ਬਲੌਕਚੈਨ ਕੀਸਟੋਰ</item>
+        <item>ਨਿੱਜੀ ਕੁੰਜੀ ਅਤੇ ਰਿਕਵਰੀ ਵਾਕਾਂਸ਼</item>
+        <item>ਉਹ ਡੈਟਾ ਜੋ ਐਪ ਦੀਆਂ ਨੀਤੀਆਂ ਦੇ ਕਾਰਨ ਟ੍ਰਾਂਸਫਰ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ</item>
+        <item>ਉਹ ਐਪਾਂ ਜਿਨ੍ਹਾਂ ਨੂੰ ਸੁਰੱਖਿਆ ਜਾਂ ਅਨੁਕੂਲਤਾ ਸੰਬੰਧੀ ਸਮੱਸਿਆਵਾਂ ਕਰਕੇ ਟ੍ਰਾਂਸਫਰ ਨਹੀਂ ਕਰ ਸਕਦੇ: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>ਸਿਰਫ਼ ਪੜ੍ਹਨ ਲਈ ਸੰਪਰਕ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>ਡਿਫੌਲਟ ਵਾਲਪੇਪਰ</item>
+        <item>Galaxy Themes ਵਾਲਪੇਪਰਸ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>ਐਮਰਜੈਂਸੀ ਅਲਰਟ ਸੰਦੇਸ਼</item>
+        <item>ਡ੍ਰਾਫਟਸ ਅਤੇ ਅਸਫਲ ਸੰਦੇਸ਼</item>
+        <item>iMessage ਪ੍ਰਭਾਵ ਵਾਲਾ ਸੰਦੇਸ਼</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>ਲੌਕ ਕੀਤੀ ਸਮੱਗਰੀ</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ਫ਼ੋਨ: ਕਾਲ ਅਤੇ ਸੰਦੇਸ਼ ਇਤਿਹਾਸ</item>
+        <item>ਸੰਦੇਸ਼: ਏਨਹਾਂਸਡ ਸੰਦੇਸ਼, ਮਲਟੀਮੀਡੀਆ ਸੰਦੇਸ਼, ਅਤੇ ਟੈਕਸਟ ਸੰਦੇਸ਼</item>
+        <item>ਘੜੀ: ਅਲਾਰਮ, ਵਿਸ਼ਵ ਘੜੀਆਂ, ਅਤੇ ਟਾਈਮਰ</item>
+        <item>ਸੈੱਟਿੰਗਾਂ: ਐਕਸੈੱਸਬਿਲਟੀ ਸੈੱਟਿੰਗਾਂ, ਰਿੰਗਟੋਨਾਂ, ਸੈਮਸੰਗ ਕੀਬੋਰਡ ਵਿਕਲਪ, Wi-Fi ਸੈੱਟਿੰਗਾਂ, ਜੋੜਾ ਬਣਾਈਆਂ ਬਲੂਟੁੱਥ ਡਿਵਾਈਸਾਂ ਅਤੇ Always On Display ਸੈੱਟਿੰਗਾਂ (ਡਿਫੌਲਟ ਰਿੰਗਟੋਨ ਏਨਕ੍ਰਿਪਟ ਨਹੀਂ ਕੀਤੀ ਗਈ)</item>
+        <item>ਐਪਾਂ: ਐਪ ਸੈੱਟਿੰਗਾਂ</item>
+        <item>ਹੋਮ ਸਕ੍ਰੀਨ: ਲੇਆਉਟ, ਵਾਲਪੇਪਰ, ਅਤੇ Samsung DeX ਸੈੱਟਿੰਗਾਂ</item>
+        <item>ਵੌਇਸ ਰਿਕਾਰਡਰ: ਰਿਕਾਰਡਿੰਗ</item>
+    </string-array>
+</resources>

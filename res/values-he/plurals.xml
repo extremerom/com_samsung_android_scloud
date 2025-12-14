@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">תמונה אחת וסרטון וידאו %1$d (%2$s)</item>
+        <item quantity="two">תמונה אחת ו-%1$d סרטוני וידאו (%2$s)</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">תמונה אחת ו-%1$d סרטוני וידאו (%2$s)</item>
+        <item quantity="other">תמונה אחת ו-%1$d סרטוני וידאו (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d יישום לא הותקן</item>
+        <item quantity="two">%d יישומים לא הותקנו</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d יישומים לא הותקנו</item>
+        <item quantity="other">%d יישומים לא הותקנו</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">הודעות: התראות חירום, קבצים שהועברו, הודעות מולטימדיה גדולות מ-%d MB, טיוטות והודעות שנכשלו</item>
+        <item quantity="one">הודעות: התראות חירום, קבצים שהועברו, הודעות מולטימדיה גדולות מ-%d MB, טיוטות והודעות שנכשלו</item>
+        <item quantity="two">הודעות: התראות חירום, קבצים שהועברו, הודעות מולטימדיה גדולות מ-%d MB, טיוטות והודעות שנכשלו</item>
+        <item quantity="few">הודעות: התראות חירום, קבצים שהועברו, הודעות מולטימדיה גדולות מ-%d MB, טיוטות והודעות שנכשלו</item>
+        <item quantity="many">הודעות: התראות חירום, קבצים שהועברו, הודעות מולטימדיה גדולות מ-%d MB, טיוטות והודעות שנכשלו</item>
+        <item quantity="other">הודעות: התראות חירום, קבצים שהועברו, הודעות מולטימדיה גדולות מ-%d MB, טיוטות והודעות שנכשלו</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">מתקרב מועד פקיעת התוקף של נתוני גיבוי עבור %d מכשיר. בחר את המכשיר להלן כדי לבדוק את תאריך התפוגה.</item>
+        <item quantity="two">מתקרב מועד פקיעת התוקף של נתוני גיבוי עבור %d מכשירים. בחר מכשיר להלן כדי לבדוק את תאריך התפוגה.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">מתקרב מועד פקיעת התוקף של נתוני גיבוי עבור %d מכשירים. בחר מכשיר להלן כדי לבדוק את תאריך התפוגה.</item>
+        <item quantity="other">מתקרב מועד פקיעת התוקף של נתוני גיבוי עבור %d מכשירים. בחר מכשיר להלן כדי לבדוק את תאריך התפוגה.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">מתקרב מועד פקיעת התוקף של נתוני גיבוי עבור %d מכשיר.</item>
+        <item quantity="two">מתקרב מועד פקיעת התוקף של נתוני גיבוי עבור %d מכשירים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">מתקרב מועד פקיעת התוקף של נתוני גיבוי עבור %d מכשירים.</item>
+        <item quantity="other">מתקרב מועד פקיעת התוקף של נתוני גיבוי עבור %d מכשירים.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">לא ניתן היה לעדכן פריט גיבוי אחד (%1$d), לכן הגיבוי הקודם של הפריט הזה ישוחזר בטלפון החדש (%2$s).</item>
+        <item quantity="two">לא ניתן היה לעדכן %1$d פריטי גיבוי, לכן הגיבויים הקודמים של הפריטים האלה ישוחזרו בטלפון החדש (%2$s).</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">לא ניתן היה לעדכן %1$d פריטי גיבוי, לכן הגיבויים הקודמים של הפריטים האלה ישוחזרו בטלפון החדש (%2$s).</item>
+        <item quantity="other">לא ניתן היה לעדכן %1$d פריטי גיבוי, לכן הגיבויים הקודמים של הפריטים האלה ישוחזרו בטלפון החדש (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">לא ניתן לעדכן פריט גיבוי %1$d, ולכן הגיבוי של הפריט שנוצר ב-%2$s יאוחסן בטלפון החדש (%3$s).</item>
+        <item quantity="two">לא ניתן לעדכן %1$d פריטי גיבוי, ולכן הגיבויים של הפריטים שנוצרו ב-%2$s יאוחסנו בטלפון החדש (%3$s).</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">לא ניתן לעדכן %1$d פריטי גיבוי, ולכן הגיבויים של הפריטים שנוצרו ב-%2$s יאוחסנו בטלפון החדש (%3$s).</item>
+        <item quantity="other">לא ניתן לעדכן %1$d פריטי גיבוי, ולכן הגיבויים של הפריטים שנוצרו ב-%2$s יאוחסנו בטלפון החדש (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">לא ניתן היה לעדכן פריט גיבוי אחד (%1$d), לכן הגיבוי הקודם של הפריט הזה ישוחזר בטאבלט החדש (%2$s).</item>
+        <item quantity="two">לא ניתן היה לעדכן %1$d פריטי גיבוי, לכן הגיבויים הקודמים של הפריטים האלה ישוחזרו בטאבלט החדש (%2$s).</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">לא ניתן היה לעדכן %1$d פריטי גיבוי, לכן הגיבויים הקודמים של הפריטים האלה ישוחזרו בטאבלט החדש (%2$s).</item>
+        <item quantity="other">לא ניתן היה לעדכן %1$d פריטי גיבוי, לכן הגיבויים הקודמים של הפריטים האלה ישוחזרו בטאבלט החדש (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">לא ניתן לעדכן פריט גיבוי %1$d, ולכן הגיבוי של הפריט שנוצר ב-%2$s יאוחסן בטאבלט החדש (%3$s).</item>
+        <item quantity="two">לא ניתן לעדכן %1$d פריטי גיבוי, ולכן הגיבויים של הפריטים שנוצרו ב-%2$s יאוחסנו בטאבלט החדש (%3$s).</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">לא ניתן לעדכן %1$d פריטי גיבוי, ולכן הגיבויים של הפריטים שנוצרו ב-%2$s יאוחסנו בטאבלט החדש (%3$s).</item>
+        <item quantity="other">לא ניתן לעדכן %1$d פריטי גיבוי, ולכן הגיבויים של הפריטים שנוצרו ב-%2$s יאוחסנו בטאבלט החדש (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">הנתונים יימחקו בעוד יום אחד (%d).</item>
+        <item quantity="two">הנתונים יימחקו בעוד %d ימים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">הנתונים יימחקו בעוד %d ימים.</item>
+        <item quantity="other">הנתונים יימחקו בעוד %d ימים.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">תפוגת תוקף בעוד %d יום</item>
+        <item quantity="two">תפוגת תוקף בעוד %d ימים</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">תפוגת תוקף בעוד %d ימים</item>
+        <item quantity="other">תפוגת תוקף בעוד %d ימים</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">רוב הנתונים שלך שוחזרו אך %d יישום לא הותקן.</item>
+        <item quantity="two">רוב הנתונים שלך שוחזרו אך %d יישומים לא הותקנו.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">רוב הנתונים שלך שוחזרו אך %d יישומים לא הותקנו.</item>
+        <item quantity="other">רוב הנתונים שלך שוחזרו אך %d יישומים לא הותקנו.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">אלבום חדש %d זמין</item>
+        <item quantity="two">%d אלבומים חדשים זמנים</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d אלבומים חדשים זמנים</item>
+        <item quantity="other">%d אלבומים חדשים זמנים</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">אלבום %d נבחר</item>
+        <item quantity="two">נבחרו %d אלבומים</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">נבחרו %d אלבומים</item>
+        <item quantity="other">נבחרו %d אלבומים</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">אווטאר‬ 1 ופריט %d בעיצוב מותאם</item>
+        <item quantity="two">אווטאר‬ 1 ו-%d פריטים בעיצוב מותאם</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">אווטאר‬ 1 ו-%d פריטים בעיצוב מותאם</item>
+        <item quantity="other">אווטאר‬ 1 ו-%d פריטים בעיצוב מותאם</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">נותרו שעה אחת ודקה %d</item>
+        <item quantity="two">נותרו שעה אחת ו-%d דקות</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">נותרו שעה אחת ו-%d דקות</item>
+        <item quantity="other">נותרו שעה אחת ו-%d דקות</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">סונכרנו תמונה אחת ו-%d סרטון</item>
+        <item quantity="two">סונכרנו תמונה אחת ו-%d סרטונים</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">סונכרנו תמונה אחת ו-%d סרטונים</item>
+        <item quantity="other">סונכרנו תמונה אחת ו-%d סרטונים</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">נבחר %1$d פריט (%2$s)</item>
+        <item quantity="two">נבחרו %1$d פריטים (%2$s)</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">נבחרו %1$d פריטים (%2$s)</item>
+        <item quantity="other">נבחרו %1$d פריטים (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">תמונה %1$d וסרטון וידאו אחד (%2$s)</item>
+        <item quantity="two">%1$d תמונות וסרטון וידאו אחד (%2$s)</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%1$d תמונות וסרטון וידאו אחד (%2$s)</item>
+        <item quantity="other">%1$d תמונות וסרטון וידאו אחד (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">תמונה %1$d (%2$s)</item>
+        <item quantity="two">%1$d תמונות (%2$s)</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%1$d תמונות (%2$s)</item>
+        <item quantity="other">%1$d תמונות (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">נבחר %1$d (%2$s %3$s)</item>
+        <item quantity="two">נבחר %1$d (%2$s %3$s)</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">נבחר %1$d (%2$s %3$s)</item>
+        <item quantity="other">נבחר %1$d (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">סרטון וידאו %1$d (%2$s)</item>
+        <item quantity="two">%1$d סרטוני וידאו (%2$s)</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%1$d סרטוני וידאו (%2$s)</item>
+        <item quantity="other">%1$d סרטוני וידאו (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">קובץ %d</item>
+        <item quantity="two">%d קבצים</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d קבצים</item>
+        <item quantity="other">%d קבצים</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">נותרו שעה %d ודקה אחת</item>
+        <item quantity="two">נותרו %d שעות ודקה אחת</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">נותרו %d שעות ודקה אחת</item>
+        <item quantity="other">נותרו %d שעות ודקה אחת</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">תמונה %d הורדה מהענן.</item>
+        <item quantity="two">%d תמונות הורדו מהענן.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d תמונות הורדו מהענן.</item>
+        <item quantity="other">%d תמונות הורדו מהענן.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">פריט %d הורד מהענן.</item>
+        <item quantity="two">%d פריטים הורדו מהענן.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d פריטים הורדו מהענן.</item>
+        <item quantity="other">%d פריטים הורדו מהענן.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d דקה</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d דקות</item>
+        <item quantity="other">%d דקות</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">נותרה %d דקה</item>
+        <item quantity="two">נותרו %d דקות</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">נותרו %d דקות</item>
+        <item quantity="other">נותרו %d דקות</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">סונכרנו %d תמונות וסרטון אחד</item>
+        <item quantity="two">סונכרנו %d תמונות וסרטון אחד</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">סונכרנו %d תמונות וסרטון אחד</item>
+        <item quantity="other">סונכרנו %d תמונות וסרטון אחד</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d תמונה סונכרנה</item>
+        <item quantity="two">%d תמונות סונכרנו</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d תמונות סונכרנו</item>
+        <item quantity="other">%d תמונות סונכרנו</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">תמונה או סרטון וידאו %d</item>
+        <item quantity="two">%d תמונות וסרטוני וידאו</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d תמונות וסרטוני וידאו</item>
+        <item quantity="other">%d תמונות וסרטוני וידאו</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d נבחר/ו</item>
+        <item quantity="two">%d נבחר/ו</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d נבחר/ו</item>
+        <item quantity="other">%d נבחר/ו</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">סרטון %d הורד מהענן.</item>
+        <item quantity="two">%d סרטונים הורדו מהענן.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d סרטונים הורדו מהענן.</item>
+        <item quantity="other">%d סרטונים הורדו מהענן.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d סרטון סונכרן</item>
+        <item quantity="two">%d סרטונים סונכרנו</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d סרטונים סונכרנו</item>
+        <item quantity="other">%d סרטונים סונכרנו</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">הסוללה חלשה. טען אותה לרמה של %d%% לפחות כדי לגבות את הטלפון.</item>
+        <item quantity="two">הסוללה חלשה. טען אותה לרמה של %d%% לפחות כדי לגבות את הטלפון.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">הסוללה חלשה. טען אותה לרמה של %d%% לפחות כדי לגבות את הטלפון.</item>
+        <item quantity="other">הסוללה חלשה. טען אותה לרמה של %d%% לפחות כדי לגבות את הטלפון.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">תוקף הגיבוי הזמני שלך יפוג בעוד יום %d. שחזר אותו עכשיו או דחה את תאריך התפוגה אם אתה זקוק לזמן נוסף.</item>
+        <item quantity="two">תוקף הגיבוי הזמני שלך יפוג בעוד %d ימים. שחזר אותו בקרוב או דחה את תאריך התפוגה אם אתה זקוק לזמן נוסף.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">תוקף הגיבוי הזמני שלך יפוג בעוד %d ימים. שחזר אותו בקרוב או דחה את תאריך התפוגה אם אתה זקוק לזמן נוסף.</item>
+        <item quantity="other">תוקף הגיבוי הזמני שלך יפוג בעוד %d ימים. שחזר אותו בקרוב או דחה את תאריך התפוגה אם אתה זקוק לזמן נוסף.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">דחה ביום %d</item>
+        <item quantity="two">דחה ב-%d ימים</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">דחה ב-%d ימים</item>
+        <item quantity="other">דחה ב-%d ימים</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">אווטאר %d</item>
+        <item quantity="two">%d אווטארים</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d אווטארים</item>
+        <item quantity="other">%d אווטארים</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">אווטאר‬ %d ופריט 1 בעיצוב מותאם</item>
+        <item quantity="two">%d אווטאר‬ים ופריט 1 בעיצוב מותאם</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d אווטאר‬ים ופריט 1 בעיצוב מותאם</item>
+        <item quantity="other">%d אווטאר‬ים ופריט 1 בעיצוב מותאם</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">פריט %d בעיצוב מותאם</item>
+        <item quantity="two">%d פריטים בעיצוב מותאם</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d פריטים בעיצוב מותאם</item>
+        <item quantity="other">%d פריטים בעיצוב מותאם</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">נותר פריט %d</item>
+        <item quantity="two">נותרו %d פריטים</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">נותרו %d פריטים</item>
+        <item quantity="other">נותרו %d פריטים</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d מכשיר Samsung משויך</item>
+        <item quantity="two">%d מכשירי Samsung משויכים</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d מכשירי Samsung משויכים</item>
+        <item quantity="other">%d מכשירי Samsung משויכים</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d תזכורת</item>
+        <item quantity="two">%d תזכורות</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d תזכורות</item>
+        <item quantity="other">%d תזכורות</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">המינוי שלך הסתיים ביום %1$s. הנתונים שלך יימחקו תוך יום אחד (%2$d). כדי לשמור על הנתונים, עליך להפעיל את המינוי שלך מחדש.</item>
+        <item quantity="two">המינוי שלך הסתיים ביום %1$s. הנתונים שלך יימחקו תוך %2$d ימים. כדי לשמור על הנתונים, עליך להפעיל את המינוי שלך מחדש.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">המינוי שלך הסתיים ביום %1$s. הנתונים שלך יימחקו תוך %2$d ימים. כדי לשמור על הנתונים, עליך להפעיל את המינוי שלך מחדש.</item>
+        <item quantity="other">המינוי שלך הסתיים ביום %1$s. הנתונים שלך יימחקו תוך %2$d ימים. כדי לשמור על הנתונים, עליך להפעיל את המינוי שלך מחדש.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">הסוללה חלשה. טען אותה לרמה של %d%% לפחות כדי לגבות את הטאבלט.</item>
+        <item quantity="two">הסוללה חלשה. טען אותה לרמה של %d%% לפחות כדי לגבות את הטאבלט.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">הסוללה חלשה. טען אותה לרמה של %d%% לפחות כדי לגבות את הטאבלט.</item>
+        <item quantity="other">הסוללה חלשה. טען אותה לרמה של %d%% לפחות כדי לגבות את הטאבלט.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">גבה כמות בלתי מוגבלת של נתונים ב-%1$s לפרק זמן של עד יום אחד (%2$d) או שחזר נתונים שגיבית.</item>
+        <item quantity="two">גבה כמות בלתי מוגבלת של נתונים ב-%1$s לפרק זמן של עד %2$d ימים או שחזר נתונים שגיבית.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">גבה כמות בלתי מוגבלת של נתונים ב-%1$s לפרק זמן של עד %2$d ימים או שחזר נתונים שגיבית.</item>
+        <item quantity="other">גבה כמות בלתי מוגבלת של נתונים ב-%1$s לפרק זמן של עד %2$d ימים או שחזר נתונים שגיבית.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">הגיבוי יימחק בעוד יום אחד (%d).</item>
+        <item quantity="two">גיבוי זה יימחק בעוד %d ימים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">גיבוי זה יימחק בעוד %d ימים.</item>
+        <item quantity="other">גיבוי זה יימחק בעוד %d ימים.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">נסה שוב בעוד שעה %d</item>
+        <item quantity="two">נסה שוב בעוד %d שעות</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">נסה שוב בעוד %d שעות</item>
+        <item quantity="other">נסה שוב בעוד %d שעות</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">נסה שוב בעוד %d שעה דקה אחת</item>
+        <item quantity="two">נסה שוב בעוד %d שעות ודקה אחת</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">נסה שוב בעוד %d שעות ודקה אחת</item>
+        <item quantity="other">נסה שוב בעוד %d שעות ודקה אחת</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">נסה שוב בעוד דקה %d</item>
+        <item quantity="two">נסה שוב בעוד %d דקות</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">נסה שוב בעוד %d דקות</item>
+        <item quantity="other">נסה שוב בעוד %d דקות</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">נסה שוב בעוד שעה אחת ודקה %d</item>
+        <item quantity="two">נסה שוב בעוד שעה אחת ו-%d דקות</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">נסה שוב בעוד שעה אחת ו-%d דקות</item>
+        <item quantity="other">נסה שוב בעוד שעה אחת ו-%d דקות</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">הגיבוי שלך בטוח ב-%1$s‎. יש לך יום %2$d כדי לשחזר אותו.</item>
+        <item quantity="two">הגיבוי שלך בטוח ב-%1$s‎. יש לך %2$d ימים כדי לשחזר אותו.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">הגיבוי שלך בטוח ב-%1$s‎. יש לך %2$d ימים כדי לשחזר אותו.</item>
+        <item quantity="other">הגיבוי שלך בטוח ב-%1$s‎. יש לך %2$d ימים כדי לשחזר אותו.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">הגיבוי הזמני שלך יימחק בעוד יום %d.</item>
+        <item quantity="two">הגיבוי הזמני שלך יימחק בעוד %d ימים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">הגיבוי הזמני שלך יימחק בעוד %d ימים.</item>
+        <item quantity="other">הגיבוי הזמני שלך יימחק בעוד %d ימים.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">הנתונים לא שוחזרו לטלפון. נותר לך יום אחד (%d) כדי לשחזר אותם.</item>
+        <item quantity="two">הנתונים לא שוחזרו לטלפון. נותרו לך %d ימים כדי לשחזר אותם.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">הנתונים לא שוחזרו לטלפון. נותרו לך %d ימים כדי לשחזר אותם.</item>
+        <item quantity="other">הנתונים לא שוחזרו לטלפון. נותרו לך %d ימים כדי לשחזר אותם.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">הנתונים לא שוחזרו לטאבלט. נותר לך יום אחד (%d) כדי לשחזר אותם.</item>
+        <item quantity="two">הנתונים לא שוחזרו לטאבלט. נותרו לך %d ימים כדי לשחזר אותם.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">הנתונים לא שוחזרו לטאבלט. נותרו לך %d ימים כדי לשחזר אותם.</item>
+        <item quantity="other">הנתונים לא שוחזרו לטאבלט. נותרו לך %d ימים כדי לשחזר אותם.</item>
+    </plurals>
+</resources>

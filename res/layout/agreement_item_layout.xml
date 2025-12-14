@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/agreement_item_layout_0" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="@dimen/account_linking_agreement_screen_padding_horizontal" android:paddingEnd="@dimen/account_linking_agreement_screen_padding_horizontal"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/benefit_list" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/benefit_section_margin_bottom" />
+    <LinearLayout android:orientation="vertical" android:id="@id/notice_list" android:layout_width="match_parent" android:layout_height="wrap_content" />
+</LinearLayout>

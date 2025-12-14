@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Trwŏ folowanie telefōnu.</item>
+        <item>Pożyniōno telefōn z necem Wi-Fi.</item>
+        <item>Ekran je wyłōnczōny.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Trwŏ folowanie tabletu.</item>
+        <item>Pożyniōno tablet z necem Wi-Fi.</item>
+        <item>Ekran je wyłōnczōny.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Dane, kaj idzie zrychtować backup mogōm się rōżnić w zalyżności ôd telefōnu abo systymu ôperacyjnego.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Dane, kerych backupy idzie zrychtować, mogōm się rōżnić w zalyżności ôd tabletu abo systymu ôperacyjnygo.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontakty: kontakty ze zsynchronizowanych kont</item>
+        <item>Kalendarz: zdarzenia i zadania ze zsynchronizowanych kont</item>
+        <item>Galaxy Themes: motywy i domyślna tapeta</item>
+        <item>Aplikacje: niezgodne pliki instalacyjne i dane z aplikacji innych niż Samsung</item>
+        <item>Mój sejf: aplikacje i dane</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefōn: historyjŏ gŏdek i wiadōmości</item>
+        <item>Wiadōmości: rozszyrzōne wiadōmości, MMS i SMS</item>
+        <item>Kōntakty: kōntakty, adresy e-mail i wizytōwki zachowane na maszinie</item>
+        <item>Kalyndŏrz: przitrefiynia i zadania zachowane na maszinie</item>
+        <item>Zygŏr: alarmy, zygŏry czasu na świecie i minutniki</item>
+        <item>Ustawienia: ustawienia dostępności, dzwonki, opcje Klawiatury Samsung, ustawienia sieci Wi-Fi, sparowane urządzenia Bluetooth, ustawienia rozpoznawania twarzy, ustawienia odcisku palca i ustawienia funkcji Always On Display (kopia zapasowa domyślnego dzwonka nie zostanie utworzona)</item>
+        <item>Ekran startowy: układ, tapety i ustawienia Samsung DeX</item>
+        <item>Aplikacyje: pliki insztalacyjne i nasztalowania aplikacyje</item>
+        <item>Dyktafōn: nagrania</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: historyjŏ czatu</item>
+        <item>%s: blokniynte zapiski</item>
+        <item>%s: dane zabezpiecznōne hasłym</item>
+        <item>%s: aplikacyje i dane aplikacyje</item>
+        <item>%s: przitrefiynia ze zesynchrōnizowanych kōnt</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Prywatny klucz i fraza robiōno nazŏd</item>
+        <item>Dane, kerych niy idzie posłać skuli prawideł aplikacyjōw</item>
+        <item>Aplikacyje, kerych niy idzie posłać skuli utropōw ze zabezpieczyniami abo kōmpatybilnościōm: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Kontakty tylko do odczytu</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Tapeta dōmyślnŏ</item>
+        <item>Tapety Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Wiadōmości alarmōw awaryjnych</item>
+        <item>Robocze i niyposłane wiadōmości</item>
+        <item>Wiadōmości z efektami iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Treść blokniynto</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefōn: historyjŏ gŏdek i wiadōmości</item>
+        <item>Wiadōmości: rozszyrzōne wiadōmości, MMS i SMS</item>
+        <item>Zygŏr: alarmy, zygŏry czasu na świecie i minutniki</item>
+        <item>Ustawienia: ustawienia dostępności, dzwonki, opcje Klawiatury Samsung, ustawienia sieci Wi-Fi, sparowane urządzenia Bluetooth i ustawienia funkcji Always On Display (domyślny dzwonek nie jest zaszyfrowany)</item>
+        <item>Aplikacje: ustawienia aplikacji</item>
+        <item>Ekran startowy: układ, tapety i ustawienia Samsung DeX</item>
+        <item>Dyktafōn: nagrania</item>
+    </string-array>
+</resources>

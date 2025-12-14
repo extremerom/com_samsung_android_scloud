@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/parent" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/p_setup_wizard_main_layout_margin_top" android:layout_above="@id/setupwizard_base_bottom">
+        <androidx.constraintlayout.widget.ConstraintLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/r_setup_wizard_icon_padding_top">
+            <LinearLayout android:gravity="center" android:layout_gravity="start" android:orientation="horizontal" android:id="@id/setup_wizard_prev_button_layout" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:foreground="@drawable/bottom_bar_ripple_effect" android:onClick="onClickPreviousBottom" android:contentDescription="@string/previous" android:layout_marginStart="@dimen/margin_22dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+                <ImageView android:layout_width="@dimen/p_setup_wizard_bottom_prev_icon_size" android:layout_height="@dimen/p_setup_wizard_bottom_prev_icon_size" android:src="@drawable/flat_next_prev_button_arrow_left" />
+            </LinearLayout>
+            <ImageView android:layout_gravity="center_horizontal" android:id="@id/setup_wizard_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_ctb_intro" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <TextView android:textAppearance="@style/TextBNRSetupWizardTitle" android:id="@id/title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/p_setup_wizard_title_padding_top" android:textAlignment="center" android:layout_marginStart="@dimen/margin_22dp" android:layout_marginEnd="@dimen/margin_22dp" />
+        <LinearLayout android:orientation="vertical" android:id="@id/content_layout" android:layout_width="match_parent" android:layout_height="0.0dp" android:layout_weight="1.0" />
+    </LinearLayout>
+    <include android:id="@id/setupwizard_base_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/setupwizard_base_bottom" />
+</RelativeLayout>

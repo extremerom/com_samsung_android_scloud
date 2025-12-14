@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/o16_000000_no_theme"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white" />
+            <corners android:radius="@dimen/about_samsung_cloud_dimen_value_12dp" />
+            <stroke android:width="@dimen/about_samsung_cloud_dimen_value_1dp" android:color="@color/text_color_secondary" />
+        </shape>
+    </item>
+</ripple>

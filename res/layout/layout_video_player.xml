@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center" android:id="@id/root" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/video_container" android:layout_width="@dimen/media_height" android:layout_height="@dimen/media_height">
+        <TextureView android:layout_gravity="center" android:id="@id/texture_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/face" android:background="@color/o20_000000_no_theme" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ImageView android:id="@id/face_icon" android:layout_width="@dimen/videoplayerview_play_icon_size" android:layout_height="@dimen/videoplayerview_play_icon_size" android:src="@drawable/ic_play" android:layout_centerInParent="true" />
+    <ProgressBar android:id="@id/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+</RelativeLayout>

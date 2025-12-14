@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.media.attribute;
+
+option java_multiple_files = true;
+
+message SefAttribute {
+  optional int32 sef_file_type = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional int32 sef_file_sub_type = 2; 
+  optional string sef_file_types = 3 [(google.api.field_behavior) = REQUIRED]; 
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="about_samsung_cloud_app_title_text_size">34.0sp</dimen>
+    <dimen name="p_setup_wizard_category_item_list_padding_top">32.0dp</dimen>
+    <dimen name="p_setup_wizard_device_item_list_padding_top">64.0dp</dimen>
+    <dimen name="p_setup_wizard_loading_progress_padding_top">18.0dp</dimen>
+    <dimen name="p_setup_wizard_selected_item_size_padding_top">18.0dp</dimen>
+    <dimen name="p_setup_wizard_title_padding_top">24.0dp</dimen>
+    <dimen name="r_setup_wizard_icon_padding_top">72.0dp</dimen>
+    <dimen name="r_setup_wizard_top_icon_size">22.0dp</dimen>
+</resources>

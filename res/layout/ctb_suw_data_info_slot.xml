@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/slot_info_layout" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_10dp">
+        <View android:layout_gravity="center" android:id="@id/category_color" android:background="@drawable/loading_pp_progress_background" android:layout_width="@dimen/size_8dp" android:layout_height="@dimen/size_8dp" android:layout_marginTop="@dimen/margin_5dp" android:layout_marginStart="@dimen/margin_32dp" app:layout_constraintEnd_toStartOf="@id/slot_list" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <LinearLayout android:orientation="vertical" android:id="@id/slot_list" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginStart="@dimen/margin_10dp" android:layout_marginEnd="@dimen/margin_20dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/item_size" app:layout_constraintStart_toEndOf="@id/category_color" app:layout_constraintTop_toTopOf="parent">
+            <LinearLayout android:orientation="horizontal" android:id="@id/title_info_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+                <TextView android:textSize="13.0sp" android:textColor="@color/text_color_primary" android:id="@id/item_title" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/subtitle_info_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+                <TextView android:textSize="13.0sp" android:textColor="@color/text_color_primary" android:id="@id/item_subtitle" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+        <TextView android:textSize="13.0sp" android:textColor="@color/text_color_primary" android:id="@id/item_size" android:layout_width="@dimen/ctb_quick_setup_category_size_width" android:layout_height="wrap_content" android:textAlignment="viewEnd" android:layout_marginEnd="@dimen/margin_32dp" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/slot_list" app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

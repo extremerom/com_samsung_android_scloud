@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>તમારો ફોન ચાર્જ થઈ રહ્યો છે.</item>
+        <item>તમારો ફોન Wi-Fi નેટવર્ક સાથે જોડાયેલ છે.</item>
+        <item>સ્ક્રીન બંધ છે.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>તમારું ટેબ્લેટ ચાર્જ થઈ રહ્યું છે.</item>
+        <item>તમારું ટેબ્લેટ Wi-Fi નેટવર્ક સાથે જોડાયેલ છે.</item>
+        <item>સ્ક્રીન બંધ છે.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>તમે બેક અપ લઈ શકો તે ડેટા તમારા ફોન અને ઓપરેટિંગ સિસ્ટમને આધારે ભિન્ન હોઇ શકે છે.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>તમે બેક અપ લો તે ડેટા તમારા ટેબ્લેટ અને ઓપરેટિંગ સિસ્ટમના આધારે ભિન્ન હોઈ શકે છે.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>સંપર્કો: સિંક કરેલા એકાઉન્ટ્સમાંથી સંપર્કો</item>
+        <item>કૅલેન્ડર: સિંક કરેલા એકાઉન્ટ્સમાંથી ઇવેન્ટ્સ અને કાર્યો</item>
+        <item>Galaxy Themes: થીમ્સ અને ડિફૉલ્ટ વૉલપેપર</item>
+        <item>ઍપ્સ: બિન-સુસંગત ઇન્સ્ટૉલેશન ફાઇલો અને સૅમસંગની ન હોય તેવી ઍપ્સનો ડેટા</item>
+        <item>સુરક્ષિત ફોલ્ડર: ઍપ્સ અને ડેટા</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>સંપર્કો: સિંક કરેલા એકાઉન્ટ્સમાંથી સંપર્કો</item>
+        <item>કૅલેન્ડર: સિંક કરેલા એકાઉન્ટ્સમાંથી ઇવેન્ટ્સ અને કાર્યો</item>
+        <item>Galaxy Themes: થીમ્સ અને ડિફૉલ્ટ વૉલપેપર</item>
+        <item>ઍપ્સ: અસમર્થિત ઇન્સ્ટૉલેશન ફાઇલો</item>
+        <item>સુરક્ષિત ફોલ્ડર: ઍપ્સ અને ડેટા</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ફોન: કૉલ અને સંદેશ ઇતિહાસ</item>
+        <item>સંદેશા: વિસ્તૃત કરેલા સંદેશા, મલ્ટિમીડિયા સંદેશા અને ટેક્સ્ટ સંદેશા</item>
+        <item>સંપર્કો: તમારા ડિવાઇસ પર સંપર્કો, ઇમેલ સરનામાઓ અને વ્યવસાય કાર્ડ સચવાયેલ છે</item>
+        <item>કૅલેન્ડર: ઇવેન્ટ્સ અને ટાસ્ક્સ તમારા ડિવાઇસ પર સચવાયેલ છે</item>
+        <item>ઘડિયાળ: અલાર્મ્સ, વિશ્વ ઘડિયાળો અને ટાઇમર્સ</item>
+        <item>સેટિંગ્સ: ઍક્સેસિબિલિટી સેટિંગ્સ, રિંગટોન્સ, સૅમસંગ કીબૉર્ડ વિકલ્પો, Wi-Fi સેટિંગ્સ, જોડી કરેલ બ્લ્યુટુથ ડિવાઇસો, ચહેરાની ઓળખના સેટિંગ્સ, ફિંગરપ્રિન્ટ સેટિંગ્સ અને Always On Display સેટિંગ્સ (તમારા ડિફૉલ્ટ રિંગટોનનો બૅકઅપ લેવામાં આવશે નહીં)</item>
+        <item>હોમ સ્ક્રીન: લેઆઉટ, વૉલપેપરો અને Samsung DeX સેટિંગ્સ</item>
+        <item>ઍપ્સ: ઇન્સ્ટૉલેશન ફાઇલો અને ઍપ સેટિંગ્સ</item>
+        <item>અવાજ રેકોર્ડર: રેકોર્ડિંગ્સ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>સંગીત: MP3, FLAC, WAV, M4A, OGG અને અન્ય સંગીત ફાઇલો</item>
+        <item>દસ્તાવેજો: PDF, Word, Excel, PowerPoint અને અન્ય દસ્તાવેજો</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: ચૅટ ઇતિહાસ</item>
+        <item>%s: નોંધ લૉક કરેલી</item>
+        <item>%s: પાસવર્ડ-સંરક્ષિત ડેટા</item>
+        <item>%s: ઍપ્સ અને ઍપ ડેટા</item>
+        <item>%s: સિંક કરેલા એકાઉન્ટ્સ પરથી ઇવેન્ટ્સ</item>
+        <item>સૅમસંગ બ્લૉકચેન કીસ્ટોર</item>
+        <item>પ્રાઇવેટ કી અને પુનઃપ્રાપ્તિ શબ્દસમૂહ</item>
+        <item>ઍપની નીતિઓને કારણે ટ્રાન્સ્ફર ન કરી શકાય તેવો ડેટા</item>
+        <item>સુરક્ષા અથવા સુસંગતતાની સમસ્યાઓના કારણે ટ્રાન્સ્ફર ન થઈ શકતી ઍપ્સ: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>વાંચન-માત્ર સંપર્કો</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>ડિફૉલ્ટ વૉલપેપર</item>
+        <item>Galaxy Themes વૉલપેપરો</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>કટોકટી ચેતવણીના સંદેશા</item>
+        <item>ડ્રાફ્ટ્સ અને નિષ્ફળ સંદેશા</item>
+        <item>iMessage પ્રભાવો ધરાવતા સંદેશા</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>લૉક કરેલી સામગ્રી</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ફોન: કૉલ અને સંદેશ ઇતિહાસ</item>
+        <item>સંદેશા: વિસ્તૃત કરેલા સંદેશા, મલ્ટિમીડિયા સંદેશા અને ટેક્સ્ટ સંદેશા</item>
+        <item>ઘડિયાળ: અલાર્મ્સ, વિશ્વ ઘડિયાળો અને ટાઇમર્સ</item>
+        <item>સેટિંગ્સ: ઍક્સેસિબિલિટી સેટિંગ્સ, રિંગટોન્સ, સૅમસંગ કીબૉર્ડ વિકલ્પો, Wi-Fi સેટિંગ્સ, જોડી કરેલ બ્લ્યુટુથ ડિવાઇસો અને Always On Display સેટિંગ્સ (ડિફૉલ્ટ રિંગટોનને એન્ક્રિપ્ટ કરવામાં આવશે નહીં)</item>
+        <item>ઍપ્સ: ઍપના સેટિંગ્સ</item>
+        <item>હોમ સ્ક્રીન: લેઆઉટ, વૉલપેપરો અને Samsung DeX સેટિંગ્સ</item>
+        <item>અવાજ રેકોર્ડર: રેકોર્ડિંગ્સ</item>
+    </string-array>
+</resources>

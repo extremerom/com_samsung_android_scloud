@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Telefoningiz zaryadlanmoqda.</item>
+        <item>Telefoningiz Wi-Fi tarmoqqa ulangan.</item>
+        <item>Ekran o‘chirilgan.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Planshetingiz zaryadlanmoqda.</item>
+        <item>Planshetingiz Wi-Fi tarmoqqa ulangan.</item>
+        <item>Ekran o‘chirilgan.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Telefon yoki operatsion tizimga qarab arxivlash mumkin bo‘lgan ma’lumotlar farq qilishi mumkin.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Planshet yoki operatsion tizimga qarab arxivlash mumkin bo‘lgan ma’lumotlar farq qilishi mumkin.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontaktlar: sinxronlangan hisob qaydnomalaridagi kontaktlar</item>
+        <item>Kalendar: sinxronlangan hisob qaydnomalaridagi vazifa va topshiriqlar</item>
+        <item>Galaxy Themes: mavzular va birlamchi fon rasmi</item>
+        <item>Ilovalar: mos kelmaydigan o‘rnatish fayllari va Samsung’ga tegishli bo‘lmagan ilovalardagi ma’lumotlar</item>
+        <item>Xavfsiz jild: ilovalar va ma’lumot</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kontaktlar: sinxronlangan hisob qaydnomalaridagi kontaktlar</item>
+        <item>Kalendar: sinxronlangan hisob qaydnomalaridagi vazifa va topshiriqlar</item>
+        <item>Galaxy Themes: mavzular va birlamchi fon rasmi</item>
+        <item>Ilovalar: dastaklanamaydigan oʻrnatish fayllari</item>
+        <item>Xavfsiz jild: ilovalar va ma’lumot</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: qo‘ng‘iroq va xabarlar jurnali</item>
+        <item>Xabarlar: takomillashtirilgan xabarlar, multimedia xabarlari va matnli xabarlar</item>
+        <item>Kontaktlar: qurilmangizda saqlangan kontaktlar, e-pochta manzillari va tashrif qog‘ozlari</item>
+        <item>Kalendar: qurilmangizda saqlangan hodisa va topshiriqlar</item>
+        <item>Soat: signallar, xalqaro soat va taymerlar</item>
+        <item>Sozlamalar: maxsus imkoniyat sozlamalari, ringtonlar, Samsung klaviaturasi opsiyalari, Wi-Fi sozlamalari, bog‘langan Bluetooth qurilmalari, yuzni tanish sozlamalari, barmoq izi sozlamalari va Always On Display sozlamalari (birlamchi rington arxivlanmaydi)</item>
+        <item>Asosiy ekran: tuzilishi, fon rasmlari va Samsung DeX sozlamalari</item>
+        <item>Ilovalar: o‘rnatish fayllari va ilova parametrlari</item>
+        <item>Diktofon: yozuvlar</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Musiqa: MP3, FLAC, WAV, M4A, OGG va boshqa musiqiy fayllar</item>
+        <item>Hujjatlar: PDF, Word, Excel, PowerPoint va boshqa hujjatlar</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: chat jurnali</item>
+        <item>%s: qulflangan eslatmalar</item>
+        <item>%s: parol bilan himoyalangan ma’lumot</item>
+        <item>%s: ilova va ilova ma’lumotlari</item>
+        <item>%s: Sinxronlangan hisob qaydnomalardagi hodisalar</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Maxfiy kalit va tiklash jumlasi</item>
+        <item>Ilova siyosatiga ko‘ra uzatib bo‘lmaydigan ma’lumotlar</item>
+        <item>Xavfsizlik va moslik muammolari sababli uzatib bo‘lmaydigan ilovalar: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Faqat o‘qish uchun kontaktlar</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Birlamchi fon rasmi</item>
+        <item>Galaxy Themes fon rasmlari</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Favqulodda signal xabarlari</item>
+        <item>Qoralamar va yuborilmagan xabarlar</item>
+        <item>iMessage effektlari yordamida xabarlar</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Bloklangan tarkib</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: qo‘ng‘iroq va xabarlar jurnali</item>
+        <item>Xabarlar: takomillashtirilgan xabarlar, multimedia xabarlari va matnli xabarlar</item>
+        <item>Soat: signallar, xalqaro soat va taymerlar</item>
+        <item>Sozlamalar: maxsus imkoniyat sozlamalari, ringtonlar, Samsung klaviaturasi opsiyalari, Wi-Fi sozlamalari, bog‘langan Bluetooth qurilmalari va Always On Display sozlamalari (birlamchi rington shifrlanmaydi)</item>
+        <item>Ilovalar: ilova sozlamalari</item>
+        <item>Asosiy ekran: tuzilishi, fon rasmlari va Samsung DeX sozlamalari</item>
+        <item>Diktofon: yozuvlar</item>
+    </string-array>
+</resources>

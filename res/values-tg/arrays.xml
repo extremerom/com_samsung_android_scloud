@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Телефони шумо барқ мегирад.</item>
+        <item>Телефони шумо ба шабакаи Wi-Fi пайваст шудааст.</item>
+        <item>Экран хомӯш аст.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Планшети шумо барқ мегирад.</item>
+        <item>Планшети шумо ба шабакаи Wi-Fi пайваст шудааст.</item>
+        <item>Экран хомӯш аст.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Навъи иттилооте, ки метавонад нусхаи эҳтиётӣ гирифта шавад, аз телефон ё системаи омил вобаста мебошад.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Навъи иттилооте, ки метавонад нусхаи эҳтиётӣ гирифта шавад, аз планшет ё системаи омил вобаста мебошад.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Алоқаҳо: алоқаҳо аз ҳисобҳои ҳамоҳанг мешуда</item>
+        <item>Тақвим: рӯйдодҳо ва вазифаҳо аз ҳисобҳои ҳамоҳанг мешуда</item>
+        <item>Galaxy Themes: мавзуҳо ва тасвирҳои пешфарзи замина</item>
+        <item>Барномаҳо: файлҳои насбии номувофиқ ва иттилоот аз барномаҳои ғайри Samsung</item>
+        <item>Ҷузвдони эмин: барномаҳо ва иттилоот</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Алоқаҳо: алоқаҳо аз ҳисобҳои ҳамоҳанг мешуда</item>
+        <item>Тақвим: рӯйдодҳо ва вазифаҳо аз ҳисобҳои ҳамоҳанг мешуда</item>
+        <item>Galaxy Themes: мавзуҳо ва тасвирҳои пешфарзи замина</item>
+        <item>Барномаҳо: файлҳои насбии дастгирӣ намешуда</item>
+        <item>Ҷузвдони эмин: барномаҳо ва иттилоот</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Телефон: таърихи зангҳо ва паёмҳо</item>
+        <item>Паёмҳо: паёмҳои такмилёфта, паёмҳои мултимедиа ва паёмҳои матнӣ</item>
+        <item>Алоқаҳо: алоқаҳо, суроғаҳои почта ва кортҳои тиҷории дар дастгоҳатон захирашуда</item>
+        <item>Тақвим: рӯйдодҳо ва вазифаҳои дар дастгоҳатон захирашадуа</item>
+        <item>Соат: бедоркунакҳо, вақти ҷаҳонӣ ва таймерҳо</item>
+        <item>Танзимот: танзимоти осонии истифода, оҳангҳои занг, имконоти Клавиатураи Samsung, танзимоти Wi-Fi, дастгоҳҳои ҷуфтшудаи Bluetooth, танзимоти шинохтагирии чеҳра, танзимоти изҳои ангуштон ва танзимоти Always On Display (оҳанги пешфарзи занг нусхаи эҳтиётӣ гирифта намешавад)</item>
+        <item>Экрани Асосӣ: тарҳ, тасвирҳои замина ва танзимоти Samsung DeX</item>
+        <item>Барномаҳо: файлҳои насбӣ ва танзимоти барномаҳо</item>
+        <item>Сабткунаки овоз: сабтҳо</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Мусиқӣ: MP3, FLAC, WAV, M4A, OGG, ва дигар файлҳои мусиқӣ</item>
+        <item>Ҳуҷҷҷатҳо: PDF, Word, Excel, PowerPoint ва ҳуҷҷатҳои дигар</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: таърихи чатҳо</item>
+        <item>%s: эзоҳҳои баста</item>
+        <item>%s: иттилооти бо парол муҳофизатшуда</item>
+        <item>%s: барномаҳо ва иттилооти барномаҳо</item>
+        <item>%s: Рӯйдодҳои аз ҳисобҳои ҳамоҳанг мешуда</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Калиди махфӣ ва ибораи барқарорсозӣ</item>
+        <item>Иттилооте, ки интиқол доданаш бинобар сиёсатҳои барнома ғайриимкон аст</item>
+        <item>Барномаҳое, ки бинобар мушкилиҳо бо амният ё мувофиқат интиқол дода шуда наметавонанд: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Алоқаҳои танҳо барои хониш</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Тасвири пешфарзи замина</item>
+        <item>Тасвирҳои замина аз Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Паёмҳои ҳушдори фавқулода</item>
+        <item>Сиёҳнависҳо ва пайҳои нарафта</item>
+        <item>Паёмҳо бо эффектҳои iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Муҳтавои басташуда</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Телефон: таърихи зангҳо ва паёмҳо</item>
+        <item>Паёмҳо: паёмҳои такмилёфта, паёмҳои мултимедиа ва паёмҳои матнӣ</item>
+        <item>Соат: бедоркунакҳо, вақти ҷаҳонӣ ва таймерҳо</item>
+        <item>Танзимот: танзимоти осонии истифода, оҳангҳои занг, имконоти Клавиатураи Samsung, танзимоти Wi-Fi, дастгоҳҳои ҷуфтшудаи Bluetooth ва танзимоти Always On Display (оҳанги пешфарзи занг рамзбандӣ карда намешавад)</item>
+        <item>Барномаҳо: танзимоти барномаҳо</item>
+        <item>Экрани Асосӣ: тарҳ, тасвирҳои замина ва танзимоти Samsung DeX</item>
+        <item>Сабткунаки овоз: сабтҳо</item>
+    </string-array>
+</resources>

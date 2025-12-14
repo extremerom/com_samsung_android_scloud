@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/layout_compose_activity_setting_0" android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.scloud.app.core.component.RoundCorneredScrollView android:id="@id/scroll_view" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true" android:overScrollMode="always">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <androidx.compose.ui.platform.ComposeView android:id="@id/main_container" android:layout_width="match_parent" android:layout_height="match_parent" />
+        </LinearLayout>
+    </com.samsung.android.scloud.app.core.component.RoundCorneredScrollView>
+</LinearLayout>

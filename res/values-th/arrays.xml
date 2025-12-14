@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>โทรศัพท์ของคุณกำลังชาร์จ</item>
+        <item>โทรศัพท์ของคุณเชื่อมต่อกับเครือข่าย Wi-Fi แล้ว</item>
+        <item>หน้าจอปิดอยู่</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>แท็บเล็ตของคุณกำลังชาร์จ</item>
+        <item>แท็บเล็ตของคุณเชื่อมต่อกับเครือข่าย Wi-Fi แล้ว</item>
+        <item>หน้าจอปิดอยู่</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>ข้อมูลที่คุณสามารถแบ็คอัพอาจแตกต่างกัน ขึ้นอยู่กับโทรศัพท์หรือระบบปฏิบัติการของคุณ</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>ข้อมูลที่คุณสามารถแบ็คอัพอาจแตกต่างกัน ขึ้นอยู่กับแท็บเล็ตหรือระบบปฏิบัติการของคุณ</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>รายชื่อ: รายชื่อจากบัญชีที่ซิงค์</item>
+        <item>ปฏิทิน: กิจกรรมและงานต่างๆ จากบัญชีที่ซิงค์</item>
+        <item>Galaxy Themes:ธีมและวอลเปเปอร์เริ่มต้น</item>
+        <item>แอป: ไฟล์การติดตั้งและข้อมูลที่เข้ากันไม่ได้จากแอปที่ไม่ได้เป็นของ Samsung</item>
+        <item>โฟลเดอรที่ปลอดภัย: แอปและข้อมูล</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>รายชื่อ: รายชื่อจากบัญชีที่ซิงค์</item>
+        <item>ปฏิทิน: กิจกรรมและงานต่างๆ จากบัญชีที่ซิงค์</item>
+        <item>Galaxy Themes:ธีมและวอลเปเปอร์เริ่มต้น</item>
+        <item>แอป: ไฟล์ติดตั้งที่ไม่รองรับ</item>
+        <item>โฟลเดอรที่ปลอดภัย: แอปและข้อมูล</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>โทรศัพท์: ประวัติการโทรและข้อความ</item>
+        <item>ข้อความ: ข้อความที่เสริมสมรรถนะ ข้อความ MMS และข้อความปกติ</item>
+        <item>รายชื่อ: รายชื่อ ที่อยู่อีเมล และนามบัตรที่บันทึกไว้ในอุปกรณ์ของคุณ</item>
+        <item>ปฏิทิน: กิจกรรมและงานที่บันทึกบนอุปกรณ์ของคุณ</item>
+        <item>นาฬิกา: นาฬิกาปลุก, เวลาโลก และตัวตั้งเวลา</item>
+        <item>การตั้งค่า: การตั้งค่าการเข้าใช้งาน, เสียงเรียกเข้า, ตัวเลือกแป้นพิมพ์ Samsung, การตั้งค่า Wi-Fi, อุปกรณ์ Bluetooth ที่จับคู่, การตั้งค่าการจำแนกใบหน้า, การตั้งค่าลายนิ้วมือ และการตั้งค่า Always On Display (ระบบจะไม่แบ็คอัพเสียงเรียกเข้าเริ่มต้นของคุณ)</item>
+        <item>หน้าจอหลัก: รูปแบบ, วอลเปเปอร์ และการตั้งค่า Samsung DeX</item>
+        <item>แอป: ไฟล์การติดตั้งและการตั้งค่าแอป</item>
+        <item>Voice Recorder: การบันทึก</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>เพลง: MP3, FLAC, WAV, M4A, OGG, และไฟล์เพลงอื่นๆ</item>
+        <item>เอกสาร: PDF, Word, Excel, PowerPoint, และเอกสารอื่นๆ</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: ประวัติการสนทนา</item>
+        <item>%s: บันทึกที่ล็อก</item>
+        <item>%s: ข้อมูลที่ปกป้องด้วยรหัสผ่าน</item>
+        <item>%s: แอปและข้อมูลแอป</item>
+        <item>%s: กิจกรรมจากบัญชีที่ซิงค์</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>คีย์ส่วนตัวและข้อความกู้คืน</item>
+        <item>ข้อมูลที่ไม่สามารถถ่ายโอนได้เนื่องจากนโยบายของแอพ</item>
+        <item>แอปที่ไม่สามารถถ่ายโอนได้เนื่องจากปัญหาความปลอดภัยหรือความเข้ากันได้: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>รายชื่อแบบอ่านอย่างเดียว</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>วอลเปเปอร์พื้นฐาน</item>
+        <item>วอลเปเปอร์ Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>ข้อความแจ้งเตือนฉุกเฉิน</item>
+        <item>ข้อความร่างและข้อความล้มเหลว</item>
+        <item>ข้อความที่มีเอฟเฟ็กต์ iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>คอนเทนท์ที่ล็อก</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>โทรศัพท์: ประวัติการโทรและข้อความ</item>
+        <item>ข้อความ: ข้อความที่เสริมสมรรถนะ ข้อความ MMS และข้อความปกติ</item>
+        <item>นาฬิกา: นาฬิกาปลุก, เวลาโลก และตัวตั้งเวลา</item>
+        <item>การตั้งค่า: การตั้งค่าการเข้าใช้งาน, เสียงเรียกเข้า, ตัวเลือกแป้นพิมพ์ Samsung, การตั้งค่า Wi-Fi, อุปกรณ์ Bluetooth ที่จับคู่ และการตั้งค่า Always On Display (เสียงเรียกเข้าเริ่มต้นจะไม่ถูกเข้ารหัส)</item>
+        <item>แอป: การตั้งค่าแอป</item>
+        <item>หน้าจอหลัก: รูปแบบ, วอลเปเปอร์ และการตั้งค่า Samsung DeX</item>
+        <item>Voice Recorder: การบันทึก</item>
+    </string-array>
+</resources>

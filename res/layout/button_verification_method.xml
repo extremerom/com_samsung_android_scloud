@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:background="@drawable/custom_btn_ripple" android:paddingTop="19.0dp" android:paddingBottom="19.0dp" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="16.0dp" android:paddingEnd="16.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/method_icon" android:duplicateParentState="true" android:layout_width="36.0dp" android:layout_height="wrap_content" android:src="@drawable/ic_additional_verification_notification" android:tint="@color/selector_icon_title" android:layout_marginEnd="12.0dp" android:tintMode="src_in" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:duplicateParentState="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="17.0sp" android:textStyle="bold" android:textColor="@color/selector_icon_title" android:id="@id/method_main_text" android:duplicateParentState="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="sec-roboto-light" android:textAlignment="viewStart" />
+        <TextView android:textSize="13.0sp" android:textColor="@color/selector_text_description" android:id="@id/method_sub_text" android:duplicateParentState="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="sec-roboto-light" android:textAlignment="viewStart" />
+    </LinearLayout>
+</LinearLayout>

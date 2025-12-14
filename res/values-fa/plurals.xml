@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">۱ عکس و %1$d ویدیو (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">۱ عکس و %1$d ویدیو (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d برنامه نصب نیست</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d برنامه نصب نیست</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">پیام‌ها: هشدار‌های اضطراری، فایل‌های منتقل‌شده، پیام‌های چندرسانه‌ای بزرگتر از %d مگابایت، پیش‌نویس‌ها و پیام‌های ناموفق</item>
+        <item quantity="one">پیام‌ها: هشدار‌های اضطراری، فایل‌های منتقل‌شده، پیام‌های چندرسانه‌ای بزرگتر از %d مگابایت، پیش‌نویس‌ها و پیام‌های ناموفق</item>
+        <item quantity="two">پیام‌ها: هشدار‌های اضطراری، فایل‌های منتقل‌شده، پیام‌های چندرسانه‌ای بزرگتر از %d مگابایت، پیش‌نویس‌ها و پیام‌های ناموفق</item>
+        <item quantity="few">پیام‌ها: هشدار‌های اضطراری، فایل‌های منتقل‌شده، پیام‌های چندرسانه‌ای بزرگتر از %d مگابایت، پیش‌نویس‌ها و پیام‌های ناموفق</item>
+        <item quantity="many">پیام‌ها: هشدار‌های اضطراری، فایل‌های منتقل‌شده، پیام‌های چندرسانه‌ای بزرگتر از %d مگابایت، پیش‌نویس‌ها و پیام‌های ناموفق</item>
+        <item quantity="other">پیام‌ها: هشدار‌های اضطراری، فایل‌های منتقل‌شده، پیام‌های چندرسانه‌ای بزرگتر از %d مگابایت، پیش‌نویس‌ها و پیام‌های ناموفق</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">اطلاعات پشتیبان مربوط به %d دستگاه به‌زودی منقضی می‌شود. دستگاه زیر را انتخاب کرده و تاریخ انقضا را بررسی کنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">اطلاعات پشتیبان مربوط به %d دستگاه به‌زودی منقضی می‌شود. یک دستگاه از زیر انتخاب کرده و تاریخ انقضا را بررسی کنید.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">اطلاعات پشتیبان مربوط به %d دستگاه به‌زودی منقضی می‌شود.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">اطلاعات پشتیبان مربوط به %d دستگاه به‌زودی منقضی می‌شود.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d مورد پشتیبان‌گیری به‌روزرسانی نشد، بنابراین نسخه پشتیبان قبلی این مورد در گوشی جدید شما (%2$s) بازیابی می‌شود.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d مورد پشتیبان‌گیری به‌روزرسانی نشد، بنابراین نسخه‌های پشتیبان قبلی این موارد در گوشی جدید شما (%2$s) بازیابی می‌شوند.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d مورد پشتیبان‌گیری به‌روزرسانی نشد، بنابراین نسخه پشتیبان این مورد که در تاریخ %2$s ایجاد شده بود در گوشی جدید شما (%3$s) بازیابی می‌شود.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d مورد پشتیبان‌گیری به‌روزرسانی نشد، بنابراین نسخه‌های پشتیبان این موارد که در تاریخ %2$s ایجاد شده است در گوشی جدید شما (%3$s) بازیابی می‌شوند.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d مورد پشتیبان‌گیری به‌روزرسانی نشد، بنابراین نسخه پشتیبان قبلی این مورد در تبلت جدید شما (%2$s) بازیابی می‌شود.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d مورد پشتیبان‌گیری به‌روزرسانی نشد، بنابراین نسخه‌های پشتیبان قبلی این موارد در تبلت جدید شما (%2$s) بازیابی می‌شوند.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d مورد پشتیبان‌گیری به‌روزرسانی نشد، بنابراین نسخه پشتیبان این مورد که در تاریخ %2$s ایجاد شده بود در تبلت جدید شما (%3$s) بازیابی می‌شود.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d مورد پشتیبان‌گیری به‌روزرسانی نشد، بنابراین نسخه‌های پشتیبان این موارد که در تاریخ %2$s ایجاد شده است در تبلت جدید شما (%3$s) بازیابی می‌شوند.</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">اطلاعات ظرف %d روز حذف خواهد شد.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">اطلاعات ظرف %d روز حذف خواهد شد.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">انقضا %d روز دیگر</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">انقضا %d روز دیگر</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">بیشتر اطلاعات شما بازیابی شده است ولی هنوز %d برنامه نصب نیست.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">بیشتر اطلاعات شما بازیابی شده است ولی هنوز %d برنامه نصب نیست.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d اعلان جدید</item>
+        <item quantity="other">%d اعلان جدید</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d آلبوم جدید در دسترس است</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d آلبوم جدید در دسترس نیست</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d آلبوم انتخاب شد</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d آلبوم ها انتخاب شد</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">۱ آواتار و %d مورد با طراحی سفارشی</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">۱ آواتار و %d مورد با طراحی سفارشی</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">۱ ساعت و %d دقیقه مانده</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">۱ ساعت و %d دقیقه مانده</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">۱ عکس و %d ویدیو همگام‌سازی شد</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">۱ عکس و %d ویدیو همگام‌سازی شد</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d مورد انتخاب شد (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d مورد انتخاب شد (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d عکس و ۱ ویدیو (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d عکس و ۱ ویدیو (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d عکس (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d عکس (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d مورد انتخاب شد (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d مورد انتخاب شد (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ویدیو (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d ویدیو (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d فایل</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d فایل</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ساعت و ۱ دقیقه مانده</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ساعت و ۱ دقیقه مانده</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d تصویر از cloud دانلود شد.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d تصویر از cloud دانلود شد.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مورد از cloud دانلود شد.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d مورد از cloud دانلود شد.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d دقیقه</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d دقیقه</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d دقیقه مانده</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d دقیقه مانده</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d عکس و ۱ ویدیو همگام‌سازی شد</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d عکس و ۱ ویدیو همگام‌سازی شد</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d عکس همگام‌سازی شد</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d عکس همگام‌سازی شد</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d عکس یا ویدیو</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d عکس و ویدیو</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مورد انتخاب شد</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ویدیو از cloud دانلود شد.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ویدیو از cloud دانلود شد.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ویدیو همگام‌سازی شد</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ویدیو همگام‌سازی شد</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">باتری ضعیف است. برای پشتیبان‌گیری از گوشی خود، حداقل تا %d٪ شارژ کنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">باتری ضعیف است. برای پشتیبان‌گیری از گوشی خود، حداقل تا %d٪ شارژ کنید.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">پشتیبان‌گیری موقت شما %d روز دیگر منقضی می‌شود. اکنون آن را بازیابی کنید یا اگر به زمان بیشتری نیاز دارید تاریخ انقضا را به تعویق بیندازید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">پشتیبان‌گیری موقت شما %d روز دیگر منقضی می‌شود. هر چه زودتر آن را بازیابی کنید یا اگر به زمان بیشتری نیاز دارید تاریخ انقضا را به تعویق بیندازید.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">تعویق تا %d روز</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">تعویق تا %d روز</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d آواتار</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d آواتار</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d آواتار و ۱ مورد با طراحی سفارشی</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d آواتار و ۱ مورد با طراحی سفارشی</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مورد با طراحی سفارشی</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d مورد با طراحی سفارشی</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مورد باقی مانده است</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d مورد باقی مانده است</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d دستگاه Samsung جفت شده</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d دستگاه Samsung جفت شده</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d یادآور</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d یادآور</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">اشتراک شما در تاریخ %1$s به پایان رسید. اطلاعات شما ظرف %2$d روز حذف خواهد شد. برای حفظ اطلاعات خود، اشتراک خود را دوباره فعال کنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">اشتراک شما در تاریخ %1$s به پایان رسید. اطلاعات شما ظرف %2$d روز حذف خواهد شد. برای حفظ اطلاعات خود، اشتراک خود را دوباره فعال کنید.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">باتری ضعیف است. برای پشتیبان‌گیری از تبلت خود، حداقل تا %d٪ شارژ کنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">باتری ضعیف است. برای پشتیبان‌گیری از تبلت خود، حداقل تا %d٪ شارژ کنید.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">از اطلاعات نامحدود حداکثر تا %2$d روز در %1$s پشتیبان‌گیری کنید یا اطلاعاتی را که پشتیبان‌گیری کرده‌اید بازیابی کنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">از اطلاعات نامحدود حداکثر تا %2$d روز در %1$s پشتیبان‌گیری کنید یا اطلاعاتی را که پشتیبان‌گیری کرده‌اید بازیابی کنید.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">این نسخه پشتیبان ظرف %d روز حذف خواهد شد.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">این نسخه پشتیبان ظرف %d روز حذف خواهد شد.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ساعت دیگر دوباره امتحان کنید</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ساعت دیگر دوباره امتحان کنید</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ساعت و ۱ دقیقه دیگر دوباره امتحان کنید</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ساعت و ۱ دقیقه دیگر دوباره امتحان کنید</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d دقیقه دیگر دوباره امتحان کنید</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d دقیقه دیگر دوباره امتحان کنید</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">۱ ساعت و %d دقیقه دیگر دوباره امتحان کنید</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">۱ ساعت و %d دقیقه دیگر دوباره امتحان کنید</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">جای نسخه پشتیبان شما در %1$s امن است. شما %2$d روز فرصت دارید تا آن را بازیابی کنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">جای نسخه پشتیبان شما در %1$s امن است. شما %2$d روز فرصت دارید تا آن را بازیابی کنید.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">نسخه پشتیبان موقت ‎شما %d روز دیگر حذف خواهد شد.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">نسخه پشتیبان موقت ‎شما %d روز دیگر حذف خواهد شد.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">اطلاعاتتان در گوشی شما بازیابی نشد. شما %d روز فرصت دارید تا آن را بازیابی کنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">اطلاعاتتان در گوشی شما بازیابی نشد. شما %d روز فرصت دارید تا آن را بازیابی کنید.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">اطلاعاتتان در تبلت شما بازیابی نشد. شما %d روز فرصت دارید تا آن را بازیابی کنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">اطلاعاتتان در تبلت شما بازیابی نشد. شما %d روز فرصت دارید تا آن را بازیابی کنید.</item>
+    </plurals>
+</resources>

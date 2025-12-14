@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>သင့်ဖုန်းကို အားသွင်းနေပါသည်။</item>
+        <item>ဖုန်းသည် Wi-Fi ကွန်ရက်တစ်ခုဖြင့် ချိတ်ဆက်နေသည်။</item>
+        <item>ဖန်သားပြင် ပိတ်ထားသည်။</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>တက်ဘလက်ကို အားသွင်းနေသည်။</item>
+        <item>တက်ဘလက်သည် Wi-Fi ကွန်ရက်တစ်ခုဖြင့် ချိတ်ဆက်နေသည်။</item>
+        <item>ဖန်သားပြင် ပိတ်ထားသည်။</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>သင်အရံသိမ်းဆည်းနိုင်သော ဒေတာသည် သင့်ဖုန်း သို့မဟုတ် အလုပ်လုပ်ဆောင်သော စနစ်ပေါ်အခြေခံ၍ ကွဲပြားနိုင်ပါသည်။</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>သင်အရံသိမ်းနိုင်သည့် ဒေတာသည် သင့် တက်ဘလက် (သို့) လုပ်ဆောင်သည့်စနစ်ပေါ်တွင် မူတည်ပြီး ကွဲပြားနိုင်သည်။</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>အဆက်အသွယ်များ : ဆင့်ခ်လုပ်ထားသော အကောင့်များမှ အဆက်အသွယ်များ</item>
+        <item>ပြက္ခဒိန် : ဆင့်ခ်လုပ်ထားသော အကောင့်များမှ ပွဲစဉ်များနှင့် လုပ်ဆောင်ချက်များ</item>
+        <item>Galaxy Themes : အပြင်အဆင်များနှင့် ပုံသေ နောက်ခံပုံ</item>
+        <item>အက်ပ်များ : Samsung apps မဟုတ်သော အက်ပ်များမှ ကိုက်ညီမှု မရှိသော ထည့်သွင်းမှုဖိုင်များနှင့် ဒေတာများ</item>
+        <item>စိတ်ချရသော ဖိုင်တွဲ : အက်ပ်များနှင့် ဒေတာ</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>အဆက်အသွယ်များ : ဆင့်ခ်လုပ်ထားသော အကောင့်များမှ အဆက်အသွယ်များ</item>
+        <item>ပြက္ခဒိန် : ဆင့်ခ်လုပ်ထားသော အကောင့်များမှ ပွဲစဉ်များနှင့် လုပ်ဆောင်ချက်များ</item>
+        <item>Galaxy Themes : အပြင်အဆင်များနှင့် ပုံသေ နောက်ခံပုံ</item>
+        <item>အက်ပ်များ : မပံ့ပိုးထားသော ထည့်သွင်းမှု ဖိုင်များ</item>
+        <item>စိတ်ချရသော ဖိုင်တွဲ : အက်ပ်များနှင့် ဒေတာ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ဖုန်း : ခေါ်ဆိုမှုနှင့် မက်ဆေ့ချ်မှတ်တမ်း</item>
+        <item>မက်ဆေ့ချ်များ : တိုးမြှင့်ထားသော မက်ဆေ့ချ်များ၊ မာတီမီဒီယာ မက်ဆေ့ချ်များနှင့် စာသား မက်ဆေ့ချ်များ</item>
+        <item>အဆက်အသွယ်များ : အဆက်အသွယ်များ၊ အီးမေးလ်လိပ်စာများနှင့် လိပ်စာကတ်များကို သင့်ကိရိယာတွင် သိမ်းထားသည်</item>
+        <item>ပြက္ခဒိန် : သင့် ကိရိယာတွင် ဖြစ်စဉ်များနှင့် တာဝန်များကို သိမ်းထားသည်</item>
+        <item>နာရီ : နှိုးစက်များ၊ ကမ္ဘာ့နာရီများနှင့် အချိန်မှတ်စက်များ</item>
+        <item>သတ်မှတ်ချက်များ : ဝင်သုံးစွဲခွင့် သတ်မှတ်ချက်များ၊ ဖုန်းမြည်သံများ၊ Samsung Keyboard ရွေးချယ်စရာများ၊ Wi-Fi သတ်မှတ်ချက်များ၊ အတွဲချိတ်ထားသည့် ဘလူးတုသ်ကိရိယာများ၊ မျက်နှာ အသိအမှတ်ပြုမှု သတ်မှတ်ချက်များ၊ လက်ဗွေ သတ်မှတ်ချက်များနှင့် Always On Display သတ်မှတ်ချက်များ (သင်၏ မူရင်းဖုန်းမြည်သံကို အရန်သိမ်းမည် မဟုတ်ပါ)</item>
+        <item>ပင်မဖန်သားပြင် : အပြင်အဆင်၊ နောက်ခံပုံများနှင့် Samsung DeX သတ်မှတ်ချက်များ</item>
+        <item>အက်ပ်များ : ထည့်သွင်းဖိုင်များနှင့် အက်ပ် သတ်မှတ်ချက်များ</item>
+        <item>အသံဖမ်းစက် : ဖမ်းယူခြင်းများ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>သီချင်း : MP3၊ FLAC၊ WAV၊ M4A၊ OGG နှင့် အခြားသီချင်းဖိုင်များ</item>
+        <item>စာရွက်စာတမ်းများ : PDF၊ Word၊ Excel၊ PowerPoint နှင့် အခြားစာရွက်စာတမ်းများ</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s : ချတ်မှတ်တမ်း</item>
+        <item>%s: သော့ခတ်ထားသော မှတ်စုများ</item>
+        <item>%s: စကားဝှက်ဖြင့် ကာကွယ်ထားသော ဒေတာများ</item>
+        <item>%s : အက်ပ်များနှင့် အက်ပ်ဒေတာ</item>
+        <item>%s: ဆင့်ခ်လုပ်ထားသော အကောင့်များမှ ဖြစ်စဉ်များ</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>သီးသန့် ခလုတ်နှင့် ပြန်ဆယ်ယူသည့် စကားစု</item>
+        <item>အက်ပ်၏ မူဝါဒများကြောင့် ဒေတာကို လွှဲပြောင်း၍ မရပါ</item>
+        <item>လုံခြုံရေး (သို့) ကိုက်ညီမှု ပြဿနာများကြောင့် လွှဲပြောင်း၍ မရသည့် အက်ပ်များ : %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>ဖတ်မှတ်ရန်သီးသန့် အဆက်အသွယ်များ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>ပုံသေ နောက်ခံပုံ</item>
+        <item>Galaxy Themes နောက်ခံပုံများ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>အရေးပေါ် သတိပေးမက်ဆေ့ချ်များ</item>
+        <item>စာကြမ်းများနှင့် ပို့၍ မရသော မက်ဆေ့ချ်များ</item>
+        <item>iMessage အထူးပြုလုပ်ချက်များဖြင့် မက်ဆေ့ချ်များ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>သော့ခတ်ထားသော အကြောင်းအရာ</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ဖုန်း : ခေါ်ဆိုမှုနှင့် မက်ဆေ့ချ်မှတ်တမ်း</item>
+        <item>မက်ဆေ့ချ်များ : တိုးမြှင့်ထားသော မက်ဆေ့ချ်များ၊ မာတီမီဒီယာ မက်ဆေ့ချ်များနှင့် စာသား မက်ဆေ့ချ်များ</item>
+        <item>နာရီ : နှိုးစက်များ၊ ကမ္ဘာ့နာရီများနှင့် အချိန်မှတ်စက်များ</item>
+        <item>သတ်မှတ်ချက်များ : ဝင်သုံးစွဲခွင့် သတ်မှတ်ချက်များ၊ ဖုန်းမြည်သံများ၊ Samsung Keyboard ရွေးစရာများ၊ Wi-Fi သတ်မှတ်ချက်များ၊ တွဲချိတ်ထားသည့် ဘလူးတုသ်ကိရိယာများနှင့် Always On Display သတ်မှတ်ချက်များ (မူရင်းဖုန်းမြည်သံကို ကုဒ်ပြောင်းဝှက်မည် မဟုတ်ပါ)</item>
+        <item>အက်ပ်များ : အက်ပ် သတ်မှတ်ချက်များ</item>
+        <item>ပင်မဖန်သားပြင် : အပြင်အဆင်၊ နောက်ခံပုံများနှင့် Samsung DeX သတ်မှတ်ချက်များ</item>
+        <item>အသံဖမ်းစက် : ဖမ်းယူခြင်းများ</item>
+    </string-array>
+</resources>

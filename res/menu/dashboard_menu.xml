@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/more">
+        <item android:id="@id/settings" android:title="@string/settings" android:showAsAction="never" />
+        <item android:id="@id/notices" android:title="@string/notice" android:showAsAction="never" />
+    </group>
+    <item android:icon="@drawable/ic_tips" android:id="@id/help" android:title="@string/tips" android:showAsAction="always" />
+</menu>

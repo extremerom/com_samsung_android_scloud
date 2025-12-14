@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 obrázek a %1$d video (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">1 obrázek a %1$d videa (%2$s)</item>
+        <item quantity="many">1 obrázek a %1$d videí (%2$s)</item>
+        <item quantity="other">1 obrázek a %1$d videí (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikace nebyla nainstalována</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplikace nebyly nainstalovány</item>
+        <item quantity="many">%d aplikací nebylo nainstalováno</item>
+        <item quantity="other">%d aplikací nebylo nainstalováno</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Zprávy: nouzová upozornění, přenesené soubory, multimediální zprávy větší než %d MB, koncepty a zprávy, které se nepodařilo odeslat</item>
+        <item quantity="one">Zprávy: nouzová upozornění, přenesené soubory, multimediální zprávy větší než %d MB, koncepty a zprávy, které se nepodařilo odeslat</item>
+        <item quantity="two">Zprávy: nouzová upozornění, přenesené soubory, multimediální zprávy větší než %d MB, koncepty a zprávy, které se nepodařilo odeslat</item>
+        <item quantity="few">Zprávy: nouzová upozornění, přenesené soubory, multimediální zprávy větší než %d MB, koncepty a zprávy, které se nepodařilo odeslat</item>
+        <item quantity="many">Zprávy: nouzová upozornění, přenesené soubory, multimediální zprávy větší než %d MB, koncepty a zprávy, které se nepodařilo odeslat</item>
+        <item quantity="other">Zprávy: nouzová upozornění, přenesené soubory, multimediální zprávy větší než %d MB, koncepty a zprávy, které se nepodařilo odeslat</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Platnost dat zálohy pro %d zařízení brzy vyprší. Zvolením zařízení uvedeného níže zkontrolujete datum vypršení platnosti.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Platnost dat zálohy pro %d zařízení brzy vyprší. Zvolením zařízení uvedeného níže zkontrolujete datum vypršení platnosti.</item>
+        <item quantity="many">Platnost dat zálohy pro %d zařízení brzy vyprší. Zvolením zařízení uvedeného níže zkontrolujete datum vypršení platnosti.</item>
+        <item quantity="other">Platnost dat zálohy pro %d zařízení brzy vyprší. Zvolením zařízení uvedeného níže zkontrolujete datum vypršení platnosti.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Platnost dat zálohy pro %d zařízení brzy vyprší.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Platnost dat zálohy pro %d zařízení brzy vyprší.</item>
+        <item quantity="many">Platnost dat zálohy pro %d zařízení brzy vyprší.</item>
+        <item quantity="other">Platnost dat zálohy pro %d zařízení brzy vyprší.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d položku zálohy se nepodařilo aktualizovat, proto bude do nového telefonu (%2$s) obnovena předchozí záloha této položky.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d položky zálohy se nepodařilo aktualizovat, proto budou do nového telefonu (%2$s) obnoveny předchozí zálohy těchto položek.</item>
+        <item quantity="many">%1$d položek zálohy se nepodařilo aktualizovat, proto budou do nového telefonu (%2$s) obnoveny předchozí zálohy těchto položek.</item>
+        <item quantity="other">%1$d položek zálohy se nepodařilo aktualizovat, proto budou do nového telefonu (%2$s) obnoveny předchozí zálohy těchto položek.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d položku zálohy se nepodařilo aktualizovat, proto bude do nového telefonu (%3$s) obnovena záloha této položky vytvořená %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d položky zálohy se nepodařilo aktualizovat, proto budou do nového telefonu (%3$s) obnoveny zálohy těchto položek vytvořené %2$s.</item>
+        <item quantity="many">%1$d položek zálohy se nepodařilo aktualizovat, proto budou do nového telefonu (%3$s) obnoveny zálohy těchto položek vytvořené %2$s.</item>
+        <item quantity="other">%1$d položek zálohy se nepodařilo aktualizovat, proto budou do nového telefonu (%3$s) obnoveny zálohy těchto položek vytvořené %2$s.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d položku zálohy se nepodařilo aktualizovat, proto bude do nového tabletu (%2$s) obnovena předchozí záloha této položky.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d položky zálohy se nepodařilo aktualizovat, proto budou do nového tabletu (%2$s) obnoveny předchozí zálohy těchto položek.</item>
+        <item quantity="many">%1$d položek zálohy se nepodařilo aktualizovat, proto budou do nového tabletu (%2$s) obnoveny předchozí zálohy těchto položek.</item>
+        <item quantity="other">%1$d položek zálohy se nepodařilo aktualizovat, proto budou do nového tabletu (%2$s) obnoveny předchozí zálohy těchto položek.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d položku zálohy se nepodařilo aktualizovat, proto bude do nového tabletu (%3$s) obnovena záloha této položky vytvořená %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d položky zálohy se nepodařilo aktualizovat, proto budou do nového tabletu (%3$s) obnoveny zálohy těchto položek vytvořené %2$s.</item>
+        <item quantity="many">%1$d položek zálohy se nepodařilo aktualizovat, proto budou do nového tabletu (%3$s) obnoveny zálohy těchto položek vytvořené %2$s.</item>
+        <item quantity="other">%1$d položek zálohy se nepodařilo aktualizovat, proto budou do nového tabletu (%3$s) obnoveny zálohy těchto položek vytvořené %2$s.</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Data budou odstraněna za %d den.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Data budou odstraněna za %d dny.</item>
+        <item quantity="many">Data budou odstraněna za %d dnů.</item>
+        <item quantity="other">Data budou odstraněna za %d dnů.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Vyprší za %d den</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Vyprší za %d dny</item>
+        <item quantity="many">Vyprší za %d dnů</item>
+        <item quantity="other">Vyprší za %d dnů</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Většina dat byla obnovena, ale %d aplikace nebyla nainstalována.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Většina dat byla obnovena, ale %d aplikace nebyly nainstalovány.</item>
+        <item quantity="many">Většina dat byla obnovena, ale %d aplikací nebylo nainstalováno.</item>
+        <item quantity="other">Většina dat byla obnovena, ale %d aplikací nebylo nainstalováno.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
+        <item quantity="other">%d nových oznámení</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">K dispozici je %d nové album</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">K dispozici jsou %d nová alba</item>
+        <item quantity="many">K dispozici je %d nových alb</item>
+        <item quantity="other">K dispozici je %d nových alb</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Vybráno %d album</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Vybrána %d alba</item>
+        <item quantity="many">Vybráno %d alb</item>
+        <item quantity="other">Vybráno %d alb</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 avatar a %d položka s vlastním návrhem</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">1 avatar a %d položky s vlastním návrhem</item>
+        <item quantity="many">1 avatar a %d položek s vlastním návrhem</item>
+        <item quantity="other">1 avatar a %d položek s vlastním návrhem</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zbývá 1 hodina %d minuta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zbývá 1 hodina %d minuty</item>
+        <item quantity="many">Zbývá 1 hodina %d minut</item>
+        <item quantity="other">Zbývá 1 hodina %d minut</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Synch. 1 fotografie a %d videa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Synch. 1 fotografie a %d videí</item>
+        <item quantity="many">Synch. 1 fotografie a %d videí</item>
+        <item quantity="other">Synch. 1 fotografie a %d videí</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Vybrána %1$d položka (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Vybrány %1$d položky (%2$s)</item>
+        <item quantity="many">Vybráno %1$d položek (%2$s)</item>
+        <item quantity="other">Vybráno %1$d položek (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d obrázek a 1 video (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d obrázky a 1 video (%2$s)</item>
+        <item quantity="many">%1$d obrázků a 1 video (%2$s)</item>
+        <item quantity="other">%1$d obrázků a 1 video (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d obrázek (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d obrázky (%2$s)</item>
+        <item quantity="many">%1$d obrázků (%2$s)</item>
+        <item quantity="other">%1$d obrázků (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Počet vybraných položek: %1$d (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Počet vybraných položek: %1$d (%2$s %3$s)</item>
+        <item quantity="many">Počet vybraných položek: %1$d (%2$s %3$s)</item>
+        <item quantity="other">Počet vybraných položek: %1$d (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d video (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d videa (%2$s)</item>
+        <item quantity="many">%1$d videí (%2$s)</item>
+        <item quantity="other">%1$d videí (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d soubor</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d soubory</item>
+        <item quantity="many">%d souborů</item>
+        <item quantity="other">%d souborů</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zbývá %d hodina 1 minuta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zbývají %d hodiny 1 minuta</item>
+        <item quantity="many">Zbývá %d hodin 1 minuta</item>
+        <item quantity="other">Zbývá %d hodin 1 minuta</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Z cloudu byl stažen %d obrázek.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Z cloudu byly staženy %d obrázky.</item>
+        <item quantity="many">Z cloudu bylo staženo %d obrázků.</item>
+        <item quantity="other">Z cloudu bylo staženo %d obrázků.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Z cloudu byla stažena %d položka.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Z cloudu byly staženy %d položky.</item>
+        <item quantity="many">Z cloudu bylo staženo %d položek.</item>
+        <item quantity="other">Z cloudu bylo staženo %d položek.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="many">%d minut</item>
+        <item quantity="other">%d minut</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zbývá %d minuta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zbývají %d minuty</item>
+        <item quantity="many">Zbývá %d minut</item>
+        <item quantity="other">Zbývá %d minut</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Synch. %d fotografie a 1 videa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Synch. %d fotografií a 1 videa</item>
+        <item quantity="many">Synch. %d fotografií a 1 videa</item>
+        <item quantity="other">Synch. %d fotografií a 1 videa</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Synchronizace %d fotografie</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Synchronizace %d fotografií</item>
+        <item quantity="many">Synchronizace %d fotografií</item>
+        <item quantity="other">Synchronizace %d fotografií</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d obrázek nebo video</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d obrázky a videa</item>
+        <item quantity="many">%d obrázků a videí</item>
+        <item quantity="other">%d obrázků a videí</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Vybráno: %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Vybráno: %d</item>
+        <item quantity="many">Vybráno: %d</item>
+        <item quantity="other">Vybráno: %d</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Z cloudu bylo staženo %d video.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Z cloudu byla stažena %d videa.</item>
+        <item quantity="many">Z cloudu bylo staženo %d videí.</item>
+        <item quantity="other">Z cloudu bylo staženo %d videí.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Synchronizace %d videa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Synchronizace %d videí</item>
+        <item quantity="many">Synchronizace %d videí</item>
+        <item quantity="other">Synchronizace %d videí</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Baterie je vybitá. Abyste mohli zálohovat telefon, nabijte baterii alespoň na %d %%.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Baterie je vybitá. Abyste mohli zálohovat telefon, nabijte baterii alespoň na %d %%.</item>
+        <item quantity="many">Baterie je vybitá. Abyste mohli zálohovat telefon, nabijte baterii alespoň na %d %%.</item>
+        <item quantity="other">Baterie je vybitá. Abyste mohli zálohovat telefon, nabijte baterii alespoň na %d %%.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Platnost dočasné zálohy vyprší za %d den. Můžete ji obnovit nyní, nebo můžete datum platnosti posunout, pokud potřebujete více času.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Platnost dočasné zálohy vyprší za %d dny. Můžete ji brzy obnovit, nebo můžete datum platnosti posunout, pokud potřebujete více času.</item>
+        <item quantity="many">Platnost dočasné zálohy vyprší za %d dnů. Můžete ji brzy obnovit, nebo můžete datum platnosti posunout, pokud potřebujete více času.</item>
+        <item quantity="other">Platnost dočasné zálohy vyprší za %d dnů. Můžete ji brzy obnovit, nebo můžete datum platnosti posunout, pokud potřebujete více času.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Odložit o %d den</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Odložit o %d dny</item>
+        <item quantity="many">Odložit o %d dnů</item>
+        <item quantity="other">Odložit o %d dnů</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d avataři</item>
+        <item quantity="many">%d avatarů</item>
+        <item quantity="other">%d avatarů</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar a 1 položka s vlastním návrhem</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d avataři a 1 položka s vlastním návrhem</item>
+        <item quantity="many">%d avatarů a 1 položka s vlastním návrhem</item>
+        <item quantity="other">%d avatarů a 1 položka s vlastním návrhem</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d položka s vlastním návrhem</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d položky s vlastním návrhem</item>
+        <item quantity="many">%d položek s vlastním návrhem</item>
+        <item quantity="other">%d položek s vlastním návrhem</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zbývá %d položka</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zbývají %d položky</item>
+        <item quantity="many">Zbývá %d položek</item>
+        <item quantity="other">Zbývá %d položek</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d spárované zařízení Samsung</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d spárovaná zařízení Samsung</item>
+        <item quantity="many">%d spárovaných zařízení Samsung</item>
+        <item quantity="other">%d spárovaných zařízení Samsung</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d připomenutí</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d připomenutí</item>
+        <item quantity="many">%d připomenutí</item>
+        <item quantity="other">%d připomenutí</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Vaše předplatné skončilo %1$s. Data budou odstraněna za %2$d den. Chcete-li data zachovat, znovu aktivujte předplatné.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Vaše předplatné skončilo %1$s. Data budou odstraněna za %2$d dny. Chcete-li data zachovat, znovu aktivujte předplatné.</item>
+        <item quantity="many">Vaše předplatné skončilo %1$s. Data budou odstraněna za %2$d dnů. Chcete-li data zachovat, znovu aktivujte předplatné.</item>
+        <item quantity="other">Vaše předplatné skončilo %1$s. Data budou odstraněna za %2$d dnů. Chcete-li data zachovat, znovu aktivujte předplatné.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Baterie je vybitá. Abyste mohli zálohovat tablet, nabijte baterii alespoň na %d %%.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Baterie je vybitá. Abyste mohli zálohovat tablet, nabijte baterii alespoň na %d %%.</item>
+        <item quantity="many">Baterie je vybitá. Abyste mohli zálohovat tablet, nabijte baterii alespoň na %d %%.</item>
+        <item quantity="other">Baterie je vybitá. Abyste mohli zálohovat tablet, nabijte baterii alespoň na %d %%.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Do %1$s můžete zálohovat neomezený objem dat až na %2$d den, nebo můžete obnovit zálohovaná data.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Do %1$s můžete zálohovat neomezený objem dat až na %2$d dny, nebo můžete obnovit zálohovaná data.</item>
+        <item quantity="many">Do %1$s můžete zálohovat neomezený objem dat až na %2$d dnů, nebo můžete obnovit zálohovaná data.</item>
+        <item quantity="other">Do %1$s můžete zálohovat neomezený objem dat až na %2$d dnů, nebo můžete obnovit zálohovaná data.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Záloha bude odstraněna za %d den.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Záloha bude odstraněna za %d dny.</item>
+        <item quantity="many">Záloha bude odstraněna za %d dnů.</item>
+        <item quantity="other">Záloha bude odstraněna za %d dnů.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Opakujte akci za %d hodinu</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Opakujte akci za %d hodiny</item>
+        <item quantity="many">Opakujte akci za %d hodin</item>
+        <item quantity="other">Opakujte akci za %d hodin</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Opakujte akci za %d hodinu, 1 minutu</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Opakujte akci za %d hodiny, 1 minutu</item>
+        <item quantity="many">Opakujte akci za %d hodin, 1 minutu</item>
+        <item quantity="other">Opakujte akci za %d hodin, 1 minutu</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Opakujte akci za %d minutu</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Opakujte akci za %d minuty</item>
+        <item quantity="many">Opakujte akci za %d minut</item>
+        <item quantity="other">Opakujte akci za %d minut</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Opakujte akci za 1 hodinu, %d minutu</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Opakujte akci za 1 hodinu, %d minuty</item>
+        <item quantity="many">Opakujte akci za 1 hodinu, %d minut</item>
+        <item quantity="other">Opakujte akci za 1 hodinu, %d minut</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Záloha je bezpečně uložena v aplikaci %1$s. Na její obnovení máte %2$d den.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Záloha je bezpečně uložena v aplikaci %1$s. Na její obnovení máte %2$d dny.</item>
+        <item quantity="many">Záloha je bezpečně uložena v aplikaci %1$s. Na její obnovení máte %2$d dnů.</item>
+        <item quantity="other">Záloha je bezpečně uložena v aplikaci %1$s. Na její obnovení máte %2$d dnů.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dočasná záloha bude odstraněna za %d den.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Dočasná záloha bude odstraněna za %d dny.</item>
+        <item quantity="many">Dočasná záloha bude odstraněna za %d dnů.</item>
+        <item quantity="other">Dočasná záloha bude odstraněna za %d dnů.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Data nebyla obnovena do telefonu. Na obnovení zbývá %d den.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Data nebyla obnovena do telefonu. Na obnovení zbývají %d dny.</item>
+        <item quantity="many">Data nebyla obnovena do telefonu. Na obnovení zbývá %d dnů.</item>
+        <item quantity="other">Data nebyla obnovena do telefonu. Na obnovení zbývá %d dnů.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Data nebyla obnovena do tabletu. Na obnovení zbývá %d den.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Data nebyla obnovena do tabletu. Na obnovení zbývají %d dny.</item>
+        <item quantity="many">Data nebyla obnovena do tabletu. Na obnovení zbývá %d dnů.</item>
+        <item quantity="other">Data nebyla obnovena do tabletu. Na obnovení zbývá %d dnů.</item>
+    </plurals>
+</resources>

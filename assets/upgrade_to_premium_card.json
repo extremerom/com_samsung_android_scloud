@@ -1,0 +1,162 @@
+{
+  "version": "1.0.1",
+  "meta": {
+    "screenId": "upgrade_to_premium_screen"
+  },
+  "styles": {
+    "headerText": {
+      "type": "TextStyle",
+      "fontSize": 17,
+      "fontColor": {
+        "color": "GRAYSCALE_D1"
+      },
+      "textAlign": "Center",
+      "fontWeight": "SemiBold"
+    },
+    "headerSubText": {
+      "type": "TextStyle",
+      "fontSize": 13,
+      "fontColor": {
+        "color": "GRAYSCALE_D1"
+      },
+      "textAlign": "Center",
+      "fontWeight": "Regular"
+    },
+    "buttonStyle": {
+      "type": "ButtonStyle",
+      "colors": {
+        "containerColor": {
+          "color": "Custom",
+          "hexColor": "#00000000"
+        },
+        "contentColor": {
+          "color": "Common_White"
+        }
+      },
+      "size": "Small"
+    }
+  },
+  "layout": {
+    "top": {
+      "type": "Column",
+      "id": "top_root_component",
+      "properties": {
+        "horizontalAlignment": "CenterHorizontally"
+      },
+      "modifier": {
+        "width": {
+          "sizeType": "Fill"
+        },
+        "height": {
+          "sizeType": "Wrap"
+        },
+        "start": 20,
+        "end": 20,
+        "bottom": 20,
+        "top": 20,
+        "backgroundLayers": [
+          {
+            "type": "Radial",
+            "colors": [
+              {
+                "color": "Custom",
+                "hexColor": "#FFEEF6FF"
+              },
+              {
+                "color": "Custom",
+                "hexColor": "#FFD4E3FF"
+              },
+              {
+                "color": "Custom",
+                "hexColor": "#FFAFCAFF"
+              }
+            ],
+            "center": {
+              "x": 0.2,
+              "y": 0.2
+            },
+            "radius": 1000.0
+          }
+        ]
+      },
+      "children": [
+        {
+          "type": "Text",
+          "id": "header_text",
+          "properties" : {
+            "text": {
+              "stringId": "title_text_label"
+            },
+            "style": "headerText"
+          }
+        },
+        {
+          "type": "Text",
+          "id": "header_sub_text",
+          "properties" : {
+            "text": {
+              "stringId": "title_sub_text_label"
+            },
+            "style": "headerSubText"
+          },
+          "modifier" : {
+            "top": 4,
+            "bottom": 12
+          }
+        },
+        {
+          "type": "Button",
+          "id": "upgrade_button",
+          "properties" : {
+            "text": {
+              "stringId": "button_text_label"
+            },
+            "style": "buttonStyle",
+            "action": {
+              "type": "open_deeplink",
+              "payload": {
+                "uri": "samsungcloud://com.samsung.android.scloud/premium/web?landing=onboarding"
+              }
+            }
+          },
+          "modifier" : {
+            "backgroundLayers": [
+              {
+                "type": "Linear",
+                "colors": [
+                  {
+                    "color": "Primary_Blue"
+                  },
+                  {
+                    "color":"Custom",
+                    "hexColor": "#FF84ADFF"
+                  }
+                ],
+                "start": {
+                  "x": 0.0,
+                  "y": 0.5
+                },
+                "end": {
+                  "x": 1.0,
+                  "y": 0.5
+                },
+                "shape": {
+                  "type": "Circle"
+                }
+              }
+            ],
+            "width": {
+              "sizeType": "Minimum",
+              "size": 129
+            }
+          }
+        }
+      ]
+    }
+  },
+  "localization": {
+    "title_text_label": "PREMIUM_TITLE",
+    "title_sub_text_label": "PREMIUM_SUB_TEXT",
+    "button_text_label": "DREAM_CLOUD_OPT_UPGRADE"
+  }
+}

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Síminn er í hleðslu.</item>
+        <item>Síminn er tengdur við Wi-Fi net.</item>
+        <item>Slökkt er á skjánum.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Spjaldtölvan er í hleðslu.</item>
+        <item>Spjaldtölvan er tengd við Wi-Fi net.</item>
+        <item>Slökkt er á skjánum.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Gögn sem hægt er að afrita kunna að vera breytileg eftir símum eða stýrikerfum.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Gögn sem hægt er að afrita kunna að vera breytileg eftir spjaldtölvu eða stýrikerfi.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Tengiliðir: tengiliðir frá samstilltum reikningum</item>
+        <item>Dagatal: viðburðir og verkefni frá samstilltum reikningum</item>
+        <item>Galaxy Themes: þemu og sjálfgefið veggfóður</item>
+        <item>Forrit: ósamhæfar uppsetningarskrár og gögn úr forritum sem eru ekki frá Samsung</item>
+        <item>Örugg mappa: forrit og gögn</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Tengiliðir: tengiliðir frá samstilltum reikningum</item>
+        <item>Dagatal: viðburðir og verkefni frá samstilltum reikningum</item>
+        <item>Galaxy Themes: þemu og sjálfgefið veggfóður</item>
+        <item>Forrit: óstuddar uppsetningarskrár</item>
+        <item>Örugg mappa: forrit og gögn</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Sími: símtala- og skilaboðaferill</item>
+        <item>Skilaboð: bætt skilaboð, margmiðlunarskilaboð og SMS-skilaboð</item>
+        <item>Tengiliðir: tengiliðir, netföng og nafnspjöld vistuð á tækinu</item>
+        <item>Dagatal: viðburðir og verkefni vistuð í tækinu</item>
+        <item>Klukka: vekjarar, heimsklukkur og teljarar</item>
+        <item>Stillingar: aðgengisstillingar, hringitónar, valkostir Samsung-lyklaborðs, Wi-Fi stillingar, pöruð Bluetooth-tæki, stillingar andlitsgreiningar, fingrafarastillingar og stillingar Always On Display (sjálfgefinn hringitónn verður ekki afritaður)</item>
+        <item>Heimaskjár: útlit, veggfóður og stillingar Samsung DeX</item>
+        <item>Forrit: uppsetningarskrár og forritastillingar</item>
+        <item>Raddupptökuforrit: upptökur</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Tónlist: MP3, FLAC, WAV, M4A, OGG og aðrar tónlistarskrár</item>
+        <item>Skjöl: PDF, Word, Excel, PowerPoint og önnur skjöl</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: spjallferill</item>
+        <item>%s: læstar glósur</item>
+        <item>%s: gögn sem varin eru með lykilorði</item>
+        <item>%s: forrit og forritagögn</item>
+        <item>%s: Viðburðir af samstilltum reikningum</item>
+        <item>Lyklageymsla Samsung Blockchain</item>
+        <item>Einkalykill og endurheimtarsetning</item>
+        <item>Gögn sem er ekki hægt að flytja vegna stefnu forritsins</item>
+        <item>Forrit sem ekki er hægt að flytja vegna vandamála tengdum öryggi eða samhæfi: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Skrifvarðir tengiliðir</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Sjálfgefið veggfóður</item>
+        <item>Galaxy Themes-veggfóður</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Neyðarviðvörun</item>
+        <item>Drög og skilaboð sem mistókust</item>
+        <item>Skilaboð með iMessage-áhrifum</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Læst efni</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Sími: símtala- og skilaboðaferill</item>
+        <item>Skilaboð: bætt skilaboð, margmiðlunarskilaboð og SMS-skilaboð</item>
+        <item>Klukka: vekjarar, heimsklukkur og teljarar</item>
+        <item>Stillingar: aðgengisstillingar, hringitónar, valkostir Samsung-lyklaborðs, Wi-Fi stillingar, pöruð Bluetooth-tæki og stillingar Always On Display (sjálfgefinn hringitónn er ekki dulkóðaður)</item>
+        <item>Forrit: forritastillingar</item>
+        <item>Heimaskjár: útlit, veggfóður og stillingar Samsung DeX</item>
+        <item>Raddupptökuforrit: upptökur</item>
+    </string-array>
+</resources>

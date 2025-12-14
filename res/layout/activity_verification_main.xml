@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbars="none" android:layout_width="match_parent" android:layout_height="match_parent" android:overScrollMode="never"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:scrollbarStyle="outsideOverlay" android:id="@id/container" android:layout_width="match_parent" android:layout_height="0.0dp" android:paddingStart="24.0dp" android:paddingEnd="24.0dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/verification_icon" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="56.0dp" app:layout_constraintBottom_toTopOf="@id/verification_title_description" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+            <include layout="@layout/layout_verification_icon" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/verification_title_description" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="32.0dp" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/verification_icon">
+            <include layout="@layout/layout_title_description" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <View android:id="@id/margin" android:layout_width="match_parent" android:layout_height="0.0dp" app:layout_constraintBottom_toTopOf="@id/button_layout" app:layout_constraintHeight_percent="0.23" app:layout_constraintTop_toBottomOf="@id/verification_title_description" />
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/button_layout" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintTop_toBottomOf="@id/margin">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <include android:id="@id/verification_by_noti_layout" layout="@layout/button_verification_method" />
+                <View android:layout_width="match_parent" android:layout_height="15.0dp" />
+                <include android:id="@id/verification_by_email_layout" layout="@layout/button_verification_method" />
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

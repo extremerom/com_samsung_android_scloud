@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>ଆପଣଙ୍କ ଫୋନ୍ ଚାର୍ଜ ହେଉଛି।</item>
+        <item>ଆପଣଙ୍କ ଫୋନ୍ ଏକ Wi-Fi ନେଟୱାର୍କକୁ କନେକ୍ଟ।</item>
+        <item>ସ୍କ୍ରିନ୍ ଅଫ୍ ହୋଇଛି।</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ଚାର୍ଜ ହେଉଛି।</item>
+        <item>ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ଏକ Wi-Fi ନେଟୱାର୍କକୁ କନେକ୍ଟ।</item>
+        <item>ସ୍କ୍ରିନ୍ ଅଫ୍ ହୋଇଛି।</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>ଆପଣଙ୍କ ଫୋନ୍ କିମ୍ୱା ଅପରେଟିଂ ସିଷ୍ଟମ୍ ଉପରେ ଆଧାର କରି ଆପଣ ବ୍ୟାକ୍ ଅପ୍ ନେଇଥିବା ଡାଟା ଭିନ୍ନ ହୋଇପାରେ।</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ କିମ୍ୱା ଅପରେଟିଂ ସିଷ୍ଟମ୍ ଉପରେ ଆଧାର କରି ଆପଣ ବ୍ୟାକ୍ ଅପ୍ ନେଇଥିବା ଡାଟା ଭିନ୍ନ ହୋଇପାରେ।</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>ସମ୍ପର୍କଗୁଡିକ: ସିଙ୍କ୍ ହୋଇଥିବା ଆକାଉଣ୍ଟରୁ ସମ୍ପର୍କଗୁଡିକ</item>
+        <item>କ୍ୟାଲେଣ୍ଡର୍: ସିଙ୍କ୍ ହୋଇଥିବା ଆକାଉଣ୍ଟରୁ ଇଭେଣ୍ଟ ଏବଂ ଟାସ୍କଗୁଡିକ</item>
+        <item>Galaxy Themes: ଥିମ୍ ଏବଂ ଡିଫଲ୍ଟ ୱାଲପେପର୍‌</item>
+        <item>ଆପସ୍: ଅଣ-ସୁସଙ୍ଗତ ଇନଷ୍ଟଲେସନ୍ ଫାଇଲ୍ ଏବଂ ଅଣ-ସାମସଙ୍ଗ ଆପ୍ଲିକେସନରୁ ଡାଟା</item>
+        <item>ସୁରକ୍ଷିତ ଫୋଲ୍ଡର୍: ଆପସ୍ ଏବଂ ଡାଟା</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>ସମ୍ପର୍କଗୁଡିକ: ସିଙ୍କ୍ ହୋଇଥିବା ଆକାଉଣ୍ଟରୁ ସମ୍ପର୍କଗୁଡିକ</item>
+        <item>କ୍ୟାଲେଣ୍ଡର୍: ସିଙ୍କ୍ ହୋଇଥିବା ଆକାଉଣ୍ଟରୁ ଇଭେଣ୍ଟ ଏବଂ ଟାସ୍କଗୁଡିକ</item>
+        <item>Galaxy Themes: ଥିମ୍ ଏବଂ ଡିଫଲ୍ଟ ୱାଲପେପର୍‌</item>
+        <item>ଆପସ୍: ଅସମର୍ଥିତ ଇନଷ୍ଟଲେସନ୍ ଫାଇଲ୍</item>
+        <item>ସୁରକ୍ଷିତ ଫୋଲ୍ଡର୍: ଆପସ୍ ଏବଂ ଡାଟା</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ଫୋନ୍: କଲ୍ ଏବଂ ମେସେଜ୍ ହିଷ୍ଟ୍ରି</item>
+        <item>ସନ୍ଦେଶଗୁଡିକ: ସନ୍ଦେଶ, ମଲ୍ଟିମିଡିଆ ସନ୍ଦେଶ, ଏବଂ ଟେକ୍ସଟ୍ ସନ୍ଦେଶ ଉନ୍ନତ</item>
+        <item>ସମ୍ପର୍କଗୁଡିକ: ଆପଣଙ୍କ ଡିଭାଇସରେ ସମ୍ପର୍କ, ଇମେଲ୍ ଠିକଣା, ଏବଂ ବ୍ୟବସାୟ କାର୍ଡ ସେଭ୍ ହୋଇଛି</item>
+        <item>କ୍ୟାଲେଣ୍ଡର୍: ଆପଣଙ୍କ ଡିଭାଇସରେ ସେଭ୍ ହୋଇଥିବା ଇଭେଣ୍ଟ ଏବଂ ଟାସ୍କଗୁଡିକ</item>
+        <item>ଘଡି: ଆଲରାମଗୁଡିକ, ବିଶ୍ଵ ଘଣ୍ଟା, ଏବଂ ଟାଇମର୍</item>
+        <item>ସେଟିଂସ୍: ଆକ୍ସେସିବିଲିଟି ସେଟିଂସ୍, ରିଂଟୋନ୍, ସାମସଙ୍ଗ କୀବୋର୍ଡ୍ ବିକଳ୍ପ, Wi-Fi ସେଟିଂସ୍, ପେୟାର୍ ହୋଇଥିବା ବ୍ଲୁଟୁଥ୍ ଡିଭାଇସଗୁଡିକ, ମୁହଁ ଚିହ୍ନଟକରଣ ସେଟିଂସ୍, ଟିପଚିହ୍ନ, ସେଟିଂସ୍, ଏବଂ Always On Display ସେଟିଂସ୍ (ଆପଣଙ୍କ ଡିଫଲ୍ଟ ରିଂଟୋନର ବ୍ୟାକ୍‌ ଅପ୍ ନିଆଯାଇ ପାରିବ ନାହିଁ)</item>
+        <item>ହୋମ୍ ସ୍କ୍ରିନ୍: ଲେଆଉଟ୍, ୱାଲପେପରଗୁଡିକ, ଏବଂ Samsung DeX ସେଟିଂସ୍</item>
+        <item>ଆପସ୍: ଇନଷ୍ଟଲେସନ୍ ଫାଇଲ୍ ଏବଂ ଆପ୍ଲିକେସନ୍‌ ସେଟିଂସ୍</item>
+        <item>ଭଏସ୍ ରେକର୍ଡର୍: ରେକର୍ଡିଂଗୁଡିକ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>ସଙ୍ଗୀତ: MP3, FLAC, WAV, M4A, OGG, ଏବଂ ଅନ୍ୟ ସଙ୍ଗୀତ ଫାଇଲ୍‌</item>
+        <item>ଡକ୍ୟୁମେଣ୍ଟଗୁଡିକ: PDF, Word, Excel, PowerPoint, ଏବଂ ଅନ୍ୟ ସଙ୍ଗୀତ ଡକ୍ୟୁମେଣ୍ଟ</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: ଚାଟ୍ ହିଷ୍ଟ୍ରି</item>
+        <item>%s: ଲକ୍ ନୋଟ୍ସ</item>
+        <item>%s: ପାସୱାର୍ଡ୍-ସୁରକ୍ଷିତ ଡାଟା</item>
+        <item>%s: ଆପସ୍ ଏବଂ ଆପ୍ ଡାଟା</item>
+        <item>%s: ସିଙ୍କ୍ ହୋଇଥିବା ଆକାଉଣ୍ଟଗୁଡିକରୁ ଇଭେଣ୍ଟ</item>
+        <item>ସାମସଙ୍ଗ ବ୍ଲକଚେନ୍ କୀଷ୍ଟୋର୍</item>
+        <item>ବ୍ୟକ୍ତିଗତ କୀ ଏବଂ ପୁନରୁଦ୍ଧାର ଖଣ୍ଡବାକ୍ୟ</item>
+        <item>ଆପ୍ଲିକେସନର ନୀତିଗୁଡିକ କାରଣରୁ ଡାଟା ଯାହା ସ୍ଥାନାନ୍ତରିତ ହୋଇପାରିବ ନାହିଁ</item>
+        <item>ଆପସ୍ ଯାହା ସୁରକ୍ଷା କିମ୍ୱା ସୁସଙ୍ଗତ ସମସ୍ୟା କାରଣରୁ ସ୍ଥାନାନ୍ତରିତ ହୋଇପାରିବ ନାହିଁ: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>କେବଳ-ପଠନ ସମ୍ପର୍କଗୁଡିକ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>ଡିଫଲ୍ଟ ୱାଲପେପର୍</item>
+        <item>Galaxy Themes ୱାଲପେପରଗୁଡିକ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>ଜରୁରୀକାଳୀନ ସତର୍କ ସନ୍ଦେଶଗୁଡିକ</item>
+        <item>ଡ୍ରାଫ୍ଟ ଏବଂ ବିଫଳ ସନ୍ଦେଶଗୁଡିକ</item>
+        <item>iMessage ପ୍ରଭାବଗୁଡିକ ସହ ସନ୍ଦେଶ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>କଣ୍ଟେଣ୍ଟ ଲକ୍ ହୋଇଛି</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ଫୋନ୍: କଲ୍ ଏବଂ ମେସେଜ୍ ହିଷ୍ଟ୍ରି</item>
+        <item>ସନ୍ଦେଶଗୁଡିକ: ସନ୍ଦେଶ, ମଲ୍ଟିମିଡିଆ ସନ୍ଦେଶ, ଏବଂ ଟେକ୍ସଟ୍ ସନ୍ଦେଶ ଉନ୍ନତ</item>
+        <item>ଘଡି: ଆଲରାମଗୁଡିକ, ବିଶ୍ଵ ଘଣ୍ଟା, ଏବଂ ଟାଇମର୍</item>
+        <item>ସେଟିଂସ୍: ଆକ୍ସେସିବିଲିଟି ସେଟିଂସ୍, ରିଂଟୋନଗୁଡିକ, ସାମସଙ୍ଗ କୀବୋର୍ଡ୍ ବିକଳ୍ପ, Wi-Fi ସେଟିଂସ୍, ପେୟାର୍ ହୋଇଥିବା ବ୍ଲୁଟୁଥ୍ ଡିଭାଇସ୍, ଏବଂ Always On Display ସେଟିଂସ୍ (ଡିଫଲ୍ଟ ରିଂଟୋନ୍ ଏନକ୍ରିପ୍ଟ ହୋଇନାହିଁ)</item>
+        <item>ଆପସ୍: ଆପ୍ଲିକେସନ୍‌ ସେଟିଂସ୍</item>
+        <item>ହୋମ୍ ସ୍କ୍ରିନ୍: ଲେଆଉଟ୍, ୱାଲପେପରଗୁଡିକ, ଏବଂ Samsung DeX ସେଟିଂସ୍</item>
+        <item>ଭଏସ୍ ରେକର୍ଡର୍: ରେକର୍ଡିଂଗୁଡିକ</item>
+    </string-array>
+</resources>

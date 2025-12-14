@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_height">64.0dp</dimen>
+    <dimen name="list_item_bottom_padding">14.0dp</dimen>
+    <dimen name="list_item_top_padding">14.0dp</dimen>
+    <dimen name="master_switch_view_height">58.0dp</dimen>
+    <dimen name="p_setup_wizard_device_item_list_padding_top">40.0dp</dimen>
+    <dimen name="p_setup_wizard_progress">60.0dp</dimen>
+    <dimen name="p_setup_wizard_title_padding_top">16.0dp</dimen>
+    <dimen name="r_setup_wizard_icon_padding_top">42.0dp</dimen>
+    <dimen name="r_setup_wizard_top_icon_size">32.0dp</dimen>
+    <dimen name="setup_wizard_dialog_top_text_size">16.0dp</dimen>
+    <dimen name="setup_wizard_item_sub_text_size">13.0sp</dimen>
+    <dimen name="setup_wizard_item_top_text_size">17.0sp</dimen>
+    <dimen name="setup_wizard_progress_padding_top">230.0dp</dimen>
+    <dimen name="setup_wizard_sub_text_size">16.0sp</dimen>
+    <dimen name="setup_wizard_top_text_size">30.0sp</dimen>
+</resources>

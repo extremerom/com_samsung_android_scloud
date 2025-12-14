@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>ስልክህ ቻርጅ እያረገ ነው።</item>
+        <item>ስልክዎ ከዋይ-ፋይ አውታረ መረብ ጋር ተገናኝቷል።</item>
+        <item>ማያው ጠፍቷል።</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>ታብሌትዎ ቻርጅ እያደረገ ነው።</item>
+        <item>ታብሌትዎ ከዋይ-ፋይ አውታረ መረብ ጋር ተገናኝቷል።</item>
+        <item>ማያው ጠፍቷል።</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>ምትኬ ሊወስዱለት የሚችሉት ውሂብ በእርስዎ ስልክ ወይም በክወና ሶፍትዌር ላይ ሊመሰረት ይችላል።</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>ምትኬ ሊወስዱለት የሚችሉት ውሂብ በእርስዎ ታብሌት ወይም በስርዓተ ክወና ላይ ሊመሰረት ይችላል።</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>የአድራሻ መተግበሪያ፡ የአድራሻ መተግበሪያ ከተመሳሰሉ መለያዎች</item>
+        <item>የቀን-መቁጠሪያ መተግበሪያ፡ ዝግጅት እና ተግባራት ከተመሳሰሉ መለያዎች</item>
+        <item>Galaxy Themes ገጽታዎች፡ ገጽታዎች እና ነባሪ ልጣፍ</item>
+        <item>መተግበሪያዎች፡ ተኳዃኝ ያልሆኑ የመጫኛ ፋይሎች እና የSamsung መተግበሪያዎች ውሂብ</item>
+        <item>ደህንነቱ የተጠበቀ አቃፊ፡ መተግበሪያዎች እና ውሂብ</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>የአድራሻ መተግበሪያ፡ የአድራሻ መተግበሪያ ከተመሳሰሉ መለያዎች</item>
+        <item>የቀን-መቁጠሪያ መተግበሪያ፡ ዝግጅት እና ተግባራት ከተመሳሰሉ መለያዎች</item>
+        <item>Galaxy Themes ገጽታዎች፡ ገጽታዎች እና ነባሪ ልጣፍ</item>
+        <item>መተግበሪያዎች፦ የማይደገፉ የመጫኛ ፋይሎች</item>
+        <item>ደህንነቱ የተጠበቀ አቃፊ፡ መተግበሪያዎች እና ውሂብ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>ስልክ፡ የጥሪ እና የመልእክት ታሪክ</item>
+        <item>መልዕክቶች፦ የተሻሻሉ መልዕክቶች፣ የመልቲሚዲያ መልዕክቶች እና የጽሑፍ መልዕክቶች</item>
+        <item>የአድራሻ መተግበሪያ፡ የአድራሻ መተግበሪያ፣ ኢሜይል አድራሻዎች እና በመሳሪያዎ ላይ የተቀመጡ የቢዝነስ ካርዶች</item>
+        <item>የቀን መቁጠሪያ መተግበሪያ፡ በመሣሪያዎ ላይ የተቀመጡ ክስተቶች እና ተግባራት</item>
+        <item>ሰዓት መቁጠሪያ፡ ማንቂያዎች፣ የዓለም-አቀፍ የጊዜ መቁጠሪያዎች እና ግዜ መቁጠሪያዎች</item>
+        <item>ቅንብሮች፦ የተደራሽነት ቅንብሮች፣ የስልክ ጥሪ ድምፅ፣ Samsung የቁልፍ ሰሌዳ አማራጮች፣ የዋይ-ፋይ ቅንብሮች፣ የተጣመሩ የብሉይቱዝ መሣሪያዎች፣ የፊት ለይቶ ማወቂያ ቅንብሮች፣ የጣት አሻራ ቅንብሮች እና Always On Display ያሉ ቅንብሮች (ነባሪው የስልክ ጥሪ ድምፅዎ ምትኬ አይቀመጥም)</item>
+        <item>የመነሻ ማያ ገጽ፡ አቀማመጥ፣ የፊት ለፊት ምስሎች እና የSamsung DeX ቅንብሮች</item>
+        <item>መተግበሪያዎች፡ የመጫኛ ፋይሎች እና የመተግበሪያ ቅንብሮች</item>
+        <item>ድምጽ መቅጃ፡ መቅዳቶች</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>ሙዚቃ፡ MP3፣ FLAC፣ WAV፣ M4A፣ OGG እና ሌሎች የሙዚቃ ፋይሎች</item>
+        <item>ሰነዶች፦ PDF፣ ዎርድ፣ ኤክሴል፣ ፓወር ፖይንት እና ሌሎች ሰነዶች</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s፦ የውይይትዎ ታሪክ</item>
+        <item>%s፦ የማስታወሻ መተግበሪያን ቆልፎቦታል</item>
+        <item>%s፦ በይለፍ-ቃል የጠበቁት ውሂብ</item>
+        <item>%s፡- መተግበሪያዎችን እና የመተግበሪያ ውሂብ</item>
+        <item>%s፦ ከተመሳሰሉ መለያዎች የተገኙ ክስተቶች</item>
+        <item>Samsung Blockchain ቁልፍ ማከማቻ</item>
+        <item>የግል ቁልፍ እና መልሶ ማግኛ ሐረግ</item>
+        <item>በመተግበሪያው ፖሊሲዎች ምክንያት ሊያስተላልፉ የማይችሉት ውሂብ</item>
+        <item>በደህንነት ወይም በተኳኋኝነት ችግሮች ምክንያት ሊተላለፉ የማይችሉ መተግበሪያዎች፡- %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Read-only የአድራሻ መተግበሪያ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>ነባሪ ልጣፍ</item>
+        <item>Galaxy Themes የግድግዳ ልጥፎች</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>የአደጋ ጊዜ ማንቂያ መልእክቶች</item>
+        <item>ረቂቅ እና ማለፍ ያልቻሉ መልዕክቶች</item>
+        <item>የ iMessage የእይታ እና የድምጽ ለውጦች የያዙ መልዕክቶች</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>የተቆለፈ ይዞታ</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>ስልክ፡ የጥሪ እና የመልእክት ታሪክ</item>
+        <item>መልዕክቶች፦ የተሻሻሉ መልዕክቶች፣ የመልቲሚዲያ መልዕክቶች እና የጽሑፍ መልዕክቶች</item>
+        <item>ሰዓት መቁጠሪያ፡ ማንቂያዎች፣ የዓለም-አቀፍ የጊዜ መቁጠሪያዎች እና ግዜ መቁጠሪያዎች</item>
+        <item>ቅንብሮች፦ የተደራሽነት ቅንብሮች፣ የስልክ ጥሪ ድምፅ፣ የSamsung Keyboard አማራጮች፣ የዋይ-ፋይ ቅንብሮች፣ የተጣመሩ የብሉቱዝ መሳሪያዎች እና Always On Display ቅንብሮች (ነባሪ የስልክ ጥሪ ድምፅ አልተመሰጠረም)</item>
+        <item>መተግበሪያዎች፦ የመተግበሪያ ቅንብሮች</item>
+        <item>የመነሻ ማያ ገጽ፡ አቀማመጥ፣ የፊት ለፊት ምስሎች እና የSamsung DeX ቅንብሮች</item>
+        <item>ድምጽ መቅጃ፡ መቅዳቶች</item>
+    </string-array>
+</resources>

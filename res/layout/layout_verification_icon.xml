@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="80.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:layout_width="44.0dp" android:layout_height="44.0dp" android:layout_marginBottom="3.0dp" android:src="@drawable/ic_additional_verification" />
+    <TextView android:textSize="16.0dp" android:textColor="@color/verification_icon_title" android:gravity="center" android:id="@id/icon_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/samsung_cloud" android:fontFamily="sec-roboto-light" />
+</LinearLayout>

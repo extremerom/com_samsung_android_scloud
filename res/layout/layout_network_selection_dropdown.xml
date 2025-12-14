@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingTop="@dimen/network_selection_padding_top_bottom" android:paddingBottom="@dimen/network_selection_padding_top_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/network_selection_padding_horizontal" android:paddingEnd="@dimen/network_selection_padding_horizontal" style="@style/RecoilEffect"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/contents" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <ImageView android:id="@id/check_image" android:layout_width="@dimen/icon_size_small" android:layout_height="@dimen/icon_size_small" android:src="@drawable/dropdown_selected_mark_icon_image" android:layout_marginStart="@dimen/spinner_checked_image_icon_margin" />
+</LinearLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Telefón sa nabíja.</item>
+        <item>Telefón je pripojený k sieti Wi-Fi.</item>
+        <item>Obrazovka je vypnutá.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tablet sa nabíja.</item>
+        <item>Tablet je pripojený k sieti Wi-Fi.</item>
+        <item>Obrazovka je vypnutá.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Údaje, ktoré môžete zálohovať, sa môžu líšiť podľa telefónu alebo operačného systému.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Údaje, ktoré môžete zálohovať, sa môžu líšiť podľa tabletu alebo operačného systému.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontakty: kontakty zo synchronizovaných kont</item>
+        <item>Kalendár: udalosti a úlohy zo synchronizovaných kont</item>
+        <item>Galaxy Themes: témy a predvolená tapeta</item>
+        <item>Aplikácie: nekompatibilné inštalačné súbory a údaje z aplikácií od iných spoločností než Samsung</item>
+        <item>Zabezpečený priečinok: aplikácie a údaje</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kontakty: kontakty zo synchronizovaných kont</item>
+        <item>Kalendár: udalosti a úlohy zo synchronizovaných kont</item>
+        <item>Galaxy Themes: témy a predvolená tapeta</item>
+        <item>Aplikácie: nepodporované inštalačné súbory</item>
+        <item>Zabezpečený priečinok: aplikácie a údaje</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefón: história hovorov a správ</item>
+        <item>Správy: vylepšené správy, multimediálne správy a textové správy</item>
+        <item>Kontakty: kontakty, e-mailové adresy a vizitky uložené v zariadení</item>
+        <item>Kalendár: udalosti a úlohy uložené v zariadení</item>
+        <item>Hodiny: budíky, svetové časy a časovače</item>
+        <item>Nastavenia: nastavenia zjednodušenia ovládania, vyzváňacie tóny, možnosti klávesnice Samsung, nastavenia pripojenia Wi-Fi, spárované zariadenia Bluetooth, nastavenia rozpoznávania tváre, nastavenia odtlačkov prstov a nastavenia obrazovky Always On Display (predvolený vyzváňací tón sa nezálohuje)</item>
+        <item>Domovská obrazovka: rozloženie, tapety a nastavenia režimu Samsung DeX</item>
+        <item>Aplikácie: inštalačné súbory a nastavenia aplikácií</item>
+        <item>Hlasový záznamník: nahrávky</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Hudba: MP3, FLAC, WAV, M4A, OGG a ďalšie hudobné súbory</item>
+        <item>Dokumenty: PDF, Word, Excel, PowerPoint a ďalšie dokumenty</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: história konverzácií</item>
+        <item>%s: zamknuté poznámky</item>
+        <item>%s: údaje chránené heslom</item>
+        <item>%s: aplikácie a aplikačné údaje</item>
+        <item>%s: udalosti zo synchronizovaných kont</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Súkromný kľúč a obnovovacia fráza</item>
+        <item>Údaje, ktoré nemožno preniesť z dôvodu politík aplikácie</item>
+        <item>Aplikácie, ktoré nemožno preniesť z dôvodu problémov so zabezpečením alebo kompatibilitou: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Kontakty iba na čítanie</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Predvolená tapeta</item>
+        <item>Tapety Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Tiesňové upozorňujúce správy</item>
+        <item>Koncepty a zlyhané správy</item>
+        <item>Správy s efektmi iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Uzamknutý obsah</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefón: história hovorov a správ</item>
+        <item>Správy: vylepšené správy, multimediálne správy a textové správy</item>
+        <item>Hodiny: budíky, svetové časy a časovače</item>
+        <item>Nastavenia: nastavenia zjednodušenia ovládania, vyzváňacie tóny, možnosti klávesnice Samsung, spárované zariadenia Bluetooth a nastavenia funkcií Wi-Fi a Always On Display (predvolený vyzváňací tón nie je šifrovaný)</item>
+        <item>Aplikácie: nastavenia aplikácií</item>
+        <item>Domovská obrazovka: rozloženie, tapety a nastavenia režimu Samsung DeX</item>
+        <item>Hlasový záznamník: nahrávky</item>
+    </string-array>
+</resources>

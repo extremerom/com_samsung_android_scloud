@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:sharedUserId="android.uid.samsungcloud" android:versionCode="560916000" android:versionName="5.6.09.16" android:sharedUserLabel="@string/application_name" android:compileSdkVersion="36" android:compileSdkVersionCodename="16" package="com.samsung.android.scloud" platformBuildVersionCode="36" platformBuildVersionName="16"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <uses-sdk android:minSdkVersion="28" android:targetSdkVersion="36" />
+    <permission android:label="@string/application_name" android:name="com.samsung.android.scloud.app.ui" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.app.permission.BROADCAST" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.sync.vendor.permission.READ" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.cloudagent.mediaservice" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.cloudagent.permission.READ" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.cloudagent.permission.WRITE" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.permission.TRIGGER_BACKUP_SYNC" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.permission.STATUS" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.backup.lib.write" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.backup.lib.read" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.sync.permission.READ" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.sync.permission.WRITE" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.lib.storage.read" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.lib.storage.write" android:protectionLevel="signatureOrSystem" />
+    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY" />
+    <uses-permission android:name="android.permission.READ_SYNC_STATS" />
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+    <uses-permission android:name="com.samsung.android.scloud.lib.storage.read" />
+    <uses-permission android:name="com.samsung.android.scloud.lib.storage.write" />
+    <uses-permission android:name="com.samsung.android.scloud.sync.permission.READ" />
+    <uses-permission android:name="com.samsung.android.scloud.sync.permission.WRITE" />
+    <uses-permission android:name="com.samsung.android.app.notes.sync.STATE_READ" />
+    <uses-permission android:name="com.samsung.android.app.notes.sync.STATE_WRITE" />
+    <uses-permission android:name="com.samsung.android.provider.smartclip.permission.READ" />
+    <uses-permission android:name="com.samsung.android.provider.smartclip.permission.WRITE" />
+    <uses-permission android:name="com.sec.android.app.sbrowser.permission.READ_WRITE_BOOKMARK_FOLDERS" />
+    <uses-permission android:name="com.sec.android.app.sbrowser.permission.QUICKACCESS" />
+    <uses-permission android:name="com.sec.android.app.sbrowser.permission.WRITE_QUICKACCESS" />
+    <uses-permission android:name="com.samsung.android.samsungpass.permission.setting.WRITE" />
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="com.samsung.android.permission.SSRM_NOTIFICATION_PERMISSION" />
+    <uses-permission android:name="com.samsung.android.permission.WRITE_CAPTURED_URL" />
+    <uses-permission android:name="com.samsung.android.bixby.service.bixbysearch.permission.BIXBY_SEARCH" />
+    <uses-permission android:name="com.samsung.android.scs.ai.search.permission.WRITE" />
+    <uses-permission android:name="com.samsung.android.scs.ai.search.permission.READ" />
+    <uses-permission android:name="com.sec.android.app.samsungapps.accesspermission.UPDATE_EXISTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS_PRIVILEGED" />
+    <uses-permission android:name="com.msc.openprovider.OpenContentProvider.READ_CONTENT" />
+    <uses-permission android:name="com.sec.android.phone.permission.READ_CALL_SETTINGS" />
+    <uses-permission android:name="com.sec.android.phone.permission.WRITE_CALL_SETTINGS" />
+    <uses-permission android:name="com.samsung.android.email.permission.ACCESS_PROVIDER" />
+    <uses-permission android:name="android.permission.UPDATE_APP_OPS_STATS" />
+    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+    <uses-permission android:name="com.android.browser.permission.WRITE_HISTORY_BOOKMARKS" />
+    <uses-permission android:name="com.samsung.android.scloud.backup.lib.read" />
+    <uses-permission android:name="com.samsung.android.scloud.backup.lib.write" />
+    <uses-permission android:name="samsung.android.snoteprovider.permission.READ" />
+    <uses-permission android:name="samsung.android.snoteprovider.permission.WRITE" />
+    <uses-permission android:name="com.android.email.permission.ACCESS_PROVIDER" />
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" />
+    <uses-permission android:name="com.samsung.android.memo.READ" />
+    <uses-permission android:name="com.samsung.android.memo.WRITE" />
+    <uses-permission android:name="com.sec.android.inputmethod.scloudsync.permission.READ" />
+    <uses-permission android:name="com.sec.android.inputmethod.scloudsync.permission.WRITE" />
+    <uses-permission android:name="com.samsung.android.scloud.backup.OLD_DATA_ACCESS" />
+    <uses-permission android:name="com.wssnps.permission.COM_WSSNPS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BACKUP" />
+    <uses-permission android:name="com.samsung.cmh.SKIPHEAVY" />
+    <uses-permission android:name="com.samsung.cmh.START" />
+    <uses-permission android:name="com.samsung.cmh.data.READ" />
+    <uses-permission android:name="com.samsung.cmh.data.WRITE" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="com.samsung.android.scloud.cloudagent.permission.READ" />
+    <uses-permission android:name="com.samsung.android.scloud.cloudagent.permission.WRITE" />
+    <uses-permission android:name="android.permission.GET_PACKAGE_SIZE" />
+    <uses-permission android:name="com.sec.permission.preconfig" />
+    <uses-permission android:name="android.permission.LOCAL_MAC_ADDRESS" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.samsung.android.providers.media.CMH" />
+    <uses-permission android:name="com.sec.android.settings.permission.NETWORK_RESET" />
+    <uses-permission android:name="android.permission.INTERNAL_SYSTEM_WINDOW" />
+    <uses-permission android:name="com.samsung.android.scloud.app.permission.BROADCAST" />
+    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED" />
+    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="com.samsung.android.permission.ACCESS_MAINTENANCE_MODE" />
+    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
+    <uses-permission android:name="com.samsung.android.samsungaccount.permission.PROFILE_PROVIDER" />
+    <uses-permission android:name="com.samsung.systemui.POPUP_UI_PERMISSION" />
+    <uses-permission android:name="com.samsung.android.knox.permission.KNOX_CCM_KEYSTORE" />
+    <uses-permission android:name="com.samsung.android.iap.permission.BILLING" />
+    <queries>
+        <package android:name="com.samsung.android.kmxservice" />
+        <package android:name="com.samsung.android.scsp.configurator" />
+        <package android:name="com.samsung.android.smp.register" />
+        <package android:name="com.sec.spp.push" />
+        <package android:name="com.sec.android.app.samsungapps" />
+    </queries>
+    <app:application-salescode android:label="@string/samsung_cloud_jpn" android:name="DCM" android:enabled="true" />
+    <app:application-salescode android:label="@string/samsung_cloud_jpn" android:name="KDI" android:enabled="true" />
+    <app:application-salescode android:label="@string/samsung_cloud_jpn" android:name="UQM" android:enabled="true" />
+    <app:application-salescode android:label="@string/samsung_cloud_jpn" android:name="JCO" android:enabled="true" />
+    <app:application-salescode android:label="@string/samsung_cloud_jpn" android:name="RKT" android:enabled="true" />
+    <app:application-salescode android:label="@string/samsung_cloud_jpn" android:name="SJP" android:enabled="true" />
+    <app:application-salescode android:label="@string/samsung_cloud_jpn" android:name="XJP" android:enabled="true" />
+    <app:application-salescode android:label="@string/samsung_cloud_no_brand" android:name="VZW" android:enabled="true" />
+    <app:application-salescode android:label="@string/samsung_cloud_no_brand" android:name="VPP" android:enabled="true" />
+    <uses-permission android:name="com.samsung.permission.READ_SEC_COMMON_POLICY" />
+    <uses-permission android:name="com.samsung.android.settings.permission.ACCESS_EPISODE" />
+    <uses-permission android:name="android.permission.READ_SEARCH_INDEXABLES" />
+    <uses-permission android:name="com.sec.android.easyMover.permission.SCLOUD_RESTORE" />
+    <uses-permission android:name="android.permission.START_FOREGROUND_SERVICES_FROM_BACKGROUND" />
+    <permission android:name="com.samsung.android.scloud.gallery.permission.READ" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.gallery.permission.WRITE" android:protectionLevel="signatureOrSystem" />
+    <permission android:name="com.samsung.android.scloud.permission.TEMPORARY_BACKUP" android:protectionLevel="signatureOrSystem" />
+    <uses-permission android:name="com.samsung.knox.securefolder.backuprestore.SS_ACCESS" />
+    <uses-permission android:name="android.permission.SUSPEND_APPS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.gms.smartdevice.permission.NOTIFY_QUICK_START_STATUS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_SATE" />
+    <uses-permission android:name="com.sec.android.easyMover.permission.ACCESS_WEAR_PROVIDER" />
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" android:usesPermissionFlags="neverForLocation" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+    <uses-permission android:name="com.sec.android.app.clockpackage.permission.READ_CELEB_VOICE" />
+    <uses-permission android:name="com.sec.android.app.clockpackage.permission.ACCESS_CELEB_VOICE" />
+    <uses-permission android:name="com.sec.android.app.clockpackage.permission.READ_ALARM" />
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES" />
+    <uses-permission android:name="com.sec.permission.BACKUP_RESTORE_HOMESCREEN" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="android.permission.MANAGE_APP_OPS_MODES" />
+    <uses-permission android:name="android.permission.BLUETOOTH_STACK" android:maxSdkVersion="30" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" android:maxSdkVersion="30" />
+    <uses-permission android:name="com.sec.spp.permission.TOKEN_8c20523afaf74603068169cad38abcf728b44f6c5a5d7e6db99cbeb42ca78a660193c16511289a9f09fcccfc4762e30636c50902fdc446a8186e8280146e42cb7c725263480279b5159f9f369b8d877808f0e029fadebf04bf128f44ef5a64ae119d4e2ea88707d79c6e6a85e208260799244f219c9d4ec92b07ccb924d898e6" />
+    <uses-permission android:name="com.sec.android.diagmonagent.permission.DIAGMON" />
+    <uses-permission android:name="com.sec.android.diagmonagent.permission.PROVIDER" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="com.samsung.android.permission.SEC_MEDIA_CONTENTS" />
+    <uses-permission android:name="android.permission.MEDIA_CLOUD_CONTENTS" />
+    <uses-permission android:name="com.samsung.android.permission.SEM_MEDIA_CONTENTS" />
+    <uses-permission android:name="com.samsung.android.providers.media.SCLOUD" />
+    <uses-permission android:name="com.samsung.android.providers.media.READ" />
+    <uses-permission android:name="com.samsung.android.providers.media.WRITE" />
+    <permission android:name="com.samsung.android.scloud.permission.RPC_SYNC_SETTING" android:protectionLevel="signatureOrSystem" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="com.samsung.android.scloud.permission.RPC_SYNC_SETTING" />
+    <uses-permission android:name="android.permission.BLUETOOTH" android:maxSdkVersion="30" />
+    <uses-permission android:name="com.samsung.android.permission.WRITE_SCPM" />
+    <uses-permission android:name="com.samsung.android.permission.READ_SCPM" />
+    <uses-permission android:name="com.samsung.android.settings.intelligence.mde.MDE_SERVICE" />
+    <uses-permission android:name="com.samsung.android.smartsuggestions.mde.MDE_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS" />
+    <uses-permission android:name="android.permission.MANAGE_USERS" />
+    <uses-permission android:name="com.samsung.android.permission.SEM_VOLD_DATA_MOVE" />
+    <uses-permission android:name="com.sec.spp.permission.SEND" />
+    <uses-permission android:name="android.permission.UPDATE_DEVICE_STATS" />
+    <permission android:name="com.samsung.android.scloud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="signature" />
+    <uses-permission android:name="com.samsung.android.scloud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="com.samsung.android.sume.nn.service.permission.ACCESS_SUME_NN_SERVICE" />
+    <uses-permission android:name="com.samsung.android.security.permission.SAMSUNG_KEYSTORE_PERMISSION" />
+    <application android:theme="@android:style/Theme.DeviceDefault.Light" android:label="@string/samsung_cloud" android:icon="@drawable/cloud_app_icon" android:name="com.samsung.android.scloud.app.SamsungCloudApp" android:allowBackup="false" android:hardwareAccelerated="true" android:largeHeap="true" android:supportsRtl="true" android:extractNativeLibs="false" android:resizeableActivity="true" android:networkSecurityConfig="@xml/network_security_config" android:appComponentFactory="androidx.core.app.CoreComponentFactory">
+        <meta-data android:name="com.samsung.android.mobileservice.AppId" android:value="c27bh39q4z" />
+        <meta-data android:name="com.samsung.android.scloud.common.appcontext.NetworkPermissionFactory" android:value="NetworkPermissionFactory" />
+        <meta-data android:name="com.samsung.android.icon_container.has_icon_container" android:value="true" />
+        <meta-data android:name="com.samsung.android.icon_container.feature_appicon" android:value="ADAPTIVEICON_SHADOW" />
+        <meta-data android:name="sync_network_setting_version" android:value="10020000" />
+        <meta-data android:name="sync_account_setting_version" android:value="10010000" />
+        <meta-data android:name="com.samsung.android.bixby.pathRuleAppName" android:value="SamsungCloud" />
+        <meta-data android:name="android.max_aspect" android:value="2.1" />
+        <meta-data android:name="SamsungBasicInteraction" android:value="SEP10" />
+        <meta-data android:name="com.samsung.android.scloud.app.ui.notification.GeneralNotificationManager" android:value="NotificationBroker" />
+        <meta-data android:name="com.samsung.android.scloud.notification.AppUpdateNotificationManager" android:value="NotificationBroker" />
+        <meta-data android:name="com.samsung.android.scloud.notification.SpcPerformanceTestAgreementNotificationManager" android:value="NotificationBroker" />
+        <meta-data android:name="com.samsung.android.bixby.pdssync.launchable" android:value="com.samsung.android.scloud.app.ui.splash.SplashActivity" />
+        <meta-data android:name="firebase_messaging_auto_init_enabled" android:value="false" />
+        <meta-data android:name="firebase_analytics_collection_enabled" android:value="false" />
+        <meta-data android:name="com.samsung.android.samsungaccount.BroadcastReceive" android:value="true" />
+        <meta-data android:name="com.samsung.android.supports_pop_over" android:value="false" />
+        <meta-data android:name="com.samsung.android.shortcuts" android:resource="@xml/mde_shortcuts" />
+        <meta-data android:name="runtime.manifest.overlay" android:resource="@xml/runtime_manifest_overlay" />
+        <meta-data android:name="com.samsung.android.sdk.smp.JobIdSelectionKey" android:value="9" />
+        <meta-data android:name="com.samsung.android.chn.removable_app.shortcut_badge" android:value="true" />
+        <meta-data android:name="sa.support.digital_legacy" android:value="true" />
+        <property android:name="android.app.PROPERTY_LEGACY_UPDATE_OWNERSHIP_DENYLIST" android:resource="@xml/ownership_denylist" />
+        <activity android:theme="@style/Theme.Migration.Splash" android:name="com.samsung.android.scloud.app.ui.splash.SplashActivity" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTop" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.SCLOUD_MAIN" />
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="samsungcloud" android:host="launch" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/main" />
+            </intent-filter>
+        </activity>
+        <activity-alias android:label="@string/samsung_cloud_jpn" android:name="com.samsung.android.scloud.app.ui.splash.launcher.finder.jpn" android:enabled="false" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTask" android:targetActivity="com.samsung.android.scloud.app.ui.splash.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.samsung.android.scs.ai.search.category.SEARCHABLE_ACTIVITY" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.samsung.android.smartsuggestions.search.category.SEARCHABLE_ACTIVITY" />
+            </intent-filter>
+            <meta-data android:name="com.sec.android.app.launcher.icon_theme" android:value="themeColor" />
+        </activity-alias>
+        <activity-alias android:label="@string/samsung_cloud_no_brand" android:name="com.samsung.android.scloud.app.ui.splash.launcher.finder.vzw" android:enabled="false" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTask" android:targetActivity="com.samsung.android.scloud.app.ui.splash.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+            <meta-data android:name="com.sec.android.app.launcher.icon_theme" android:value="themeColor" />
+        </activity-alias>
+        <activity-alias android:label="@string/samsung_cloud" android:name="com.samsung.android.scloud.app.ui.splash.launcher.finder" android:enabled="false" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTask" android:targetActivity="com.samsung.android.scloud.app.ui.splash.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.samsung.android.scs.ai.search.category.SEARCHABLE_ACTIVITY" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.samsung.android.smartsuggestions.search.category.SEARCHABLE_ACTIVITY" />
+            </intent-filter>
+            <meta-data android:name="com.sec.android.app.launcher.icon_theme" android:value="themeColor" />
+        </activity-alias>
+        <activity-alias android:label="@string/samsung_cloud_no_brand" android:name="com.samsung.android.scloud.app.ui.splash.launcher.vzw" android:enabled="false" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTask" android:targetActivity="com.samsung.android.scloud.app.ui.splash.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <meta-data android:name="com.sec.android.app.launcher.icon_theme" android:value="themeColor" />
+        </activity-alias>
+        <activity-alias android:label="@string/samsung_cloud_jpn" android:name="com.samsung.android.scloud.app.ui.splash.launcher.jpn" android:enabled="false" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTask" android:targetActivity="com.samsung.android.scloud.app.ui.splash.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <meta-data android:name="com.sec.android.app.launcher.icon_theme" android:value="themeColor" />
+        </activity-alias>
+        <activity-alias android:label="@string/samsung_cloud" android:name="com.samsung.android.scloud.app.ui.splash.launcher" android:enabled="false" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTask" android:targetActivity="com.samsung.android.scloud.app.ui.splash.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <meta-data android:name="com.sec.android.app.launcher.icon_theme" android:value="themeColor" />
+        </activity-alias>
+        <activity android:theme="@style/Theme.Transparent" android:name="com.samsung.android.scloud.app.ui.splash.NetworkConnectionAgreementActivity" android:exported="false" android:configChanges="orientation|screenSize" />
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/samsung_cloud" android:name="com.samsung.android.scloud.app.ui.SCloudActivity" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:launchMode="standard" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.SCLOUD_MONITOR" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/DialogTheme" android:label="@string/backup_settings" android:name="com.samsung.android.scloud.backup.SamsungBackup" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:clearTaskOnLaunch="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.SCLOUD_BACKUP" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/bnr/backup" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/DialogTheme" android:label="@string/restore" android:name="com.samsung.android.scloud.backup.ManualRestoreActivity" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:clearTaskOnLaunch="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.SCLOUD_RESTORE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Setupwizard" android:label="@string/samsung_cloud" android:name="com.samsung.android.scloud.app.ui.setup.SyncBackupSetupActivity" android:exported="true" android:excludeFromRecents="true" android:launchMode="singleTask" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.sec.android.sCloudBackupApp.REQUEST_SETUP_SCLOUD" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/DialogTheme" android:name="com.samsung.android.scloud.odm.view.error.ForbiddenErrorDialogActivity" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_TRANSPARENT_VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Transparent" android:name="com.samsung.android.scloud.verification.push.AuthRequestTransparentActivity" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_AUTH_REQUEST_TRANSPARENT_VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.PrivacyPolicy.Agreement" android:name="com.samsung.android.scloud.app.ui.privacypolicy.view.TncPpDefaultActivity" android:exported="false" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CHINA_PN_DEFAULT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/DialogTheme" android:name="com.samsung.android.scloud.app.ui.privacypolicy.view.TncPpDialogActivity" android:exported="false" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTop" android:configChanges="orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CHINA_PN_DIALOG" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.PrivacyPolicy.Agreement" android:name="com.samsung.android.scloud.app.ui.permission.view.PermissionAgreementActivity" android:exported="false" android:launchMode="singleTask" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_ONBOARDING_PERMISSION_AGREEMENT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.permission.view.SetupWizardPermissionActivity" android:enabled="true" android:exported="true" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.samsung.android.spv.ACTION_VIEW_DETAIL" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.sec.android.app.secsetupwizard.APP_PERMISSIONS_FOR_CHINA" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.permission.view.PermissionsInfoActivity" android:exported="false" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_PERMISSION_INFO" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/permission/info" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Transparent" android:name="com.samsung.android.scloud.app.ui.suggestion.SuggestionActionHandlerActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_SUGGEST_ACTION" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.SCloudTheme.BrightTheme" android:label="@string/more_information" android:name="com.samsung.android.scloud.app.ui.syncbackup.SyncAndAutoBackUpInfoActivity" android:exported="false" android:launchMode="singleTask" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_SYNC_AND_BACKUP_INFO" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.SCloudTheme.BrightTheme" android:label="@string/samsung_cloud" android:name="com.samsung.android.scloud.app.ui.e2ee.ConfirmRecoveryCodeActivity" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTask" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize" android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/e2ee/recovery/off" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/DialogTheme" android:name="com.samsung.android.scloud.app.ui.e2ee.E2EEStartActivity" android:enabled="true" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/e2ee/visible" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/samsung_cloud" android:name="com.samsung.android.scloud.app.ui.e2ee.EdpSksMainActivity" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize" android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_EDP_SKS_MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/e2ee/sks/main" />
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.samsung.android.scloud.app.manifest.SCloudSetupWizardIntentReceiver" android:permission="com.sec.android.app.SecSetupWizard.permission.SHOW_SETUP_WIZARD" android:enabled="true" android:exported="true">
+            <intent-filter>
+                <action android:name="com.sec.android.app.secsetupwizard.SETUPWIZARD_COMPLETE" />
+                <action android:name="com.sec.android.app.setupwizard.SETUPWIZARD_COMPLETE" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.scloud.app.manifest.SCloudSystemIntentReceiver" android:enabled="true" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.scloud.app.manifest.SCloudAccountIntentReceiver" android:permission="com.osp.app.signin.BROADCAST_PERMISSION" android:exported="true">
+            <intent-filter>
+                <action android:name="com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED" />
+                <action android:name="com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.scloud.app.manifest.SCloudRestoreStartIntentReceiver" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.broadcast.ACTION_START_RESTORE" />
+                <action android:name="com.samsung.android.scloud.app.broadcast.ACTION_RESTART_RESTORE" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.scloud.app.manifest.SCloudLoginStatusIntentReceiver" android:exported="true">
+            <intent-filter>
+                <action android:name="android.accounts.LOGIN_ACCOUNTS_CHANGED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.scloud.app.manifest.GalaxyAppsUpdateReceiver" android:exported="true">
+            <intent-filter>
+                <action android:name="com.sec.android.app.samsungapps.UPDATE_EXISTS" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.scloud.app.manifest.SamsungAccountReceiver" android:permission="com.osp.app.signin.BROADCAST_PERMISSION" android:enabled="true" android:exported="true">
+            <intent-filter android:priority="1000">
+                <action android:name="com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED" />
+                <action android:name="com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED" />
+                <action android:name="com.samsung.account.SAMSUNGACCOUNT_RESIGNIN_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.scloud.smartswitch.SmartSwitchReceiver" android:permission="com.wssnps.permission.COM_WSSNPS" android:exported="true">
+            <intent-filter>
+                <action android:name="com.samsung.android.intent.action.REQUEST_BACKUP_SCLOUD_SETTING" />
+                <action android:name="com.samsung.android.intent.action.REQUEST_RESTORE_SCLOUD_SETTING" />
+            </intent-filter>
+        </receiver>
+        <provider android:label="@string/bluetooth" android:name="com.samsung.android.scloud.syncadapter.property.datastore.DevicePropertyProvider" android:readPermission="com.samsung.android.scloud.sync.permission.READ" android:writePermission="com.samsung.android.scloud.sync.permission.WRITE" android:exported="true" android:authorities="com.samsung.android.scloud.deviceproperty" />
+        <provider android:name="com.samsung.android.scloud.app.manifest.SCloudStatusProvider" android:readPermission="com.samsung.android.scloud.permission.STATUS" android:writePermission="com.samsung.android.scloud.permission.STATUS" android:exported="true" android:authorities="com.samsung.android.scloud.statusprovider" />
+        <provider android:name="com.samsung.android.scloud.smartswitch.SettingContentProvider" android:authorities="com.samsung.android.scloud.settings" />
+        <provider android:name="com.samsung.android.scloud.common.faillog.FailLogsProvider" android:permission="com.samsung.android.scloud.app.ui" android:exported="true" android:multiprocess="false" android:authorities="com.samsung.android.scloud.faillogs" />
+        <service android:name="androidx.work.impl.foreground.SystemForegroundService" android:enabled="@bool/enable_system_foreground_service_default" android:exported="false" android:directBootAware="false" android:foregroundServiceType="specialUse" />
+        <service android:name="com.samsung.android.scloud.app.service.job.NetworkConnectionAllowedNotiJob" android:permission="android.permission.BIND_JOB_SERVICE" android:enabled="true" android:exported="false" />
+        <service android:name="com.samsung.android.scloud.notification.SyncAndBackupNotiJob" android:permission="android.permission.BIND_JOB_SERVICE" android:exported="false" />
+        <service android:name="com.samsung.android.scloud.notification.SyncAndBackupOffDelayedNotiJob" android:permission="android.permission.BIND_JOB_SERVICE" android:exported="false" />
+        <service android:name="com.samsung.android.scloud.common.update.job.StopAppUpdateNotiJob" android:permission="android.permission.BIND_JOB_SERVICE" android:exported="false" />
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.dashboard2.view.activity.SamsungCloudDashboardActivity" android:exported="false" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTop" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD" />
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD2" />
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD50" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.digitallegacy.view.DlDashboardActivity" android:exported="false" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTop" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_DASHBOARD" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.SCloudTheme.BrightTheme" android:name="com.samsung.android.scloud.app.ui.digitallegacy.view.DlOobeDashboardActivity" android:exported="false" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTop" android:configChanges="locale|keyboardHidden|screenLayout|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_OOBE_DASHBOARD" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/download_legacy_data" android:name="com.samsung.android.scloud.app.ui.digitallegacy.view.DlSnapshotActivity" android:exported="true" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTop" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_DASHBOARD_SNAPSHOT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/digitallegacy" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.SCloudTheme.BrightTheme" android:name="com.samsung.android.scloud.app.ui.digitallegacy.view.DlSelectDataActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_CHOOSE_DATA" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.SCloudTheme.BrightTheme" android:name="com.samsung.android.scloud.app.ui.digitallegacy.view.DlOobeSnapshotActivity" android:exported="false" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTop" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_DASHBOARD_OOBE_SNAPSHOT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/DialogTheme" android:name="com.samsung.android.scloud.app.ui.digitallegacy.view.DlDeeplinkProxyActivity" android:permission="com.samsung.android.scloud.permission.TRIGGER_BACKUP_SYNC" android:exported="true" android:launchMode="singleInstance">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:pathPrefix="/dl/" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.SCloudTheme.BrightTheme" android:name="com.samsung.android.scloud.app.ui.digitallegacy.view.DlOobeDownloadAppsActivity" android:exported="true" android:launchMode="singleTop" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/digitallegacy/oobe" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/sync_settings" android:name="com.samsung.android.scloud.app.ui.dashboard2.view.activity.SyncSettingActivity" android:exported="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_SYNC_SETTING_DASHBOARD" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity-alias android:name="com.samsung.android.scloud.app.ui.dashboard2.SyncAndAutoBackUpSetting" android:exported="true" android:targetActivity="com.samsung.android.scloud.app.ui.dashboard2.view.activity.SyncSettingActivity">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.SYNC_SETTINGS" />
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_SYNC_AND_BACKUP_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:name="com.samsung.android.scloud.app.ui.dashboard2.SyncSetting" android:exported="true" android:targetActivity="com.samsung.android.scloud.app.ui.dashboard2.view.activity.SyncSettingActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/sync" />
+            </intent-filter>
+        </activity-alias>
+        <provider android:name="com.samsung.android.scloud.app.announcement.controller.AnnouncementProvider" android:enabled="true" android:exported="false" android:authorities="com.samsung.android.scloud.announcement.provider" />
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Samsung Cloud Notice" android:name="com.samsung.android.scloud.app.announcement.view.AnnouncementActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_ANNOUNCEMENT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.announcement.view.AnnounceDetailActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_ANNOUNCEMENT_DETAIL" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <meta-data android:name="com.samsung.android.scloud.app.ui.datamigrator.controller.notification.DataMigratorNotificationManager" android:value="NotificationBroker" />
+        <activity android:theme="@style/Theme.Migration.Agreement" android:name="com.samsung.android.scloud.app.ui.datamigrator.view.agreement.MigrationAgreementActivity" android:exported="true" android:launchMode="singleTop" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_MIGRATION_AGREEMENT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/onedrive/tnc" />
+            </intent-filter>
+        </activity>
+        <activity-alias android:name="com.samsung.android.scloud.app.ui.datamigrator.MigrationAgreement" android:exported="false" android:targetActivity="com.samsung.android.scloud.app.ui.datamigrator.view.agreement.MigrationAgreementActivity">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_MIGRATION_AGREEMENT_INTERNAL" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias>
+        <activity android:theme="@style/Theme.Migration.Tnc" android:name="com.samsung.android.scloud.app.ui.datamigrator.view.agreement.SamsungServiceAgreementActivity" android:exported="false" android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_SAMSUNG_SERVICE_AGREEMENT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="activity" android:host="linkingagreement" />
+                <data android:scheme="activity" android:host="samsungcloud_privacypolicy_agreement" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Migration.Agreement" android:name="com.samsung.android.scloud.app.ui.datamigrator.view.agreement.AccountLinkingWebViewActivity" android:exported="false" android:launchMode="singleTask" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_ACCOUNT_LINKING_WEB" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Migration.Agreement" android:name="com.samsung.android.scloud.app.ui.datamigrator.view.agreement.AccountLinkingCustomTabActivity" android:exported="true" android:launchMode="singleTask" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="accountlinking" />
+            </intent-filter>
+        </activity>
+        <activity-alias android:name="com.samsung.android.scloud.app.ui.datamigrator.AccountLinkingCustomTab" android:exported="false" android:targetActivity="com.samsung.android.scloud.app.ui.datamigrator.view.agreement.AccountLinkingCustomTabActivity">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_ACCOUNT_LINKING_CUSTOM_TAB" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.datamigrator.view.agreement.AccountLinkingInternalActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_ACCOUNT_LINKING_INTERNAL" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Migration.Agreement" android:name="com.samsung.android.scloud.app.ui.datamigrator.view.agreement.MigrationResumeActivity" android:exported="false" android:excludeFromRecents="true">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_MIGRATION_RESUME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@android:style/Theme.DeviceDefault.Light.Dialog.NoActionBar" android:name="com.samsung.android.scloud.app.ui.datamigrator.view.update.PartnersUpdateActivity" android:exported="false" android:excludeFromRecents="true">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_PARTNERS_UPDATE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.datamigrator.view.agreement.NotAvailableMigrationActivity" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_NOT_AVAILABLE_MIGRATION" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <meta-data android:name="com.samsung.android.scloud.app.ui.gallery.notification.GalleryNotificationManager" android:value="NotificationBroker" />
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/gallery" android:name="com.samsung.android.scloud.app.ui.gallery.view.dashboard.GalleryDashboardActivity" android:permission="com.samsung.android.scloud.cloudagent.permission.READ" android:exported="true" android:clearTaskOnLaunch="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_MAIN" />
+                <action android:name="com.samsung.android.scloud.GALLERY_CLOUD_SETTING" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity-alias android:name="com.samsung.android.scloud.app.ui.gallery.GalleryDashboardActivity" android:exported="true" android:targetActivity="com.samsung.android.scloud.app.ui.gallery.view.dashboard.GalleryDashboardActivity">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_SETTING" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/albums_to_upload" android:name="com.samsung.android.scloud.app.ui.gallery.view.album.activity.AlbumSelectionActivity" android:permission="com.samsung.android.scloud.cloudagent.permission.READ" android:exported="true" android:clearTaskOnLaunch="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_ALBUM_SELECT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/free_up_phone_space" android:name="com.samsung.android.scloud.app.ui.gallery.view.delete.FreeUpPhoneSpaceActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_FREE_UP_PHONE_SPACE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.gallery.view.developer.GalleryDataGenTestActivity" android:exported="false" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_ALBUM_DATA_GEN_TEST" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.samsung.android.scloud.app.ui.gallery.receivers.AlbumSyncControlIntentReceiver" android:permission="com.samsung.android.scloud.app.ui" android:exported="true">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.broadcast.ACTION_ALBUM_SYNC" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.scloud.app.ui.gallery.receivers.GallerySyncActionIntentReceiver" android:permission="com.samsung.android.scloud.app.ui" android:exported="true">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.broadcast.ACTION_SYNC_GALLERY_BY_FORCE" />
+            </intent-filter>
+        </receiver>
+        <provider android:name="com.samsung.android.scloud.app.datamigrator.provider.LinkContextProvider" android:enabled="true" android:exported="true" android:authorities="com.samsung.android.scloud.app.ui.datamigrator.linkcontext" />
+        <activity android:theme="@style/Theme.SCloudTheme.BrightTheme" android:label="@string/about_samsung_cloud" android:name="com.samsung.android.scloud.app.ui.settings.view.settings.information.AboutActivity" android:exported="false" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_ABOUT_PAGE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/about" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/settings" android:name="com.samsung.android.scloud.app.ui.settings.view.settings.SettingActivity" android:exported="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.sec.android.intent.action.SEC_APPLICATION_SETTINGS" />
+                <category android:name="com.sec.android.intent.category.SEC_APPLICATION_SETTINGS" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/settings" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.settings.view.settings.information.OpenSourceLicenseActivity" android:exported="false" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_OPEN_SOURCE_LICENSES" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.settings.view.settings.privacy.ErasePersonalDataActivity" android:exported="true" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/privacy/erase" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.settings.view.settings.privacy.DownloadPersonalDataActivity" android:exported="true" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/privacy/download" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Develop Mode" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.DeveloperModeActivity" android:exported="false" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.DEVELOPER_MODE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Backup Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.BackupTestActivity" android:exported="false" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.BACKUP_TEST" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Sync Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.SyncTestActivity" android:exported="false" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.SYNC_TEST" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Gallery Sync Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.GallerySyncTestActivity" android:exported="false" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.GALLERY_SYNC_TEST" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Premium Web Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.PremiumWebTestActivity" android:exported="false" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.PREMIUM_WEB_TEST" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <provider android:name="com.samsung.android.scloud.app.ui.settings.controller.episode.SettingBackupProvider" android:permission="com.samsung.android.settings.permission.ACCESS_EPISODE" android:exported="true" android:authorities="com.samsung.android.scloud.app.ui.settings.episode.provider" android:syncable="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.intent.action.SCENE" />
+            </intent-filter>
+        </provider>
+        <provider android:name="com.samsung.android.scloud.app.ui.settings.indexablesearch.CustomIndexablesSearchProvider" android:permission="android.permission.READ_SEARCH_INDEXABLES" android:exported="true" android:multiprocess="false" android:authorities="com.samsung.android.scloud.app.ui.settings" android:grantUriPermissions="true">
+            <intent-filter>
+                <action android:name="android.content.action.SEARCH_INDEXABLES_PROVIDER" />
+            </intent-filter>
+            <meta-data android:name="com.samsung.android.settings.require_settings_key" android:value="top_level_cloud_settings" />
+            <meta-data android:name="com.samsung.android.settings.require_settings_title" android:value="@string/samsung_cloud_settings" />
+        </provider>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.bnr.ui.view.screen.backup.AutoBackupResultActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.bnr.ui.view.screen.backup.BackupMoreInfoActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_DETAIL_BACKUP_MORE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/restore_data" android:name="com.samsung.android.scloud.bnr.ui.view.screen.restore.BackupDeviceListActivity" android:exported="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_RESTORE_DASHBOARD" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/bnr/restore" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/samsung_cloud" android:name="com.samsung.android.scloud.bnr.ui.view.screen.setupwizard.SetupWizardRestoreActivity" android:exported="true" android:excludeFromRecents="true" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.sec.android.sCloudBackupApp.REQUEST_RESTORE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/back_up_data" android:name="com.samsung.android.scloud.bnr.ui.view.screen.backup.BackupE2EEActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_BACKUP_DASHBOARD" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/restore_data" android:name="com.samsung.android.scloud.bnr.ui.view.screen.restore.RestoreE2EEActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_RESTORE_DEVICE" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.bnr.ui.view.screen.appselect.AppSelectActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.bnr.ui.view.screen.appselect.AppInstallationResultActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|density">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/delete_backup" android:name="com.samsung.android.scloud.bnr.ui.view.screen.delete.DeleteActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Transparent" android:name="com.samsung.android.scloud.bnr.ui.view.screen.setupwizard.SetupWizardProxyActivity" android:exported="true" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_P_SETUPWIZARD_RESTORE" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme.NoTitleBar.SetupWizard" android:name="com.samsung.android.scloud.bnr.ui.view.screen.setupwizard.SetupWizardDeviceActivity" android:exported="false" android:launchMode="singleTask" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme.NoTitleBar.SetupWizard" android:name="com.samsung.android.scloud.bnr.ui.view.screen.setupwizard.SetupWizardSettingActivity" android:exported="false" android:launchMode="singleTask" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme.NoTitleBar.SetupWizard" android:name="com.samsung.android.scloud.bnr.ui.view.screen.setupwizard.SetupWizardCategoryActivity" android:exported="false" android:launchMode="singleTask" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.SCloudTheme.BrightTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbRemoteBackupActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize" />
+        <activity android:theme="@style/Theme.SCloudTheme.BrightTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbRemoteBackupProgressActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize" />
+        <activity android:theme="@style/Theme.SCloudTheme.CtbTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbBackupActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_CONTENTLIST" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.SCloudTheme.CtbTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.v2.CtbBackupActivityV2" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize" />
+        <activity android:theme="@style/Theme.SCloudTheme.CtbTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbSetupWizardCategoryActivity" android:exported="false" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize" />
+        <activity android:theme="@style/Theme.SCloudTheme.CtbTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.v2.CtbSetupWizardCategoryActivityV2" android:exported="false" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize" />
+        <activity android:theme="@style/Theme.SCloudTheme.CtbTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbIntroActivity" android:exported="false" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize" />
+        <activity android:theme="@style/Theme.SCloudTheme.CtbTheme" android:name="com.samsung.android.scloud.ctb.ui.compose.activity.CtbIntroComposeActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" />
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbRestoreActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_RESTORE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.v2.CtbRestoreActivityV2" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" />
+        <activity android:theme="@style/Theme.SCloudTheme.CtbTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbProgressActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbDeleteActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_DELETE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbSecureFolderBackupActivity" android:exported="false" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_SECURE_FOLDER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Samsung Cloud Notice" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbSecureFolderEncryptionActivity" android:exported="true" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_SECURE_FOLDER_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/ctb/settings/securefolder" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbAppInstallationActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_APP_INSTALL_RESULT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/DialogTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbProxyActivity" android:permission="com.samsung.android.scloud.permission.TEMPORARY_BACKUP" android:exported="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP" />
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_RESULT" />
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_EXCEPTIONAL_RESULT" />
+                <action android:name="com.samsung.android.scloud.action.SELF_CHECK_CTB_STATUS" />
+                <action android:name="com.samsung.android.scloud.action.REMOTE_BACKUP" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/ctb/qs/restore" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.SCloudTheme.CtbTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbSuccessActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_RESULT" />
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CTB_RESTORE_RESULT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.SCloudTheme.CtbTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbFailedActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CTB_RESTORE_FAILED_ACTIVITY_VIEW" />
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_EXCEPTIONAL_RESULT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.SCloudTheme.CtbTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbNativeAppUpdateActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CTB_NATIVE_APP_UPDATE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.SCloudTheme.CtbTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbSetupWizardNativeAppUpdateActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CTB_SETUP_WIZARD_NATIVE_APP_UPDATE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/DialogTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbWatchBackupActivity" android:exported="false" />
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbWatchRestoreActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CTB_WATCH_RESTORE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.bnr.ui.e2ee.view.EncryptBackupDataActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" />
+        <activity android:theme="@style/Theme.SCloudTheme.BrightTheme" android:name="com.samsung.android.scloud.bnr.ui.e2ee.view.BackUpYourDataActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" />
+        <activity android:theme="@style/DialogTheme" android:name="com.samsung.android.scloud.bnr.ui.e2ee.view.E2eeDialogActivity" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.bnr.ui.e2ee.view.LAUNCH_E2EE_DIALOG" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.ctb.ui.view.activity.CtbQSUpdateActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_CTB_QS_UPDATE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.bnr.ui.e2ee.view.BackupSksImportActivity" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize" android:windowSoftInputMode="adjustResize" />
+        <receiver android:name="com.samsung.android.scloud.bnr.ui.notification.BNRNotiEventReceiver" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.broadcast.ACTION_ABNORMAL_TERMINATION" />
+                <action android:name="com.samsung.android.scloud.app.broadcast.ACTION_BNR_NOTI_CANCEL" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.samsung.android.scloud.bnr.ui.notification.guide.RestorationGuideNotiJob" android:permission="android.permission.BIND_JOB_SERVICE" android:exported="false" />
+        <service android:name="com.samsung.android.scloud.bnr.ui.service.AutoBackupTriggerJobService" android:permission="android.permission.BIND_JOB_SERVICE" android:enabled="true" android:exported="false" />
+        <service android:name="com.samsung.android.scloud.bnr.ui.service.AutoBackupService" android:enabled="true" android:exported="false" android:foregroundServiceType="specialUse">
+            <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="Samsung Cloud Backup and Restore" />
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.backup.autobackup.START_AUTO_BACKUP" />
+                <action android:name="com.samsung.android.scloud.backup.autobackup.STOP_AUTO_BACKUP" />
+            </intent-filter>
+        </service>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.newgallery.view.albumdownload.AlbumDownloadActivity" android:exported="false" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTop" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_ALBUM_DOWNLOAD" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/DialogTheme" android:name="com.samsung.android.scloud.app.ui.newgallery.view.GallerySettingEntranceActivity" android:permission="com.samsung.android.scloud.cloudagent.permission.READ" android:exported="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.GALLERY_SETTING" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/DialogTheme" android:name="com.samsung.android.scloud.app.ui.newgallery.view.AlbumSelectionEntranceActivity" android:permission="com.samsung.android.scloud.cloudagent.permission.READ" android:exported="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.GALLERY_CLOUD_SYNC_ALBUM" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/gallery" android:name="com.samsung.android.scloud.app.ui.newgallery.view.dashboard.GalleryDashboardActivity" android:permission="com.samsung.android.scloud.cloudagent.permission.READ" android:exported="true" android:clearTaskOnLaunch="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_NEW_GALLERY_MAIN" />
+                <action android:name="com.samsung.android.scloud.NEW_GALLERY_SETTING" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/albums_to_upload" android:name="com.samsung.android.scloud.app.ui.newgallery.view.album.activity.AlbumSelectionActivity" android:permission="com.samsung.android.scloud.cloudagent.permission.READ" android:exported="true" android:clearTaskOnLaunch="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_NEW_GALLERY_ALBUM_SELECT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="@string/free_up_phone_space" android:name="com.samsung.android.scloud.app.ui.newgallery.view.delete.FreeUpPhoneSpaceActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_NEW_FREE_UP_PHONE_SPACE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.newgallery.view.test.GalleryDeveloperTestActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_DEVELOPER_TEST" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.sync.view.SyncMoreInfoActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_DETAIL_SYNC_MORE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.sync.view.DetailAppSyncSettingActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_DETAIL_APP_SYNC_SETTING" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter> > </activity>
+        <activity-alias android:name="com.samsung.android.scloud.app.ui.sync.DetailAppSyncSettingActivity" android:exported="true" android:targetActivity="com.samsung.android.scloud.app.ui.sync.view.DetailAppSyncSettingActivity">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_OTHER_PHONE_DATA" />
+                <action android:name="com.samsung.android.scloud.SAMSUNG_NOTES_SETTINGS" />
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_SAMSUNG_NOTES_SETTING" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/sync/details" />
+            </intent-filter>
+        </activity-alias>
+        <activity android:theme="@style/Theme.SCloudTheme.BrightTheme" android:name="com.samsung.android.scloud.app.ui.sync.e2ee.view.SyncYourDataActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_SYNC_YOUR_DATA" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.sync.e2ee.view.EncryptSyncDataActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_ENCRYPT_SYNCED_DATA" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/DialogTheme" android:name="com.samsung.android.scloud.app.ui.sync.e2ee.view.SyncE2eeDialogActivity" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.ui.sync.e2ee.view.LAUNCH_SYNC_E2EE_DIALOG" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.odm.view.help.HelpTemplateActivity" android:exported="false" android:taskAffinity="com.samsung.android.scloud" android:launchMode="singleTop" android:configChanges="locale|keyboardHidden|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_HELP_TEMPLATE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme.Transparent" android:name="com.samsung.android.scloud.containerui.activity.DeeplinkProxyActivity" android:exported="false" android:launchMode="singleInstance">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/contactus" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/privacy/notice" />
+            </intent-filter>
+        </activity>
+        <provider android:name="com.samsung.android.scloud.galleryproxy.provider.MediaProxyProvider" android:readPermission="com.samsung.android.scloud.sync.permission.READ" android:writePermission="com.samsung.android.scloud.sync.permission.WRITE" android:exported="true" android:authorities="com.samsung.android.scloud.media.app" android:syncable="false" />
+        <provider android:name="com.samsung.android.scloud.galleryproxy.contentcard.DataStoreProvider" android:exported="false" android:authorities="com.samsung.android.scloud.galleryproxy.contentcard.datastore" />
+        <service android:name="com.samsung.android.scloud.galleryproxy.mediarecovery.MediaRecoveryService" android:permission="android.permission.BIND_JOB_SERVICE" android:enabled="true" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.galleryproxy.mediarecovery.MEDIA_RECOVERY" />
+            </intent-filter>
+        </service>
+        <service android:name="com.samsung.android.scloud.galleryproxy.mediarecovery.MediaRecoverySchedulerService" android:permission="android.permission.BIND_JOB_SERVICE" android:enabled="true" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.galleryproxy.mediarecovery.MEDIA_RECOVERY_SCHEDULE" />
+            </intent-filter>
+        </service>
+        <meta-data android:name="content_sync_version" android:value="20000000" />
+        <service android:name="com.samsung.android.scloud.newgallery.data.repository.service.GalleryJobService" android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service android:name="com.samsung.android.scloud.newgallery.albumdownload.data.repository.service.NotificationService" android:enabled="true" android:exported="false" android:foregroundServiceType="specialUse">
+            <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="Samsung Cloud Gallery Sync" />
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.gallery.ACTION_START_WORK_CHAIN" />
+                <action android:name="com.samsung.android.scloud.gallery.ACTION_STOP_WORK_CHAIN" />
+            </intent-filter>
+        </service>
+        <service android:name="com.samsung.android.scloud.newgallery.data.repository.service.GallerySyncAdapterService" android:exported="false">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/gallery_syncadapter" />
+        </service>
+        <provider android:name="com.samsung.android.scloud.newgallery.external.provider.NewGalleryExternalProvider" android:readPermission="com.samsung.android.scloud.gallery.permission.READ" android:writePermission="com.samsung.android.scloud.gallery.permission.WRITE" android:exported="true" android:authorities="com.samsung.android.scloud.gallery;com.samsung.android.scloud.gallery.story" android:syncable="false" />
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.premium.view.PremiumStorageGuideActivity" android:exported="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/premium/guide" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_PREMIUM_STORAGE_GUIDE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.premium.view.PremiumWebActivity" android:exported="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_PREMIUM_WEB" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/premium/web" />
+            </intent-filter>
+        </activity>
+        <service android:name="com.samsung.android.scloud.temp.service.CtbBleService" android:enabled="true" android:exported="false" android:foregroundServiceType="connectedDevice" />
+        <service android:name="com.samsung.android.scloud.temp.service.CtbBackupInfoService" android:permission="com.samsung.android.scloud.permission.TEMPORARY_BACKUP" android:enabled="true" android:exported="true">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.BackupInfoService" />
+            </intent-filter>
+        </service>
+        <service android:name="com.samsung.android.scloud.temp.service.CtbProgressService" android:enabled="true" android:exported="false" android:foregroundServiceType="specialUse">
+            <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="Samsung Cloud Temporary Backup and Restore" />
+        </service>
+        <receiver android:name="com.samsung.android.scloud.temp.performance.TimeAlarmReceiver" android:enabled="true" android:exported="false" />
+        <receiver android:name="com.samsung.android.scloud.temp.service.CtbSmartSwitchReceiver" android:permission="com.samsung.android.scloud.permission.TEMPORARY_BACKUP" android:enabled="true" android:exported="true">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.action.START_WATCH_BACKUP" />
+                <action android:name="com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.scloud.temp.service.BlockStoreReceiver" android:permission="com.google.android.gms.smartdevice.permission.NOTIFY_QUICK_START_STATUS" android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.smartdevice.quickstart.SOURCE_FLOW_START" />
+                <action android:name="com.google.android.gms.smartdevice.quickstart.BLOCK_STORE_READY" />
+            </intent-filter>
+        </receiver>
+        <activity android:theme="@style/DialogTheme" android:name="com.samsung.android.scloud.temp.service.WatchReceiverActivity" android:permission="com.samsung.android.scloud.permission.TEMPORARY_BACKUP" android:enabled="true" android:exported="true" android:excludeFromRecents="true" android:launchMode="singleInstance">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.action.LAUNCH_APP_UPDATE" />
+                <action android:name="com.samsung.android.scloud.action.START_WATCH_BACKUP" />
+                <action android:name="com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL" />
+                <action android:name="com.samsung.android.scloud.action.START_WATCH_RESTORE" />
+                <action android:name="com.samsung.android.scloud.action.START_WATCH_CHILD_RESTORE" />
+                <action android:name="com.samsung.android.scloud.action.START_WATCH_BACKUP_DIALOG" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <meta-data android:name="com.samsung.android.scloud.BackupServiceVersion" android:value="0.3" />
+        <service android:name="com.samsung.android.scloud.app.core.operators.notification.SCloudNotificationService" android:permission="android.permission.BIND_JOB_SERVICE" android:enabled="true" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_SERVICE_STICKY" />
+                <action android:name="com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_SERVICE_NOT_STICKY" />
+                <action android:name="com.samsung.android.scloud.app.service.ACTION_SHOW_NOTIFICATION" />
+                <action android:name="com.samsung.android.scloud.app.service.ACTION_REMOVE_NOTIFICATION" />
+            </intent-filter>
+        </service>
+        <receiver android:name="com.samsung.android.scloud.update.controller.AppUpdateReceiver" android:enabled="true" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.update.CHECK_UPDATE_POLICY" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.scloud.update.controller.AppUpdateNotificationActionReceiver" android:enabled="true" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.broadcast.ACTION_START_APP_UPDATE" />
+                <action android:name="com.samsung.android.scloud.app.broadcast.ACTION_STOP_APP_UPDATE" />
+            </intent-filter>
+        </receiver>
+        <provider android:name="com.samsung.android.scloud.backup.protocol.CloudProtocolProvider" android:readPermission="com.samsung.android.scloud.sync.permission.READ" android:writePermission="com.samsung.android.scloud.sync.permission.WRITE" android:exported="true" android:authorities="com.samsung.android.scloud.protocol" />
+        <service android:name="com.samsung.android.scloud.sdk.storage.servicecore.service.BackupWorkerService" android:enabled="true" android:exported="false" android:foregroundServiceType="specialUse">
+            <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="Samsung Cloud Backup and Restore" />
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.sdk.storage.core.ACTION_START_WORK_CHAIN" />
+                <action android:name="com.samsung.android.scloud.sdk.storage.core.ACTION_STOP_WORK_CHAIN" />
+            </intent-filter>
+        </service>
+        <receiver android:name="com.samsung.android.scloud.backup.e2ee.BackupE2eeStateReceiver" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scpm.kps.JOIN_COMPLETED" />
+                <action android:name="com.samsung.android.scpm.kps.LEAVE_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <provider android:name="com.sec.android.diagmonagent.log.provider.DiagMonProvider" android:permission="com.sec.android.diagmonagent.permission.PROVIDER" android:exported="true" android:authorities="com.sec.android.log.026-399-529756" />
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.media.MediaAccountExecutorImpl" android:value="scloud.account.executor" />
+        <service android:name="com.samsung.android.scloud.syncadapter.media.MediaSyncService" android:exported="true">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/media_syncadapter" />
+        </service>
+        <service android:name="com.samsung.android.scloud.syncadapter.media.service.MediaService" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.media.sync.ACTION_CLOUD_MEDIA_REQUEST" />
+            </intent-filter>
+        </service>
+        <receiver android:name="com.samsung.android.scloud.syncadapter.media.service.MediaServiceReceiver" android:permission="com.samsung.android.scloud.sync.permission.READ" android:enabled="true" android:exported="true">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.media.sync.ACTION_CLOUD_MEDIA_REQUEST" />
+            </intent-filter>
+        </receiver>
+        <provider android:name="com.samsung.android.scloud.syncadapter.media.service.MediaServiceProvider" android:readPermission="com.samsung.android.scloud.sync.permission.READ" android:writePermission="com.samsung.android.scloud.sync.permission.WRITE" android:exported="true" android:authorities="com.samsung.android.scloud.mediaservice" />
+        <provider android:name="com.samsung.android.scloud.syncadapter.media.multilingual.MultiLingualProvider" android:readPermission="com.samsung.android.scloud.sync.permission.READ" android:writePermission="com.samsung.android.scloud.sync.permission.WRITE" android:exported="true" android:authorities="com.samsung.android.scloud.media.multilingual" />
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.base.item.wifi.WifiAccountExecutorImpl" android:value="scloud.account.executor" />
+        <service android:name="com.samsung.android.scloud.syncadapter.base.item.wifi.WifiSyncService" android:exported="true">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/wifi_syncadapter" />
+        </service>
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.base.item.bt.BtAccountExecutorImpl" android:value="scloud.account.executor" />
+        <service android:name="com.samsung.android.scloud.syncadapter.base.item.bt.BtSyncService" android:exported="true">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/bt_syncadapter" />
+        </service>
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.base.item.aremoji.ArEmojiAccountExecutorImpl" android:value="scloud.account.executor" />
+        <service android:name="com.samsung.android.scloud.syncadapter.base.item.aremoji.ArEmojiSyncService" android:exported="true">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/aremoji_syncadapter" />
+        </service>
+        <receiver android:name="com.samsung.android.scloud.sync.receiver.SyncReceiver" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.scpm.kps.JOIN_COMPLETED" />
+                <action android:name="com.samsung.android.scpm.kps.LEAVE_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.calendar.CalendarAccountExecutorImpl" android:value="scloud.account.executor" />
+        <service android:name="com.samsung.android.scloud.syncadapter.calendar.CalendarSyncService" android:exported="true">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/calendar_syncadapter" />
+        </service>
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.contacts.ContactsAccountExecutorImpl" android:value="scloud.account.executor" />
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.contacts.ContactsByodActivateExecutorImpl" android:value="scloud.account.byod.executor" />
+        <service android:name="com.samsung.android.scloud.syncadapter.contacts.ContactsSyncService" android:exported="true">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/contacts_syncadapter" />
+        </service>
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.internet.InternetAccountExecutorImpl" android:value="scloud.account.executor" />
+        <service android:name="com.samsung.android.scloud.syncadapter.internet.SBrowserSyncService" android:exported="true">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/internet_syncadapter" />
+        </service>
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.memo.Category" android:value="scloud.sync.model" />
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.memo.Memo" android:value="scloud.sync.model" />
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.memo.MemoAccountExecutorImpl" android:value="scloud.account.executor" />
+        <service android:name="com.samsung.android.scloud.syncadapter.memo.MemoSyncService" android:exported="true">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/memo_syncadapter" />
+        </service>
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.note.model.SNote4" android:value="scloud.sync.model" />
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.note.SNote4AccountExecutorImpl" android:value="scloud.account.executor" />
+        <service android:name="com.samsung.android.scloud.syncadapter.note.SNote4SyncService" android:exported="true">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/snote4_syncadapter" />
+        </service>
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.pass.PassAccountExecutorImpl" android:value="scloud.account.executor" />
+        <service android:name="com.samsung.android.scloud.syncadapter.pass.PassSyncService" android:exported="true">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/pass_syncadapter" />
+        </service>
+        <meta-data android:name="com.samsung.android.scloud.syncadapter.property.DevicePropertyAccountExecutorImpl" android:value="scloud.account.executor" />
+        <service android:name="com.samsung.android.scloud.syncadapter.property.DevicePropertySyncService" android:exported="true">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/device_property_syncadapter" />
+        </service>
+        <service android:name="com.samsung.android.scloud.app.service.RPCSyncService" android:permission="com.samsung.android.scloud.permission.RPC_SYNC_SETTING" android:enabled="true" android:exported="true">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.RPC_SYNC_SETTING" />
+            </intent-filter>
+        </service>
+        <service android:name="com.samsung.android.scloud.sync.service.SyncServiceForeground" android:permission="android.permission.BIND_JOB_SERVICE" android:enabled="true" android:exported="false" android:foregroundServiceType="dataSync">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.sync.service.SyncServiceForeground" />
+            </intent-filter>
+        </service>
+        <service android:name="com.samsung.android.scloud.sync.SyncJobService" android:permission="android.permission.BIND_JOB_SERVICE" android:enabled="true" android:exported="false" />
+        <provider android:label="sCloud Data Sync" android:name="com.samsung.android.scloud.syncadapter.core.data.ExternalOEMControlProviderLegacy" android:readPermission="com.samsung.android.scloud.sync.permission.READ" android:writePermission="com.samsung.android.scloud.sync.permission.WRITE" android:enabled="true" android:exported="true" android:authorities="com.samsung.android.scloud.sync" android:syncable="false" />
+        <provider android:label="sCloud Data Sync" android:name="com.samsung.android.scloud.syncadapter.core.data.ExternalOEMControlProvider" android:readPermission="com.samsung.android.scloud.sync.vendor.permission.READ" android:writePermission="com.samsung.android.scloud.sync.permission.WRITE" android:enabled="true" android:exported="true" android:authorities="com.samsung.android.scloud.sync.vendor" android:syncable="false" />
+        <provider android:label="Sync setting data" android:name="com.samsung.android.scloud.sync.data.SyncSettingProvider" android:enabled="true" android:exported="false" android:authorities="com.samsung.android.scloud.sync.setting" android:syncable="false">
+            <grant-uri-permission android:pathPattern=".*" />
+        </provider>
+        <provider android:label="Sync dump data" android:name="com.samsung.android.scloud.sync.dumper.DumperProvider" android:enabled="true" android:exported="false" android:authorities="com.samsung.android.scloud.sync.dumper" android:syncable="false" />
+        <provider android:label="Sync test provider" android:name="com.samsung.android.scloud.sync.tester.SyncTestProvider" android:enabled="true" android:exported="false" android:authorities="com.samsung.android.scloud.sync.tester" android:syncable="false" />
+        <provider android:label="RPCSyncProvider" android:name="com.samsung.android.scloud.sync.rpc.RPCSyncProvider" android:permission="com.samsung.android.scloud.permission.RPC_SYNC_SETTING" android:enabled="true" android:exported="true" android:authorities="com.samsung.android.scloud.sync.rpc" android:syncable="false">
+            <grant-uri-permission android:pathPattern=".*" />
+        </provider>
+        <provider android:label="RPCSyncProviderPublic" android:name="com.samsung.android.scloud.sync.rpc.RPCSyncProviderPublic" android:enabled="true" android:exported="true" android:authorities="com.samsung.android.scloud.sync.rpc.public" android:syncable="false" />
+        <activity android:name="com.samsung.android.scloud.auth.verification.view.VerificationMainActivity" android:exported="false" android:launchMode="singleTask">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.samsung.android.scloud.auth.verification.view.VerificationByNotiActivity" android:exported="false" android:launchMode="singleTask" android:configChanges="locale|keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|density|layoutDirection|fontScale">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.samsung.android.scloud.auth.verification.view.VerificationByEmailActivity" android:exported="false" android:launchMode="singleTask" android:configChanges="locale|keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|density|layoutDirection|fontScale">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.samsung.android.scloud.auth.verification.view.VerificationErrorAndHelpActivity" android:exported="false" android:configChanges="locale|keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|density|layoutDirection|fontScale">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.samsung.android.scloud.auth.twofactor.view.TwoFactorWebActivity" android:exported="false" android:launchMode="singleTask" android:configChanges="locale|keyboard|keyboardHidden|orientation|uiMode|screenSize|density|layoutDirection|fontScale">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.samsung.android.scloud.auth.verification.view.AccountValidateWebActivity" android:exported="false" android:launchMode="singleTask" android:configChanges="locale|keyboard|keyboardHidden|orientation|uiMode|screenSize|density|layoutDirection|fontScale">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.samsung.android.scloud.auth.verification.view.VerificationFinishReceiver" android:exported="false" />
+        <activity android:theme="@android:style/Theme.DeviceDefault.Light.Dialog.NoActionBar" android:name="com.samsung.android.scloud.bixby2.control.Bixby2AppLinkActivity" android:exported="true" android:taskAffinity="com.samsung.android.scloud.bixby2.punchout" android:excludeFromRecents="true" android:launchMode="singleInstance" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="applink" android:host="viv.samsungcloudapp" android:path="/punchOut" />
+            </intent-filter>
+        </activity>
+        <meta-data android:name="other_device_revision_support" android:value="true" />
+        <provider android:name="com.samsung.android.scloud.keystore.KeyStoreProvider" android:exported="true" android:authorities="com.samsung.android.scloud.keystore" android:initOrder="99" />
+        <receiver android:name="com.samsung.android.scloud.notification.CommonNotiReceiver" android:enabled="true" android:exported="false" />
+        <service android:name="com.samsung.android.scloud.notification.CommonNotiService" android:enabled="true" android:exported="false" android:foregroundServiceType="specialUse">
+            <intent-filter>
+                <action android:name="com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_PROGRESS" />
+                <action android:name="com.samsung.android.scloud.app.service.ACTION_STOP_NOTIFICATION_PROGRESS" />
+            </intent-filter>
+        </service>
+        <meta-data android:name="com.samsung.android.smp.updated" android:value="true" />
+        <receiver android:name="com.samsung.android.scloud.auth.SmpFcmTokenChangedReceiver" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.sdk.smp.pushTokenChanged" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.scloud.auth.SmpRegResultReceiver" android:exported="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.sdk.smp.pushRegistrationResult" />
+                <action android:name="com.samsung.android.sdk.smp.smpInitializeResult" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.samsung.android.scloud.auth.SmpFcmReceiverService" android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.iid.TOKEN_REFRESH" />
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <receiver android:name="com.samsung.android.scloud.auth.SmpSppServiceReceiver" android:permission="com.sec.spp.permission.SEND" android:exported="true">
+            <intent-filter>
+                <action android:name="aa3840081919800c" />
+                <action android:name="com.sec.spp.RegistrationChangedAction" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.samsung.android.sdk.smp.SmpJobService" android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service android:name="com.samsung.android.sdk.smp.SmpService" />
+        <receiver android:name="com.samsung.android.sdk.smp.SmpReceiver" android:exported="false" />
+        <receiver android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND" android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.google.firebase.messaging.FirebaseMessagingService" android:exported="false" android:directBootAware="true">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name="com.google.firebase.components.ComponentDiscoveryService" android:exported="false" android:directBootAware="true">
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar" android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar" android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar" android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+        <activity android:name="androidx.compose.ui.tooling.PreviewActivity" android:exported="true" />
+        <service android:name="androidx.work.multiprocess.RemoteWorkManagerService" android:exported="false" />
+        <service android:name="androidx.work.impl.background.systemalarm.SystemAlarmService" android:enabled="@bool/enable_system_alarm_service_default" android:exported="false" android:directBootAware="false" />
+        <service android:name="androidx.work.impl.background.systemjob.SystemJobService" android:permission="android.permission.BIND_JOB_SERVICE" android:enabled="@bool/enable_system_job_service_default" android:exported="true" android:directBootAware="false" />
+        <receiver android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver" android:enabled="true" android:exported="false" android:directBootAware="false" />
+        <receiver android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy" android:enabled="false" android:exported="false" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy" android:enabled="false" android:exported="false" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BATTERY_OKAY" />
+                <action android:name="android.intent.action.BATTERY_LOW" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy" android:enabled="false" android:exported="false" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy" android:enabled="false" android:exported="false" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver" android:enabled="false" android:exported="false" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver" android:enabled="@bool/enable_system_alarm_service_default" android:exported="false" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver" android:permission="android.permission.DUMP" android:enabled="true" android:exported="true" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+            </intent-filter>
+        </receiver>
+        <provider android:name="com.squareup.picasso.PicassoProvider" android:exported="false" android:authorities="com.samsung.android.scloud.com.squareup.picasso" />
+        <receiver android:name="androidx.profileinstaller.ProfileInstallReceiver" android:permission="android.permission.DUMP" android:enabled="true" android:exported="true" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+            </intent-filter>
+        </receiver>
+        <service android:name="androidx.room.MultiInstanceInvalidationService" android:exported="false" android:directBootAware="true" />
+        <service android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery" android:exported="false">
+            <meta-data android:name="backend:com.google.android.datatransport.cct.CctBackendFactory" android:value="cct" />
+        </service>
+        <service android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService" android:permission="android.permission.BIND_JOB_SERVICE" android:exported="false" />
+        <receiver android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver" android:exported="false" />
+        <uses-library android:name="androidx.window.extensions" android:required="false" />
+        <uses-library android:name="androidx.window.sidecar" android:required="false" />
+        <provider android:name="com.samsung.android.sdk.bixby2.provider.CapsuleProvider" android:exported="true" android:authorities="com.samsung.android.scloud.CapsuleProvider" />
+        <meta-data android:name="com.samsung.android.sdk.bixby2.companionApp" android:value="true" />
+        <meta-data android:name="com.samsung.android.sdk.bixby2.version" android:value="@string/sdk_version" />
+        <uses-native-library android:name="libapex_motionphoto_utils_jni.media.samsung.so" android:required="false" />
+        <uses-native-library android:name="libmotionphoto_utils_jni.media.samsung.so" android:required="false" />
+        <activity android:theme="@android:style/Theme.Translucent.NoTitleBar" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:exported="false" />
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+        <meta-data android:name="com.samsung.android.sdk.smp.sdkv" android:value="3.3.11.2" />
+        <meta-data android:name="com.samsung.android.sdk.smp.sdkvint" android:value="3031102" />
+        <uses-library android:name="samsungkeystoreutils" android:required="false" />
+        <uses-native-library android:name="libsume_jni.media.samsung.so" android:required="false" />
+        <uses-native-library android:name="libsume_mediabuffer_jni.media.samsung.so" android:required="false" />
+        <activity android:theme="@style/Theme.Empty" android:name="com.samsung.android.sdk.iap.lib.activity.DialogActivity" android:configChanges="orientation|screenSize" />
+        <activity android:theme="@style/Theme.Empty" android:name="com.samsung.android.sdk.iap.lib.activity.CheckPackageActivity" android:configChanges="orientation|screenSize" />
+        <activity android:theme="@style/Theme.Empty" android:name="com.samsung.android.sdk.iap.lib.activity.PaymentActivity" android:excludeFromRecents="true" android:configChanges="locale|keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|density|fontScale" />
+        <activity android:theme="@style/Theme.Empty" android:name="com.samsung.android.sdk.iap.lib.activity.ChangeSubscriptionPlanActivity" android:excludeFromRecents="true" android:configChanges="locale|keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|density|fontScale" />
+        <meta-data android:name="SPDE.build.signature" android:value="22cbee7bb21b441775cf65b72f794cd56d58744b/173121576/release/SCloudService-516000-5.6.09" />
+        <meta-data android:name="SPDE.env.version" android:value="8.7.3/G36.1.14/1.2.8" />
+    </application>
+</manifest>

@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">1 attēls un %1$d videoklipi (%2$s)</item>
+        <item quantity="one">1 attēls un %1$d videoklips (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 attēls un %1$d videoklipi (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">%d programmas nav instalētas</item>
+        <item quantity="one">%d programma nav instalēta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d programmas nav instalētas</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Ziņas: avārijas signāli, pārsūtītie faili, multiziņas, kas lielākas par %d MB, melnraksti un nenosūtītas ziņas</item>
+        <item quantity="one">Ziņas: avārijas signāli, pārsūtītie faili, multiziņas, kas lielākas par %d MB, melnraksti un nenosūtītas ziņas</item>
+        <item quantity="two">Ziņas: avārijas signāli, pārsūtītie faili, multiziņas, kas lielākas par %d MB, melnraksti un nenosūtītas ziņas</item>
+        <item quantity="few">Ziņas: avārijas signāli, pārsūtītie faili, multiziņas, kas lielākas par %d MB, melnraksti un nenosūtītas ziņas</item>
+        <item quantity="many">Ziņas: avārijas signāli, pārsūtītie faili, multiziņas, kas lielākas par %d MB, melnraksti un nenosūtītas ziņas</item>
+        <item quantity="other">Ziņas: avārijas signāli, pārsūtītie faili, multiziņas, kas lielākas par %d MB, melnraksti un nenosūtītas ziņas</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">Drīz beigsies %d ierīču dublējuma datu derīguma termiņš. Lai skatītu derīguma termiņa datumu, izvēlieties ierīci tālāk.</item>
+        <item quantity="one">Drīz beigsies %d ierīces dublējuma datu derīguma termiņš. Lai skatītu derīguma termiņa datumu, izvēlieties ierīci tālāk.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Drīz beigsies %d ierīču dublējuma datu derīguma termiņš. Lai skatītu derīguma termiņa datumu, izvēlieties ierīci tālāk.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">Drīz beigsies %d ierīču dublējuma datu derīguma termiņš.</item>
+        <item quantity="one">Drīz beigsies %d ierīces dublējuma datu derīguma termiņš.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Drīz beigsies %d ierīču dublējuma datu derīguma termiņš.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">%1$d dublējuma vienumus nevarēja atjaunināt, tāpēc jūsu jaunajā tālrunī (%2$s) tiks atjaunoti šo vienumu iepriekšējie dublējumi.</item>
+        <item quantity="one">%1$d dublējuma vienumu nevarēja atjaunināt, tāpēc jūsu jaunajā tālrunī (%2$s) tiks atjaunots šī vienuma iepriekšējais dublējums.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d dublējuma vienumus nevarēja atjaunināt, tāpēc jūsu jaunajā tālrunī (%2$s) tiks atjaunoti šo vienumu iepriekšējie dublējumi.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">%1$d dublējuma vienumus nevarēja atjaunināt, tāpēc jūsu jaunajā tālrunī (%3$s) tiks atjaunoti šo vienumu dublējumi, kas izveidoti %2$s.</item>
+        <item quantity="one">%1$d dublējuma vienumu nevarēja atjaunināt, tāpēc jūsu jaunajā tālrunī (%3$s) tiks atjaunots šī vienuma dublējums, kas izveidots %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d dublējuma vienumus nevarēja atjaunināt, tāpēc jūsu jaunajā tālrunī (%3$s) tiks atjaunoti šo vienumu dublējumi, kas izveidoti %2$s.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">%1$d dublējuma vienumus nevarēja atjaunināt, tāpēc jūsu jaunajā planšetdatorā (%2$s) tiks atjaunoti šo vienumu iepriekšējie dublējumi.</item>
+        <item quantity="one">%1$d dublējuma vienumu nevarēja atjaunināt, tāpēc jūsu jaunajā planšetdatorā (%2$s) tiks atjaunots šī vienuma iepriekšējais dublējums.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d dublējuma vienumus nevarēja atjaunināt, tāpēc jūsu jaunajā planšetdatorā (%2$s) tiks atjaunoti šo vienumu iepriekšējie dublējumi.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">%1$d dublējuma vienumus nevarēja atjaunināt, tāpēc jūsu jaunajā planšetdatorā (%3$s) tiks atjaunoti šo vienumu dublējumi, kas izveidoti %2$s.</item>
+        <item quantity="one">%1$d dublējuma vienumu nevarēja atjaunināt, tāpēc jūsu jaunajā planšetdatorā (%3$s) tiks atjaunots šī vienuma dublējums, kas izveidots %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d dublējuma vienumus nevarēja atjaunināt, tāpēc jūsu jaunajā planšetdatorā (%3$s) tiks atjaunoti šo vienumu dublējumi, kas izveidoti %2$s.</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">Dati tiks dzēsti pēc %d dienām.</item>
+        <item quantity="one">Dati tiks dzēsti pēc %d dienas.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dati tiks dzēsti pēc %d dienām.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">Beigsies pēc %d dienām</item>
+        <item quantity="one">Beigsies pēc %d dienas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Beigsies pēc %d dienām</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">Lielākā daļa jūsu datu ir atjaunota, bet %d programmas netika instalētas.</item>
+        <item quantity="one">Lielākā daļa jūsu datu ir atjaunota, bet %d programma netika instalēta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Lielākā daļa jūsu datu ir atjaunota, bet %d programmas netika instalētas.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+        <item quantity="other">%d jauni paziņojumi</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">Pieejami %d jauni albumi</item>
+        <item quantity="one">Pieejams %d jauns albums</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Pieejami %d jauni albumi</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">Izvēlēti %d albumi</item>
+        <item quantity="one">Izvēlēts %d albums</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Izvēlēti %d albumi</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">1 iemiesojums un %d īpaši izstrādāti vienumi</item>
+        <item quantity="one">1 iemiesojums un %d īpaši izstrādāts vienums</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 iemiesojums un %d īpaši izstrādāti vienumi</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">Atlikušais laiks: 1 stunda %d minūtes</item>
+        <item quantity="one">Atlikušais laiks: 1 stunda %d minūte</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Atlikušais laiks: 1 stunda %d minūtes</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">Sinhr. 1 attēls un %d videokl.</item>
+        <item quantity="one">Sinhr. 1 attēls un %d videokl.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sinhr. 1 attēls un %d videokl.</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">Izvēlēti %1$d objekti (%2$s)</item>
+        <item quantity="one">Izvēlēts %1$d objekts (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Izvēlēti %1$d objekti (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">%1$d attēli un 1 videoklips (%2$s)</item>
+        <item quantity="one">%1$d attēls un 1 videoklips (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d attēli un 1 videoklips (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">%1$d attēli (%2$s)</item>
+        <item quantity="one">%1$d attēls (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d attēli (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">Izvēlēti %1$d (%2$s %3$s)</item>
+        <item quantity="one">Izvēlēts %1$d (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Izvēlēti %1$d (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">%1$d videoklipi (%2$s)</item>
+        <item quantity="one">%1$d videoklips (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d videoklipi (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">%d faili</item>
+        <item quantity="one">%d fails</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d faili</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">Atlikušais laiks: %d stundas 1 minūte</item>
+        <item quantity="one">Atlikušais laiks: %d stunda 1 minūte</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Atlikušais laiks: %d stundas 1 minūte</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">No mākoņa lejupielādēti %d attēli.</item>
+        <item quantity="one">No mākoņa lejupielādēts %d attēls.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">No mākoņa lejupielādēti %d attēli.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">No mākoņa lejupielādēti %d objekti.</item>
+        <item quantity="one">No mākoņa lejupielādēts %d objekts.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">No mākoņa lejupielādēti %d objekti.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">%d minūtes</item>
+        <item quantity="one">%d minūte</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d minūtes</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">Atlikušas %d minūtes</item>
+        <item quantity="one">Atlikusi %d minūte</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Atlikušas %d minūtes</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">Sinhr. %d attēli un 1 videokl.</item>
+        <item quantity="one">Sinhr. %d attēls un 1 videokl.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sinhr. %d attēli un 1 videokl.</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">Sinhronizēti %d fotoattēli</item>
+        <item quantity="one">Sinhronizēts %d fotoattēls</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sinhronizēti %d fotoattēli</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">%d attēli un videoklipi</item>
+        <item quantity="one">%d attēls vai videoklips</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d attēli un videoklipi</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">Izvēlēti %d</item>
+        <item quantity="one">Izvēlēts %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Izvēlēti %d vienumi</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">No mākoņa lejupielādēti %d videoklipi.</item>
+        <item quantity="one">No mākoņa lejupielādēts %d videoklips.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">No mākoņa lejupielādēti %d videoklipi.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">Sinhronizēti %d videoklipi</item>
+        <item quantity="one">Sinhronizēts %d videoklips</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sinhronizēti %d videoklipi</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">Zems akumulatora uzlādes līmenis. Lai dublētu tālruni, uzlādējiet vismaz līdz %d%%.</item>
+        <item quantity="one">Zems akumulatora uzlādes līmenis. Lai dublētu tālruni, uzlādējiet vismaz līdz %d%%.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Zems akumulatora uzlādes līmenis. Lai dublētu tālruni, uzlādējiet vismaz līdz %d%%.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">Jūsu pagaidu dublējuma derīguma termiņš beigsies pēc %d dienām. Atjaunojiet to drīzumā vai pagariniet derīguma termiņu, ja nepieciešams vairāk laika.</item>
+        <item quantity="one">Jūsu pagaidu dublējuma derīguma termiņš beigsies pēc %d dienas. Atjaunojiet to tūlīt vai pagariniet derīguma termiņu, ja nepieciešams vairāk laika.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Jūsu pagaidu dublējuma derīguma termiņš beigsies pēc %d dienām. Atjaunojiet to drīzumā vai pagariniet derīguma termiņu, ja nepieciešams vairāk laika.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">Atlikt uz %d dienām</item>
+        <item quantity="one">Atlikt uz %d dienu</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Atlikt uz %d dienām</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">%d iemiesojumi</item>
+        <item quantity="one">%d iemiesojums</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d iemiesojumi</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">%d iemiesojumi un 1 īpaši izstrādāts vienums</item>
+        <item quantity="one">%d iemiesojums un 1 īpaši izstrādāts vienums</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d iemiesojumi un 1 īpaši izstrādāts vienums</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">%d īpaši izstrādāti vienumi</item>
+        <item quantity="one">%d īpaši izstrādāts vienums</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d īpaši izstrādāti vienumi</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">Atlikuši %d vienumi</item>
+        <item quantity="one">Atlicis %d vienums</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Atlikuši %d vienumi</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">%d pārī savienotas Samsung ierīces</item>
+        <item quantity="one">%d pārī savienota Samsung ierīce</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d pārī savienotas Samsung ierīces</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">%d atgādinājumi</item>
+        <item quantity="one">%d atgādinājums</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d atgādinājumi</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">Jūsu abonements beidzās %1$s. Jūsu dati tiks dzēsti pēc %2$d dienām. Lai saglabātu datus, atjaunojiet abonementu.</item>
+        <item quantity="one">Jūsu abonements beidzās %1$s. Jūsu dati tiks dzēsti pēc %2$d dienas. Lai saglabātu datus, atjaunojiet abonementu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Jūsu abonements beidzās %1$s. Jūsu dati tiks dzēsti pēc %2$d dienām. Lai saglabātu datus, atjaunojiet abonementu.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">Zems akumulatora uzlādes līmenis. Lai dublētu planšetdatoru, uzlādējiet vismaz līdz %d%%.</item>
+        <item quantity="one">Zems akumulatora uzlādes līmenis. Lai dublētu planšetdatoru, uzlādējiet vismaz līdz %d%%.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Zems akumulatora uzlādes līmenis. Lai dublētu planšetdatoru, uzlādējiet vismaz līdz %d%%.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">Dublējiet neierobežotu datu apjomu pakalpojumā %1$s līdz pat %2$d dienām vai atjaunojiet dublētos datus.</item>
+        <item quantity="one">Dublējiet neierobežotu datu apjomu pakalpojumā %1$s līdz pat %2$d dienai vai atjaunojiet dublētos datus.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dublējiet neierobežotu datu apjomu pakalpojumā %1$s līdz pat %2$d dienām vai atjaunojiet dublētos datus.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">Šis dublējums tiks izdzēsts pēc %d dienām.</item>
+        <item quantity="one">Šis dublējums tiks izdzēsts pēc %d dienas.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Šis dublējums tiks izdzēsts pēc %d dienām.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">Mēģiniet vēlreiz pēc %d stundām</item>
+        <item quantity="one">Mēģiniet vēlreiz pēc %d stundas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Mēģiniet vēlreiz pēc %d stundām</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">Mēģiniet vēlreiz pēc %d stundām un 1 minūtes</item>
+        <item quantity="one">Mēģiniet vēlreiz pēc %d stundas un 1 minūtes</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Mēģiniet vēlreiz pēc %d stundām un 1 minūtes</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">Mēģiniet vēlreiz pēc %d minūtēm</item>
+        <item quantity="one">Mēģiniet vēlreiz pēc %d minūtes</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Mēģiniet vēlreiz pēc %d minūtēm</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">Mēģiniet vēlreiz pēc 1 stundas un %d minūtēm</item>
+        <item quantity="one">Mēģiniet vēlreiz pēc 1 stundas un %d minūtes</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Mēģiniet vēlreiz pēc 1 stundas un %d minūtēm</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">Jūsu dati ir dublēti programmā %1$s. Jums ir atlikušas %2$d dienas, lai tos atjaunotu.</item>
+        <item quantity="one">Jūsu dati ir dublēti programmā %1$s. Jums ir atlikusi %2$d diena, lai tos atjaunotu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Jūsu dati ir dublēti programmā %1$s. Jums ir atlikušas %2$d dienas, lai tos atjaunotu.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">Jūsu pagaidu dublējumi tiks izdzēsti pēc %d dienām.</item>
+        <item quantity="one">Jūsu pagaidu dublējums tiks izdzēsts pēc %d dienas.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Jūsu pagaidu dublējumi tiks izdzēsti pēc %d dienām.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">Jūsu dati tālrunī netika atjaunoti. Jums ir atlikušas %d dienas, lai tos atjaunotu.</item>
+        <item quantity="one">Jūsu dati tālrunī netika atjaunoti. Jums ir atlikusi %d diena, lai tos atjaunotu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Jūsu dati tālrunī netika atjaunoti. Jums ir atlikušas %d dienas, lai tos atjaunotu.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">Jūsu dati planšetdatorā netika atjaunoti. Jums ir atlikušas %d dienas, lai tos atjaunotu.</item>
+        <item quantity="one">Jūsu dati planšetdatorā netika atjaunoti. Jums ir atlikusi %d diena, lai tos atjaunotu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Jūsu dati planšetdatorā netika atjaunoti. Jums ir atlikušas %d dienas, lai tos atjaunotu.</item>
+    </plurals>
+</resources>

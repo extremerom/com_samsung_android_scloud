@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package samsung.scsp.gallery.v1.clientcustom;
+
+option java_multiple_files = true;
+
+import "gallery/attribute/media/telemetry_attribute.proto";
+
+message GetAllDatas {
+    repeated media.attribute.TelemetryAttribute.GetAllData get_all_datas = 1;
+}

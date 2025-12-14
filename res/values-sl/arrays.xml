@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Telefon se polni.</item>
+        <item>Vaš telefon je povezan z omrežjem Wi-Fi.</item>
+        <item>Zaslon je izklopljen.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tablični računalnik se polni.</item>
+        <item>Vaš tablični računalnik je povezan z omrežjem Wi-Fi.</item>
+        <item>Zaslon je izklopljen.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Podatki, ki jih je mogoče varnostno kopirati, se lahko razlikujejo glede na telefon ali operacijski sistem.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Podatki, ki jih je mogoče varnostno kopirati, se lahko razlikujejo glede na tablični računalnik ali operacijski sistem.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Stiki: stiki iz sinhroniziranih računov</item>
+        <item>Koledar: dogodki in opravila iz sinhroniziranih računov</item>
+        <item>Galaxy Themes: teme in privzeto ozadje</item>
+        <item>Aplikacije: nezdružljive namestitvene datoteke in podatki iz aplikacij, ki niso od podjetja Samsung</item>
+        <item>Varna mapa: aplikacije in podatki</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Stiki: stiki iz sinhroniziranih računov</item>
+        <item>Koledar: dogodki in opravila iz sinhroniziranih računov</item>
+        <item>Galaxy Themes: teme in privzeto ozadje</item>
+        <item>Aplikacije: nepodprte namestitvene datoteke</item>
+        <item>Varna mapa: aplikacije in podatki</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: zgodovina klicev in sporočil</item>
+        <item>Sporočila: razširjena sporočila, večpredstavnostna sporočila in besedilna sporočila</item>
+        <item>Stiki: stiki, e-poštni naslovi in vizitke, shranjeni v napravi</item>
+        <item>Koledar: dogodki in opravila, shranjeni v napravi</item>
+        <item>Ura: alarmi, svetovne ure in časovniki</item>
+        <item>Nastavitve: nastavitve dostopnosti, zvonjenja, možnosti tipkovnice Samsung, nastavitve omrežja Wi-Fi, seznanjene naprave Bluetooth, nastavitve prepoznavanja obraza, nastavitve prstnih odtisov in nastavitve funkcije Always On Display (privzeto zvonjenje ne bo varnostno kopirano)</item>
+        <item>Domači zaslon: postavitev, ozadja in nastavitve za Samsung DeX</item>
+        <item>Aplikacije: namestitvene datoteke in nastavitve aplikacij</item>
+        <item>Snemalnik zvoka: posnetki</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Glasba: MP3, FLAC, WAV, M4A, OGG in druge glasbene datoteke</item>
+        <item>Dokumenti: PDF, Word, Excel, PowerPoint in drugi dokumenti</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: zgodovina klepetov</item>
+        <item>%s: zaklenjeni zapiski</item>
+        <item>%s: z geslom zaščiteni podatki</item>
+        <item>%s: aplikacije in podatki aplikacij</item>
+        <item>%s: dogodki iz sinhroniziranih računov</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Zasebni ključ in obnovitvena besedna zveza</item>
+        <item>Podatki, ki jih ni mogoče prenesti zaradi pravilnikov aplikacije</item>
+        <item>Aplikacije, ki jih ni mogoče prenesti zaradi težav v zvezi z varnostjo ali združljivostjo: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Stiki samo za branje</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Privzeto ozadje</item>
+        <item>Ozadja Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Nujna opozorilna sporočila</item>
+        <item>Osnutki in nedostavljena sporočila</item>
+        <item>Sporočila z učinki storitve iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Zaklenjena vsebina</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: zgodovina klicev in sporočil</item>
+        <item>Sporočila: razširjena sporočila, večpredstavnostna sporočila in besedilna sporočila</item>
+        <item>Ura: alarmi, svetovne ure in časovniki</item>
+        <item>Nastavitve: nastavitve dostopnosti, zvonjenja, možnosti tipkovnice Samsung, nastavitve omrežja Wi-Fi, seznanjene naprave Bluetooth in nastavitve funkcije Always On Display (privzeto zvonjenje ne bo šifrirano)</item>
+        <item>Aplikacije: nastavitve aplikacij</item>
+        <item>Domači zaslon: postavitev, ozadja in nastavitve za Samsung DeX</item>
+        <item>Snemalnik zvoka: posnetki</item>
+    </string-array>
+</resources>

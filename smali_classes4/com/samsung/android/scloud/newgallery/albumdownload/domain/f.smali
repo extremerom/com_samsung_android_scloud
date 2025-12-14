@@ -1,0 +1,63 @@
+.class public final Lcom/samsung/android/scloud/newgallery/albumdownload/domain/f;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lkotlin/jvm/functions/Function1;
+.implements Lkotlin/coroutines/jvm/internal/SuspendFunction;
+
+
+# instance fields
+.field public final a:Lcom/samsung/android/scloud/newgallery/albumdownload/data/repository/j;
+
+
+# direct methods
+.method public constructor <init>(Lcom/samsung/android/scloud/newgallery/albumdownload/data/repository/j;)V
+    .locals 1
+
+    const-string v0, "diskInfoRepository"
+
+    invoke-static {p1, v0}, Lkotlin/jvm/internal/Intrinsics;->checkNotNullParameter(Ljava/lang/Object;Ljava/lang/String;)V
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lcom/samsung/android/scloud/newgallery/albumdownload/domain/f;->a:Lcom/samsung/android/scloud/newgallery/albumdownload/data/repository/j;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public bridge synthetic invoke(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 0
+
+    check-cast p1, Lkotlin/coroutines/Continuation;
+
+    invoke-virtual {p0, p1}, Lcom/samsung/android/scloud/newgallery/albumdownload/domain/f;->invoke(Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+
+    move-result-object p1
+
+    return-object p1
+.end method
+
+.method public invoke(Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+    .locals 1
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Lkotlin/coroutines/Continuation<",
+            "-",
+            "LE6/g;",
+            ">;)",
+            "Ljava/lang/Object;"
+        }
+    .end annotation
+
+    iget-object v0, p0, Lcom/samsung/android/scloud/newgallery/albumdownload/domain/f;->a:Lcom/samsung/android/scloud/newgallery/albumdownload/data/repository/j;
+
+    invoke-interface {v0, p1}, Lcom/samsung/android/scloud/newgallery/albumdownload/data/repository/j;->getDiskInfo(Lkotlin/coroutines/Continuation;)Ljava/lang/Object;
+
+    move-result-object p1
+
+    return-object p1
+.end method

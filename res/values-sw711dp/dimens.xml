@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recovery_code_container_top_margin">100.0dp</dimen>
+</resources>

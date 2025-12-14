@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Il telefono è in carica.</item>
+        <item>Il telefono è connesso a una rete Wi-Fi.</item>
+        <item>Lo schermo è spento.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Il tablet è in carica.</item>
+        <item>Il tablet è connesso a una rete Wi-Fi.</item>
+        <item>Lo schermo è spento.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>I dati che potete sottoporre a backup potrebbero differire in base al telefono o al sistema operativo in uso.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>I dati che potete sottoporre a backup potrebbero differire in base al tablet o al sistema operativo in uso.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Rubrica: contatti dagli account sincronizzati</item>
+        <item>Calendario: eventi e attività dagli account sincronizzati</item>
+        <item>Galaxy Themes: temi e sfondi predefiniti</item>
+        <item>Applicazioni: file di installazione non compatibili e dati da applicazioni non Samsung</item>
+        <item>Area Personale: applicazioni e dati</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Rubrica: contatti dagli account sincronizzati</item>
+        <item>Calendario: eventi e attività dagli account sincronizzati</item>
+        <item>Galaxy Themes: temi e sfondi predefiniti</item>
+        <item>Applicazioni: file di installazione non supportati</item>
+        <item>Area Personale: applicazioni e dati</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefono: cronologia chiamate e messaggi</item>
+        <item>Messaggi: messaggi avanzati, messaggi multimediali e messaggi di testo</item>
+        <item>Rubrica: contatti, indirizzi e-mail e biglietti da visita salvati sul dispositivo</item>
+        <item>Calendario: eventi e attività salvati sul dispositivo</item>
+        <item>Orologio: sveglie, fusi orari e timer</item>
+        <item>Impostazioni: suonerie, opzioni Tastiera Samsung, dispositivi Bluetooth associati e impostazioni di accessibilità, Wi-Fi, riconoscimento del viso, impronta digitale e Always On Display (la suoneria predefinita non verrà sottoposta a backup)</item>
+        <item>Schermata Home: layout, sfondi e impostazioni di Samsung DeX</item>
+        <item>Applicazioni: file di installazione e impostazioni applicazione</item>
+        <item>Registratore vocale: registrazioni</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Musica: MP3, FLAC, WAV, M4A, OGG e altri file musicali</item>
+        <item>Documenti: PDF, Word, Excel, PowerPoint e altri documenti</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: cronologia chat</item>
+        <item>%s: note bloccate</item>
+        <item>%s: dati protetti da password</item>
+        <item>%s: applicazioni e dati applicazione</item>
+        <item>%s: eventi degli account sincronizzati</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Chiave privata e frase di recupero</item>
+        <item>Impossibile trasferire i dati a causa dei criteri dell’applicazione</item>
+        <item>Applicazioni che non possono essere trasferite a causa di problemi di sicurezza o di compatibilità: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Contatti di sola lettura</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Sfondo predefinito</item>
+        <item>Sfondi Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Messaggi di avviso di emergenza</item>
+        <item>Bozze e messaggi non inviati</item>
+        <item>Messaggi con effetti iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Contenuto bloccato</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefono: cronologia chiamate e messaggi</item>
+        <item>Messaggi: messaggi avanzati, messaggi multimediali e messaggi di testo</item>
+        <item>Orologio: sveglie, fusi orari e timer</item>
+        <item>Impostazioni: suonerie, opzioni Tastiera Samsung, dispositivi Bluetooth associati e impostazioni di accessibilità, Wi-Fi e Always On Display (la suoneria predefinita non viene crittografata)</item>
+        <item>Applicazioni: impostazioni applicazione</item>
+        <item>Schermata Home: layout, sfondi e impostazioni di Samsung DeX</item>
+        <item>Registratore vocale: registrazioni</item>
+    </string-array>
+</resources>

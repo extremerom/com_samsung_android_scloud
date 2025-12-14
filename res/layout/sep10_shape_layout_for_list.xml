@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/shape_layout_root_view" android:tag="layout/sep10_shape_layout_for_list_0" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.scloud.app.common.component.SubHeaderTextView android:textAppearance="@style/TextSubHeader" android:id="@id/subheader_text" android:background="@color/window_background_color" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentStart="true" />
+    <com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout android:orientation="vertical" android:id="@id/shape_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@id/subheader_text" />
+    <LinearLayout android:orientation="vertical" android:id="@id/divider_layout" android:background="@color/window_background_color" android:visibility="visible" android:layout_width="match_parent" android:layout_height="@dimen/shape_content_layout_margin_bottom" android:layout_below="@id/shape_layout" android:layout_alignParentBottom="true" />
+</RelativeLayout>

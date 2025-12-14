@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>端末を充電しているとき</item>
+        <item>端末がWi-Fiネットワークに接続されているとき</item>
+        <item>画面がOFFになっているとき</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>タブレットを充電しているとき</item>
+        <item>タブレットがWi-Fiネットワークに接続されているとき</item>
+        <item>画面がOFFになっているとき</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>お使いの端末またはオペレーティングシステムによって、バックアップできるデータが異なる場合があります。</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>お使いのタブレットまたはオペレーティングシステムによって、バックアップできるデータが異なる場合があります。</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>連絡先: 同期したアカウントに保存されている連絡先</item>
+        <item>カレンダー: 同期したアカウントに保存されているイベントおよびタスク</item>
+        <item>Galaxy Themes: テーマおよび標準壁紙</item>
+        <item>アプリ: Samsungアプリ以外のアプリからの、互換性のないインストールファイルおよびデータ</item>
+        <item>セキュリティフォルダ: アプリおよびデータ</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>連絡先: 同期したアカウントに保存されている連絡先</item>
+        <item>カレンダー: 同期したアカウントに保存されているイベントおよびタスク</item>
+        <item>Galaxy Themes: テーマおよび標準壁紙</item>
+        <item>アプリ: 非対応のインストールファイル</item>
+        <item>セキュリティフォルダ: アプリおよびデータ</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>電話: 通話履歴、メッセージ履歴</item>
+        <item>メッセージ: 高度なメッセージ、マルチメディアメッセージ、およびテキストメッセージ</item>
+        <item>連絡先: 本体に保存された連絡先、Eメールアドレス、および名刺</item>
+        <item>カレンダー: 本体に保存されたイベントおよびタスク</item>
+        <item>時計: アラーム、世界時計、およびタイマー</item>
+        <item>設定: ユーザー補助設定、着信音、Samsungキーボード設定、Wi-Fi設定、ペアリングしたBluetoothデバイス、顔認証設定、指紋認証設定、Always On Display設定(標準着信音はバックアップされません)</item>
+        <item>ホーム画面: レイアウト、壁紙、Samsung DeX設定</item>
+        <item>アプリ: インストールファイル、アプリ設定</item>
+        <item>ボイスレコーダー: 録音ファイル</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>音楽: MP3、FLAC、WAV、M4A、OGGなどの音楽ファイル</item>
+        <item>ドキュメント: PDF、Word、Excel、PowerPointなどのドキュメント</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: トーク履歴</item>
+        <item>%s: ロックされたノート</item>
+        <item>%s: パスワードで保護されたデータ</item>
+        <item>%s: アプリおよびアプリデータ</item>
+        <item>%s: 同期したアカウントに保存されているイベント</item>
+        <item>Samsungブロックチェーンキーストア</item>
+        <item>秘密鍵とリカバリーフレーズ</item>
+        <item>アプリのポリシーにより転送できないデータ</item>
+        <item>セキュリティや互換性に問題があるため、転送できないアプリ: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>読み取り専用の連絡先</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>標準壁紙</item>
+        <item>Galaxy Themes壁紙</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>緊急通知メッセージ</item>
+        <item>下書きと送信に失敗したメッセージ</item>
+        <item>iMessageのエフェクトを含むメッセージ</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>ロックされたコンテンツ</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>電話: 通話履歴、メッセージ履歴</item>
+        <item>メッセージ: 高度なメッセージ、マルチメディアメッセージ、およびテキストメッセージ</item>
+        <item>時計: アラーム、世界時計、およびタイマー</item>
+        <item>設定: ユーザー補助設定、着信音、Samsungキーボード設定、Wi-Fi設定、ペアリングしたBluetoothデバイス、Always On Display設定(標準着信音は暗号化されません)</item>
+        <item>アプリ: アプリ設定</item>
+        <item>ホーム画面: レイアウト、壁紙、Samsung DeX設定</item>
+        <item>ボイスレコーダー: 録音ファイル</item>
+    </string-array>
+</resources>

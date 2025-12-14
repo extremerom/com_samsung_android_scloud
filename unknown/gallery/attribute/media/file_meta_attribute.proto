@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.media.attribute;
+
+option java_multiple_files = true;
+
+message FileMetaAttribute {
+
+
+ oneof original_file_meta {
+    FileMeta regular_file_meta = 1; 
+    NdeFileMeta nde_file_meta = 2;  
+  }
+
+  optional FileMeta thumbnail_file_meta = 3 [(google.api.field_behavior) = REQUIRED]; 
+  optional FileMeta low_quality_video_file_meta = 4; 
+
+  message FileMeta {
+    optional string hash = 1 [(google.api.field_behavior) = REQUIRED]; 
+    optional int64 size = 2 [(google.api.field_behavior) = REQUIRED];  
+    optional string upload_token = 3; 
+  }
+
+  message NdeFileMeta {
+    FileMeta nde_edited_file_meta = 1 [(google.api.field_behavior) = REQUIRED];  
+    FileMeta nde_raw_file_meta    = 2 [(google.api.field_behavior) = REQUIRED];  
+  }
+
+
+}

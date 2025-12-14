@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="p_setup_wizard_bottom_prev_button_size">69.0dp</dimen>
+    <dimen name="p_setup_wizard_category_item_list_padding_top">13.0dp</dimen>
+    <dimen name="p_setup_wizard_device_item_list_padding_top">37.0dp</dimen>
+    <dimen name="p_setup_wizard_left_bottom_layout_margin_end">22.0dp</dimen>
+    <dimen name="p_setup_wizard_left_bottom_layout_margin_start">22.0dp</dimen>
+    <dimen name="p_setup_wizard_loading_progress_padding_top">13.0dp</dimen>
+    <dimen name="p_setup_wizard_navigation_bar_height">120.0dp</dimen>
+    <dimen name="p_setup_wizard_right_bottom_layout_margin_end">24.0dp</dimen>
+    <dimen name="p_setup_wizard_right_bottom_layout_margin_start">24.0dp</dimen>
+    <dimen name="p_setup_wizard_selected_item_size_padding_top">37.0dp</dimen>
+    <dimen name="p_setup_wizard_title_padding_top">112.0dp</dimen>
+    <dimen name="shape_layout_bg_radius">22.0dp</dimen>
+</resources>

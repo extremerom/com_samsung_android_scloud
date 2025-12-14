@@ -1,0 +1,168 @@
+{
+ "containers": [
+  {
+   "id": "gdpr_data_is_being_processed",
+   "version": 0,
+   "deviceResultCode": 150,
+   "items": [
+    {
+     "type": "notification",
+     "title": "Can't access Samsung account storage",
+     "text": "Your Samsung account storage has been locked due to a personal data request.",
+     "click": "@deeplink/samsungcloud://launch"
+    },
+    {
+     "type": "dialog",
+     "title": "Processing your request",
+     "text": "To handle your personal data request, we've locked your Samsung account storage and turned off Sync and Auto back up.",
+     "buttons": [
+      {
+       "text": "OK",
+       "click": "@function/finish"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gdpr_data_access_is_restricted",
+   "version": 0,
+   "deviceResultCode": 151,
+   "items": [
+    {
+     "type": "notification",
+     "title": "Can't access Samsung account storage",
+     "text": "Your Samsung account storage has been locked due to a personal data request.",
+     "click": "@deeplink/samsungcloud://launch"
+    },
+    {
+     "type": "dialog",
+     "title": "Processing of personal data restricted",
+     "text": "You've requested restriction of processing of your personal data for this service. To remove the restriction, go to the website where you made the request.",
+     "buttons": [
+      {
+       "text": "Close",
+       "click": "@function/finish"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gdpr_data_is_deleted",
+   "version": 0,
+   "deviceResultCode": 152,
+   "items": [
+    {
+     "type": "notification",
+     "title": "Can't access Samsung account storage",
+     "text": "Your Samsung account storage has been locked due to a personal data request.",
+     "click": "@deeplink/samsungcloud://launch"
+    },
+    {
+     "type": "dialog",
+     "title": "Processing your request",
+     "text": "To handle your personal data request, we've locked your Samsung account storage and turned off Sync and Auto back up.",
+     "buttons": [
+      {
+       "text": "OK",
+       "click": "@function/finish"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fds_exceed_accounts_of_device",
+   "version": 0,
+   "deviceResultCode": 161,
+   "items": [
+    {
+     "type": "notification",
+     "title": "Can't access Samsung account storage",
+     "text": "Your Samsung account storage is locked.",
+     "click": "@deeplink/samsungcloud://launch",
+     "buttons": [
+      {
+       "text": "Learn more",
+       "click": "@deeplink/samsungcloud://launch"
+      }
+     ]
+    },
+    {
+     "type": "dialog",
+     "title": "Ask us to unlock Samsung account storage",
+     "text": "We noticed suspicious activity in your account, so we locked Samsung account storage to protect your data. To unlock Samsung account storage, contact us at the following website:",
+     "click": "@link/https://help.content.samsung.com",
+     "buttons": [
+      {
+       "text": "OK",
+       "click": "@function/finish"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fds_exceed_devices_of_account",
+   "version": 0,
+   "deviceResultCode": 162,
+   "items": [
+    {
+     "type": "notification",
+     "title": "Can't access Samsung account storage",
+     "text": "Your Samsung account storage is locked.",
+     "click": "@deeplink/samsungcloud://launch",
+     "buttons": [
+      {
+       "text": "Learn more",
+       "click": "@deeplink/samsungcloud://launch"
+      }
+     ]
+    },
+    {
+     "type": "dialog",
+     "title": "Ask us to unlock Samsung account storage",
+     "text": "We noticed suspicious activity in your account, so we locked Samsung account storage to protect your data. To unlock Samsung account storage, contact us at the following website:",
+     "click": "@link/https://help.content.samsung.com",
+     "buttons": [
+      {
+       "text": "OK",
+       "click": "@function/finish"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fds_not_official_software",
+   "version": 0,
+   "deviceResultCode": 163,
+   "items": [
+    {
+     "type": "notification",
+     "title": "Can't access Samsung account storage",
+     "text": "Your Samsung account storage is locked.",
+     "click": "@deeplink/samsungcloud://launch",
+     "buttons": [
+      {
+       "text": "Learn more",
+       "click": "@deeplink/samsungcloud://launch"
+      }
+     ]
+    },
+    {
+     "type": "dialog",
+     "title": "Can't access Samsung account storage",
+     "text": "Your Samsung account storage app has been tampered with or changed. For your security, we blocked access to Samsung account storage.",
+     "buttons": [
+      {
+       "text": "OK",
+       "click": "@function/finish"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

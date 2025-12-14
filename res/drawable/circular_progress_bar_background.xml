@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen/circular_progress_bar_inset" android:insetRight="@dimen/circular_progress_bar_inset" android:insetTop="@dimen/circular_progress_bar_inset" android:insetBottom="@dimen/circular_progress_bar_inset"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <rotate android:fromDegrees="0.0" android:toDegrees="360.0">
+        <shape android:shape="ring" android:useLevel="false" android:thickness="@dimen/ctb_circular_progress_bar_thickness">
+            <gradient android:startColor="@color/circular_progress_bar_background_start" android:endColor="@color/circular_progress_bar_background_end" android:useLevel="false" android:angle="270.0" android:type="linear" />
+        </shape>
+    </rotate>
+</inset>

@@ -1,0 +1,296 @@
+{
+  "dataVersion": "3.0",
+  "retentionPeriodDay": 30,
+  "expiryExtensionDay": 15,
+  "maxBackupFileSize": 107374182400,
+  "wakelockMillis": 10800000,
+  "siopThreshold": 3,
+  "cachedHashThreshold": 5,
+  "fileTransferRetryCount": 5,
+  "allowedNetworkMetered": false,
+  "csSupport": true,
+  "maxDurationHours": 24,
+  "retryableSizeAppData": 10485760,
+  "retryCountAppData": 1,
+  "cacheableSizeAppData": 52428800,
+  "battery": {
+    "minStart": 30,
+    "minStop": 10,
+    "minStartOnCharging": 15
+  },
+  "hugeSnapshot": {
+    "minFileSize": 52428800,
+    "minFileCount": 50000
+  },
+  "remainingTime": {
+    "measureInterval": 300000,
+    "defaultInterval": 180000,
+    "defaultThroughput": 23860.0,
+    "maxUp": 0.05,
+    "maxDown": 0.03
+  },
+  "transferConcurrency": [
+    {
+      "key": -3,
+      "value": 6
+    },
+    {
+      "key": -2,
+      "value": 6
+    },
+    {
+      "key": -1,
+      "value": 4
+    },
+    {
+      "key": 0,
+      "value": 4
+    },
+    {
+      "key": 1,
+      "value": 2
+    },
+    {
+      "key": 2,
+      "value": 2
+    },
+    {
+      "key": 3,
+      "value": 1
+    },
+    {
+      "key": 4,
+      "value": 1
+    },
+    {
+      "key": 5,
+      "value": 0
+    },
+    {
+      "key": 6,
+      "value": 0
+    },
+    {
+      "key": 7,
+      "value": 0
+    },
+    {
+      "key": 8,
+      "value": 0
+    }
+  ],
+  "multipleUrlCount": [
+    {
+      "key": -3,
+      "value": 100
+    },
+    {
+      "key": -2,
+      "value": 100
+    },
+    {
+      "key": -1,
+      "value": 100
+    },
+    {
+      "key": 0,
+      "value": 100
+    },
+    {
+      "key": 1,
+      "value": 100
+    },
+    {
+      "key": 2,
+      "value": 100
+    },
+    {
+      "key": 3,
+      "value": 100
+    },
+    {
+      "key": 4,
+      "value": 100
+    },
+    {
+      "key": 5,
+      "value": 100
+    },
+    {
+      "key": 6,
+      "value": 100
+    },
+    {
+      "key": 7,
+      "value": 100
+    },
+    {
+      "key": 8,
+      "value": 100
+    }
+  ],
+  "hashConcurrency": [
+    {
+      "key": -3,
+      "value": 6
+    },
+    {
+      "key": -2,
+      "value": 6
+    },
+    {
+      "key": -1,
+      "value": 4
+    },
+    {
+      "key": 0,
+      "value": 4
+    },
+    {
+      "key": 1,
+      "value": 2
+    },
+    {
+      "key": 2,
+      "value": 2
+    },
+    {
+      "key": 3,
+      "value": 1
+    },
+    {
+      "key": 4,
+      "value": 1
+    },
+    {
+      "key": 5,
+      "value": 0
+    },
+    {
+      "key": 6,
+      "value": 0
+    },
+    {
+      "key": 7,
+      "value": 0
+    },
+    {
+      "key": 8,
+      "value": 0
+    }
+  ],
+  "dedupCategories": [
+    {
+      "key": "HIDDEN",
+      "value": true
+    },
+    {
+      "key": "DEFAULT",
+      "value": true
+    },
+    {
+      "key": "DOWNLOAD_APPS",
+      "value": true
+    },
+    {
+      "key": "SECUREFOLDER_SELF",
+      "value": true
+    },
+    {
+      "key": "UI_WEARABLE",
+      "value": true
+    },
+    {
+      "key": "UI_DOCUMENT",
+      "value": true
+    },
+    {
+      "key": "UI_CONTACT",
+      "value": true
+    },
+    {
+      "key": "UI_MESSAGE",
+      "value": true
+    },
+    {
+      "key": "UI_HOMESCREEN",
+      "value": true
+    },
+    {
+      "key": "UI_SETTING",
+      "value": true
+    },
+    {
+      "key": "UI_APPS",
+      "value": true
+    },
+    {
+      "key": "UI_IMAGE",
+      "value": true
+    },
+    {
+      "key": "UI_VIDEO",
+      "value": true
+    },
+    {
+      "key": "UI_AUDIO",
+      "value": true
+    }
+  ],
+  "appData": {
+    "allowSize": 5242880,
+    "allowUseTime": 10,
+    "allowPackages": [
+      "com.google.android.youtube",
+      "com.tencent.mm",
+      "com.iloen.melon"
+    ],
+    "maxSize": 209715200
+  },
+  "deltaBackupNativeApps": [
+    {
+      "uiCategoryName": "UI_APPS",
+      "nativeApps": [
+        {
+          "packageName": "com.sec.android.app.sbrowser",
+          "appCategory": "SBROWSER",
+          "minVersionCode": "1210041500"
+        },
+        {
+          "packageName": "com.samsung.android.app.notes",
+          "appCategory": "SAMSUNGNOTE",
+          "minVersionCode": "440904000"
+        },
+        {
+          "packageName": "com.sec.penup",
+          "appCategory": "PENUP",
+          "minVersionCode": "391138000"
+        }
+      ]
+    }
+  ],
+  "deltaBackupBlockAppCategories": [
+    "MESSAGE"
+  ],
+  "smartSwitch": {
+    "packageName": "com.sec.android.easyMover",
+    "minVersionCode": "374602130",
+    "bindService": "com.sec.android.easyMover.service.RemoteCloudService",
+    "path": "/SmartSwitch/CloudBackupTemp/",
+    "permission": "com.wssnps.permission.COM_WSSNPS"
+  },
+  "autoResume": {
+    "allowed": false,
+    "retryMinuteIntervals": [
+      5,
+      10,
+      15,
+      30,
+      60,
+      120,
+      240,
+      360,
+      480
+    ]
+  }
+}

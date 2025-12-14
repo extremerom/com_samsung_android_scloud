@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Telefonen lader.</item>
+        <item>Telefonen er koblet til et Wi-Fi-nettverk.</item>
+        <item>Skjermen er av.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Nettbrettet lader.</item>
+        <item>Nettbrettet er koblet til et Wi-Fi-nettverk.</item>
+        <item>Skjermen er av.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Dataene som du kan sikkerhetskopiere, kan variere avhengig av telefonen eller operativsystemet.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Dataene som du kan sikkerhetskopiere, kan variere avhengig av nettbrettet eller operativsystemet.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontakter: kontakter fra synkroniserte kontoer</item>
+        <item>Kalender: hendelser og oppgaver fra synkroniserte kontoer</item>
+        <item>Galaxy Themes: tema og standardbakgrunn</item>
+        <item>Apper: ikke-kompatible installasjonsfiler og data fra ikke-Samsung-apper</item>
+        <item>Sikker mappe: apper og data</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kontakter: kontakter fra synkroniserte kontoer</item>
+        <item>Kalender: hendelser og oppgaver fra synkroniserte kontoer</item>
+        <item>Galaxy Themes: tema og standardbakgrunn</item>
+        <item>Apper: installasjonsfiler som ikke støttes</item>
+        <item>Sikker mappe: apper og data</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: anrops- og meldingshistorikk</item>
+        <item>Meldinger: utvidede meldinger, multimediemeldinger og tekstmeldinger</item>
+        <item>Kontakter: kontakter, e-postadresser og visittkort lagret på enheten</item>
+        <item>Kalender: hendelser og oppgaver lagret på enheten</item>
+        <item>Klokke: alarmer, verdensklokker og nedtellere</item>
+        <item>Innstillinger: innstillinger for tilgjengelighet, ringetoner, alternativer for Samsung-tastatur, Wi-Fi-innstillinger, sammenkoblede Bluetooth-enheter, innstillinger for ansiktsgjenkjenning, fingeravtrykksinnstillinger og Always On Display-innstillinger (standardringetonen blir ikke sikkerhetskopiert)</item>
+        <item>Startskjerm: oppsett, bakgrunner og Samsung DeX-innstillinger</item>
+        <item>Apper: installasjonsfiler og appinnstillinger</item>
+        <item>Lydopptaker: opptak</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Musikk: MP3, FLAC, WAV, M4A, OGG og andre filer</item>
+        <item>Dokumenter: PDF, Word, Excel, PowerPoint og andre dokumenter</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: chattehistorikk</item>
+        <item>%s: låste merknader</item>
+        <item>%s: passordbeskyttede data</item>
+        <item>%s: apper og appdata</item>
+        <item>%s: Hendelser fra synkroniserte kontoer</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Privat nøkkel og gjenopprettingsfrase</item>
+        <item>Data som ikke kan overføres på grunn av appens policyer</item>
+        <item>Apper kan ikke overføres på grunn av problemer med sikkerhet eller kompatibilitet: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Skrivebeskyttede kontakter</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Standardbakgrunn</item>
+        <item>Galaxy Themes-bakgrunner</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Nødvarselmeldinger</item>
+        <item>Utkast og mislykkede meldinger</item>
+        <item>Meldinger med iMessage-effekter</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Låst innhold</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: anrops- og meldingshistorikk</item>
+        <item>Meldinger: utvidede meldinger, multimediemeldinger og tekstmeldinger</item>
+        <item>Klokke: alarmer, verdensklokker og nedtellere</item>
+        <item>Innstillinger: innstillinger for tilgjengelighet, ringetoner, alternativer for Samsung-tastatur, Wi-Fi-innstillinger, sammenkoblede Bluetooth-enheter og Always On Display-innstillinger (standardringetone som ikke er kryptert)</item>
+        <item>Apper: appinnstillinger</item>
+        <item>Startskjerm: oppsett, bakgrunner og Samsung DeX-innstillinger</item>
+        <item>Lydopptaker: opptak</item>
+    </string-array>
+</resources>

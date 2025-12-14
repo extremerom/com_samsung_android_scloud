@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V35.Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat.Dialog" parent="@style/Base.V35.Theme.AppCompat.Dialog" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V35.Theme.AppCompat.Light" />
+    <style name="Base.Theme.AppCompat.Light.Dialog" parent="@style/Base.V35.Theme.AppCompat.Light.Dialog" />
+    <style name="Base.ThemeOverlay.AppCompat.Dialog" parent="@style/Base.V35.ThemeOverlay.AppCompat.Dialog" />
+    <style name="Base.ThemeOverlay.AppCompat.Light.Dialog" parent="@style/Base.V35.ThemeOverlay.AppCompat.Light.Dialog" />
+    <style name="Base.V35.Theme.AppCompat" parent="@style/Base.V29.Theme.AppCompat">
+        <item name="android:scrollbarThumbVertical">@drawable/sesl_scroll_thumb_dark</item>
+    </style>
+    <style name="Base.V35.Theme.AppCompat.Dialog" parent="@style/Base.V21.Theme.AppCompat.Dialog">
+        <item name="android:scrollbarThumbVertical">@drawable/sesl_dialog_scroll_thumb_dark</item>
+    </style>
+    <style name="Base.V35.Theme.AppCompat.Light" parent="@style/Base.V29.Theme.AppCompat.Light">
+        <item name="android:scrollbarThumbVertical">@drawable/sesl_scroll_thumb</item>
+    </style>
+    <style name="Base.V35.Theme.AppCompat.Light.Dialog" parent="@style/Base.V21.Theme.AppCompat.Light.Dialog">
+        <item name="android:scrollbarThumbVertical">@drawable/sesl_dialog_scroll_thumb</item>
+    </style>
+    <style name="Base.V35.ThemeOverlay.AppCompat.Dialog" parent="@style/Base.V21.ThemeOverlay.AppCompat.Dialog">
+        <item name="android:scrollbarThumbVertical">@drawable/sesl_dialog_scroll_thumb_dark</item>
+    </style>
+    <style name="Base.V35.ThemeOverlay.AppCompat.Light.Dialog" parent="@style/Base.V7.ThemeOverlay.AppCompat.Light.Dialog">
+        <item name="android:scrollbarThumbVertical">@drawable/sesl_dialog_scroll_thumb</item>
+    </style>
+    <style name="RecoilEffect">
+        <item name="android:stateListAnimator">?seslLargeTouchAnimator</item>
+    </style>
+    <style name="Theme.Compat.Base.SCloudTheme" parent="@style/Theme.Galaxy">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionModeWithoutCloseButton</item>
+        <item name="android:dialogTheme">@style/DialogTheme</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">always</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+        <item name="shapeLayoutCornerBackground">@color/window_background_color</item>
+    </style>
+    <style name="VerificationTheme" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/verification_window_background</item>
+        <item name="android:statusBarColor">@color/verification_window_background</item>
+        <item name="android:windowLightStatusBar">@bool/window_light_status_bar</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">always</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+    <style name="VerificationWebTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/verification_web_window_background</item>
+        <item name="android:statusBarColor">@color/verification_web_window_background</item>
+        <item name="android:navigationBarColor">@color/verification_web_window_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">always</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>

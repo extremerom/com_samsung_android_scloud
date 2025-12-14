@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/secure_with_option" android:background="?android:selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/secure_with_option_radio_layout" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/RecoilEffect">
+        <RadioButton android:id="@id/secure_with_option_radio" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="@dimen/margin_20dp" android:soundEffectsEnabled="false" android:layout_marginStart="@dimen/margin_24dp" android:layout_marginEnd="@dimen/two_line_list_view_padding_side" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <LinearLayout android:orientation="vertical" android:id="@id/secure_with_option_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textAppearance="@style/TextListTitle" android:id="@id/secure_with_option_heading" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/list_item_top_padding" android:layout_marginEnd="@dimen/two_line_list_view_padding_side" />
+            <TextView android:textAppearance="@style/ListItemSubTitleTextStyle" android:id="@id/secure_with_option_description" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/list_item_bottom_padding" android:layout_marginEnd="@dimen/two_line_list_view_padding_side" />
+            <include android:id="@id/divider" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/end_margin_divider_margin_start" layout="@layout/list_divider" />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

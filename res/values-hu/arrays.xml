@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>A telefon töltődik.</item>
+        <item>A telefon Wi-Fi-hálózathoz kapcsolódik.</item>
+        <item>A képernyő ki van kapcsolva.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>A táblagép töltődik.</item>
+        <item>A táblagép Wi-Fi-hálózathoz kapcsolódik.</item>
+        <item>A képernyő ki van kapcsolva.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>A telefontól és az operációs rendszertől függően eltérhet, hogy mely adatokról lehet biztonsági mentést készíteni.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>A táblagéptől és az operációs rendszertől függően eltérhet, hogy mely adatokról lehet biztonsági mentést készíteni.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Névjegyzék: névjegyzék a szinkronizált fiókokból</item>
+        <item>Naptár: események és feladatok a szinkronizált fiókokból</item>
+        <item>Galaxy Themes: témák és alapértelmezett háttérkép</item>
+        <item>Alkalmazások: nem kompatibilis telepítési fájlok és nem Samsung alkalmazásokból származó adatok</item>
+        <item>Biztonságos mappa: alkalmazások és adatok</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Névjegyzék: névjegyzék a szinkronizált fiókokból</item>
+        <item>Naptár: események és feladatok a szinkronizált fiókokból</item>
+        <item>Galaxy Themes: témák és alapértelmezett háttérkép</item>
+        <item>Alkalmazások: nem támogatott telepítési fájlok</item>
+        <item>Biztonságos mappa: alkalmazások és adatok</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: korábbi hívások és üzenetek</item>
+        <item>Üzenetek: speciális üzenetek, multimédiás üzenetek és szöveges üzenetek</item>
+        <item>Névjegyzék: az eszközre mentett névjegyek, e-mail-címek és névjegykártyák</item>
+        <item>Naptár: az eszközre mentett események és feladatok</item>
+        <item>Óra: jelzések, világórák és időzítők</item>
+        <item>Beállítások: kisegítő lehetőségek beállításai, csengőhangok, a Samsung Billentyűzet beállításai, Wi-Fi-beállítások, párosított Bluetooth-eszközök, arcfelismerési beállítások és az Always On Display beállításai (az alapértelmezett csengőhangról nem készül biztonsági másolat)</item>
+        <item>Kezdőképernyő: elrendezés, háttérképek és a Samsung DeX beállításai</item>
+        <item>Alkalmazások: telepítési fájlok és alkalmazásbeállítások</item>
+        <item>Hangrögzítő: felvételek</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Zene: MP3, FLAC, WAV, M4A, OGG és más zenefájlok</item>
+        <item>Dokumentumok: PDF-, Word-, Excel-, PowerPoint- és egyéb dokumentumok</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: korábbi csevegések</item>
+        <item>%s: zárolt feljegyzések</item>
+        <item>%s: jelszóval védett adatok</item>
+        <item>%s: alkalmazások és alkalmazásadatok</item>
+        <item>%s: Események a szinkronizált fiókokból</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Privát kulcs és helyreállítási kifejezés</item>
+        <item>Az alkalmazás házirendjei miatt át nem vihető adatok</item>
+        <item>Biztonsági vagy kompatibilitási problémák miatt át nem vihető alkalmazások: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Írásvédett névjegyek</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Alapértelmezett háttérkép</item>
+        <item>Galaxy Themes-háttérképek</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Vészjelző üzenetek</item>
+        <item>Vázlatok és el nem küldött üzenetek</item>
+        <item>Üzenetek iMessage-effektekkel</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Zárolt tartalom</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: korábbi hívások és üzenetek</item>
+        <item>Üzenetek: speciális üzenetek, multimédiás üzenetek és szöveges üzenetek</item>
+        <item>Óra: jelzések, világórák és időzítők</item>
+        <item>Beállítások: kisegítő lehetőségek beállításai, csengőhangok, a Samsung Billentyűzet beállításai, Wi-Fi-beállítások, párosított Bluetooth-eszközök és az Always On Display beállításai (az alapértelmezett csengőhang nem lesz titkosítva)</item>
+        <item>Alkalmazások: alkalmazásbeállítások</item>
+        <item>Kezdőképernyő: elrendezés, háttérképek és a Samsung DeX beállításai</item>
+        <item>Hangrögzítő: felvételek</item>
+    </string-array>
+</resources>

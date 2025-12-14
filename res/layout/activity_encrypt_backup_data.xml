@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.scloud.app.core.component.RoundCorneredScrollView android:tag="layout/activity_encrypt_backup_data_0" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true" android:overScrollMode="always"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:tag="binding_1" android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.SeslSwitchBar android:theme="@style/SeslSwitchBarStyle" android:id="@id/switch_bar" android:layout_width="match_parent" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="@style/E2eeDescriptionTextStyle" android:id="@id/description_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dp" android:layout_marginBottom="16.0dp" android:paddingStart="@dimen/e2ee_side_margin" android:paddingEnd="@dimen/e2ee_side_margin" />
+        <include android:id="@id/sub_header_data" layout="@layout/layout_e2ee_sub_header" />
+        <TextView android:textColor="@color/title_text_color_theme" android:id="@id/data_detail_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/data_you_can_encrypt" android:paddingStart="@dimen/e2ee_side_margin" android:paddingEnd="@dimen/e2ee_side_margin" />
+        <LinearLayout android:orientation="vertical" android:tag="binding_2" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dp">
+            <LinearLayout android:orientation="vertical" android:id="@id/ll_categories_container" android:layout_width="match_parent" android:layout_height="wrap_content" />
+            <include android:id="@id/sub_header_device" layout="@layout/layout_e2ee_sub_header" />
+            <LinearLayout android:orientation="vertical" android:id="@id/ll_devices_container" android:layout_width="match_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</com.samsung.android.scloud.app.core.component.RoundCorneredScrollView>

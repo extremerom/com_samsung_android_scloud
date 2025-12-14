@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/activity_back_up_your_data_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.scloud.app.core.component.RoundCorneredScrollView android:scrollbarStyle="outsideOverlay" android:id="@id/sv_back_up_your_data" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true" android:layout_above="@id/bottom_button_container" android:layout_alignParentTop="true">
+        <androidx.constraintlayout.widget.ConstraintLayout android:tag="binding_1" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <include android:id="@id/title_view_layout" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" layout="@layout/layout_e2ee_title_container" />
+            <LinearLayout android:orientation="vertical" android:id="@id/ll_deleting_devices" android:tag="binding_2" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constrainedWidth="true" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/title_view_layout">
+                <include layout="@layout/layout_e2ee_sub_header" />
+                <LinearLayout android:orientation="vertical" android:id="@id/ll_deleting_devices_container" android:layout_width="match_parent" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/ll_support_categories" android:tag="binding_3" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constrainedWidth="true" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/ll_deleting_devices">
+                <include layout="@layout/layout_e2ee_sub_header" />
+                <LinearLayout android:orientation="vertical" android:id="@id/ll_support_categories_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dp" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/ll_support_devices" android:tag="binding_4" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constrainedWidth="true" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/ll_support_categories">
+                <include layout="@layout/layout_e2ee_sub_header" />
+                <LinearLayout android:orientation="vertical" android:id="@id/ll_support_devices_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dp" />
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </com.samsung.android.scloud.app.core.component.RoundCorneredScrollView>
+    <include android:id="@id/bottom_button_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/single_button_layout" />
+</RelativeLayout>

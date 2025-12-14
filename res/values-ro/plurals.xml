@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 imagine și %1$d videoclip (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">1 imagine și %1$d videoclipuri (%2$s)</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 imagine și %1$d videoclipuri (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplicație neinstalată</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplicații neinstalate</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d aplicații neinstalate</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Mesaje: alerte de urgență, fișiere transferate, mesaje multimedia mai mari decât %d MB, schițe și mesaje netrimise</item>
+        <item quantity="one">Mesaje: alerte de urgență, fișiere transferate, mesaje multimedia mai mari decât %d MB, schițe și mesaje netrimise</item>
+        <item quantity="two">Mesaje: alerte de urgență, fișiere transferate, mesaje multimedia mai mari decât %d MB, schițe și mesaje netrimise</item>
+        <item quantity="few">Mesaje: alerte de urgență, fișiere transferate, mesaje multimedia mai mari decât %d MB, schițe și mesaje netrimise</item>
+        <item quantity="many">Mesaje: alerte de urgență, fișiere transferate, mesaje multimedia mai mari decât %d MB, schițe și mesaje netrimise</item>
+        <item quantity="other">Mesaje: alerte de urgență, fișiere transferate, mesaje multimedia mai mari decât %d MB, schițe și mesaje netrimise</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Datele de backup pentru %d dispozitiv vor expira în curând. Selectați dispozitivul de mai jos pentru a verifica data de expirare.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Datele de backup pentru %d dispozitive vor expira în curând. Selectați un dispozitiv de mai jos pentru a verifica data de expirare.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Datele de backup pentru %d dispozitive vor expira în curând. Selectați un dispozitiv de mai jos pentru a verifica data de expirare.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Datele de backup pentru %d dispozitiv vor expira în curând.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Datele de backup pentru %d dispozitive vor expira în curând.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Datele de backup pentru %d dispozitive vor expira în curând.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d element de backup nu a putut fi actualizat, astfel backupul anterior al acestui element va fi restabilit pe telefonul nou (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d elemente de backup nu au putut fi actualizate, astfel backupurile anterioare ale acestor elemente vor fi restabilite pe telefonul nou (%2$s).</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d elemente de backup nu au putut fi actualizate, astfel backupurile anterioare ale acestor elemente vor fi restabilite pe telefonul nou (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d element de backup nu a putut fi actualizat, astfel backupul acestui element efectuat la %2$s va fi restabilit pe telefonul nou (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d elemente de backup nu au putut fi actualizate, astfel backupurile acestor elemente efectuate la %2$s vor fi restabilite pe telefonul nou (%3$s).</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d elemente de backup nu au putut fi actualizate, astfel backupurile acestor elemente efectuate la %2$s vor fi restabilite pe telefonul nou (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d element de backup nu a putut fi actualizat, astfel backupul anterior al acestui element va fi restabilit pe tableta nouă (%2$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d elemente de backup nu au putut fi actualizate, astfel backupurile anterioare ale acestor elemente vor fi restabilite pe tableta nouă (%2$s).</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d elemente de backup nu au putut fi actualizate, astfel backupurile anterioare ale acestor elemente vor fi restabilite pe tableta nouă (%2$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d element de backup nu a putut fi actualizat, astfel backupul acestui element efectuat la %2$s va fi restabilit pe tableta nouă (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d elemente de backup nu au putut fi actualizate, astfel backupurile acestor elemente efectuate la %2$s vor fi restabilite pe tableta nouă (%3$s).</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d elemente de backup nu au putut fi actualizate, astfel backupurile acestor elemente efectuate la %2$s vor fi restabilite pe tableta nouă (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Datele vor fi șterse peste %d zi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Datele vor fi șterse peste %d zile.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Datele vor fi șterse peste %d zile.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Expiră peste %d zi</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Expiră peste %d zile</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Expiră peste %d zile</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Majoritatea datelor dvs. au fost restabilite, dar %d aplicație nu a fost instalată.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Majoritatea datelor dvs. au fost restabilite, dar %d aplicații nu au fost instalate.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Majoritatea datelor dvs. au fost restabilite, dar %d aplicații nu au fost instalate.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+        <item quantity="other">%d de notificări noi</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d album nou disponibil</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d albume noi disponibile</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d albume noi disponibile</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d album selectat</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d albume selectate</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d albume selectate</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 avatar și %d element cu design personalizat</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">1 avatar și %d elemente cu design personalizat</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 avatar și %d elemente cu design personalizat</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 oră și %d minut rămase</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">1 oră și %d minute rămase</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 oră și %d minute rămase</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 fotogr. și %d videoclip sinc.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">1 fot. și %d videoclipuri sinc.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 fot. și %d videoclipuri sinc.</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d element selectat (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d elemente selectate (%2$s)</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d elemente selectate (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d imagine și 1 videoclip (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d imagini și 1 videoclip (%2$s)</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d imagini și 1 videoclip (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d imagine (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d imagini (%2$s)</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d imagini (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d selectat (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d selectate (%2$s %3$s)</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d selectate (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d videoclip (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d videoclipuri (%2$s)</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d videoclipuri (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d fișier</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d fișiere</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d fișiere</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d oră și 1 minut rămase</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d ore și 1 minut rămase</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ore și 1 minut rămase</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d imagine descărcată din cloud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d imagini descărcate din cloud.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d imagini descărcate din cloud.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d element descărcat din cloud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d elemente descărcate din cloud.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d elemente descărcate din cloud.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d minute</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d minute</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d minut rămas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d minute rămase</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d minute rămase</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d fotografie și 1 videocl. sinc.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d fotografii și 1 videocl. sinc.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d fotografii și 1 videocl. sinc.</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d fotografie sincronizată</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d fotografii sincronizate</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d fotografii sincronizate</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d imagine sau videoclip</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d imagini sau videoclipuri</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d imagini sau videoclipuri</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">S-a selectat %d</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">S-au selectat %d</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">S-au selectat %d</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d videoclip descărcat din cloud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d videoclipuri descărcate din cloud.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d videoclipuri descărcate din cloud.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d videoclip sincronizat</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d videoclipuri sincronizate</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d videoclipuri sincronizate</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Baterie descărcată. Pentru a face backup telefonului, încărcați până la cel puțin %d%%.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Baterie descărcată. Pentru a face backup telefonului, încărcați până la cel puțin %d%%.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Baterie descărcată. Pentru a face backup telefonului, încărcați până la cel puțin %d%%.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Backupul temporar expiră peste %d zi. Restabiliți-l acum sau amânați data expirării dacă aveți nevoie de mai mult timp.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Backupul temporar expiră peste %d zile. Restabiliți-l în curând sau amânați data expirării dacă aveți nevoie de mai mult timp.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Backupul temporar expiră peste %d zile. Restabiliți-l în curând sau amânați data expirării dacă aveți nevoie de mai mult timp.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Amânare %d zi</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Amânare %d zile</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Amânare %d zile</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d avataruri</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d avataruri</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d avatar și 1 element cu design personalizat</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d avataruri și 1 element cu design personalizat</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d avataruri și 1 element cu design personalizat</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d element cu design personalizat</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d elemente cu design personalizat</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d elemente cu design personalizat</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d element rămas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d elemente rămase</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d elemente rămase</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d dispozitiv Samsung asociat</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d dispozitive Samsung asociate</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d dispozitive Samsung asociate</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d memento</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d mementouri</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d mementouri</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Abonamentul dumneavoastră s-a încheiat la %1$s. Datele dumneavoastră vor fi șterse peste %2$d zi. Reactivați-vă abonamentul pentru a păstra datele.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Abonamentul dumneavoastră s-a încheiat la %1$s. Datele dumneavoastră vor fi șterse peste %2$d zile. Reactivați-vă abonamentul pentru a păstra datele.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Abonamentul dumneavoastră s-a încheiat la %1$s. Datele dumneavoastră vor fi șterse peste %2$d zile. Reactivați-vă abonamentul pentru a păstra datele.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Baterie descărcată. Pentru a face backup tabletei, încărcați până la cel puțin %d%%.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Baterie descărcată. Pentru a face backup tabletei, încărcați până la cel puțin %d%%.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Baterie descărcată. Pentru a face backup tabletei, încărcați până la cel puțin %d%%.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Faceți backup unui număr nelimitat de date în %1$s pentru până la %2$d zi sau restabiliți datele pentru care ați făcut backup.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Faceți backup unui număr nelimitat de date în %1$s pentru până la %2$d zile sau restabiliți datele pentru care ați făcut backup.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Faceți backup unui număr nelimitat de date în %1$s pentru până la %2$d zile sau restabiliți datele pentru care ați făcut backup.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Acest backup va fi șters peste %d zi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Acest backup va fi șters peste %d zile.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Acest backup va fi șters peste %d zile.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Încercați din nou peste %d oră</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Încercați din nou peste %d ore</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Încercați din nou peste %d ore</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Încercați din nou peste %d oră și 1 minut</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Încercați din nou peste %d ore și 1 minut</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Încercați din nou peste %d ore și 1 minut</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Încercați din nou peste %d minut</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Încercați din nou peste %d minute</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Încercați din nou peste %d minute</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Încercați din nou peste 1 oră și %d minut</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Încercați din nou peste 1 oră și %d minute</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Încercați din nou peste 1 oră și %d minute</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Backupul este în siguranță în %1$s. Aveți %2$d zi pentru a-l restabili.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Backupul este în siguranță în %1$s. Aveți %2$d zile pentru a-l restabili.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Backupul este în siguranță în %1$s. Aveți %2$d zile pentru a-l restabili.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Backupul temporar va fi șters peste %d zi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Backupul temporar va fi șters peste %d zile.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Backupul temporar va fi șters peste %d zile.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Datele nu au fost restabilite pe telefonul dvs. Mai aveți %d zi pentru a le restabili.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Datele nu au fost restabilite pe telefon dvs. Mai aveți %d zile pentru a le restabili.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Datele nu au fost restabilite pe telefon dvs. Mai aveți %d zile pentru a le restabili.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Datele nu au fost restabilite pe tableta dvs. Mai aveți %d zi pentru a le restabili.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Datele nu au fost restabilite pe tableta dvs. Mai aveți %d zile pentru a le restabili.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Datele nu au fost restabilite pe tableta dvs. Mai aveți %d zile pentru a le restabili.</item>
+    </plurals>
+</resources>

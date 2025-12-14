@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>آپ کا فون چارجنگ پے ہے۔</item>
+        <item>آپ کا فون کسی Wi-Fi نیٹ ورک سے جڑا ہوا ہے۔</item>
+        <item>اسکرین آف ہے۔</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>آپ کا ٹیبلیٹ چارج ہورہا ہے۔</item>
+        <item>آپ کا ٹیبلیٹ کسی Wi-Fi نیٹ ورک سے جڑا ہوا ہے۔</item>
+        <item>اسکرین آف ہے۔</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>جو ڈیٹا آپ بیک اپ کرسکتے ہیں وہ آپ کے فون یا آپریٹنگ سسٹم کی بنیاد پر مختلف ہوسکتی ہے۔</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>جس ڈیٹا آپ بیک اپ لے سکتے ہیں وہ آپ کے ٹیبلیٹ یا آپریٹنگ سسٹم کی بنیاد پر مختلف ہوسکتا ہے۔</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>روابط: سنک کردہ اکاؤنٹس سے حاصل روابط</item>
+        <item>کیلنڈر: سنک کردہ اکاؤنٹس سے حاصل ایونٹس اور اہداف</item>
+        <item>‏Galaxy Themes: تھیمز اور ڈیفالٹ وال پیپر</item>
+        <item>ایپس: غیر موافق انسٹالیشن فائلز اور غیر Samsung ایپس کا ڈیٹا</item>
+        <item>محفوظ فولڈر: ایپس اور ڈیٹا</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>روابط: سنک کردہ اکاؤنٹس سے حاصل روابط</item>
+        <item>کیلنڈر: سنک کردہ اکاؤنٹس سے حاصل ایونٹس اور اہداف</item>
+        <item>‏Galaxy Themes: تھیمز اور ڈیفالٹ وال پیپر</item>
+        <item>ایپس: غیر تعاون یافتہ انسٹالیشن فائلز</item>
+        <item>محفوظ فولڈر: ایپس اور ڈیٹا</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>فون: کال اور پیغام ہسٹری</item>
+        <item>پیغامات: افزودہ پیغامات، ملٹی میڈیا پیغامات، اور متن پیغامات</item>
+        <item>روابط: آپ کے آلہ پر محفوظ شدہ روابط، ای میل پتہ، اور کاروباری کارڈز</item>
+        <item>کیلنڈر: آپ کے آلہ پر محفوظ کیے گئے تقریبات اور ٹاسکس</item>
+        <item>گھڑی: انتباہات، عالمی گھڑی، اور ٹائمرز</item>
+        <item>سیٹنگز: رسائی کی سیٹنگز، رنگ ٹونز، Samsung کی بورڈ کے اختیارات، Wi-Fi سیٹنگز، جوڑا بنائے گئے بلیوٹوتھ آلات اور چہرے کی شناخت کی سیٹنگز، فنگر پرنٹ کی سیٹنگز اور Always On Display سیٹنگز (آپ کے ڈیفالٹ رنگ ٹون کا بیک اپ نہیں ہوگا)</item>
+        <item>ہوم اسکرین: لے آؤٹ، وال پیپرز اور Samsung DeX سیٹنگز</item>
+        <item>ایپلیکیشنز: تنصیب فائلیں اور ایپلیکیشن سیٹنگز</item>
+        <item>وائس ریکارڈر: ریکارڈنگز</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>موسیقی: MP3, FLAC, WAV, M4A, OGG اور موسیقی کی دیگر فائلز</item>
+        <item>دستاویزات: PDF, Word, Excel, PowerPoint اور دیگر دستاویزات</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: چیٹ ہسٹری</item>
+        <item>%s: لاک شدہ نوٹس</item>
+        <item>%s: پاس ورڈ تحفظ کا ڈیٹا</item>
+        <item>%s: ایپلیکیشنز اور ایپلیکیشن ڈیٹا</item>
+        <item>%s: سنک کردہ اکاؤنٹس سے تقریبات</item>
+        <item>‏Samsung بلاک چین کی اسٹور</item>
+        <item>نجی کلید اور بحالی والا جملہ</item>
+        <item>ایپلیکیشن کی پالیسیوں کی وجہ سے وہ ڈیٹا منتقل نہیں کیا جاسکتا ہے</item>
+        <item>ایسے ایپلیکیشنز جنہیں سیکیورٹی یا موزونیت کے مسائل کی وجہ سے منتقل نہیں کیے جاسکتے: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>صرف پڑھنے کیلئے روابط</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>ڈیفالٹ وال پیپر</item>
+        <item>‏Galaxy Themes وال پیپرز</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>ایمرجنسی تنبیہی پیغامات</item>
+        <item>مسودہ اور ناکام پیغامات</item>
+        <item>‏iMessage اثرات کے ساتھ پیغامات</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>مقفل مواد</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>فون: کال اور پیغام ہسٹری</item>
+        <item>پیغامات: افزودہ پیغامات، ملٹی میڈیا پیغامات، اور متن پیغامات</item>
+        <item>گھڑی: انتباہات، عالمی گھڑی، اور ٹائمرز</item>
+        <item>سیٹنگز: رسائی کی سیٹنگز، رنگ ٹونز، Samsung کی بورڈ کے اختیارات، Wi-Fi سیٹنگز، جوڑا بنائے گئے بلیوٹوتھ والے آلات، اور Always On Display کی سیٹنگز (ڈیفالٹ رنگ ٹون اینکرپٹ نہیں ہے)</item>
+        <item>ایپس: ایپ کی سیٹنگز</item>
+        <item>ہوم اسکرین: لے آؤٹ، وال پیپرز اور Samsung DeX سیٹنگز</item>
+        <item>وائس ریکارڈر: ریکارڈنگز</item>
+    </string-array>
+</resources>

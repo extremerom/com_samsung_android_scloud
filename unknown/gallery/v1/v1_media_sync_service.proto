@@ -1,0 +1,181 @@
+
+syntax = "proto3";
+
+import "gallery/attribute/media/media_attribute.proto";
+import "gallery/attribute/media/media_meta_attribute.proto";
+import "gallery/attribute/media/client_timestamp_attribute.proto";
+import "gallery/attribute/media/telemetry_attribute.proto";
+import "gallery/attribute/media/file_url_attribute.proto";
+import "gallery/attribute/media/file_meta_attribute.proto";
+
+import "google/api/field_behavior.proto";
+
+package samsung.scsp.gallery.v1;
+
+option java_multiple_files = true;
+
+service MediaSyncService {
+  
+  rpc Create(CreateMediaRequest) returns (CreateMediaResponse) {}
+  
+  
+  rpc Get(GetMediaRequest) returns (GetMediaResponse) {}
+  
+  
+  rpc InitializeWithFullSync(MediaFullSyncRequest) returns (MediaFullSyncResponse) {}
+
+  
+  rpc UpdateNormal(UpdateNormalMediaRequest) returns (UpdateNormalMediaResponse) {}
+  
+  
+  rpc TrashAndUpdate(TrashAndUpdateRequest) returns (TrashAndUpdateResponse) {}
+
+  
+  rpc RestoreAndUpdate(RestoreAndUpdateRequest) returns (RestoreAndUpdateResponse) {}
+
+  
+  rpc Purge(PurgeRequest) returns (PurgeResponse) {}
+
+  
+  rpc GetUploadUrl(GetUploadUrlRequest) returns (GetUploadUrlResponse) {}
+  
+  
+  rpc GetDownloadUrl(GetDownloadUrlRequest) returns (GetDownloadUrlResponse) {}
+  
+  
+  rpc GetChanges(GetChangesRequest) returns (GetChangesResponse) {}
+  
+  
+  rpc ReportTelemetry(ReportTelemetryRequest) returns (ReportTelemetryResponse) {}
+}
+
+
+message CreateMediaRequest {
+  media.attribute.MediaMeta media_meta = 1 [(google.api.field_behavior) = REQUIRED]; 
+  media.attribute.FileMetaAttribute file_meta = 2 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message CreateMediaResponse {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+
+message GetMediaRequest {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message GetMediaResponse {
+  media.attribute.Media media = 1 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message MediaFullSyncRequest {
+  optional int32 size = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string page_token = 2; 
+}
+
+message MediaFullSyncResponse {
+  repeated media.attribute.Media media = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string next_page_token = 2; 
+  optional bool has_next = 3 [(google.api.field_behavior) = REQUIRED]; 
+  optional string next_change_point = 4; 
+}
+
+
+message UpdateNormalMediaRequest {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional media.attribute.MediaMeta media_meta = 2 [(google.api.field_behavior) = REQUIRED]; 
+  media.attribute.FileMetaAttribute file_meta = 3 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message UpdateNormalMediaResponse {
+  
+}
+
+message TrashAndUpdateRequest {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional media.attribute.MediaMeta media_meta = 2 [(google.api.field_behavior) = REQUIRED]; 
+  media.attribute.FileMetaAttribute file_meta = 3 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message TrashAndUpdateResponse {
+  
+}
+
+message RestoreAndUpdateRequest {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional media.attribute.MediaMeta media_meta = 2 [(google.api.field_behavior) = REQUIRED]; 
+  media.attribute.FileMetaAttribute file_meta = 3 [(google.api.field_behavior) = REQUIRED]; 
+
+}
+
+message RestoreAndUpdateResponse {
+  
+}
+
+message PurgeRequest {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+  media.attribute.ClientTimestamp client_timestamp = 2 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message PurgeResponse {
+  
+}
+
+
+message GetUploadUrlRequest {
+
+  repeated FileInfo file_info = 1 [(google.api.field_behavior) = REQUIRED]; 
+
+  message FileInfo {
+    optional string hash = 1 [(google.api.field_behavior) = REQUIRED]; 
+    optional string content_type = 2; 
+    optional int64 size = 3 [(google.api.field_behavior) = REQUIRED]; 
+  }
+}
+
+message GetUploadUrlResponse {
+  repeated UrlInfo url_info = 1 [(google.api.field_behavior) = REQUIRED]; 
+
+  message UrlInfo {
+    optional string hash = 1 [(google.api.field_behavior) = REQUIRED]; 
+    optional string url = 2 [(google.api.field_behavior) = REQUIRED]; 
+    
+    optional string upload_token = 3 [(google.api.field_behavior) = REQUIRED];
+  }
+}
+
+message GetDownloadUrlRequest {
+  optional string media_id = 1 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message GetDownloadUrlResponse {
+  oneof original_file_url {
+    samsung.scsp.media.attribute.FileUrlAttribute.RegularFileUrl regular_url  = 1; 
+    samsung.scsp.media.attribute.FileUrlAttribute.NdeFileUrl nde_url = 2; 
+  }
+}
+
+
+message GetChangesRequest {
+  optional int32 size = 1 [(google.api.field_behavior) = REQUIRED]; 
+  optional string change_point = 2 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+message GetChangesResponse {
+  repeated media.attribute.Media media = 1; 
+  optional string next_change_point = 2 [(google.api.field_behavior) = REQUIRED]; 
+  optional bool has_next = 3 [(google.api.field_behavior) = REQUIRED]; 
+}
+
+
+message ReportTelemetryRequest {
+  optional media.attribute.TelemetryAttribute.TelemetryType telemetry_type = 1 [(google.api.field_behavior) = REQUIRED]; 
+  oneof telemetry_data {
+    media.attribute.TelemetryAttribute.GetChangesData get_changes_data = 2;
+    media.attribute.TelemetryAttribute.GetAllData get_all_data = 3;
+    media.attribute.TelemetryAttribute.UploadData upload_data = 4;
+  } 
+}
+message ReportTelemetryResponse {
+  
+} 

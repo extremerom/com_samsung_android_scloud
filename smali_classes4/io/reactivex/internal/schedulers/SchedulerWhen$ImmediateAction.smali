@@ -1,0 +1,39 @@
+.class Lio/reactivex/internal/schedulers/SchedulerWhen$ImmediateAction;
+.super Lio/reactivex/internal/schedulers/SchedulerWhen$ScheduledAction;
+.source "SourceFile"
+
+
+# instance fields
+.field private final action:Ljava/lang/Runnable;
+
+
+# direct methods
+.method public constructor <init>(Ljava/lang/Runnable;)V
+    .locals 0
+
+    invoke-direct {p0}, Lio/reactivex/internal/schedulers/SchedulerWhen$ScheduledAction;-><init>()V
+
+    iput-object p1, p0, Lio/reactivex/internal/schedulers/SchedulerWhen$ImmediateAction;->action:Ljava/lang/Runnable;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public callActual(LXa/u;LXa/b;)Lio/reactivex/disposables/b;
+    .locals 3
+
+    new-instance v0, Lio/reactivex/internal/schedulers/f;
+
+    iget-object v1, p0, Lio/reactivex/internal/schedulers/SchedulerWhen$ImmediateAction;->action:Ljava/lang/Runnable;
+
+    const/4 v2, 0x1
+
+    invoke-direct {v0, v2, v1, p2}, Lio/reactivex/internal/schedulers/f;-><init>(ILjava/lang/Object;Ljava/lang/Object;)V
+
+    invoke-virtual {p1, v0}, LXa/u;->a(Ljava/lang/Runnable;)Lio/reactivex/disposables/b;
+
+    move-result-object p1
+
+    return-object p1
+.end method

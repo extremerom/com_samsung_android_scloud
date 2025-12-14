@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/slot_info_layout" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:id="@id/app_icon" android:layout_width="@dimen/app_icon_size" android:layout_height="@dimen/app_icon_size" android:src="@drawable/cloud_list_ic_dummy" android:layout_marginStart="@dimen/margin_20dp" android:layout_marginEnd="@dimen/margin_20dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/slot_list" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <LinearLayout android:orientation="vertical" android:id="@id/slot_list" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/margin_20dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/loading_icon" app:layout_constraintStart_toEndOf="@id/app_icon" app:layout_constraintTop_toTopOf="parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/title_info_layout" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/margin_14dp" android:layout_marginBottom="@dimen/margin_14dp">
+                <TextView android:textSize="@dimen/text_size_17sp" android:textColor="@color/text_color_primary" android:id="@id/app_title" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                <TextView android:textSize="@dimen/text_size_13sp" android:textColor="@color/text_color_secondary" android:id="@id/app_info" android:layout_width="match_parent" android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+        <androidx.appcompat.widget.SeslProgressBar android:layout_gravity="center" android:id="@id/loading_icon" android:visibility="gone" android:layout_width="@dimen/size_24dp" android:layout_height="@dimen/size_24dp" android:indeterminate="true" android:layout_marginEnd="@dimen/margin_26dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/slot_list" app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

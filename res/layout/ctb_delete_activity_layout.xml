@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:tag="layout/ctb_delete_activity_layout_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_above="@id/button_layout" android:layout_alignParentTop="true">
+        <com.samsung.android.scloud.app.core.component.RoundCorneredScrollView android:orientation="vertical" android:background="@color/window_background_color" android:focusable="false" android:scrollbars="vertical" android:descendantFocusability="beforeDescendants" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:overScrollMode="ifContentScrolls">
+            <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.samsung.android.scloud.app.common.custom.LoadingView android:id="@id/loading" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" />
+                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/screen" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+                    <androidx.core.widget.NestedScrollView android:background="@color/list_background" android:layout_width="match_parent" android:layout_height="0.0dp" android:layout_weight="1.0">
+                        <com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/slot_item_view" android:background="?android:listChoiceBackgroundIndicator" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/margin_24dp">
+                                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/RecoilEffect">
+                                    <CheckBox android:layout_gravity="center" android:id="@id/checkbox" android:background="@android:color/transparent" android:focusable="false" android:clickable="false" android:layout_width="@dimen/margin_32dp" android:layout_height="@dimen/margin_32dp" android:checked="true" android:soundEffectsEnabled="false" android:importantForAccessibility="no" />
+                                    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="18.0dp">
+                                        <androidx.constraintlayout.widget.ConstraintLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/slot_info_layout" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/RecoilEffect">
+                                            <ImageView android:layout_gravity="center" android:id="@id/device_icon" android:tag="binding_1" android:layout_width="@dimen/margin_40dp" android:layout_height="@dimen/margin_40dp" android:src="@drawable/device_general_support_night" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/slot_list" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+                                            <LinearLayout android:orientation="vertical" android:id="@id/slot_list" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginTop="14.0dp" android:layout_marginBottom="14.0dp" android:layout_marginStart="@dimen/margin_20dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/device_icon" app:layout_constraintTop_toTopOf="parent">
+                                                <TextView android:textSize="17.0sp" android:textColor="@color/text_color_primary" android:id="@id/title" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                                                <TextView android:textSize="@dimen/text_size_13sp" android:textColor="@color/text_color_secondary" android:id="@id/backup_date" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                                                <TextView android:textSize="@dimen/text_size_13sp" android:textColor="@color/text_color_secondary" android:id="@id/expiry_date" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                                            </LinearLayout>
+                                        </androidx.constraintlayout.widget.ConstraintLayout>
+                                    </LinearLayout>
+                                </LinearLayout>
+                            </LinearLayout>
+                        </com.samsung.android.scloud.app.common.component.RoundCornerLinearLayout>
+                    </androidx.core.widget.NestedScrollView>
+                </LinearLayout>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </com.samsung.android.scloud.app.core.component.RoundCorneredScrollView>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/button_layout" android:tag="binding_2" android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <include android:id="@id/delete_button" android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/single_button_layout" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Telefoni yt po karikohet.</item>
+        <item>Telefoni yt është lidhur me një rrjet Wi-Fi.</item>
+        <item>Ekrani është i fikur.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tableta jote është duke u karikuar.</item>
+        <item>Tableta jote është lidhur me një rrjet Wi-Fi.</item>
+        <item>Ekrani është i fikur.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Të dhënat që mund të rezervosh mund të ndryshojnë sipas telefonit ose sistemit operativ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Të dhënat që mund të rezervosh mund të ndryshojnë sipas tabletës ose sistemit operativ.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kontaktet: kontaktet nga llogaritë e sinkronizuara</item>
+        <item>Kalendari: ngjarjet dhe detyrat nga llogaritë e sinkronizuara</item>
+        <item>Galaxy Themes: temat dhe letra e murit parazgjedhje</item>
+        <item>App-et: skedarë instalimi jo të pajtueshëm dhe të dhëna nga app-et jo-Samsung</item>
+        <item>Dosja e sigurt: app-et dhe të dhënat</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kontaktet: kontaktet nga llogaritë e sinkronizuara</item>
+        <item>Kalendari: ngjarjet dhe detyrat nga llogaritë e sinkronizuara</item>
+        <item>Galaxy Themes: temat dhe letra e murit parazgjedhje</item>
+        <item>App-et: skedarë instalimi të pambështetur</item>
+        <item>Dosja e sigurt: app-et dhe të dhënat</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: historia e thirrjeve dhe mesazheve</item>
+        <item>Mesazhet: mesazhe të përmirësuara, mesazhe multimedia dhe mesazhe tekst</item>
+        <item>Kontaktet: kontaktet, adresat e-postare dhe kartëvizitat e ruajtura në pajisjen tënde</item>
+        <item>Kalendari: ngjarjet dhe detyrat e ruajtura në pajisjen tënde</item>
+        <item>Ora: alarmet, orët botërore dhe kohëmatësit</item>
+        <item>Cilësimet: cilësimet e aksesibilitetit, tonet e ziles, opsionet e Tastierës Samsung, cilësimet Wi-Fi, pajisjet Bluetooth të çiftuara, cilësimet e njohjes me fytyrë, cilësimet e shenjave të gishtit dhe cilësimet për Always On Display (toni yt i ziles i parazgjedhur nuk do të rezervohet)</item>
+        <item>Ekrani bazë: struktura, letrat e murit dhe cilësimet Samsung DeX</item>
+        <item>App-et: skedarë të instalimit dhe cilësime të app-eve</item>
+        <item>Regjistruesi zanor: regjistrimet</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Muzikë: skedarë muzikorë MP3, FLAC, WAV, M4A, OGG dhe lloje të tjera</item>
+        <item>Dokumente: dokumente PDF, Word, Excel, PowerPoint dhe lloje të tjera</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: historia e chat-eve</item>
+        <item>%s: shënimet e kyçura</item>
+        <item>%s: të dhënat e mbrojtura me fjalëkalim</item>
+        <item>%s: app-e dhe të dhëna app-esh</item>
+        <item>%s: Ngjarjet nga llogaritë e sinkronizuara</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Çelësi privat dhe fraza e rikuperimit</item>
+        <item>Të dhëna që nuk mund të transferohen, për shkak të politikave të app-it</item>
+        <item>App-e që nuk mund të transferohen për shkak të sigurisë ose pajtueshmërisë: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Kontaktet lexim-vetëm</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Letra e murit me parazgjedhje</item>
+        <item>Letrat e murit nga Galaxy Themes</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Mesazhe sinjalizimi urgjence</item>
+        <item>Draftet dhe mesazhet e dështuara</item>
+        <item>Mesazhet me efekte iMessage</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Materiale të kyçura</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: historia e thirrjeve dhe mesazheve</item>
+        <item>Mesazhet: mesazhe të përmirësuara, mesazhe multimedia dhe mesazhe tekst</item>
+        <item>Ora: alarmet, orët botërore dhe kohëmatësit</item>
+        <item>Cilësimet: cilësimet e aksesibilitetit, tonet e ziles, opsionet e Tastierës Samsung, cilësimet Wi-Fi, pajisjet Bluetooth të çiftuara dhe cilësimet për Always On Display (toni yt i ziles i parazgjedhur nuk do të enkriptohet)</item>
+        <item>App-et: cilësimet e app-eve</item>
+        <item>Ekrani bazë: struktura, letrat e murit dhe cilësimet Samsung DeX</item>
+        <item>Regjistruesi zanor: regjistrimet</item>
+    </string-array>
+</resources>

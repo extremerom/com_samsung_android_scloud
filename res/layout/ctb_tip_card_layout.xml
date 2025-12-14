@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/test" android:tag="layout/ctb_tip_card_layout_0" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/tip_body_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/tip_layout_padding_start">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerVertical="true">
+            <TextView android:textAppearance="@style/TextTipDescription" android:id="@id/summary_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/tip_title_text_margin_top" android:layout_marginEnd="@dimen/tip_layout_padding_end" android:breakStrategy="simple" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/tip_button_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/tip_button_layout_margin_top" android:layout_marginStart="@dimen/tip_button_layout_margin_side" android:layout_marginEnd="@dimen/tip_button_layout_margin_side">
+        <com.samsung.android.scloud.app.common.component.ShapeButtonLayout android:id="@id/positive_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/tip_button_height" android:layout_centerVertical="true" android:layout_marginStart="@dimen/tip_button_layout_margin_side" android:layout_alignParentEnd="true" app:textAppearance="@style/TextTipButton" style="@style/RecoilEffect" />
+        <com.samsung.android.scloud.app.common.component.ShapeButtonLayout android:id="@id/negative_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/tip_button_height" android:layout_centerVertical="true" android:layout_toStartOf="@id/positive_button" app:textAppearance="@style/TextTipButton" style="@style/RecoilEffect" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_picture_and_p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 зураг ба %1$d видео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 зураг ба %1$d видео (%2$s)</item>
+    </plurals>
+    <plurals name="apps_not_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d хэрэглүүрүүдийг суулгаагүй байна</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d хэрэглүүрүүдийг суулгаагүй байна</item>
+    </plurals>
+    <plurals name="auto_backup_information_what_we_cant_backup_for_messages">
+        <item quantity="zero">Зурвасууд: яаралтай тусламжийн сэрэмжлүүлэг, шилжүүлсэн файлууд, %d МБ-аас том мультимедиа зурвасууд, нооргууд болон бүтэлгүйтсэн зурвасууд</item>
+        <item quantity="one">Зурвасууд: яаралтай тусламжийн сэрэмжлүүлэг, шилжүүлсэн файлууд, %d МБ-аас том мультимедиа зурвасууд, нооргууд болон бүтэлгүйтсэн зурвасууд</item>
+        <item quantity="two">Зурвасууд: яаралтай тусламжийн сэрэмжлүүлэг, шилжүүлсэн файлууд, %d МБ-аас том мультимедиа зурвасууд, нооргууд болон бүтэлгүйтсэн зурвасууд</item>
+        <item quantity="few">Зурвасууд: яаралтай тусламжийн сэрэмжлүүлэг, шилжүүлсэн файлууд, %d МБ-аас том мультимедиа зурвасууд, нооргууд болон бүтэлгүйтсэн зурвасууд</item>
+        <item quantity="many">Зурвасууд: яаралтай тусламжийн сэрэмжлүүлэг, шилжүүлсэн файлууд, %d МБ-аас том мультимедиа зурвасууд, нооргууд болон бүтэлгүйтсэн зурвасууд</item>
+        <item quantity="other">Зурвасууд: яаралтай тусламжийн сэрэмжлүүлэг, шилжүүлсэн файлууд, %d МБ-аас том мультимедиа зурвасууд, нооргууд болон бүтэлгүйтсэн зурвасууд</item>
+    </plurals>
+    <plurals name="backup_data_for_pd_devices_will_expire_soon_select_a_device_below_to_check_the_expiration_date">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d төхөөрөмжийн нөөц өгөгдлийн хугацаа удахгүй дуусна. Доорх төхөөрөмжийг сонгож дуусах хугацааг шалгана уу.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d төхөөрөмжийн нөөц өгөгдлийн хугацаа удахгүй дуусна. Доорх төхөөрөмжийг сонгож дуусах хугацааг шалгана уу.</item>
+    </plurals>
+    <plurals name="backup_data_for_psd_devices_will_expire_soon">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d төхөөрөмжийн нөөц өгөгдлийн хугацаа удахгүй дуусна.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d төхөөрөмжийн нөөц өгөгдлийн хугацаа удахгүй дуусна.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d нөөц зүйлийг шинэчлэж чадаагүй тул энэ зүйлийн өмнөх нөөцийг таны шинэ утас (%2$s) руу сэргээх болно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d нөөц зүйлийг шинэчлэж чадаагүй тул эдгээр зүйлийн өмнөх нөөцийг таны шинэ утас (%2$s) руу сэргээх болно.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_phone_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d нөөц зүйлийг шинэчлэж чадаагүй тул %2$s-д хийгдсэн энэ зүйлийн нөөцийг таны шинэ утас руу сэргээх болно (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d нөөц зүйлийг шинэчлэж чадаагүй тул %2$s-д хийгдсэн эдгээр зүйлийн нөөцийг таны шинэ утас руу сэргээх болно (%3$s).</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d нөөц зүйлийг шинэчлэж чадаагүй тул энэ зүйлийн өмнөх нөөцийг таны шинэ таблет (%2$s) руу сэргээх болно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d нөөц зүйлийг шинэчлэж чадаагүй тул эдгээр зүйлийн өмнөх нөөцийг таны шинэ таблет (%2$s) руу сэргээх болно.</item>
+    </plurals>
+    <plurals name="backup_items_couldnt_be_updated_new_tablet_with_backup_time">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d нөөц зүйлийг шинэчлэж чадаагүй тул %2$s-д хийгдсэн энэ зүйлийн нөөцийг таны шинэ таблет руу сэргээх болно (%3$s).</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d нөөц зүйлийг шинэчлэж чадаагүй тул %2$s-д хийгдсэн эдгээр зүйлийн нөөцийг таны шинэ таблет руу сэргээх болно (%3$s).</item>
+    </plurals>
+    <plurals name="data_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Өгөгдлийг %d хоногт устгана.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Өгөгдлийг %d хоногт устгана.</item>
+    </plurals>
+    <plurals name="expiring_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d өдрийн дараа хугацаа дуусна</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d өдрийн дараа хугацаа дуусна</item>
+    </plurals>
+    <plurals name="most_your_data_has_been_restored_but_pd_apps_werent_installed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны ихэнх өгөгдөл сэргээгдсэн боловч %d хэрэглүүрүүд суулгаагүй байна.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны ихэнх өгөгдөл сэргээгдсэн боловч %d хэрэглүүрүүд суулгаагүй байна.</item>
+    </plurals>
+    <plurals name="new_albums_available">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d шинэ цомог гарсан байна</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d шинэ цомог гарсан байна</item>
+    </plurals>
+    <plurals name="no_of_albums_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d цомог сонгосон</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d цомог сонгосон</item>
+    </plurals>
+    <plurals name="one_avatar_and_psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 аватар ба %d тусгай загвартай зүйл</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 аватар ба %d тусгай загвартай зүйл</item>
+    </plurals>
+    <plurals name="one_hour_pd_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 цаг %d минут үлдсэн</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 цаг %d минут үлдсэн</item>
+    </plurals>
+    <plurals name="one_photo_and_pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 зург ба %d видеог синхрнчилсн</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 зург ба %d видеог синхрнчилсн</item>
+    </plurals>
+    <plurals name="p1sd_items_selected_p2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d зүйл сонгосон (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d зүйл сонгосон (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_and_1_video_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d зураг ба 1 видео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d зураг ба 1 видео (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_pictures_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d зураг (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d зураг (%2$s)</item>
+    </plurals>
+    <plurals name="p1sd_selected_hp2ss_p3ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d сонгосон (%2$s %3$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d сонгосон (%2$s %3$s)</item>
+    </plurals>
+    <plurals name="p1sd_videos_hp2ss">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d видео (%2$s)</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%1$d видео (%2$s)</item>
+    </plurals>
+    <plurals name="pd_files">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d файл</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d файл</item>
+    </plurals>
+    <plurals name="pd_hour_one_minute_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d цаг 1 минут үлдсэн</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d цаг 1 минут үлдсэн</item>
+    </plurals>
+    <plurals name="pd_image_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d зургийг үүлнээс татаж авсан.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d зургийг үүлнээс татаж авсан.</item>
+    </plurals>
+    <plurals name="pd_item_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d зүйлийг үүлнээс татаж авсан.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d зүйлийг үүлнээс татаж авсан.</item>
+    </plurals>
+    <plurals name="pd_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d минут</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d минут</item>
+    </plurals>
+    <plurals name="pd_minutes_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d минут үлдсэн</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d минут үлдсэн</item>
+    </plurals>
+    <plurals name="pd_photos_and_one_video_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d зург ба 1 видеог синхрнчилсн</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d зург ба 1 видеог синхрнчилсн</item>
+    </plurals>
+    <plurals name="pd_photos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d зургийг синхрончилсон</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d зургийг синхрончилсон</item>
+    </plurals>
+    <plurals name="pd_pictures_and_videos">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d зураг эсвэл видео</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d зураг ба видео</item>
+    </plurals>
+    <plurals name="pd_selected">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d сонгогдсон</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d сонгогдсон</item>
+    </plurals>
+    <plurals name="pd_video_downloaded_from_the_cloud">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d видеог үүлнээс татаж авсан.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d видеог үүлнээс татаж авсан.</item>
+    </plurals>
+    <plurals name="pd_videos_synced">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d видеог синхрончилсон</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d видеог синхрончилсон</item>
+    </plurals>
+    <plurals name="phone_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Цэнэг бага байна. Хамгийн багадаа %d%% болгож цэнэглэж утсаа нөөцөлнө үү.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Цэнэг бага байна. Хамгийн багадаа %d%% болгож цэнэглэж утсаа нөөцөлнө үү.</item>
+    </plurals>
+    <plurals name="postpone_expiry_date_tipcard_message">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны түр нөөцлөх хугацаа %d хоногийн дараа дуусна. Үүнийг одоо сэргээнэ үү эсвэл танд дахиад хугацаа хэрэгтэй бол дуусах хугацааг хойшлуул.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны түр нөөцлөх хугацаа %d хоногийн дараа дуусна. Үүнийг удахгүй сэргээнэ үү эсвэл танд дахиад хугацаа хэрэгтэй бол дуусах хугацааг хойшлуул.</item>
+    </plurals>
+    <plurals name="postpone_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d хоног хойшлуулах</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d хоног хойшлуулах</item>
+    </plurals>
+    <plurals name="psd_avatars">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d аватар</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d аватар</item>
+    </plurals>
+    <plurals name="psd_avatars_and_one_custom_design">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d аватар ба 1 тусгай загвартай зүйл</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d аватар ба 1 тусгай загвартай зүйл</item>
+    </plurals>
+    <plurals name="psd_custom_designs">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d тусгай загвартай зүйл</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d тусгай загвартай зүйл</item>
+    </plurals>
+    <plurals name="psd_items_left">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d зүйл үлдсэн</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d зүйл үлдсэн</item>
+    </plurals>
+    <plurals name="psd_paired_samsung_devices">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d хосолсон Samsung төхөөрөмж</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d хосолсон Samsung төхөөрөмж</item>
+    </plurals>
+    <plurals name="psd_reminders">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d сануулга</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d сануулга</item>
+    </plurals>
+    <plurals name="subscription_status_unsubscribed">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны захиалга %1$s-нд дууссан байна. Таны өгөгдөл %2$d хоногийн дараа устана. Өгөгдлөө хадгалахын тулд захиалгаа дахин идэвхжүүлнэ үү.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны захиалга %1$s-нд дууссан байна. Таны өгөгдөл %2$d хоногийн дараа устана. Өгөгдлөө хадгалахын тулд захиалгаа дахин идэвхжүүлнэ үү.</item>
+    </plurals>
+    <plurals name="tablet_battery_status_warning_toast">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Цэнэг бага байна. Хамгийн багадаа %d%% болгож цэнэглэж таблетаа нөөцөлнө үү.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Цэнэг бага байна. Хамгийн багадаа %d%% болгож цэнэглэж таблетаа нөөцөлнө үү.</item>
+    </plurals>
+    <plurals name="temp_backup_intro_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Хязгааргүй өгөгдлийг %1$s руу %2$d хүртэл хоногоор нөөцлөх эсвэл нөөцөлсөн өгөгдлөө сэргээнэ үү.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Хязгааргүй өгөгдлийг %1$s руу %2$d хүртэл хоногоор нөөцлөх эсвэл нөөцөлсөн өгөгдлөө сэргээнэ үү.</item>
+    </plurals>
+    <plurals name="temporary_device_item_summary">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Энэ нөөцлөлтийг %d хоногт устгах болно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Энэ нөөцлөлтийг %d хоногт устгах болно.</item>
+    </plurals>
+    <plurals name="try_again_in_hours">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d цагийн дараа дахин оролдоно уу</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d цагийн дараа дахин оролдоно уу</item>
+    </plurals>
+    <plurals name="try_again_in_hours_one_minute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d цаг 1 минутын дараа дахин оролдоно уу</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d цаг 1 минутын дараа дахин оролдоно уу</item>
+    </plurals>
+    <plurals name="try_again_in_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d минутын дараа дахин оролдоно уу</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d минутын дараа дахин оролдоно уу</item>
+    </plurals>
+    <plurals name="try_again_in_one_hour_minutes">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">1 цаг %d минутын дараа дахин оролдоно уу</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">1 цаг %d минутын дараа дахин оролдоно уу</item>
+    </plurals>
+    <plurals name="your_backup_is_safe_on_p1ss_you_have_p2sd_days_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны нөөц %1$s дээр аюулгүй. Танд үүнийг сэргээхэд %2$d өдөр байна.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны нөөц %1$s дээр аюулгүй. Танд үүнийг сэргээхэд %2$d өдөр байна.</item>
+    </plurals>
+    <plurals name="your_backup_will_be_deleted_in_pd_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны түр зуурын нөөцийг %d-н дараа устгана.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны түр зуурын нөөцийг %d-н дараа устгана.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_phone_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны өгөгдлийг таны утсан дээр сэргээсэнгүй. Танд үүнийг сэргээхэд %d хоног үлдсэн.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны өгөгдлийг таны утсан дээр сэргээсэнгүй. Танд үүнийг сэргээхэд %d хоног үлдсэн.</item>
+    </plurals>
+    <plurals name="your_data_wasnt_restored_to_your_tablet_you_have_pd_days_left_to_restore_it">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны өгөгдлийг таны таблет дээр сэргээсэнгүй. Танд үүнийг сэргээхэд %d хоног үлдсэн.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны өгөгдлийг таны таблет дээр сэргээсэнгүй. Танд үүнийг сэргээхэд %d хоног үлдсэн.</item>
+    </plurals>
+</resources>

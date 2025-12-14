@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.scloud.app.common.component.ScaleLimitedTextView android:textAppearance="@style/TextPermissionAgreementLargeTitleText" android:id="@id/title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/agreement_large_title_margin_top" android:layout_marginBottom="@dimen/agreement_large_title_margin_bottom" android:textAlignment="center" android:layout_marginStart="@dimen/permission_agreement_screen_padding_horizontal" android:layout_marginEnd="@dimen/permission_agreement_screen_padding_horizontal"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

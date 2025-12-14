@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/main_slot" android:tag="layout/temp_backup_item_0" android:background="?android:listChoiceBackgroundIndicator" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/margin_26dp" android:paddingEnd="@dimen/margin_32dp" style="@style/RecoilEffect">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/checkbox" android:tag="binding_1" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+            <TextView android:textColor="@color/text_color_primary" android:layout_gravity="center" android:tag="binding_2" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/all" android:importantForAccessibility="no" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/margin_14dp">
+            <androidx.constraintlayout.widget.ConstraintLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/slot_info_layout" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_gravity="center" android:id="@id/icon_ll" android:tag="binding_3" android:layout_width="@dimen/app_icon_size" android:layout_height="@dimen/app_icon_size" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/slot_list" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+                <LinearLayout android:orientation="vertical" android:id="@id/slot_list" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_12dp" android:layout_marginStart="@dimen/category_details_view_margin_start" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/icon_ll" app:layout_constraintTop_toTopOf="parent">
+                    <TextView android:textSize="@dimen/text_size_17sp" android:textColor="@color/text_color_primary" android:id="@id/title" android:tag="binding_4" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_14dp" />
+                    <TextView android:textSize="@dimen/text_size_13sp" android:textColor="@color/text_color_secondary" android:id="@id/backed_up_history" android:tag="binding_5" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                    <TextView android:textSize="@dimen/text_size_13sp" android:textColor="@color/text_color_secondary" android:id="@id/text" android:tag="binding_6" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                    <TextView android:textAppearance="@style/CtbWarningTextAppearance" android:id="@id/warning_first" android:tag="binding_7" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_8dp" />
+                    <TextView android:textAppearance="@style/CtbWarningTextAppearance" android:id="@id/warning_second" android:tag="binding_8" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                </LinearLayout>
+                <View android:layout_gravity="bottom" android:tag="binding_9" android:background="@color/ctb_horizontal_divider_color" android:layout_width="match_parent" android:layout_height="1.0dp" app:layout_constraintBottom_toBottomOf="parent" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

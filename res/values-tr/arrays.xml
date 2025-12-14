@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_backup_information_condition_phone">
+        <item>Telefonunuz şarj oluyor.</item>
+        <item>Telefonunuz bir Wi-Fi ağına bağlı.</item>
+        <item>Ekran kapalı.</item>
+    </string-array>
+    <string-array name="auto_backup_information_condition_tablet">
+        <item>Tabletiniz şarj oluyor.</item>
+        <item>Tabletiniz bir Wi-Fi ağına bağlı.</item>
+        <item>Ekran kapalı.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_phone">
+        <item>Yedekleyebileceğiniz veriler, telefonunuza veya işletim sisteminize göre değişiklik gösterebilir.</item>
+    </string-array>
+    <string-array name="auto_backup_information_device_and_os_differences_contents_tablet">
+        <item>Yedekleyebileceğiniz veriler, tabletinize veya işletim sisteminize göre değişiklik gösterebilir.</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup">
+        <item>Kişiler: eşitlenen hesaplardan kişiler</item>
+        <item>Takvim: eşitlenen hesaplardan etkinlikler ve görevler</item>
+        <item>Galaxy Themes: temalar ve varsayılan duvar kağıdı</item>
+        <item>Uygulamalar: Samsung dışındaki uygulamalardan uyumsuz kurulum dosyaları ve veriler</item>
+        <item>Güvenli Klasör: uygulamalar ve veriler</item>
+    </string-array>
+    <string-array name="auto_backup_information_what_we_cant_backup_basic">
+        <item>Kişiler: eşitlenen hesaplardan kişiler</item>
+        <item>Takvim: eşitlenen hesaplardan etkinlikler ve görevler</item>
+        <item>Galaxy Themes: temalar ve varsayılan duvar kağıdı</item>
+        <item>Uygulamalar: desteklenmeyen kurulum dosyaları</item>
+        <item>Güvenli Klasör: uygulamalar ve veriler</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents">
+        <item>Telefon: Arama ve mesaj geçmişi</item>
+        <item>Mesajlar: Gelişmiş mesajlar, multimedya mesajları ve metin mesajları</item>
+        <item>Kişiler: Cihazınızda kayıtlı kişiler, e-posta adresleri ve kartvizitler</item>
+        <item>Takvim: Cihazınızda kayıtlı etkinlikler ve görevler</item>
+        <item>Saat: Alarmlar, dünya saatleri ve zamanlayıcılar</item>
+        <item>Ayarlar: erişilebilirlik ayarları, zil sesleri, Samsung Klavye seçenekleri, Wi-Fi ayarları, eşleştirilen Bluetooth cihazları, yüz tanıma ayarları, parmak izi ayarları ve Always On Display ayarları (varsayılan zil sesiniz yedeklenmez)</item>
+        <item>Ana ekran: düzen, duvar kağıtları ve Samsung DeX ayarları</item>
+        <item>Uygulamalar: Kurulum dosyaları ve uygulama ayarları</item>
+        <item>Ses Kaydedici: Kayıtlar</item>
+    </string-array>
+    <string-array name="auto_backup_information_which_contents_premium">
+        <item>Müzik: MP3, FLAC, WAV, M4A, OGG ve diğer müzik dosyaları</item>
+        <item>Belgeler: PDF, Word, Excel, PowerPoint ve diğer belgeler</item>
+        <item>App data: data from non-Samsung apps</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_apps">
+        <item>%s: sohbet geçmişi</item>
+        <item>%s: kilitli notlar</item>
+        <item>%s: şifre korumalı veri</item>
+        <item>%s: uygulamalar ve uygulama verileri</item>
+        <item>%s: Eşitlenen hesaplardan etkinlikler</item>
+        <item>Samsung Blockchain Keystore</item>
+        <item>Özel anahtar ve kurtarma ifadesi</item>
+        <item>Uygulama ilkeleri nedeniyle aktarılamayan veriler</item>
+        <item>Güvenlik veya uyumluluk sorunları nedeniyle aktarılamayan uygulamalar: %s</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_contacts">
+        <item>Salt okunur kişiler</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_home_screen">
+        <item>Varsayılan duvar kağıdı</item>
+        <item>Galaxy Themes duvar kağıtları</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_messages">
+        <item>Acil durum uyarı mesajları</item>
+        <item>Taslaklar ve başarısız olan mesajlar</item>
+        <item>iMessage efektli mesajlar</item>
+    </string-array>
+    <string-array name="temporary_backup_unsupported_data_secure_folder">
+        <item>Kilitli içerik</item>
+    </string-array>
+    <string-array name="what_can_i_encrypt_contents">
+        <item>Telefon: Arama ve mesaj geçmişi</item>
+        <item>Mesajlar: Gelişmiş mesajlar, multimedya mesajları ve metin mesajları</item>
+        <item>Saat: Alarmlar, dünya saatleri ve zamanlayıcılar</item>
+        <item>Ayarlar: erişilebilirlik ayarları, zil sesleri, Samsung Klavye seçenekleri, Wi-Fi ayarları, eşleştirilen Bluetooth cihazları ve Always On Display ayarları (varsayılan zil sesi şifrelenmez)</item>
+        <item>Uygulamalar: uygulama ayarları</item>
+        <item>Ana ekran: düzen, duvar kağıtları ve Samsung DeX ayarları</item>
+        <item>Ses Kaydedici: Kayıtlar</item>
+    </string-array>
+</resources>

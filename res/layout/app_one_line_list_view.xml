@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:tag="layout/app_one_line_list_view_0" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="56.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/app_icon_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/multiple_selection_start" android:layout_marginEnd="@dimen/multiple_selection_checkbox_end">
+        <ImageView android:layout_gravity="center" android:id="@id/failed_app_icon" android:layout_width="@dimen/app_icon_size" android:layout_height="@dimen/app_icon_size" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:tag="binding_1" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="0.0dp" android:paddingEnd="@dimen/margin_24dp">
+            <ImageView android:id="@id/download_from_store_icon" android:visibility="gone" android:layout_width="@dimen/app_icon_size" android:layout_height="@dimen/app_icon_size" android:src="@drawable/ic_go_to_store" android:tint="@color/color_primary" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+            <TextView android:textAppearance="@style/TextListTitle" android:ellipsize="end" android:id="@id/app_one_line_list_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16.5dp" android:layout_marginBottom="16.5dp" android:maxLines="1" android:layout_centerVertical="true" android:layout_toStartOf="@id/download_from_store_icon" android:layout_alignParentStart="true" />
+        </RelativeLayout>
+        <include android:id="@id/app_list_divider" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/end_margin_divider_margin_start" layout="@layout/list_divider" />
+    </LinearLayout>
+</LinearLayout>

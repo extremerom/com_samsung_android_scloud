@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="backup_intro_summary_text_size">16.0sp</dimen>
+    <dimen name="ctb_summary_top_margin">4.0dp</dimen>
+    <dimen name="ctb_title_bottom_margin">70.0dp</dimen>
+    <dimen name="ctb_title_start_end_margin">35.0dp</dimen>
+    <dimen name="ctb_title_to_category_margin">68.0dp</dimen>
+    <dimen name="powered_by_smart_switch_text_size">15.0sp</dimen>
+</resources>

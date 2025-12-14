@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/layout_activity_personal_data_0" android:background="@color/window_background_color" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.scloud.app.core.component.RoundCorneredScrollView android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:overScrollMode="always">
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/privacy_ui_padding" android:paddingRight="@dimen/privacy_ui_padding" android:paddingBottom="@dimen/privacy_ui_padding" android:layout_width="match_parent" android:layout_height="match_parent">
+            <TextView android:textAppearance="@style/PrivacyGroupDescription" android:id="@id/privacy_description_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineHeight="21.0sp" />
+            <Space android:layout_width="match_parent" android:layout_height="16.0dp" />
+            <TextView android:textAppearance="@style/PrivacyGroupDescription" android:id="@id/privacy_description_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineHeight="21.0sp" />
+            <LinearLayout android:gravity="center|bottom" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/margin_20dp">
+                <Button android:textAppearance="@style/TextPersonalDataButton" android:textSize="17.0sp" android:ellipsize="end" android:id="@id/privacy_button" android:background="@drawable/goto_privacy_button_bg" android:paddingLeft="@dimen/privacy_button_padding" android:paddingRight="@dimen/privacy_button_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/privacy_button_min_height" android:text="@string/goto_samsung_privacy" android:maxLines="2" android:textAlignment="center" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.samsung.android.scloud.app.core.component.RoundCorneredScrollView>
+</RelativeLayout>
