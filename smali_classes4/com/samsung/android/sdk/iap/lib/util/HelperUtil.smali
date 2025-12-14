@@ -507,7 +507,7 @@
 .end method
 
 .method public static isValidAppsPackage(Landroid/content/Context;)Z
-    .locals 3
+    .locals 1
 
     const/4 v0, 0x1
 
