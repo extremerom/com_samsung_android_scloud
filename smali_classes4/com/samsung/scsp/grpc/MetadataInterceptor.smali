@@ -253,54 +253,8 @@
 .method private static final isUTDevice_delegate$lambda$0()Z
     .locals 5
 
-    const-string v0, "MetadataInterceptor"
-
-    const-string v1, "com.salab.issuetracker"
-
-    const/4 v2, 0x0
-
-    :try_start_0
-    invoke-static {}, Lcom/samsung/android/scloud/common/context/ContextProvider;->getApplicationContext()Landroid/content/Context;
-
-    move-result-object v3
-
-    invoke-virtual {v3}, Landroid/content/Context;->getPackageManager()Landroid/content/pm/PackageManager;
-
-    move-result-object v3
-
-    invoke-virtual {v3, v1, v2}, Landroid/content/pm/PackageManager;->getApplicationInfo(Ljava/lang/String;I)Landroid/content/pm/ApplicationInfo;
-
-    const-string v4, "android"
-
-    invoke-virtual {v3, v1, v4}, Landroid/content/pm/PackageManager;->checkSignatures(Ljava/lang/String;Ljava/lang/String;)I
-
-    move-result v0
-    :try_end_0
-    .catch Landroid/content/pm/PackageManager$NameNotFoundException; {:try_start_0 .. :try_end_0} :catch_1
-    .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
-
-    if-nez v0, :cond_0
-
     const/4 v2, 0x1
 
-    goto :goto_0
-
-    :catch_0
-    move-exception v1
-
-    const-string v3, "An error occurred while checking for IssueTracker."
-
-    invoke-static {v0, v3, v1}, Lcom/samsung/android/scloud/common/util/LOG;->e(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
-
-    goto :goto_0
-
-    :catch_1
-    const-string v1, "IssueTracker is not installed."
-
-    invoke-static {v0, v1}, Lcom/samsung/android/scloud/common/util/LOG;->i(Ljava/lang/String;Ljava/lang/String;)V
-
-    :cond_0
-    :goto_0
     return v2
 .end method
 

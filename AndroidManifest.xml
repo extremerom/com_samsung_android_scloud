@@ -647,7 +647,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.gallery.view.developer.GalleryDataGenTestActivity" android:exported="false" android:launchMode="singleTop">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.gallery.view.developer.GalleryDataGenTestActivity" android:exported="true" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_ALBUM_DATA_GEN_TEST" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -712,31 +712,31 @@
                 <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/privacy/download" />
             </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Develop Mode" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.DeveloperModeActivity" android:exported="false" android:launchMode="singleTop">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Develop Mode" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.DeveloperModeActivity" android:exported="true" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.DEVELOPER_MODE" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Backup Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.BackupTestActivity" android:exported="false" android:launchMode="singleTop">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Backup Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.BackupTestActivity" android:exported="true" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.BACKUP_TEST" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Sync Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.SyncTestActivity" android:exported="false" android:launchMode="singleTop">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Sync Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.SyncTestActivity" android:exported="true" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.SYNC_TEST" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Gallery Sync Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.GallerySyncTestActivity" android:exported="false" android:launchMode="singleTop">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Gallery Sync Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.GallerySyncTestActivity" android:exported="true" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.GALLERY_SYNC_TEST" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Premium Web Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.PremiumWebTestActivity" android:exported="false" android:launchMode="singleTop">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Premium Web Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.PremiumWebTestActivity" android:exported="true" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.PREMIUM_WEB_TEST" />
                 <category android:name="android.intent.category.DEFAULT" />

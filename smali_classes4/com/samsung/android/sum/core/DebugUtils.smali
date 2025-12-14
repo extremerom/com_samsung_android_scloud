@@ -159,30 +159,8 @@
 .method public static isDebugModeEnabled()Z
     .locals 2
 
-    sget-object v0, Landroid/os/Build;->TYPE:Ljava/lang/String;
-
-    const-string/jumbo v1, "user"
-
-    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    if-eqz v0, :cond_0
-
-    const-string v0, "ro.product_ship"
-
-    const/4 v1, 0x0
-
-    invoke-static {v0, v1}, Landroid/os/SemSystemProperties;->getBoolean(Ljava/lang/String;Z)Z
-
-    move-result v0
-
-    if-nez v0, :cond_1
-
-    :cond_0
     const/4 v1, 0x1
 
-    :cond_1
     return v1
 .end method
 

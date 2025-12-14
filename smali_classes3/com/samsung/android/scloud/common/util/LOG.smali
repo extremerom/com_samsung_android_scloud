@@ -84,15 +84,7 @@
 
     sput-object v0, Lcom/samsung/android/scloud/common/util/LOG;->INSTANCE:Lcom/samsung/android/scloud/common/util/LOG;
 
-    const-string v0, "user"
-
-    sget-object v1, Landroid/os/Build;->TYPE:Ljava/lang/String;
-
-    invoke-static {v0, v1}, Lkotlin/jvm/internal/Intrinsics;->areEqual(Ljava/lang/Object;Ljava/lang/Object;)Z
-
-    move-result v0
-
-    xor-int/lit8 v0, v0, 0x1
+    const/4 v0, 0x1
 
     sput-boolean v0, Lcom/samsung/android/scloud/common/util/LOG;->debug:Z
 
