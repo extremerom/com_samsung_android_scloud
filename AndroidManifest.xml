@@ -647,10 +647,14 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.gallery.view.developer.GalleryDataGenTestActivity" android:exported="false" android:launchMode="singleTop">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.gallery.view.developer.GalleryDataGenTestActivity" android:exported="true" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_ALBUM_DATA_GEN_TEST" />
                 <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <receiver android:name="com.samsung.android.scloud.app.ui.gallery.receivers.AlbumSyncControlIntentReceiver" android:permission="com.samsung.android.scloud.app.ui" android:exported="true">
@@ -712,34 +716,54 @@
                 <data android:scheme="samsungcloud" android:host="com.samsung.android.scloud" android:path="/privacy/download" />
             </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Develop Mode" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.DeveloperModeActivity" android:exported="false" android:launchMode="singleTop">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Develop Mode" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.DeveloperModeActivity" android:exported="true" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.DEVELOPER_MODE" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Backup Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.BackupTestActivity" android:exported="false" android:launchMode="singleTop">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Backup Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.BackupTestActivity" android:exported="true" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.BACKUP_TEST" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Sync Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.SyncTestActivity" android:exported="false" android:launchMode="singleTop">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Sync Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.SyncTestActivity" android:exported="true" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.SYNC_TEST" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Gallery Sync Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.GallerySyncTestActivity" android:exported="false" android:launchMode="singleTop">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Gallery Sync Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.GallerySyncTestActivity" android:exported="true" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.GALLERY_SYNC_TEST" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Premium Web Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.PremiumWebTestActivity" android:exported="false" android:launchMode="singleTop">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:label="Premium Web Test" android:name="com.samsung.android.scloud.app.ui.settings.view.developer.PremiumWebTestActivity" android:exported="true" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.PREMIUM_WEB_TEST" />
                 <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <provider android:name="com.samsung.android.scloud.app.ui.settings.controller.episode.SettingBackupProvider" android:permission="com.samsung.android.settings.permission.ACCESS_EPISODE" android:exported="true" android:authorities="com.samsung.android.scloud.app.ui.settings.episode.provider" android:syncable="false">
@@ -1002,10 +1026,14 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.newgallery.view.test.GalleryDeveloperTestActivity" android:exported="false" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize">
+        <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.newgallery.view.test.GalleryDeveloperTestActivity" android:exported="true" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize">
             <intent-filter>
                 <action android:name="com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_DEVELOPER_TEST" />
                 <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity android:theme="@style/Theme.Compat.SCloudTheme" android:name="com.samsung.android.scloud.app.ui.sync.view.SyncMoreInfoActivity" android:exported="false" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
@@ -1310,7 +1338,7 @@
             <grant-uri-permission android:pathPattern=".*" />
         </provider>
         <provider android:label="Sync dump data" android:name="com.samsung.android.scloud.sync.dumper.DumperProvider" android:enabled="true" android:exported="false" android:authorities="com.samsung.android.scloud.sync.dumper" android:syncable="false" />
-        <provider android:label="Sync test provider" android:name="com.samsung.android.scloud.sync.tester.SyncTestProvider" android:enabled="true" android:exported="false" android:authorities="com.samsung.android.scloud.sync.tester" android:syncable="false" />
+        <provider android:label="Sync test provider" android:name="com.samsung.android.scloud.sync.tester.SyncTestProvider" android:enabled="true" android:exported="true" android:authorities="com.samsung.android.scloud.sync.tester" android:syncable="false" />
         <provider android:label="RPCSyncProvider" android:name="com.samsung.android.scloud.sync.rpc.RPCSyncProvider" android:permission="com.samsung.android.scloud.permission.RPC_SYNC_SETTING" android:enabled="true" android:exported="true" android:authorities="com.samsung.android.scloud.sync.rpc" android:syncable="false">
             <grant-uri-permission android:pathPattern=".*" />
         </provider>
