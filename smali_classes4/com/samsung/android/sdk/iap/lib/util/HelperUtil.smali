@@ -507,50 +507,10 @@
 .end method
 
 .method public static isValidAppsPackage(Landroid/content/Context;)Z
-    .locals 3
+    .locals 1
 
-    const/4 v0, 0x0
-
-    :try_start_0
-    invoke-virtual {p0}, Landroid/content/Context;->getPackageManager()Landroid/content/pm/PackageManager;
-
-    move-result-object p0
-
-    const-string v1, "com.sec.android.app.samsungapps"
-
-    const/16 v2, 0x40
-
-    invoke-virtual {p0, v1, v2}, Landroid/content/pm/PackageManager;->getPackageInfo(Ljava/lang/String;I)Landroid/content/pm/PackageInfo;
-
-    move-result-object p0
-
-    iget-object p0, p0, Landroid/content/pm/PackageInfo;->signatures:[Landroid/content/pm/Signature;
-
-    aget-object p0, p0, v0
-
-    invoke-virtual {p0}, Landroid/content/pm/Signature;->hashCode()I
-
-    move-result p0
-    :try_end_0
-    .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
-
-    const v1, 0x79998d13
-
-    if-eq p0, v1, :cond_0
-
-    goto :goto_0
-
-    :cond_0
     const/4 v0, 0x1
 
-    goto :goto_0
-
-    :catch_0
-    move-exception p0
-
-    invoke-virtual {p0}, Ljava/lang/Throwable;->printStackTrace()V
-
-    :goto_0
     return v0
 .end method
 

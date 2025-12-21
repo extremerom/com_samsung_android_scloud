@@ -6,11 +6,11 @@
 # static fields
 .field public static final BUILD_TYPE:Ljava/lang/String; = "release"
 
-.field public static final DEBUG:Z = false
+.field public static final DEBUG:Z = true
 
 .field public static final DEVICE_TYPE:Ljava/lang/String; = "mobile"
 
-.field public static final IS_DEBUG_MODE:Z = false
+.field public static final IS_DEBUG_MODE:Z = true
 
 .field public static final IS_E2EE_SUPPORTED:Z = true
 

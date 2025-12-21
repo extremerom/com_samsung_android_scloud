@@ -13,13 +13,7 @@
 .method static constructor <clinit>()V
     .locals 2
 
-    const-string v0, "eng"
-
-    sget-object v1, Landroid/os/Build;->TYPE:Ljava/lang/String;
-
-    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
+    const/4 v0, 0x1
 
     sput-boolean v0, Lcom/samsung/android/sdk/scloud/uiconnection/util/LOG;->LOG_ENABLED:Z
 
